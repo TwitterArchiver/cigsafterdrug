@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2031002188919824518",
+    "created_at": "2026-03-10T05:29:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T06:29:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031241080021332288"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1879041011630149632",
+          "start": 0,
+          "username": "Satan1778167"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031241080021332288",
+    "in_reply_to_user_id": "1879041011630149632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031239943302033775",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Satan1778167 我现在胡言乱语也不知道说什么了🫥🫥"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2031002188919824518",
+        "created_at": "2026-03-10T05:29:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T06:29:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031241080021332288"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1879041011630149632",
+              "start": 0,
+              "username": "Satan1778167"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031241080021332288",
+        "in_reply_to_user_id": "1879041011630149632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031239943302033775",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Satan1778167 我现在胡言乱语也不知道说什么了🫥🫥"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1879041011630149632",
+        "conversation_id": "2031002188919824518",
+        "created_at": "2026-03-10T05:25:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T06:25:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031239943302033775"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1536716629505359872",
+              "start": 0,
+              "username": "cigsafterdrug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031239943302033775",
+        "in_reply_to_user_id": "1536716629505359872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031002188919824518",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cigsafterdrug 说吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026943929120444416/QS8rXF5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 124,
+          "like_count": 17540,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 740
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-14T05:41:18.000Z",
+        "description": "不是人机\n那些🚪姐离我远点\n看到私信会回",
+        "id": "1879041011630149632",
+        "name": "Satan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992150111649185792/ZqjrDXv8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 7,
+          "like_count": 334,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 446
+        },
+        "username": "Satan1778167",
+        "verified": false
+      }
+    ]
+  }
+}

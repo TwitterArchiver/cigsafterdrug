@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2081574875492397057"
+      ]
+    },
+    "author_id": "1536716629505359872",
+    "conversation_id": "2081574890948419779",
+    "created_at": "2026-07-27T02:58:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T03:58:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081574890948419779"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Xk2icjoyfN",
+          "end": 38,
+          "expanded_url": "https://x.com/cigsafterdrug/status/2081574890948419779/video/1",
+          "media_key": "13_2081574875492397057",
+          "start": 15,
+          "url": "https://t.co/Xk2icjoyfN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081574890948419779",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不試妝的後果就是化得跟屎一樣 https://t.co/Xk2icjoyfN"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5000,
+        "height": 1280,
+        "media_key": "13_2081574875492397057",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2081574875492397057/img/loa3VR6IQRIHwiXj.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081574875492397057/vid/avc1/320x568/vGnGkbB-DnWC5jRf.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081574875492397057/vid/avc1/480x852/Rmi9LDJyLxOBpDrW.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081574875492397057/vid/avc1/720x1280/yoHeEGzB1Cat6mb1.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2081574875492397057/pl/jd5jA3FeFVFpMEZD.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2081574875492397057"
+          ]
+        },
+        "author_id": "1536716629505359872",
+        "conversation_id": "2081574890948419779",
+        "created_at": "2026-07-27T02:58:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T03:58:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081574890948419779"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Xk2icjoyfN",
+              "end": 38,
+              "expanded_url": "https://x.com/cigsafterdrug/status/2081574890948419779/video/1",
+              "media_key": "13_2081574875492397057",
+              "start": 15,
+              "url": "https://t.co/Xk2icjoyfN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081574890948419779",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不試妝的後果就是化得跟屎一樣 https://t.co/Xk2icjoyfN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2070816356862431619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 527,
+          "following_count": 477,
+          "like_count": 31778,
+          "listed_count": 0,
+          "media_count": 212,
+          "tweet_count": 3176
+        },
+        "url": "",
+        "username": "cigsafterdrug",
+        "verified": false
+      }
+    ]
+  }
+}

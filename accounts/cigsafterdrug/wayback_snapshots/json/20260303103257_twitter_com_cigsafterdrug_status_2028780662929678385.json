@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2028749104344633344"
+      ],
+      "media_source_tweet_id": [
+        "2028749113492377949"
+      ]
+    },
+    "author_id": "1536716629505359872",
+    "conversation_id": "2028780662929678385",
+    "created_at": "2026-03-03T10:32:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T11:32:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028780662929678385"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1989965282799226880",
+          "start": 3,
+          "username": "DQadopt"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ybc4HTv2wW",
+          "end": 137,
+          "expanded_url": "https://x.com/DQadopt/status/2028749113492377949/photo/1",
+          "media_key": "3_2028749104344633344",
+          "start": 114,
+          "url": "https://t.co/Ybc4HTv2wW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028780662929678385",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028749113492377949",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DQadopt: 我注射dpt的时候你可以在我旁边当我的旅行伴侣吗，你可以拿刀帮我自残吗，如果能划到脂肪层那我会又痛又幸福的吧，我哭泣的时候可以亲亲我的脸吗，可以吗？\n骗你的，我不会再作践自己了，你也不会出现在我的身边 https://t.co/Ybc4HTv2wW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1604,
+        "media_key": "3_2028749104344633344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCeQj8bakAAwGLj.jpg",
+        "width": 1140
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028749104344633344"
+          ],
+          "media_source_tweet_id": [
+            "2028749113492377949"
+          ]
+        },
+        "author_id": "1536716629505359872",
+        "conversation_id": "2028780662929678385",
+        "created_at": "2026-03-03T10:32:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T11:32:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028780662929678385"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1989965282799226880",
+              "start": 3,
+              "username": "DQadopt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ybc4HTv2wW",
+              "end": 137,
+              "expanded_url": "https://x.com/DQadopt/status/2028749113492377949/photo/1",
+              "media_key": "3_2028749104344633344",
+              "start": 114,
+              "url": "https://t.co/Ybc4HTv2wW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028780662929678385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028749113492377949",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DQadopt: 我注射dpt的时候你可以在我旁边当我的旅行伴侣吗，你可以拿刀帮我自残吗，如果能划到脂肪层那我会又痛又幸福的吧，我哭泣的时候可以亲亲我的脸吗，可以吗？\n骗你的，我不会再作践自己了，你也不会出现在我的身边 https://t.co/Ybc4HTv2wW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028749104344633344"
+          ]
+        },
+        "author_id": "1989965282799226880",
+        "conversation_id": "2028749113492377949",
+        "created_at": "2026-03-03T08:27:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T09:27:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028749113492377949"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ybc4HTv2wW",
+              "end": 124,
+              "expanded_url": "https://x.com/DQadopt/status/2028749113492377949/photo/1",
+              "media_key": "3_2028749104344633344",
+              "start": 101,
+              "url": "https://t.co/Ybc4HTv2wW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028749113492377949",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 329,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我注射dpt的时候你可以在我旁边当我的旅行伴侣吗，你可以拿刀帮我自残吗，如果能划到脂肪层那我会又痛又幸福的吧，我哭泣的时候可以亲亲我的脸吗，可以吗？\n骗你的，我不会再作践自己了，你也不会出现在我的身边 https://t.co/Ybc4HTv2wW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026943929120444416/QS8rXF5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 106,
+          "like_count": 16588,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 605
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈女同性恨，自残好舒服，本质是暗恋日记和自残日记 🩸如果哪天我号没了，新号会叫查拉图斯特拉（三代目）⛰️此人远在人群之中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2022255010822918594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 152,
+          "like_count": 771,
+          "listed_count": 0,
+          "media_count": 153,
+          "tweet_count": 1030
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

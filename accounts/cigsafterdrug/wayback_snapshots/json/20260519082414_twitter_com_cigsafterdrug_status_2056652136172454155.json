@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2056328529139372535",
+    "created_at": "2026-05-19T08:24:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T09:24:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056652136172454155"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2047419861606051840",
+          "start": 0,
+          "username": "Kanaderu_kas"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056652136172454155",
+    "in_reply_to_user_id": "2047419861606051840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056650990913548566",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kanaderu_kas 没事！这样配好像更爽了🤤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2056328529139372535",
+        "created_at": "2026-05-19T08:24:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T09:24:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056652136172454155"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2047419861606051840",
+              "start": 0,
+              "username": "Kanaderu_kas"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056652136172454155",
+        "in_reply_to_user_id": "2047419861606051840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056650990913548566",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kanaderu_kas 没事！这样配好像更爽了🤤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047419861606051840",
+        "conversation_id": "2056328529139372535",
+        "created_at": "2026-05-19T08:19:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T09:19:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056650990913548566"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1536716629505359872",
+              "start": 0,
+              "username": "cigsafterdrug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056650990913548566",
+        "in_reply_to_user_id": "1536716629505359872",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056328529139372535",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cigsafterdrug 小心呼吸抑制捏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 419,
+          "following_count": 398,
+          "like_count": 25735,
+          "listed_count": 0,
+          "media_count": 127,
+          "tweet_count": 2176
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-23T21:00:32.000Z",
+        "description": "19岁/简中🇨🇳繁中🇭🇰日语🇯🇵/🩸🔪/只od/躁鬱/重郁/重焦虑/狂躁/人格分裂/解离型漫游/倾诉欲望高/打扰到您的话抱歉/互fo",
+        "id": "2047419861606051840",
+        "location": "✟昇天✟",
+        "name": "Kanaderu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047421090679701504/4pVhv_SX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 36,
+          "like_count": 63,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 172
+        },
+        "username": "Kanaderu_kas",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2049548519401513450",
+    "created_at": "2026-04-29T17:57:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T18:57:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049548519401513450"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/otxiashu/statu…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/otxiashu/status/2049367322947912082",
+          "start": 3,
+          "url": "https://t.co/OaLPIkkdbj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049548519401513450",
+    "lang": "art",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049367322947912082",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "🤤🤤 https://t.co/OaLPIkkdbj"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2049548519401513450",
+        "created_at": "2026-04-29T17:57:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T18:57:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049548519401513450"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/otxiashu/statu…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/otxiashu/status/2049367322947912082",
+              "start": 3,
+              "url": "https://t.co/OaLPIkkdbj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049548519401513450",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049367322947912082",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🤤🤤 https://t.co/OaLPIkkdbj"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013321876224057344",
+        "conversation_id": "2049367322947912082",
+        "created_at": "2026-04-29T05:56:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T06:56:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049367322947912082"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049367322947912082",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 6976,
+          "like_count": 230,
+          "quote_count": 9,
+          "reply_count": 14,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "真正强大的oder:\n美金刚（精神分裂享受者）、右美沙芬（高原攀登者）、金刚烷胺（影子人操纵者）、苯海索（谵妄拥有者）、普瑞巴林（永远保持空腹之人）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 357,
+          "following_count": 367,
+          "like_count": 23333,
+          "listed_count": 0,
+          "media_count": 114,
+          "tweet_count": 1873
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-19T18:46:10.000Z",
+        "description": "无我梦中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ot78725",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ot78725",
+                "start": 0,
+                "url": "https://t.co/RFlA1XtlG6"
+              }
+            ]
+          }
+        },
+        "id": "2013321876224057344",
+        "location": "沃尔库塔-5",
+        "name": "OT夏树",
+        "pinned_tweet_id": "2045458839068356985",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048795940132356096/qEoI3YLY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 640,
+          "following_count": 525,
+          "like_count": 9799,
+          "listed_count": 0,
+          "media_count": 273,
+          "tweet_count": 3842
+        },
+        "url": "https://t.co/RFlA1XtlG6",
+        "username": "OTxiashu",
+        "verified": false
+      }
+    ]
+  }
+}

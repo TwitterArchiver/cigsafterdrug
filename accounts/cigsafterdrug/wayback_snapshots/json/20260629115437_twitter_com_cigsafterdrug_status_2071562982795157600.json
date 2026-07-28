@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2071562982795157600",
+    "created_at": "2026-06-29T11:54:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T12:54:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071562982795157600"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1905566526595629060",
+          "start": 3,
+          "username": "Apipleeeee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071562982795157600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 191
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070908718351610005",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Apipleeeee: 女孩你放心睡吧 别再相信陌生的两颗心会依偎在一起了 时间长了都会变 再深的羁绊都没用 只会带来更深的痛苦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2071562982795157600",
+        "created_at": "2026-06-29T11:54:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T12:54:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071562982795157600"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1905566526595629060",
+              "start": 3,
+              "username": "Apipleeeee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071562982795157600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 191
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070908718351610005",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Apipleeeee: 女孩你放心睡吧 别再相信陌生的两颗心会依偎在一起了 时间长了都会变 再深的羁绊都没用 只会带来更深的痛苦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905566526595629060",
+        "conversation_id": "2070908718351610005",
+        "created_at": "2026-06-27T16:34:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T17:34:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070908718351610005"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070908718351610005",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 50,
+          "impression_count": 30539,
+          "like_count": 1449,
+          "quote_count": 11,
+          "reply_count": 46,
+          "retweet_count": 191
+        },
+        "reply_settings": "everyone",
+        "text": "女孩你放心睡吧 别再相信陌生的两颗心会依偎在一起了 时间长了都会变 再深的羁绊都没用 只会带来更深的痛苦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2070816356862431619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 506,
+          "following_count": 459,
+          "like_count": 29392,
+          "listed_count": 0,
+          "media_count": 179,
+          "tweet_count": 2874
+        },
+        "url": "",
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-28T10:24:09.000Z",
+        "description": "be water",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vpn1.fengniaocloud.top/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://vpn1.fengniaocloud.top/#/register?code=Fs8KeJ0x",
+                "start": 0,
+                "url": "https://t.co/TMmfJOdrNV"
+              }
+            ]
+          }
+        },
+        "id": "1905566526595629060",
+        "name": "苹果",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021931545674850304/T1ritExR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13338,
+          "following_count": 1,
+          "like_count": 4099,
+          "listed_count": 35,
+          "media_count": 563,
+          "tweet_count": 1770
+        },
+        "url": "https://t.co/TMmfJOdrNV",
+        "username": "Apipleeeee",
+        "verified": false
+      }
+    ]
+  }
+}

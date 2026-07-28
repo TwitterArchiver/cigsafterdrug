@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2066937938009870802",
+    "created_at": "2026-06-17T03:41:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T04:41:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067090148324774115"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2020935362386984964",
+          "start": 0,
+          "username": "XuanYing114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067090148324774115",
+    "in_reply_to_user_id": "2020935362386984964",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067073054686277752",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XuanYing114514 不會啦😛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2066937938009870802",
+        "created_at": "2026-06-17T03:41:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T04:41:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067090148324774115"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2020935362386984964",
+              "start": 0,
+              "username": "XuanYing114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067090148324774115",
+        "in_reply_to_user_id": "2020935362386984964",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067073054686277752",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XuanYing114514 不會啦😛"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020935362386984964",
+        "conversation_id": "2066937938009870802",
+        "created_at": "2026-06-17T02:33:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T03:33:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067073054686277752"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1536716629505359872",
+              "start": 0,
+              "username": "cigsafterdrug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067073054686277752",
+        "in_reply_to_user_id": "1536716629505359872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066937938009870802",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cigsafterdrug 注意安全别出事了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 500,
+          "following_count": 442,
+          "like_count": 29076,
+          "listed_count": 0,
+          "media_count": 164,
+          "tweet_count": 2775
+        },
+        "url": "",
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-09T18:58:46.000Z",
+        "description": "一個小油條🇨🇳 \n爱人：@meyu_121\nrip：@yume_121_3\n神聖かまってちゃん🎸（Japan）、低苦艾、李志（China），羅大佑、陳昇、張雨生（Taiwan），黃耀明、達明一派、Beyond（HongKong）が好きです。\n日本語が基礎がなく、翻訳ツールしか使えません、すみません",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 12,
+                "username": "meyu_121"
+              },
+              {
+                "end": 37,
+                "start": 26,
+                "username": "yume_121_3"
+              }
+            ]
+          }
+        },
+        "id": "2020935362386984964",
+        "name": "玄英かまってちゃん🎸",
+        "pinned_tweet_id": "2045440180946079798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065306892021432320/rjm-g9Hw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 199,
+          "like_count": 5900,
+          "listed_count": 1,
+          "media_count": 188,
+          "tweet_count": 1447
+        },
+        "url": "",
+        "username": "XuanYing114514",
+        "verified": false
+      }
+    ]
+  }
+}

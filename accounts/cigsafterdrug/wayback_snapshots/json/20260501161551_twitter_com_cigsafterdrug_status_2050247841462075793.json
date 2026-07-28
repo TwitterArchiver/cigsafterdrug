@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2042591239267365210",
+    "created_at": "2026-05-01T16:15:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T17:15:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050247841462075793"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1909064729144020992",
+          "start": 0,
+          "username": "zzsjxc_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050247841462075793",
+    "in_reply_to_user_id": "1909064729144020992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050247153709396130",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zzsjxc_ 我现在打了第二个周 感觉抑制食欲的效果还不错 也更容易有饱足感！我等下发个详细一点的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2042591239267365210",
+        "created_at": "2026-05-01T16:15:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T17:15:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050247841462075793"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1909064729144020992",
+              "start": 0,
+              "username": "zzsjxc_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050247841462075793",
+        "in_reply_to_user_id": "1909064729144020992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050247153709396130",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zzsjxc_ 我现在打了第二个周 感觉抑制食欲的效果还不错 也更容易有饱足感！我等下发个详细一点的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1909064729144020992",
+        "conversation_id": "2042591239267365210",
+        "created_at": "2026-05-01T16:13:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T17:13:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050247153709396130"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1536716629505359872",
+              "start": 0,
+              "username": "cigsafterdrug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050247153709396130",
+        "in_reply_to_user_id": "1536716629505359872",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042591239267365210",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cigsafterdrug 闺蜜蹲下效果TT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 359,
+          "following_count": 368,
+          "like_count": 23533,
+          "listed_count": 0,
+          "media_count": 113,
+          "tweet_count": 1894
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-07T02:04:42.000Z",
+        "description": "什么都说",
+        "id": "1909064729144020992",
+        "name": "Debbie",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951372971680890880/yvd3kFos_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 9,
+          "like_count": 158,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 33
+        },
+        "username": "zzsjxc_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2075092997549723922",
+    "created_at": "2026-07-09T05:41:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T06:41:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075092997549723922"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2016028559228469252",
+          "start": 3,
+          "username": "Alvvaysioffy1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075092997549723922",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075021603684118880",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Alvvaysioffy1: 因为亚当和夏娃是两个淫乱之人他创造了我们人类导致我们所有人其实都是他们的后代全部都是近亲结婚的唐氏儿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2075092997549723922",
+        "created_at": "2026-07-09T05:41:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T06:41:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075092997549723922"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2016028559228469252",
+              "start": 3,
+              "username": "Alvvaysioffy1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075092997549723922",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075021603684118880",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Alvvaysioffy1: 因为亚当和夏娃是两个淫乱之人他创造了我们人类导致我们所有人其实都是他们的后代全部都是近亲结婚的唐氏儿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2016028559228469252",
+        "conversation_id": "2075021603684118880",
+        "created_at": "2026-07-09T00:57:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T01:57:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075021603684118880"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075021603684118880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 403,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "因为亚当和夏娃是两个淫乱之人他创造了我们人类导致我们所有人其实都是他们的后代全部都是近亲结婚的唐氏儿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2070816356862431619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 516,
+          "following_count": 467,
+          "like_count": 30265,
+          "listed_count": 0,
+          "media_count": 190,
+          "tweet_count": 2988
+        },
+        "url": "",
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-27T06:03:52.000Z",
+        "description": "在世界尽头呼唤爱的野兽",
+        "id": "2016028559228469252",
+        "name": "彩華",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058087989570678785/k1dk8u7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 486,
+          "following_count": 230,
+          "like_count": 1466,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 919
+        },
+        "url": "",
+        "username": "Alvvaysioffy1",
+        "verified": false
+      }
+    ]
+  }
+}

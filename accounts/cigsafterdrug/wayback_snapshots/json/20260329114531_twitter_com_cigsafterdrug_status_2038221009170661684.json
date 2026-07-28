@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2038191862616625285",
+    "created_at": "2026-03-29T11:45:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T12:45:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038221009170661684"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2021200224388341760",
+          "start": 0,
+          "username": "pet843801211906"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038221009170661684",
+    "in_reply_to_user_id": "2021200224388341760",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038205701781418279",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pet843801211906 必须互fo！😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2038191862616625285",
+        "created_at": "2026-03-29T11:45:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T12:45:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038221009170661684"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2021200224388341760",
+              "start": 0,
+              "username": "pet843801211906"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038221009170661684",
+        "in_reply_to_user_id": "2021200224388341760",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038205701781418279",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pet843801211906 必须互fo！😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2021200224388341760",
+        "conversation_id": "2038191862616625285",
+        "created_at": "2026-03-29T10:44:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T11:44:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038205701781418279"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1536716629505359872",
+              "start": 0,
+              "username": "cigsafterdrug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038205701781418279",
+        "in_reply_to_user_id": "1536716629505359872",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038191862616625285",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cigsafterdrug 申请"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026943929120444416/QS8rXF5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 297,
+          "following_count": 313,
+          "like_count": 19467,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 1317
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-10T12:31:17.000Z",
+        "description": "我叫小风｜割🩸/磕💊/10｜退学/istp｜我非常温良 喜欢聊天呀。查成分互fo捏。！直fo是喜欢你🔥🔥😈。",
+        "id": "2021200224388341760",
+        "location": "氢溴酸右美沙芬",
+        "name": "小小小小风",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028800059178188800/x1LxeREg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 61,
+          "like_count": 421,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 155
+        },
+        "username": "pet843801211906",
+        "verified": false
+      }
+    ]
+  }
+}

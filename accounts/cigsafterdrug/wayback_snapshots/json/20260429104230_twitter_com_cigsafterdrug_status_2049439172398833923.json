@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2049364935185190953",
+    "created_at": "2026-04-29T10:42:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T11:42:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049439172398833923"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1684269091849404416",
+          "start": 0,
+          "username": "hg3551019177402"
+        },
+        {
+          "end": 33,
+          "id": "1757603703811371008",
+          "start": 17,
+          "username": "SonjaTasha26957"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049439172398833923",
+    "in_reply_to_user_id": "1684269091849404416",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049428528043892745",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hg3551019177402 @SonjaTasha26957 🤤"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2049428525120413696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHEIYqBa4AA2C5e.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2049364935185190953",
+        "created_at": "2026-04-29T10:42:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T11:42:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049439172398833923"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1684269091849404416",
+              "start": 0,
+              "username": "hg3551019177402"
+            },
+            {
+              "end": 33,
+              "id": "1757603703811371008",
+              "start": 17,
+              "username": "SonjaTasha26957"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049439172398833923",
+        "in_reply_to_user_id": "1684269091849404416",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049428528043892745",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hg3551019177402 @SonjaTasha26957 🤤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049428525120413696"
+          ]
+        },
+        "author_id": "1684269091849404416",
+        "conversation_id": "2049364935185190953",
+        "created_at": "2026-04-29T10:00:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T11:00:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049428528043892745"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1536716629505359872",
+              "start": 0,
+              "username": "cigsafterdrug"
+            },
+            {
+              "end": 31,
+              "id": "1757603703811371008",
+              "start": 15,
+              "username": "SonjaTasha26957"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/haPS1TMXgM",
+              "end": 78,
+              "expanded_url": "https://x.com/hg3551019177402/status/2049428528043892745/photo/1",
+              "media_key": "3_2049428525120413696",
+              "start": 55,
+              "url": "https://t.co/haPS1TMXgM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049428528043892745",
+        "in_reply_to_user_id": "1684269091849404416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049364935185190953",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cigsafterdrug @SonjaTasha26957 感谢这两位老板今天的大力支持，我挣了60块。 https://t.co/haPS1TMXgM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 364,
+          "like_count": 23303,
+          "listed_count": 0,
+          "media_count": 113,
+          "tweet_count": 1867
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "description": "黑圣徒和白罪女 ，每天直播一下精神病日常，我的语言自知门里下贱20万bei。黑色柳丁：@rinii165892 干点烟代，电子烟纸烟（老板嫌一盒利润太低只能买整条，但是可以混拼！）（价格跟你外面直接买更便宜一点，我能挣个20块左右的回扣，这会让我开心几秒钟，只要有录制开箱视频售后绝对做到位） 已被学校开除",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 43,
+                "username": "rinii165892"
+              }
+            ]
+          }
+        },
+        "id": "1684269091849404416",
+        "name": "12",
+        "pinned_tweet_id": "2049364935185190953",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045697198890119168/n-jopRK7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 714,
+          "following_count": 694,
+          "like_count": 18307,
+          "listed_count": 1,
+          "media_count": 579,
+          "tweet_count": 9056
+        },
+        "username": "hg3551019177402",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "我什么也没做错 一直被伤害 前世@xiaoyi080 友跨 我是顺女！ 偶尔打钱 爱你们 欢迎找我互fo 但是看黄的别关注我 我不是黄推 我信撒旦教",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "xiaoyi080"
+              }
+            ]
+          }
+        },
+        "id": "1757603703811371008",
+        "name": "11",
+        "pinned_tweet_id": "2049254324233240852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 375,
+          "following_count": 260,
+          "like_count": 38,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 495
+        },
+        "username": "SonjaTasha26957",
+        "verified": false
+      }
+    ]
+  }
+}

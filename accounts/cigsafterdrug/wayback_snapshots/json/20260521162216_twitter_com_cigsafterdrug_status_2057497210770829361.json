@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2057441479816348012",
+    "created_at": "2026-05-21T16:22:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T17:22:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057497210770829361"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1874458926558961664",
+          "start": 0,
+          "username": "DaiianaVez69773"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057497210770829361",
+    "in_reply_to_user_id": "1874458926558961664",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057441479816348012",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DaiianaVez69773 加油哇！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2057441479816348012",
+        "created_at": "2026-05-21T16:22:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T17:22:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057497210770829361"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1874458926558961664",
+              "start": 0,
+              "username": "DaiianaVez69773"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057497210770829361",
+        "in_reply_to_user_id": "1874458926558961664",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057441479816348012",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DaiianaVez69773 加油哇！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874458926558961664",
+        "conversation_id": "2057441479816348012",
+        "created_at": "2026-05-21T12:40:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T13:40:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057441479816348012"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057441479816348012",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 161,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你妈下下个星期天高考"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 420,
+          "following_count": 401,
+          "like_count": 25905,
+          "listed_count": 0,
+          "media_count": 128,
+          "tweet_count": 2197
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-01T14:14:55.000Z",
+        "description": "中国人 高3 18 infj-t 精神分裂 重度焦虑 双相情感障碍混合型 日本语学习中",
+        "id": "1874458926558961664",
+        "location": "ぺんてるに行きました",
+        "name": "矢澤源義✞",
+        "pinned_tweet_id": "2044722696920125723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908777584210714625/L-fqHbRN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 203,
+          "like_count": 12184,
+          "listed_count": 1,
+          "media_count": 136,
+          "tweet_count": 994
+        },
+        "username": "DaiianaVez69773",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2080728110098763906",
+    "created_at": "2026-07-25T20:16:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T21:16:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081111463184453967"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1809233055196073984",
+          "start": 0,
+          "username": "Jy666992"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081111463184453967",
+    "in_reply_to_user_id": "1809233055196073984",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081052027715793016",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jy666992 噢不，，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2080728110098763906",
+        "created_at": "2026-07-25T20:16:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T21:16:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081111463184453967"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1809233055196073984",
+              "start": 0,
+              "username": "Jy666992"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081111463184453967",
+        "in_reply_to_user_id": "1809233055196073984",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081052027715793016",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jy666992 噢不，，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809233055196073984",
+        "conversation_id": "2080728110098763906",
+        "created_at": "2026-07-25T16:20:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T17:20:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081052027715793016"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1536716629505359872",
+              "start": 0,
+              "username": "cigsafterdrug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081052027715793016",
+        "in_reply_to_user_id": "1536716629505359872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080728110098763906",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cigsafterdrug 我想买来着 收藏了 拼多多忽然不送海外了 那会我还想加邮费买来着"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2070816356862431619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 524,
+          "following_count": 475,
+          "like_count": 31739,
+          "listed_count": 0,
+          "media_count": 210,
+          "tweet_count": 3168
+        },
+        "url": "",
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-05T14:29:19.000Z",
+        "description": "光与水相遇 莲花自然生长\n时而像人时而像恶魔，暂时没找到解决方法\n解离美学爱好者/自毁倾向\n我其实一直在寻找我到底怎么活着（真实的）\n在泰上学（脑子不好总惹事感觉哪天就要被开除）",
+        "id": "1809233055196073984",
+        "name": "烨篮子",
+        "pinned_tweet_id": "2074687552712548840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065770842873905152/ira4UqJF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 890,
+          "following_count": 391,
+          "like_count": 2064,
+          "listed_count": 1,
+          "media_count": 359,
+          "tweet_count": 1477
+        },
+        "url": "",
+        "username": "Jy666992",
+        "verified": false
+      }
+    ]
+  }
+}

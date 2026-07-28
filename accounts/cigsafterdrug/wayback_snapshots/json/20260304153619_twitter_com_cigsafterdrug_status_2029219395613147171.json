@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2029219395613147171",
+    "created_at": "2026-03-04T15:36:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T16:36:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2029219395613147171"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/erisa_toilet/s…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/erisa_toilet/status/2028971318969016412",
+          "start": 11,
+          "url": "https://t.co/4E72akHsI9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029219395613147171",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028971318969016412",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "推特開屏給我看這個。 https://t.co/4E72akHsI9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2213,
+        "media_key": "3_2028971295661244416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HChapLlaQAAp64x.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2029219395613147171",
+        "created_at": "2026-03-04T15:36:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T16:36:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029219395613147171"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/erisa_toilet/s…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/erisa_toilet/status/2028971318969016412",
+              "start": 11,
+              "url": "https://t.co/4E72akHsI9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029219395613147171",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028971318969016412",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "推特開屏給我看這個。 https://t.co/4E72akHsI9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028971295661244416"
+          ]
+        },
+        "author_id": "1899809919446212609",
+        "conversation_id": "2028971318969016412",
+        "created_at": "2026-03-03T23:10:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T00:10:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028971318969016412"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GOaUcVIWXj",
+              "end": 62,
+              "expanded_url": "https://x.com/erisa_toilet/status/2028971318969016412/photo/1",
+              "media_key": "3_2028971295661244416",
+              "start": 39,
+              "url": "https://t.co/GOaUcVIWXj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028971318969016412",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3544,
+          "impression_count": 4608864,
+          "like_count": 13715,
+          "quote_count": 650,
+          "reply_count": 311,
+          "retweet_count": 844
+        },
+        "reply_settings": "everyone",
+        "text": "これ5年以上前にネットに上げたことがあるのですが、💩我慢は二日が限界でした。 https://t.co/GOaUcVIWXj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026943929120444416/QS8rXF5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 108,
+          "like_count": 16818,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 623
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-12T13:09:27.000Z",
+        "description": "快便フェチの40女。骨盤がでかいです。うんちをすることと和式トイレが好きで、知恵袋で和式トイレを布教しています。\n旧名:えりさ(erisa_toilet)です。アカウントを作り直すのは二度目になります。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "note.com/mako_toilet",
+                "end": 23,
+                "expanded_url": "https://note.com/mako_toilet",
+                "start": 0,
+                "url": "https://t.co/MLMckNsT2l"
+              }
+            ]
+          }
+        },
+        "id": "1899809919446212609",
+        "name": "まこ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947300837275082752/0DvQDZoB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2448,
+          "following_count": 0,
+          "like_count": 15,
+          "listed_count": 14,
+          "media_count": 4,
+          "tweet_count": 12
+        },
+        "url": "https://t.co/MLMckNsT2l",
+        "username": "erisa_toilet",
+        "verified": false
+      }
+    ]
+  }
+}

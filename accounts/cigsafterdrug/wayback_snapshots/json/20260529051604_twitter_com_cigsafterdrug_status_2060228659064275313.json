@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2060148463053193574",
+    "created_at": "2026-05-29T05:16:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T06:16:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060228659064275313"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1819726141864964096",
+          "start": 0,
+          "username": "Harukawaiiko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060228659064275313",
+    "in_reply_to_user_id": "1819726141864964096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060196997811089448",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Harukawaiiko 之前吃单方右美6t是有药效的 想着减量一点会不会照样有来着w"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2060148463053193574",
+        "created_at": "2026-05-29T05:16:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T06:16:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060228659064275313"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1819726141864964096",
+              "start": 0,
+              "username": "Harukawaiiko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060228659064275313",
+        "in_reply_to_user_id": "1819726141864964096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060196997811089448",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Harukawaiiko 之前吃单方右美6t是有药效的 想着减量一点会不会照样有来着w"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1819726141864964096",
+        "conversation_id": "2060148463053193574",
+        "created_at": "2026-05-29T03:10:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T04:10:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060196997811089448"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1536716629505359872",
+              "start": 0,
+              "username": "cigsafterdrug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060196997811089448",
+        "in_reply_to_user_id": "1536716629505359872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060148463053193574",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cigsafterdrug 这个剂量应该都没药效。如果有除了止咳以外的别的效果，考虑是不是低代谢基因，如果是请谨慎od"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 435,
+          "following_count": 415,
+          "like_count": 27242,
+          "listed_count": 0,
+          "media_count": 133,
+          "tweet_count": 2324
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-03T13:25:06.000Z",
+        "description": "僕はいいこなの？he/they🏳️‍🌈  中文/Eng/日本語",
+        "id": "1819726141864964096",
+        "name": "葉瑠歌",
+        "pinned_tweet_id": "2055603380060561848",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003412040296407040/iZnA93pW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 318,
+          "like_count": 1148,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 427
+        },
+        "username": "Harukawaiiko",
+        "verified": false
+      }
+    ]
+  }
+}

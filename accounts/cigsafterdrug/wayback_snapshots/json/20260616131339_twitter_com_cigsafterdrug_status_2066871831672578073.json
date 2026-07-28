@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2066866279789826247",
+    "created_at": "2026-06-16T13:13:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T14:13:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066871831672578073"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "834974107577925632",
+          "start": 0,
+          "username": "yuuki_konno__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066871831672578073",
+    "in_reply_to_user_id": "834974107577925632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066871107463029190",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuuki_konno__ 監控檢附 好厲害！我的晚餐通常都是家人決定的 實在吃不了 🥲不過有在吃沙拉了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2066866279789826247",
+        "created_at": "2026-06-16T13:13:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T14:13:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066871831672578073"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "834974107577925632",
+              "start": 0,
+              "username": "yuuki_konno__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066871831672578073",
+        "in_reply_to_user_id": "834974107577925632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066871107463029190",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuuki_konno__ 監控檢附 好厲害！我的晚餐通常都是家人決定的 實在吃不了 🥲不過有在吃沙拉了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "834974107577925632",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Exercise and fitness",
+              "id": "847872878041219072",
+              "name": "Fitness"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1284225570268569600",
+              "name": "HIIT"
+            }
+          },
+          {
+            "domain": {
+              "description": "for types of exercises& fitness and moves, e.g., yoga, crunches, squats ",
+              "id": "162",
+              "name": "Exercise & fitness"
+            },
+            "entity": {
+              "description": "Cardio",
+              "id": "920389340571754496",
+              "name": "Cardio"
+            }
+          }
+        ],
+        "conversation_id": "2066866279789826247",
+        "created_at": "2026-06-16T13:10:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T14:10:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066871107463029190"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1536716629505359872",
+              "start": 0,
+              "username": "cigsafterdrug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066871107463029190",
+        "in_reply_to_user_id": "1536716629505359872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066866279789826247",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cigsafterdrug 每天做一组hiit，控制碳水正常吃三餐就行的。午餐换水浸金枪鱼罐头，晚餐半碗饭➕蔬菜沙拉➕鸡胸肉这样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 491,
+          "following_count": 436,
+          "like_count": 29044,
+          "listed_count": 0,
+          "media_count": 163,
+          "tweet_count": 2759
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2017-02-24T03:51:55.000Z",
+        "description": "银梦小鬼，偶尔乳包/希望结识有趣的人/西朝鲜在住/简&繁&En/摄影&日本民俗喜欢/日本语学习中",
+        "id": "834974107577925632",
+        "location": "west koera",
+        "name": "mayu",
+        "pinned_tweet_id": "1272225850004471813",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1257556445618372609/UPWEpMrW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 1241,
+          "like_count": 44430,
+          "listed_count": 1,
+          "media_count": 1162,
+          "tweet_count": 3277
+        },
+        "username": "yuuki_konno__",
+        "verified": false
+      }
+    ]
+  }
+}

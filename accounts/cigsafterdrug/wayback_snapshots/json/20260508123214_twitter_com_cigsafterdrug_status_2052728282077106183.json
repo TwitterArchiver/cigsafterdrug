@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2052728282077106183",
+    "created_at": "2026-05-08T12:32:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T13:32:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052728282077106183"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2039052178791514112",
+          "start": 3,
+          "username": "Dodoeqiu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052728282077106183",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052428069995245878",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Dodoeqiu: 闺女，你千万不能输呀，一定要割到脂肪层，继续在家划手腕子，别人磕一盒药，你就给我买10盒来吃，爸爸在工地一点都不热，不累。快过年了，亲戚吃饭问你今年收获了什么，你说我割到了筋膜层割到了动脉，你们不懂什么是凉席，小眼睛，脂肪层，不懂红贝印和吉列刀片啥区…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2052728282077106183",
+        "created_at": "2026-05-08T12:32:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T13:32:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052728282077106183"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2039052178791514112",
+              "start": 3,
+              "username": "Dodoeqiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052728282077106183",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052428069995245878",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Dodoeqiu: 闺女，你千万不能输呀，一定要割到脂肪层，继续在家划手腕子，别人磕一盒药，你就给我买10盒来吃，爸爸在工地一点都不热，不累。快过年了，亲戚吃饭问你今年收获了什么，你说我割到了筋膜层割到了动脉，你们不懂什么是凉席，小眼睛，脂肪层，不懂红贝印和吉列刀片啥区…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039052178791514112",
+        "conversation_id": "2052428069995245878",
+        "created_at": "2026-05-07T16:39:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T17:39:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052428069995245878"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052428069995245878",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 899,
+          "like_count": 45,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "闺女，你千万不能输呀，一定要割到脂肪层，继续在家划手腕子，别人磕一盒药，你就给我买10盒来吃，爸爸在工地一点都不热，不累。快过年了，亲戚吃饭问你今年收获了什么，你说我割到了筋膜层割到了动脉，你们不懂什么是凉席，小眼睛，脂肪层，不懂红贝印和吉列刀片啥区别，新的一年一定要继续地雷啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 364,
+          "following_count": 375,
+          "like_count": 23986,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 1979
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-31T18:49:19.000Z",
+        "description": "互fo直接关注 看到会回（微查成分。\n餐券女｜厌现实公畜 如果你的二次元或网络味道很浓 我并不会在意你的性别｜接🏠\n 我腦子有病說的話別當真 https://t.co/mR3FqUdsn2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bhxj1",
+                "end": 94,
+                "expanded_url": "https://ngl.link/bhxj1",
+                "start": 71,
+                "url": "https://t.co/mR3FqUdsn2"
+              }
+            ]
+          }
+        },
+        "id": "2039052178791514112",
+        "location": "男🚪52  ",
+        "name": "骄奢淫逸暴劣合体代名词",
+        "pinned_tweet_id": "2048866297807831256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043551394872041472/YmIL7O7l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 373,
+          "following_count": 348,
+          "like_count": 1357,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 1089
+        },
+        "username": "Dodoeqiu",
+        "verified": false
+      }
+    ]
+  }
+}

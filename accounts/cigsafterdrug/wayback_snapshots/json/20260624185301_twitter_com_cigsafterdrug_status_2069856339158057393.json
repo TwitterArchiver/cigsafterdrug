@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2069819915918528867",
+    "created_at": "2026-06-24T18:53:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T19:53:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069856339158057393"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1773143737423847424",
+          "start": 0,
+          "username": "Fanqian77v"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069856339158057393",
+    "in_reply_to_user_id": "1773143737423847424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069819915918528867",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fanqian77v 看起来好好吃呀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2069819824205688832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLl6KerXcAAWh5X.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2069819818434514946",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLl6KJLaUAI-X4i.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2069819818602082305",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLl6KJzXMAEruph.jpg",
+        "width": 1017
+      },
+      {
+        "height": 734,
+        "media_key": "3_2069819818610495489",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLl6KJ1XkAEQsqM.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2069819915918528867",
+        "created_at": "2026-06-24T18:53:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T19:53:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069856339158057393"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1773143737423847424",
+              "start": 0,
+              "username": "Fanqian77v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069856339158057393",
+        "in_reply_to_user_id": "1773143737423847424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069819915918528867",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fanqian77v 看起来好好吃呀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069819824205688832",
+            "3_2069819818434514946",
+            "3_2069819818602082305",
+            "3_2069819818610495489"
+          ]
+        },
+        "author_id": "1773143737423847424",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2069819915918528867",
+        "created_at": "2026-06-24T16:28:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T17:28:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069819915918528867"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4PdUQVYrfU",
+              "end": 43,
+              "expanded_url": "https://x.com/Fanqian77v/status/2069819915918528867/photo/1",
+              "media_key": "3_2069819824205688832",
+              "start": 20,
+              "url": "https://t.co/4PdUQVYrfU"
+            },
+            {
+              "display_url": "pic.x.com/4PdUQVYrfU",
+              "end": 43,
+              "expanded_url": "https://x.com/Fanqian77v/status/2069819915918528867/photo/1",
+              "media_key": "3_2069819818434514946",
+              "start": 20,
+              "url": "https://t.co/4PdUQVYrfU"
+            },
+            {
+              "display_url": "pic.x.com/4PdUQVYrfU",
+              "end": 43,
+              "expanded_url": "https://x.com/Fanqian77v/status/2069819915918528867/photo/1",
+              "media_key": "3_2069819818602082305",
+              "start": 20,
+              "url": "https://t.co/4PdUQVYrfU"
+            },
+            {
+              "display_url": "pic.x.com/4PdUQVYrfU",
+              "end": 43,
+              "expanded_url": "https://x.com/Fanqian77v/status/2069819915918528867/photo/1",
+              "media_key": "3_2069819818610495489",
+              "start": 20,
+              "url": "https://t.co/4PdUQVYrfU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069819915918528867",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这几天都在jc中 新买的蛋白饼到了嘿嘿 https://t.co/4PdUQVYrfU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 506,
+          "following_count": 447,
+          "like_count": 29037,
+          "listed_count": 0,
+          "media_count": 168,
+          "tweet_count": 2797
+        },
+        "url": "",
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-28T00:23:14.000Z",
+        "description": "我是小 Q，喜欢我就给我打钱吧\n只o不g 互关dd",
+        "id": "1773143737423847424",
+        "name": "Q",
+        "pinned_tweet_id": "2062913082331107471",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023359610112151552/OkQwkcTo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 73,
+          "like_count": 445,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 204
+        },
+        "url": "",
+        "username": "Fanqian77v",
+        "verified": false
+      }
+    ]
+  }
+}

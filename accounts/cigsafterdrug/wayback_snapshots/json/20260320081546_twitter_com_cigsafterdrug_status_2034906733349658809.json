@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2034903835207156149",
+    "created_at": "2026-03-20T08:15:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T09:15:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034906733349658809"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1886289385177669632",
+          "start": 0,
+          "username": "Lizzy_522"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034906733349658809",
+    "in_reply_to_user_id": "1886289385177669632",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034903835207156149",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lizzy_522 つぎの夜へ太有品了！看完爱的曝光就爱上了这首…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2034903822850793472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD1uPtkbIAAB3yu.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2034903822834003968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD1uPtga8AA5gNG.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2034903835207156149",
+        "created_at": "2026-03-20T08:15:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T09:15:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034906733349658809"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1886289385177669632",
+              "start": 0,
+              "username": "Lizzy_522"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034906733349658809",
+        "in_reply_to_user_id": "1886289385177669632",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034903835207156149",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lizzy_522 つぎの夜へ太有品了！看完爱的曝光就爱上了这首…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034903822850793472",
+            "3_2034903822834003968"
+          ]
+        },
+        "author_id": "1886289385177669632",
+        "conversation_id": "2034903835207156149",
+        "created_at": "2026-03-20T08:04:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T09:04:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034903835207156149"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NV2t6AMhZW",
+              "end": 37,
+              "expanded_url": "https://x.com/Lizzy_522/status/2034903835207156149/photo/1",
+              "media_key": "3_2034903822850793472",
+              "start": 14,
+              "url": "https://t.co/NV2t6AMhZW"
+            },
+            {
+              "display_url": "pic.x.com/NV2t6AMhZW",
+              "end": 37,
+              "expanded_url": "https://x.com/Lizzy_522/status/2034903835207156149/photo/1",
+              "media_key": "3_2034903822834003968",
+              "start": 14,
+              "url": "https://t.co/NV2t6AMhZW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034903835207156149",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一个人抽烟，手止不住的颤抖 https://t.co/NV2t6AMhZW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026943929120444416/QS8rXF5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 288,
+          "following_count": 300,
+          "like_count": 18637,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 1143
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-03T05:43:38.000Z",
+        "description": "08 he/they enby.双相、焦虑症治疗中。烟鬼、酗酒、戒药戒割中。成分复杂，钢琴，滚圈涉猎广泛，爱听硬摇滚、迷幻摇滚、jpop…负能，日常发神经吐苦水，友所有群体，查成分回fo。 骚逼@KKKaoru_弟弟@yu_huacs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "KKKaoru_"
+              },
+              {
+                "end": 117,
+                "start": 108,
+                "username": "yu_huacs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizzy_522",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizzy_522",
+                "start": 0,
+                "url": "https://t.co/RDVwBMCX6v"
+              }
+            ]
+          }
+        },
+        "id": "1886289385177669632",
+        "name": "リジー",
+        "pinned_tweet_id": "2027517222768521252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997491540915294208/kFKVZs05_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 309,
+          "like_count": 15146,
+          "listed_count": 0,
+          "media_count": 218,
+          "tweet_count": 2154
+        },
+        "url": "https://t.co/RDVwBMCX6v",
+        "username": "Lizzy_522",
+        "verified": false
+      }
+    ]
+  }
+}

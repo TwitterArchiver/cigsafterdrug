@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2071480213780013397",
+    "created_at": "2026-06-29T07:57:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T08:57:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071503216072917104"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2070298524185772032",
+          "start": 0,
+          "username": "b1ng333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071503216072917104",
+    "in_reply_to_user_id": "2070298524185772032",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071480213780013397",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@b1ng333 女神"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2071480193068523520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL9gQqsbYAAdSiM.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2071480213780013397",
+        "created_at": "2026-06-29T07:57:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T08:57:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071503216072917104"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2070298524185772032",
+              "start": 0,
+              "username": "b1ng333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071503216072917104",
+        "in_reply_to_user_id": "2070298524185772032",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071480213780013397",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@b1ng333 女神"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071480193068523520"
+          ]
+        },
+        "author_id": "2070298524185772032",
+        "conversation_id": "2071480213780013397",
+        "created_at": "2026-06-29T06:25:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T07:25:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071480213780013397"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bmGBVUFHXM",
+              "end": 28,
+              "expanded_url": "https://x.com/b1ng333/status/2071480213780013397/photo/1",
+              "media_key": "3_2071480193068523520",
+              "start": 5,
+              "url": "https://t.co/bmGBVUFHXM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071480213780013397",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "死亡顶光 https://t.co/bmGBVUFHXM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 506,
+          "following_count": 458,
+          "like_count": 29325,
+          "listed_count": 0,
+          "media_count": 176,
+          "tweet_count": 2856
+        },
+        "url": "",
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-26T00:12:48.000Z",
+        "description": "10世代｜she/her/hers｜双相中焦｜LGBTQIA+全友好｜ 一世@maitakoo二世@eatmewhole2｜#shtwt｜#drugtwt｜泛性恋｜可以叫我冰冰｜寻回互fo中｜彼氏@hselc_333",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 68,
+                "start": 62,
+                "tag": "shtwt"
+              },
+              {
+                "end": 77,
+                "start": 69,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 47,
+                "start": 38,
+                "username": "maitakoo"
+              },
+              {
+                "end": 61,
+                "start": 49,
+                "username": "eatmewhole2"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "hselc_333"
+              }
+            ]
+          }
+        },
+        "id": "2070298524185772032",
+        "name": "薄氷歹旬情_3.0",
+        "pinned_tweet_id": "2070506248513216625",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071357330562936832/C4lh-oI3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 43,
+          "like_count": 70,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 32
+        },
+        "url": "",
+        "username": "b1ng333",
+        "verified": false
+      }
+    ]
+  }
+}

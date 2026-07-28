@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2076050935521087964",
+    "created_at": "2026-07-12T04:05:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T05:05:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076156018976039288"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1262416576617148417",
+          "start": 0,
+          "username": "Ame8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076156018976039288",
+    "in_reply_to_user_id": "1262416576617148417",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076050935521087964",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ame8964 一眼警 晶哥求放過"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1334,
+        "media_key": "3_2076050927560318976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM-dUbjaYAAB2Wo.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2076050935521087964",
+        "created_at": "2026-07-12T04:05:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T05:05:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076156018976039288"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1262416576617148417",
+              "start": 0,
+              "username": "Ame8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076156018976039288",
+        "in_reply_to_user_id": "1262416576617148417",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076050935521087964",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ame8964 一眼警 晶哥求放過"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076050927560318976"
+          ]
+        },
+        "author_id": "1262416576617148417",
+        "conversation_id": "2076050935521087964",
+        "created_at": "2026-07-11T21:08:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T22:08:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076050935521087964"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iDvPNLWTiO",
+              "end": 130,
+              "expanded_url": "https://x.com/Ame8964/status/2076050935521087964/photo/1",
+              "media_key": "3_2076050927560318976",
+              "start": 107,
+              "url": "https://t.co/iDvPNLWTiO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076050935521087964",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 59,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不知道是晶哥还是真不知道 反正我自己咳嗽的时候去药房就是直接问有没有d字头那个咳药 我当然是用粤语 你不会的话就找个朋友教你怎么念吧 实在不行你就打在备忘录给店员看呗 实则买不买得到当然是看药房的个别选择要不要卖 https://t.co/iDvPNLWTiO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2070816356862431619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 518,
+          "following_count": 468,
+          "like_count": 30690,
+          "listed_count": 0,
+          "media_count": 192,
+          "tweet_count": 3014
+        },
+        "url": "",
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-18T16:15:51.000Z",
+        "description": "-小雨\n-哎嗯踢批\n-烟鬼\n-10年 港人（518964）（拒小粉紅）\n-顺直女 有顺直男朋友（1i）\n-我是爱慕可是男友也是爱慕怎么办\n-LGBTQ+全包容\n-乌蒙批 世画批",
+        "id": "1262416576617148417",
+        "name": "Ame",
+        "pinned_tweet_id": "2069131487778381862",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073133252756545536/49GQi9P1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 81,
+          "like_count": 339,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 419
+        },
+        "url": "",
+        "username": "Ame8964",
+        "verified": false
+      }
+    ]
+  }
+}

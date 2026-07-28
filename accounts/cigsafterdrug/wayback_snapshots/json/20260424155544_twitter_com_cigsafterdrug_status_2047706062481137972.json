@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047607342062313472"
+      ],
+      "media_source_tweet_id": [
+        "2047607350106927389"
+      ]
+    },
+    "author_id": "1536716629505359872",
+    "conversation_id": "2047706062481137972",
+    "created_at": "2026-04-24T15:55:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T16:55:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047706062481137972"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2047601862422208512",
+          "start": 3,
+          "username": "QianQian_FanQie"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mNw5GbHbib",
+          "end": 62,
+          "expanded_url": "https://x.com/QianQian_FanQie/status/2047607350106927389/photo/1",
+          "media_key": "3_2047607342062313472",
+          "start": 39,
+          "url": "https://t.co/mNw5GbHbib"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047706062481137972",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047607350106927389",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @QianQian_FanQie: 操蛋——凱旋歸來！\n——七代目—— https://t.co/mNw5GbHbib"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2047607342062313472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGqQB2cbIAA4u1-.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047607342062313472"
+          ],
+          "media_source_tweet_id": [
+            "2047607350106927389"
+          ]
+        },
+        "author_id": "1536716629505359872",
+        "conversation_id": "2047706062481137972",
+        "created_at": "2026-04-24T15:55:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T16:55:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047706062481137972"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2047601862422208512",
+              "start": 3,
+              "username": "QianQian_FanQie"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mNw5GbHbib",
+              "end": 62,
+              "expanded_url": "https://x.com/QianQian_FanQie/status/2047607350106927389/photo/1",
+              "media_key": "3_2047607342062313472",
+              "start": 39,
+              "url": "https://t.co/mNw5GbHbib"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047706062481137972",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047607350106927389",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @QianQian_FanQie: 操蛋——凱旋歸來！\n——七代目—— https://t.co/mNw5GbHbib"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047607342062313472"
+          ]
+        },
+        "author_id": "2047601862422208512",
+        "conversation_id": "2047607350106927389",
+        "created_at": "2026-04-24T09:23:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T10:23:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047607350106927389"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mNw5GbHbib",
+              "end": 41,
+              "expanded_url": "https://x.com/QianQian_FanQie/status/2047607350106927389/photo/1",
+              "media_key": "3_2047607342062313472",
+              "start": 18,
+              "url": "https://t.co/mNw5GbHbib"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047607350106927389",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1121,
+          "like_count": 48,
+          "quote_count": 1,
+          "reply_count": 13,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "操蛋——凱旋歸來！\n——七代目—— https://t.co/mNw5GbHbib"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 332,
+          "following_count": 347,
+          "like_count": 22689,
+          "listed_count": 0,
+          "media_count": 107,
+          "tweet_count": 1812
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-24T09:01:56.000Z",
+        "description": "這裏是操蛋七代目——可以叫我芊芊！\n11年 順女 LGBTQ全友好 互關尋回 \nmsk頭號夢女",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_1",
+                "start": 0,
+                "url": "https://t.co/pykLW9sB5e"
+              }
+            ]
+          }
+        },
+        "id": "2047601862422208512",
+        "location": "🚪",
+        "name": "番茄操蛋7.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047604629802995712/zLAGZYl2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 10,
+          "like_count": 107,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 12
+        },
+        "url": "https://t.co/pykLW9sB5e",
+        "username": "QianQian_FanQie",
+        "verified": false
+      }
+    ]
+  }
+}

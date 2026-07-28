@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2060107725020057861",
+    "created_at": "2026-05-28T21:15:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T22:15:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060107725020057861"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2042655089228128256",
+          "start": 3,
+          "username": "privwendley"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060107725020057861",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 298
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060026111543665087",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @privwendley: O twitter é dividido por pessoas depressivas, com ansiedade, com tesao e as que querem se matar"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2060107725020057861",
+        "created_at": "2026-05-28T21:15:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T22:15:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060107725020057861"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2042655089228128256",
+              "start": 3,
+              "username": "privwendley"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060107725020057861",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 298
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060026111543665087",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @privwendley: O twitter é dividido por pessoas depressivas, com ansiedade, com tesao e as que querem se matar"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042655089228128256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2060026111543665087",
+        "created_at": "2026-05-28T15:51:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T16:51:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060026111543665087"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060026111543665087",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 20338,
+          "like_count": 1014,
+          "quote_count": 54,
+          "reply_count": 25,
+          "retweet_count": 298
+        },
+        "reply_settings": "everyone",
+        "text": "O twitter é dividido por pessoas depressivas, com ansiedade, com tesao e as que querem se matar"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 435,
+          "following_count": 417,
+          "like_count": 27232,
+          "listed_count": 0,
+          "media_count": 133,
+          "tweet_count": 2322
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-10T17:26:54.000Z",
+        "description": "🚬•☕️•🎱",
+        "id": "2042655089228128256",
+        "name": "ؘ 𝖂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056057165048156160/9VOrd3VZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1880,
+          "following_count": 571,
+          "like_count": 7556,
+          "listed_count": 0,
+          "media_count": 168,
+          "tweet_count": 456
+        },
+        "username": "privwendley",
+        "verified": false
+      }
+    ]
+  }
+}

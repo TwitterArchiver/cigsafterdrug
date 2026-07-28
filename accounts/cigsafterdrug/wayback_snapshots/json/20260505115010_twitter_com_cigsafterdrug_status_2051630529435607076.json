@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051630523601281024",
+        "3_2051630523509010432"
+      ]
+    },
+    "author_id": "1536716629505359872",
+    "conversation_id": "2051630529435607076",
+    "created_at": "2026-05-05T11:50:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T12:50:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051630529435607076"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/LkPRHPH4LA",
+          "end": 66,
+          "expanded_url": "https://x.com/cigsafterdrug/status/2051630529435607076/photo/1",
+          "media_key": "3_2051630523601281024",
+          "start": 43,
+          "url": "https://t.co/LkPRHPH4LA"
+        },
+        {
+          "display_url": "pic.x.com/LkPRHPH4LA",
+          "end": 66,
+          "expanded_url": "https://x.com/cigsafterdrug/status/2051630529435607076/photo/1",
+          "media_key": "3_2051630523509010432",
+          "start": 43,
+          "url": "https://t.co/LkPRHPH4LA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051630529435607076",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我來乞討了喵⋯⋯窩想買藥買新衣服求資助( °̥̥̥̥̥̥̥̥˟°̥̥̥̥̥̥̥̥ ) https://t.co/LkPRHPH4LA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1239,
+        "media_key": "3_2051630523601281024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHjbF1maYAAwplh.jpg",
+        "width": 876
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2051630523509010432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHjbF1QacAAHJhj.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051630523601281024",
+            "3_2051630523509010432"
+          ]
+        },
+        "author_id": "1536716629505359872",
+        "conversation_id": "2051630529435607076",
+        "created_at": "2026-05-05T11:50:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T12:50:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051630529435607076"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LkPRHPH4LA",
+              "end": 66,
+              "expanded_url": "https://x.com/cigsafterdrug/status/2051630529435607076/photo/1",
+              "media_key": "3_2051630523601281024",
+              "start": 43,
+              "url": "https://t.co/LkPRHPH4LA"
+            },
+            {
+              "display_url": "pic.x.com/LkPRHPH4LA",
+              "end": 66,
+              "expanded_url": "https://x.com/cigsafterdrug/status/2051630529435607076/photo/1",
+              "media_key": "3_2051630523509010432",
+              "start": 43,
+              "url": "https://t.co/LkPRHPH4LA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051630529435607076",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我來乞討了喵⋯⋯窩想買藥買新衣服求資助( °̥̥̥̥̥̥̥̥˟°̥̥̥̥̥̥̥̥ ) https://t.co/LkPRHPH4LA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 362,
+          "following_count": 369,
+          "like_count": 23803,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 1940
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2062447011484569670",
+    "created_at": "2026-06-04T09:57:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T10:57:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062473693931213245"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1898308906994294784",
+          "start": 0,
+          "username": "TTBRAr12"
+        },
+        {
+          "end": 26,
+          "id": "1951181920022437889",
+          "start": 10,
+          "username": "blackdoginmyhed"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062473693931213245",
+    "in_reply_to_user_id": "1898308906994294784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062467580280082495",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TTBRAr12 @blackdoginmyhed 我覺得不錯？挺清新的但是沒有什麼柚子味"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2062447011484569670",
+        "created_at": "2026-06-04T09:57:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T10:57:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062473693931213245"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1898308906994294784",
+              "start": 0,
+              "username": "TTBRAr12"
+            },
+            {
+              "end": 26,
+              "id": "1951181920022437889",
+              "start": 10,
+              "username": "blackdoginmyhed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062473693931213245",
+        "in_reply_to_user_id": "1898308906994294784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062467580280082495",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TTBRAr12 @blackdoginmyhed 我覺得不錯？挺清新的但是沒有什麼柚子味"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898308906994294784",
+        "conversation_id": "2062447011484569670",
+        "created_at": "2026-06-04T09:32:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T10:32:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062467580280082495"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1536716629505359872",
+              "start": 0,
+              "username": "cigsafterdrug"
+            },
+            {
+              "end": 31,
+              "id": "1951181920022437889",
+              "start": 15,
+              "username": "blackdoginmyhed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062467580280082495",
+        "in_reply_to_user_id": "1536716629505359872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062447011484569670",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cigsafterdrug @blackdoginmyhed 这个柚子茶好抽吗，我只抽过爱喜的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 442,
+          "following_count": 417,
+          "like_count": 27787,
+          "listed_count": 0,
+          "media_count": 140,
+          "tweet_count": 2401
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-08T09:44:56.000Z",
+        "description": "",
+        "id": "1898308906994294784",
+        "name": "TTAR",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966263377233403904/aqrIK04U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 742,
+          "like_count": 6173,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 1169
+        },
+        "username": "TTBRAr12",
+        "verified": false,
+        "withheld": {
+          "country_codes": [
+            "TR"
+          ]
+        }
+      },
+      {
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/超级烟鬼肺癌预备役/🟨⬜️🟪⬛️/代词随意/可以叫我nagi/日常碎碎念推以及神必小测评/没回fo私聊喊我\n没钱抽烟了赚点钱买烟!电子🚬常见一次性冰爆鸭嘴兽小黑条70r一件以上包邮还有悦子杆蛋啥乱七八糟的都有! 悦刻注油空蛋9r一个 🚬均俄产 万宝路查普曼寿百年系列还有卡比龙!包正!",
+        "id": "1951181920022437889",
+        "location": "瑞瓦肖,褴褛飞旋",
+        "name": "懸想",
+        "pinned_tweet_id": "2029813934186975322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 497,
+          "following_count": 585,
+          "like_count": 3841,
+          "listed_count": 0,
+          "media_count": 153,
+          "tweet_count": 1166
+        },
+        "username": "blackdoginmyhed",
+        "verified": false
+      }
+    ]
+  }
+}

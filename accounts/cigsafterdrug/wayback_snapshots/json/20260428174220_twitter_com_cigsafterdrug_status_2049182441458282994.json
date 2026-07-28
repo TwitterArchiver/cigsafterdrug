@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2049125169692840151",
+    "created_at": "2026-04-28T17:42:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T18:42:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049182441458282994"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1934473367245217793",
+          "start": 0,
+          "username": "ision0511"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049182441458282994",
+    "in_reply_to_user_id": "1934473367245217793",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049174237613547898",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ision0511 我跪下了！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2049125169692840151",
+        "created_at": "2026-04-28T17:42:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T18:42:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049182441458282994"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1934473367245217793",
+              "start": 0,
+              "username": "ision0511"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049182441458282994",
+        "in_reply_to_user_id": "1934473367245217793",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049174237613547898",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ision0511 我跪下了！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934473367245217793",
+        "conversation_id": "2049125169692840151",
+        "created_at": "2026-04-28T17:09:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T18:09:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049174237613547898"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1536716629505359872",
+              "start": 0,
+              "username": "cigsafterdrug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049174237613547898",
+        "in_reply_to_user_id": "1536716629505359872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049125169692840151",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cigsafterdrug 晶哥求放過"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 351,
+          "following_count": 363,
+          "like_count": 23200,
+          "listed_count": 0,
+          "media_count": 112,
+          "tweet_count": 1850
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-16T04:49:34.000Z",
+        "description": "叫我夾子就好 割/o 我很溫良可以來找我玩 謝謝你們的喜歡",
+        "id": "1934473367245217793",
+        "name": "為你奉上我迄今為止的人生",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046282060499968000/ZyyawPW-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 335,
+          "like_count": 3035,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 251
+        },
+        "username": "ision0511",
+        "verified": false
+      }
+    ]
+  }
+}

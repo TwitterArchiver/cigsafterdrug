@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2050298275195158560",
+    "created_at": "2026-05-01T19:36:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T20:36:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050298275195158560"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2050298275195158560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "话说打了替西第二个周，总的来说我觉得抑制食欲的效果不错，而且更容易饱，饱腹感也比较久（就是会有点顶胃？的感觉）\n缺点来说 我是会感觉比较累、没力气\n（ps试过在肚子和腿上注射，感觉在肚子上会比较快起效和作用比较强）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2050298275195158560",
+        "created_at": "2026-05-01T19:36:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T20:36:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050298275195158560"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2050298275195158560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "话说打了替西第二个周，总的来说我觉得抑制食欲的效果不错，而且更容易饱，饱腹感也比较久（就是会有点顶胃？的感觉）\n缺点来说 我是会感觉比较累、没力气\n（ps试过在肚子和腿上注射，感觉在肚子上会比较快起效和作用比较强）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 359,
+          "following_count": 369,
+          "like_count": 23554,
+          "listed_count": 0,
+          "media_count": 113,
+          "tweet_count": 1897
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      }
+    ]
+  }
+}

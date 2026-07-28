@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2036747517648605462",
+    "created_at": "2026-03-25T11:44:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T12:44:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036771161393258903"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1965457223636975617",
+          "start": 0,
+          "username": "Thymol_11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036771161393258903",
+    "in_reply_to_user_id": "1965457223636975617",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036769997603958954",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Thymol_11 真的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2036747517648605462",
+        "created_at": "2026-03-25T11:44:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T12:44:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036771161393258903"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1965457223636975617",
+              "start": 0,
+              "username": "Thymol_11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036771161393258903",
+        "in_reply_to_user_id": "1965457223636975617",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036769997603958954",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Thymol_11 真的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965457223636975617",
+        "conversation_id": "2036747517648605462",
+        "created_at": "2026-03-25T11:39:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T12:39:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036769997603958954"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1536716629505359872",
+              "start": 0,
+              "username": "cigsafterdrug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036769997603958954",
+        "in_reply_to_user_id": "1536716629505359872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036747517648605462",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cigsafterdrug 右美吐起来超级难受。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026943929120444416/QS8rXF5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 295,
+          "following_count": 314,
+          "like_count": 19121,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 1247
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-09T16:48:33.000Z",
+        "description": "叫我眠眠就好！ᯓ👾★ 🔪 ☕ ♫ྀི🎹⋆⑅ 🤍🩶🖤 👾09｜intp5w4｜自伤od｜LGBTQ+全友好｜粉红绕道｜我喜欢听日音喵｜查成分互fo喵！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/thymol_111",
+                "end": 23,
+                "expanded_url": "https://ngl.link/thymol_111",
+                "start": 0,
+                "url": "https://t.co/V0vlfUkWrY"
+              }
+            ]
+          }
+        },
+        "id": "1965457223636975617",
+        "location": "让我梦见吧",
+        "name": "電子安眠藥魔法👾",
+        "pinned_tweet_id": "2035614143261364478",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032645675612254208/588yugtP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 423,
+          "following_count": 335,
+          "like_count": 3400,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 601
+        },
+        "url": "https://t.co/V0vlfUkWrY",
+        "username": "Thymol_11",
+        "verified": false
+      }
+    ]
+  }
+}

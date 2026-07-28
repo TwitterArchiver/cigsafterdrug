@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2031748974470951095",
+    "created_at": "2026-03-12T05:16:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T06:16:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031962626255897005"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1750894458659606528",
+          "start": 0,
+          "username": "fuko048"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031962626255897005",
+    "in_reply_to_user_id": "1750894458659606528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031948354687811607",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fuko048 呃啊 我一个月没吃了 昨天吃了一点 今天也吃了些但是没效用w"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2031748974470951095",
+        "created_at": "2026-03-12T05:16:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T06:16:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031962626255897005"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1750894458659606528",
+              "start": 0,
+              "username": "fuko048"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031962626255897005",
+        "in_reply_to_user_id": "1750894458659606528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031948354687811607",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fuko048 呃啊 我一个月没吃了 昨天吃了一点 今天也吃了些但是没效用w"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1750894458659606528",
+        "conversation_id": "2031748974470951095",
+        "created_at": "2026-03-12T04:20:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T05:20:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031948354687811607"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1536716629505359872",
+              "start": 0,
+              "username": "cigsafterdrug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031948354687811607",
+        "in_reply_to_user_id": "1536716629505359872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031748974470951095",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cigsafterdrug ？耐药了吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026943929120444416/QS8rXF5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 278,
+          "like_count": 17944,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 987
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-26T14:53:22.000Z",
+        "description": "pr80love\n好想一直睡觉啊啊啊",
+        "id": "1750894458659606528",
+        "location": "North Holland, The Netherlands",
+        "name": "fuko048",
+        "pinned_tweet_id": "2014936025521668550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1750894807176904704/MsU3qvjN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 132,
+          "like_count": 2287,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 577
+        },
+        "username": "fuko048",
+        "verified": true
+      }
+    ]
+  }
+}

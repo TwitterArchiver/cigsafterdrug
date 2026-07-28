@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057665405297311744"
+      ],
+      "media_source_tweet_id": [
+        "2057665429141913657"
+      ]
+    },
+    "author_id": "1536716629505359872",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2057847072670527822",
+    "created_at": "2026-05-22T15:32:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T16:32:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057847072670527822"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2035866357720637440",
+          "start": 3,
+          "username": "GovernmentsDog"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oQvKRLlOMm",
+          "end": 43,
+          "expanded_url": "https://x.com/GovernmentsDog/status/2057665429141913657/photo/1",
+          "media_key": "3_2057665405297311744",
+          "start": 20,
+          "url": "https://t.co/oQvKRLlOMm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057847072670527822",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 626
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057665429141913657",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GovernmentsDog: https://t.co/oQvKRLlOMm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 571,
+        "media_key": "3_2057665405297311744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI5LyL1bQAAEHqU.jpg",
+        "width": 1174
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057665405297311744"
+          ],
+          "media_source_tweet_id": [
+            "2057665429141913657"
+          ]
+        },
+        "author_id": "1536716629505359872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2057847072670527822",
+        "created_at": "2026-05-22T15:32:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T16:32:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057847072670527822"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2035866357720637440",
+              "start": 3,
+              "username": "GovernmentsDog"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oQvKRLlOMm",
+              "end": 43,
+              "expanded_url": "https://x.com/GovernmentsDog/status/2057665429141913657/photo/1",
+              "media_key": "3_2057665405297311744",
+              "start": 20,
+              "url": "https://t.co/oQvKRLlOMm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057847072670527822",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 626
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057665429141913657",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GovernmentsDog: https://t.co/oQvKRLlOMm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057665405297311744"
+          ]
+        },
+        "author_id": "2035866357720637440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2057665429141913657",
+        "created_at": "2026-05-22T03:30:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T04:30:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057665429141913657"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oQvKRLlOMm",
+              "end": 23,
+              "expanded_url": "https://x.com/GovernmentsDog/status/2057665429141913657/photo/1",
+              "media_key": "3_2057665405297311744",
+              "start": 0,
+              "url": "https://t.co/oQvKRLlOMm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057665429141913657",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 139,
+          "impression_count": 18259,
+          "like_count": 2343,
+          "quote_count": 25,
+          "reply_count": 26,
+          "retweet_count": 626
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/oQvKRLlOMm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 423,
+          "following_count": 404,
+          "like_count": 26148,
+          "listed_count": 0,
+          "media_count": 129,
+          "tweet_count": 2218
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-22T23:49:15.000Z",
+        "description": "⠀᭥    Ayatsuji / Vincent     ۪.    he / they / it⠀⠀ \n   shedtwt   ⸝⸝⠀3teen  ⸝⸝   #1 diet coke fan\n⠀——⠀⠀NDNI  — IFB⠀  ——\n   ⤷ backup / alt ; @dietcokeshedtwt",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 140,
+                "username": "dietcokeshedtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "usel3sstoast.straw.page",
+                "end": 23,
+                "expanded_url": "https://usel3sstoast.straw.page",
+                "start": 0,
+                "url": "https://t.co/1hCItaZQ7Z"
+              }
+            ]
+          }
+        },
+        "id": "2035866357720637440",
+        "location": "cw: 94 // gw: 92 // ugw: 80 ",
+        "name": "Ayatsuji of DietCoketwt",
+        "pinned_tweet_id": "2055545385490473273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055530514367520768/XgxnV67d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 926,
+          "following_count": 952,
+          "like_count": 8393,
+          "listed_count": 19,
+          "media_count": 294,
+          "tweet_count": 1461
+        },
+        "url": "https://t.co/1hCItaZQ7Z",
+        "username": "GovernmentsDog",
+        "verified": false
+      }
+    ]
+  }
+}

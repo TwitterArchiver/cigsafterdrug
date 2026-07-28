@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2033573149288321339",
+    "created_at": "2026-03-16T16:38:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T17:38:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033583585421390091"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1971505070744506369",
+          "start": 0,
+          "username": "BangT66633"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033583585421390091",
+    "in_reply_to_user_id": "1971505070744506369",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033581282870153552",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BangT66633 🥺💗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2033573149288321339",
+        "created_at": "2026-03-16T16:38:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T17:38:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033583585421390091"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1971505070744506369",
+              "start": 0,
+              "username": "BangT66633"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033583585421390091",
+        "in_reply_to_user_id": "1971505070744506369",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033581282870153552",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BangT66633 🥺💗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971505070744506369",
+        "conversation_id": "2033573149288321339",
+        "created_at": "2026-03-16T16:28:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T17:28:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033581282870153552"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1536716629505359872",
+              "start": 0,
+              "username": "cigsafterdrug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033581282870153552",
+        "in_reply_to_user_id": "1536716629505359872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033573149288321339",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cigsafterdrug 当然相信了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026943929120444416/QS8rXF5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 285,
+          "following_count": 287,
+          "like_count": 18439,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 1072
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-26T09:20:24.000Z",
+        "description": "为自己而活",
+        "id": "1971505070744506369",
+        "name": "棒棒糖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031379391188754432/JXKlQRCu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 20,
+          "like_count": 66,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 12
+        },
+        "username": "BangT66633",
+        "verified": false
+      }
+    ]
+  }
+}

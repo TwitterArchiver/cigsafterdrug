@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2052445906159710301",
+    "created_at": "2026-05-08T07:50:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T08:50:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052657486986194978"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1986491979136659456",
+          "start": 0,
+          "username": "suicideiscringe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052657486986194978",
+    "in_reply_to_user_id": "1986491979136659456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052654290603532572",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@suicideiscringe 康士坦的变化球！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2052445906159710301",
+        "created_at": "2026-05-08T07:50:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T08:50:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052657486986194978"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1986491979136659456",
+              "start": 0,
+              "username": "suicideiscringe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052657486986194978",
+        "in_reply_to_user_id": "1986491979136659456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052654290603532572",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suicideiscringe 康士坦的变化球！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986491979136659456",
+        "conversation_id": "2052445906159710301",
+        "created_at": "2026-05-08T07:38:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T08:38:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052654290603532572"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1536716629505359872",
+              "start": 0,
+              "username": "cigsafterdrug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052654290603532572",
+        "in_reply_to_user_id": "1536716629505359872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052445906159710301",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cigsafterdrug 去看谁的演唱会呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 365,
+          "following_count": 376,
+          "like_count": 23954,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 1974
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-06T17:53:07.000Z",
+        "description": "小孩子不懂事乱发的",
+        "id": "1986491979136659456",
+        "name": "Estazolam",
+        "pinned_tweet_id": "2052651707407253986",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991465272113524739/A_dq2Iih_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 90,
+          "like_count": 826,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 248
+        },
+        "username": "suicideiscringe",
+        "verified": false
+      }
+    ]
+  }
+}

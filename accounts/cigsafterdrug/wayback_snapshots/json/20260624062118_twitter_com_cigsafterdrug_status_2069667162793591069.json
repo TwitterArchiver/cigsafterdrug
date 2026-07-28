@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069667155520688128"
+      ]
+    },
+    "author_id": "1536716629505359872",
+    "conversation_id": "2069667162793591069",
+    "created_at": "2026-06-24T06:21:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T07:21:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069667162793591069"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/FnfRdnD4RY",
+          "end": 34,
+          "expanded_url": "https://x.com/cigsafterdrug/status/2069667162793591069/photo/1",
+          "media_key": "3_2069667155520688128",
+          "start": 11,
+          "url": "https://t.co/FnfRdnD4RY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069667162793591069",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我操你妈这也要移除？ https://t.co/FnfRdnD4RY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2069667155520688128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLjvT_gakAArZbb.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069667155520688128"
+          ]
+        },
+        "author_id": "1536716629505359872",
+        "conversation_id": "2069667162793591069",
+        "created_at": "2026-06-24T06:21:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T07:21:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069667162793591069"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FnfRdnD4RY",
+              "end": 34,
+              "expanded_url": "https://x.com/cigsafterdrug/status/2069667162793591069/photo/1",
+              "media_key": "3_2069667155520688128",
+              "start": 11,
+              "url": "https://t.co/FnfRdnD4RY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069667162793591069",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我操你妈这也要移除？ https://t.co/FnfRdnD4RY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 506,
+          "following_count": 432,
+          "like_count": 28993,
+          "listed_count": 0,
+          "media_count": 166,
+          "tweet_count": 2781
+        },
+        "url": "",
+        "username": "cigsafterdrug",
+        "verified": false
+      }
+    ]
+  }
+}

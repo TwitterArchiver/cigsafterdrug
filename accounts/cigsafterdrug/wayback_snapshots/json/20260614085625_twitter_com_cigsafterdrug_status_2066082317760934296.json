@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2066033760475525533",
+    "created_at": "2026-06-14T08:56:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T09:56:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066082317760934296"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1999225749526712320",
+          "start": 0,
+          "username": "lng998"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066082317760934296",
+    "in_reply_to_user_id": "1999225749526712320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066033760475525533",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lng998 要吞吃入腹的血淋淋的爱…好美腻"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1775,
+        "media_key": "3_2066033745883492352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKwGvt1a8AAFeWP.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2066033760475525533",
+        "created_at": "2026-06-14T08:56:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T09:56:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066082317760934296"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1999225749526712320",
+              "start": 0,
+              "username": "lng998"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066082317760934296",
+        "in_reply_to_user_id": "1999225749526712320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066033760475525533",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lng998 要吞吃入腹的血淋淋的爱…好美腻"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066033745883492352"
+          ]
+        },
+        "author_id": "1999225749526712320",
+        "conversation_id": "2066033760475525533",
+        "created_at": "2026-06-14T05:43:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T06:43:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066033760475525533"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 3,
+              "tag": "女同性恋"
+            },
+            {
+              "end": 13,
+              "start": 9,
+              "tag": "wlw"
+            },
+            {
+              "end": 18,
+              "start": 14,
+              "tag": "les"
+            },
+            {
+              "end": 22,
+              "start": 19,
+              "tag": "食欲"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EsBaR59Wyd",
+              "end": 46,
+              "expanded_url": "https://x.com/lng998/status/2066033760475525533/photo/1",
+              "media_key": "3_2066033745883492352",
+              "start": 23,
+              "url": "https://t.co/EsBaR59Wyd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066033760475525533",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 339,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "假血\n#女同性恋 #wlw #les #食欲 https://t.co/EsBaR59Wyd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 473,
+          "following_count": 427,
+          "like_count": 28697,
+          "listed_count": 0,
+          "media_count": 156,
+          "tweet_count": 2626
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-11T21:12:24.000Z",
+        "description": "",
+        "id": "1999225749526712320",
+        "name": "翎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999225870821785604/k0haV2JA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 89,
+          "like_count": 186,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 65
+        },
+        "username": "lng998",
+        "verified": false
+      }
+    ]
+  }
+}

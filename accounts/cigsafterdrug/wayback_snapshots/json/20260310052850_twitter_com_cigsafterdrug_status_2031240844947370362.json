@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2030941732192546937",
+    "created_at": "2026-03-10T05:28:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T06:28:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031240844947370362"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1928149698592088064",
+          "start": 0,
+          "username": "ama907782"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031240844947370362",
+    "in_reply_to_user_id": "1928149698592088064",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031239180898930768",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ama907782 来！😼😼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2030941732192546937",
+        "created_at": "2026-03-10T05:28:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T06:28:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031240844947370362"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1928149698592088064",
+              "start": 0,
+              "username": "ama907782"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031240844947370362",
+        "in_reply_to_user_id": "1928149698592088064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031239180898930768",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ama907782 来！😼😼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1928149698592088064",
+        "conversation_id": "2030941732192546937",
+        "created_at": "2026-03-10T05:22:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T06:22:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031239180898930768"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1536716629505359872",
+              "start": 0,
+              "username": "cigsafterdrug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031239180898930768",
+        "in_reply_to_user_id": "1536716629505359872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030941732192546937",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cigsafterdrug 爸爸给点🥲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026943929120444416/QS8rXF5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 124,
+          "like_count": 17539,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 739
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-29T18:01:53.000Z",
+        "description": "我每天就笑嘻嘻傻呆呆地看着这个世界",
+        "id": "1928149698592088064",
+        "location": "广州",
+        "name": "我恨你们所有人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031166933173751808/VHjiH1JU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 10,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 14
+        },
+        "username": "ama907782",
+        "verified": false
+      }
+    ]
+  }
+}

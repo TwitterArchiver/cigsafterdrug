@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2060627921560273307",
+    "created_at": "2026-05-30T10:02:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T11:02:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060663224035692640"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2001675650994999296",
+          "start": 0,
+          "username": "Pluralitysubsys"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060663224035692640",
+    "in_reply_to_user_id": "2001675650994999296",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060662789220479386",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Pluralitysubsys 真是 可惜我家没窗台w"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2060627921560273307",
+        "created_at": "2026-05-30T10:02:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T11:02:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060663224035692640"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2001675650994999296",
+              "start": 0,
+              "username": "Pluralitysubsys"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060663224035692640",
+        "in_reply_to_user_id": "2001675650994999296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060662789220479386",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Pluralitysubsys 真是 可惜我家没窗台w"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2001675650994999296",
+        "conversation_id": "2060627921560273307",
+        "created_at": "2026-05-30T10:01:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T11:01:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060662789220479386"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1536716629505359872",
+              "start": 0,
+              "username": "cigsafterdrug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060662789220479386",
+        "in_reply_to_user_id": "1536716629505359872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060627921560273307",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cigsafterdrug 爽爽的，但我还是觉得趁着父母睡觉的时候在窗台看着夜景抽烟才是最棒的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 436,
+          "following_count": 419,
+          "like_count": 27467,
+          "listed_count": 0,
+          "media_count": 135,
+          "tweet_count": 2350
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-18T15:27:35.000Z",
+        "description": "喜爱生物化学 | 渴望成为全知者 | HK | They | audhd | 道德感极强 | nssi | od | 绝不自杀 | 法外狂徒 | 精神状态疯癫 |",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.psychonautwiki.org/wiki/Psychoact…",
+                "end": 23,
+                "expanded_url": "https://m.psychonautwiki.org/wiki/Psychoactive%20substance%20index",
+                "start": 0,
+                "url": "https://t.co/V27J0WGYKr"
+              }
+            ]
+          }
+        },
+        "id": "2001675650994999296",
+        "location": "全球最大的化工厂 A区第8期11栋0318室",
+        "name": "清梦与清云",
+        "pinned_tweet_id": "2059175171286819294",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059920070571335680/QMy39m02_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 95,
+          "like_count": 1190,
+          "listed_count": 0,
+          "media_count": 129,
+          "tweet_count": 1966
+        },
+        "url": "https://t.co/V27J0WGYKr",
+        "username": "Pluralitysubsys",
+        "verified": false
+      }
+    ]
+  }
+}

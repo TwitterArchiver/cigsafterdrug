@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062447004056514560"
+      ]
+    },
+    "author_id": "1536716629505359872",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2062447011484569670",
+    "created_at": "2026-06-04T08:11:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T09:11:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062447011484569670"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 24,
+          "id": "1951181920022437889",
+          "start": 8,
+          "username": "blackdoginmyhed"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/frDIf9IrFc",
+          "end": 59,
+          "expanded_url": "https://x.com/cigsafterdrug/status/2062447011484569670/photo/1",
+          "media_key": "3_2062447004056514560",
+          "start": 36,
+          "url": "https://t.co/frDIf9IrFc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062447011484569670",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "薄巧跟柚子茶🤤从@blackdoginmyhed 买的 发货超级快🫪💗 https://t.co/frDIf9IrFc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2062447004056514560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ9In3TbcAAn8Xw.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062447004056514560"
+          ]
+        },
+        "author_id": "1536716629505359872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2062447011484569670",
+        "created_at": "2026-06-04T08:11:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T09:11:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062447011484569670"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 24,
+              "id": "1951181920022437889",
+              "start": 8,
+              "username": "blackdoginmyhed"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/frDIf9IrFc",
+              "end": 59,
+              "expanded_url": "https://x.com/cigsafterdrug/status/2062447011484569670/photo/1",
+              "media_key": "3_2062447004056514560",
+              "start": 36,
+              "url": "https://t.co/frDIf9IrFc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062447011484569670",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "薄巧跟柚子茶🤤从@blackdoginmyhed 买的 发货超级快🫪💗 https://t.co/frDIf9IrFc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 442,
+          "following_count": 418,
+          "like_count": 27757,
+          "listed_count": 0,
+          "media_count": 140,
+          "tweet_count": 2395
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/超级烟鬼肺癌预备役/🟨⬜️🟪⬛️/代词随意/可以叫我nagi/日常碎碎念推以及神必小测评/没回fo私聊喊我\n没钱抽烟了赚点钱买烟!电子🚬常见一次性冰爆鸭嘴兽小黑条70r一件以上包邮还有悦子杆蛋啥乱七八糟的都有! 悦刻注油空蛋9r一个 🚬均俄产 万宝路查普曼寿百年系列还有卡比龙!包正!",
+        "id": "1951181920022437889",
+        "location": "瑞瓦肖,褴褛飞旋",
+        "name": "懸想",
+        "pinned_tweet_id": "2029813934186975322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 496,
+          "following_count": 584,
+          "like_count": 3830,
+          "listed_count": 0,
+          "media_count": 153,
+          "tweet_count": 1164
+        },
+        "username": "blackdoginmyhed",
+        "verified": false
+      }
+    ]
+  }
+}

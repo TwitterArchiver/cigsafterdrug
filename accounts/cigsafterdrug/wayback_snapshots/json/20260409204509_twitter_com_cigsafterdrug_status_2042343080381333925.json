@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2042343080381333925",
+    "created_at": "2026-04-09T20:45:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T21:45:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042343080381333925"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2036654418221993984",
+          "start": 3,
+          "username": "uu_obito"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042343080381333925",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042185722267083130",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @uu_obito: 感觉人这种生物，不找一个让自己上瘾的东西就活不下去"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2042343080381333925",
+        "created_at": "2026-04-09T20:45:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T21:45:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042343080381333925"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2036654418221993984",
+              "start": 3,
+              "username": "uu_obito"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042343080381333925",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042185722267083130",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @uu_obito: 感觉人这种生物，不找一个让自己上瘾的东西就活不下去"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2036654418221993984",
+        "conversation_id": "2042185722267083130",
+        "created_at": "2026-04-09T10:19:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T11:19:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042185722267083130"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042185722267083130",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3422,
+          "like_count": 59,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "感觉人这种生物，不找一个让自己上瘾的东西就活不下去"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041169513899765761/LjaTiZha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 303,
+          "following_count": 324,
+          "like_count": 20486,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 1485
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-25T04:01:26.000Z",
+        "description": "我想要变得坚强",
+        "id": "2036654418221993984",
+        "location": "🚪108/188/288/520(露脸)",
+        "name": "uu",
+        "pinned_tweet_id": "2040016466750448063",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039341352232845312/qT1nNXeO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 404,
+          "following_count": 48,
+          "like_count": 161,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 148
+        },
+        "username": "uu_obito",
+        "verified": false
+      }
+    ]
+  }
+}

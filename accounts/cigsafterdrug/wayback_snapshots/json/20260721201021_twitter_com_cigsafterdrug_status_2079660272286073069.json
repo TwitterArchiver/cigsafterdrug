@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2079643586874982447",
+    "created_at": "2026-07-21T20:10:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T21:10:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079660272286073069"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2073780355434483712",
+          "start": 0,
+          "username": "QianQian_TwT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079660272286073069",
+    "in_reply_to_user_id": "2073780355434483712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079659229024330231",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QianQian_TwT 自慰完來上這麼一口真是享受啊🤤"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_2079659189916561408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNxvA8TacAAKJxM.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2079643586874982447",
+        "created_at": "2026-07-21T20:10:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T21:10:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079660272286073069"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2073780355434483712",
+              "start": 0,
+              "username": "QianQian_TwT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079660272286073069",
+        "in_reply_to_user_id": "2073780355434483712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079659229024330231",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QianQian_TwT 自慰完來上這麼一口真是享受啊🤤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079659189916561408"
+          ]
+        },
+        "author_id": "2073780355434483712",
+        "conversation_id": "2079643586874982447",
+        "created_at": "2026-07-21T20:06:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T21:06:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079659229024330231"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1536716629505359872",
+              "start": 0,
+              "username": "cigsafterdrug"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2kPnzxZSaW",
+              "end": 54,
+              "expanded_url": "https://x.com/QianQian_TwT/status/2079659229024330231/photo/1",
+              "media_key": "3_2079659189916561408",
+              "start": 31,
+              "url": "https://t.co/2kPnzxZSaW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079659229024330231",
+        "in_reply_to_user_id": "1536716629505359872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079643586874982447",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cigsafterdrug 唧唧（自慰完累得不想穿褲子🤤。 https://t.co/2kPnzxZSaW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2070816356862431619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 521,
+          "following_count": 468,
+          "like_count": 31566,
+          "listed_count": 0,
+          "media_count": 202,
+          "tweet_count": 3100
+        },
+        "url": "",
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-05T14:47:09.000Z",
+        "description": "LGBTQ 全友好？！交友大歡迎！！\n寶寶 @7q468438x8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 22,
+                "username": "7q468438x8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_2",
+                "start": 0,
+                "url": "https://t.co/v79ODfNpxi"
+              }
+            ]
+          }
+        },
+        "id": "2073780355434483712",
+        "name": "番茄操蛋",
+        "pinned_tweet_id": "2074128231528333573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073780960559276032/7BDjGxja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1368,
+          "following_count": 56,
+          "like_count": 1307,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 350
+        },
+        "url": "https://t.co/v79ODfNpxi",
+        "username": "QianQian_TwT",
+        "verified": true
+      }
+    ]
+  }
+}

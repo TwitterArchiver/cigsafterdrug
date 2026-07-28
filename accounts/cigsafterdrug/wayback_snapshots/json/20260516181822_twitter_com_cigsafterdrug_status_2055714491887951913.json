@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055708747914260480"
+      ],
+      "media_source_tweet_id": [
+        "2055708755937886216"
+      ]
+    },
+    "author_id": "1536716629505359872",
+    "conversation_id": "2055714491887951913",
+    "created_at": "2026-05-16T18:18:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T19:18:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055714491887951913"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 24,
+          "start": 14,
+          "tag": "aftercare"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2047984614409379840",
+          "start": 3,
+          "username": "r4dium88"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Uwp6pTaVAu",
+          "end": 48,
+          "expanded_url": "https://x.com/r4dium88/status/2055708755937886216/photo/1",
+          "media_key": "3_2055708747914260480",
+          "start": 25,
+          "url": "https://t.co/Uwp6pTaVAu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055714491887951913",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055708755937886216",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @r4dium88: #aftercare https://t.co/Uwp6pTaVAu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1672,
+        "media_key": "3_2055708747914260480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIdYNvEXsAAN-pJ.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055708747914260480"
+          ],
+          "media_source_tweet_id": [
+            "2055708755937886216"
+          ]
+        },
+        "author_id": "1536716629505359872",
+        "conversation_id": "2055714491887951913",
+        "created_at": "2026-05-16T18:18:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T19:18:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055714491887951913"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 14,
+              "tag": "aftercare"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2047984614409379840",
+              "start": 3,
+              "username": "r4dium88"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Uwp6pTaVAu",
+              "end": 48,
+              "expanded_url": "https://x.com/r4dium88/status/2055708755937886216/photo/1",
+              "media_key": "3_2055708747914260480",
+              "start": 25,
+              "url": "https://t.co/Uwp6pTaVAu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055714491887951913",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055708755937886216",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @r4dium88: #aftercare https://t.co/Uwp6pTaVAu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055708747914260480"
+          ]
+        },
+        "author_id": "2047984614409379840",
+        "conversation_id": "2055708755937886216",
+        "created_at": "2026-05-16T17:55:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T18:55:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055708755937886216"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 0,
+              "tag": "aftercare"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Uwp6pTaVAu",
+              "end": 34,
+              "expanded_url": "https://x.com/r4dium88/status/2055708755937886216/photo/1",
+              "media_key": "3_2055708747914260480",
+              "start": 11,
+              "url": "https://t.co/Uwp6pTaVAu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055708755937886216",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 166,
+          "like_count": 48,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "#aftercare https://t.co/Uwp6pTaVAu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 420,
+          "following_count": 395,
+          "like_count": 25404,
+          "listed_count": 0,
+          "media_count": 124,
+          "tweet_count": 2130
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-25T10:24:42.000Z",
+        "description": "ex quitter current slitter",
+        "id": "2047984614409379840",
+        "name": "radium",
+        "pinned_tweet_id": "2049121540990529538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047990776119078912/yfmAzF6-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 407,
+          "following_count": 380,
+          "like_count": 357,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 247
+        },
+        "username": "r4dium88",
+        "verified": false
+      }
+    ]
+  }
+}

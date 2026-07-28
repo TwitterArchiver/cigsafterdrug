@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2080642725830148187",
+    "created_at": "2026-07-24T15:44:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T16:44:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080680442509037618"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1773143737423847424",
+          "start": 0,
+          "username": "Fanqian77v"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080680442509037618",
+    "in_reply_to_user_id": "1773143737423847424",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080642725830148187",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fanqian77v os小Q好阔耐"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2080642700345503744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN_tgyKacAAb5wS.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2080642725830148187",
+        "created_at": "2026-07-24T15:44:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T16:44:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080680442509037618"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1773143737423847424",
+              "start": 0,
+              "username": "Fanqian77v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080680442509037618",
+        "in_reply_to_user_id": "1773143737423847424",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080642725830148187",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fanqian77v os小Q好阔耐"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080642700345503744"
+          ]
+        },
+        "author_id": "1773143737423847424",
+        "conversation_id": "2080642725830148187",
+        "created_at": "2026-07-24T13:14:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T14:14:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080642725830148187"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 6,
+              "tag": "自撮り界隈"
+            },
+            {
+              "end": 19,
+              "start": 13,
+              "tag": "地雷系女子"
+            },
+            {
+              "end": 25,
+              "start": 21,
+              "tag": "雰囲気"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jE3CHXf0Ir",
+              "end": 49,
+              "expanded_url": "https://x.com/Fanqian77v/status/2080642725830148187/photo/1",
+              "media_key": "3_2080642700345503744",
+              "start": 26,
+              "url": "https://t.co/jE3CHXf0Ir"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080642725830148187",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 98,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大狗嚼嚼嚼\n#自撮り界隈\n#地雷系女子 \n#雰囲気 https://t.co/jE3CHXf0Ir"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2070816356862431619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 521,
+          "following_count": 473,
+          "like_count": 31677,
+          "listed_count": 0,
+          "media_count": 209,
+          "tweet_count": 3145
+        },
+        "url": "",
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-28T00:23:14.000Z",
+        "description": "我是小 Q，喜欢我就给我打钱吧\n🚪88纯绿➕pyq\n只o不g 互关dd，没回到的可以私信我呀",
+        "id": "1773143737423847424",
+        "name": "Q",
+        "pinned_tweet_id": "2062913082331107471",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023359610112151552/OkQwkcTo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 81,
+          "like_count": 650,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 294
+        },
+        "url": "",
+        "username": "Fanqian77v",
+        "verified": false
+      }
+    ]
+  }
+}

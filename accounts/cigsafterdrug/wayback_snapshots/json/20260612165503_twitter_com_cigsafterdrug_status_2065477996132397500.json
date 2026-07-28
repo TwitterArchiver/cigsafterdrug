@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2018244434568380666",
+    "created_at": "2026-06-12T16:55:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T17:55:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065477996132397500"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1780831626991460352",
+          "start": 0,
+          "username": "baozhasuiboli"
+        },
+        {
+          "end": 31,
+          "id": "1366768781771427841",
+          "start": 15,
+          "username": "yongqua68981012"
+        },
+        {
+          "end": 43,
+          "id": "1722909239016882176",
+          "start": 32,
+          "username": "seeuyu8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065477996132397500",
+    "in_reply_to_user_id": "1780831626991460352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065477814821028119",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@baozhasuiboli @yongqua68981012 @seeuyu8964 按颗卖的，一颗1-2块最合理"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2018244434568380666",
+        "created_at": "2026-06-12T16:55:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T17:55:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065477996132397500"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1780831626991460352",
+              "start": 0,
+              "username": "baozhasuiboli"
+            },
+            {
+              "end": 31,
+              "id": "1366768781771427841",
+              "start": 15,
+              "username": "yongqua68981012"
+            },
+            {
+              "end": 43,
+              "id": "1722909239016882176",
+              "start": 32,
+              "username": "seeuyu8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065477996132397500",
+        "in_reply_to_user_id": "1780831626991460352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065477814821028119",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@baozhasuiboli @yongqua68981012 @seeuyu8964 按颗卖的，一颗1-2块最合理"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780831626991460352",
+        "conversation_id": "2018244434568380666",
+        "created_at": "2026-06-12T16:54:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T17:54:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065477814821028119"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1536716629505359872",
+              "start": 0,
+              "username": "cigsafterdrug"
+            },
+            {
+              "end": 31,
+              "id": "1366768781771427841",
+              "start": 15,
+              "username": "yongqua68981012"
+            },
+            {
+              "end": 43,
+              "id": "1722909239016882176",
+              "start": 32,
+              "username": "seeuyu8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065477814821028119",
+        "in_reply_to_user_id": "1536716629505359872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046525437346787713",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cigsafterdrug @yongqua68981012 @seeuyu8964 宝宝港美一盒多少钱呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 472,
+          "following_count": 426,
+          "like_count": 28566,
+          "listed_count": 0,
+          "media_count": 152,
+          "tweet_count": 2587
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-18T05:32:08.000Z",
+        "description": "和很阳光开朗的妹子聊不来，铁t和健身t勿扰，纯绿🚪52",
+        "id": "1780831626991460352",
+        "location": "Macau",
+        "name": "嗜睡症患者8号",
+        "pinned_tweet_id": "2022098515745509785",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044453589008191491/2AAu-0yq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 44,
+          "like_count": 5131,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 130
+        },
+        "username": "baozhasuiboli",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-02T15:14:19.000Z",
+        "description": "08/mtf",
+        "id": "1366768781771427841",
+        "location": "精神病院",
+        "name": "Tanisaki_Masaya",
+        "pinned_tweet_id": "1949439102786634138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044508686169833472/W9EEQ6-g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 519,
+          "like_count": 3217,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 246
+        },
+        "username": "yongqua68981012",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-10T09:29:19.000Z",
+        "description": "🕯️私は生き延びる曙光が必要です",
+        "id": "1722909239016882176",
+        "location": "能够背对着世界的地方",
+        "name": "魚們在沼澤遊蕩",
+        "pinned_tweet_id": "2043765937841770618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859618557618782208/tAGmZqWQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 240,
+          "like_count": 3224,
+          "listed_count": 1,
+          "media_count": 119,
+          "tweet_count": 606
+        },
+        "username": "seeuyu8964",
+        "verified": false
+      }
+    ]
+  }
+}

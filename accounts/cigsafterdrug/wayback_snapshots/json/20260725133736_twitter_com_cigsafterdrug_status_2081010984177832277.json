@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2081010984177832277",
+    "created_at": "2026-07-25T13:37:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T14:37:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081010984177832277"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/daydreamdog_7/…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/daydreamdog_7/status/1816935577910137291",
+          "start": 7,
+          "url": "https://t.co/tbq1vES0LY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081010984177832277",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1816935577910137291",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好涩情😭🙏💕 https://t.co/tbq1vES0LY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1311,
+        "media_key": "3_1816935574768586752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GTcNR1naEAAwZil.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2081010984177832277",
+        "created_at": "2026-07-25T13:37:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T14:37:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081010984177832277"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/daydreamdog_7/…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/daydreamdog_7/status/1816935577910137291",
+              "start": 7,
+              "url": "https://t.co/tbq1vES0LY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081010984177832277",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1816935577910137291",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好涩情😭🙏💕 https://t.co/tbq1vES0LY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1816935574768586752"
+          ]
+        },
+        "author_id": "1488539224416878602",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1816935577910137291",
+        "created_at": "2024-07-26T20:36:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-26T21:36:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1816935577910137291"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 0,
+              "tag": "ranfren"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lMdNrV8rWj",
+              "end": 36,
+              "expanded_url": "https://x.com/daydreamdog_7/status/1816935577910137291/photo/1",
+              "media_key": "3_1816935574768586752",
+              "start": 13,
+              "url": "https://t.co/lMdNrV8rWj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1816935577910137291",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1389,
+          "impression_count": 201135,
+          "like_count": 12092,
+          "quote_count": 121,
+          "reply_count": 14,
+          "retweet_count": 1608
+        },
+        "reply_settings": "everyone",
+        "text": "#ranfren 🍽❤️ https://t.co/lMdNrV8rWj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2070816356862431619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 524,
+          "following_count": 474,
+          "like_count": 31725,
+          "listed_count": 0,
+          "media_count": 210,
+          "tweet_count": 3164
+        },
+        "url": "",
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-01T15:46:44.000Z",
+        "description": "=气筒/白日狗 | 画些想画的 | 杂多 | 18↑ | FUB free | AI、无授权转载🚫",
+        "id": "1488539224416878602",
+        "location": "🪶🐣 | 🪶🪞 | ⛪⛈️ | 🐣右",
+        "name": "AAAAAAAAAAAAAAAAA",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984637589526294528/AX2mFtrB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8033,
+          "following_count": 557,
+          "like_count": 18505,
+          "listed_count": 15,
+          "media_count": 377,
+          "tweet_count": 7648
+        },
+        "url": "",
+        "username": "daydreamdog_7",
+        "verified": false
+      }
+    ]
+  }
+}

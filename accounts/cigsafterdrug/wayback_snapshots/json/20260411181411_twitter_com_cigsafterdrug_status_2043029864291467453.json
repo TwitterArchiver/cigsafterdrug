@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2042982562264711420",
+    "created_at": "2026-04-11T18:14:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T19:14:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043029864291467453"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1974865605204586498",
+          "start": 0,
+          "username": "Krktmk_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043029864291467453",
+    "in_reply_to_user_id": "1974865605204586498",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042982562264711420",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Krktmk_8964 不说其他问题，没吃到168t应该先饱了（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2042982562264711420",
+        "created_at": "2026-04-11T18:14:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T19:14:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043029864291467453"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1974865605204586498",
+              "start": 0,
+              "username": "Krktmk_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043029864291467453",
+        "in_reply_to_user_id": "1974865605204586498",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042982562264711420",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Krktmk_8964 不说其他问题，没吃到168t应该先饱了（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974865605204586498",
+        "conversation_id": "2042982562264711420",
+        "created_at": "2026-04-11T15:06:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T16:06:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042982562264711420"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042982562264711420",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1038,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "白兔可不可以吃168t我两瓶到了🤤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041169513899765761/LjaTiZha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 305,
+          "following_count": 327,
+          "like_count": 20698,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 1531
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-05T15:54:07.000Z",
+        "description": "我是天照大神⛩",
+        "id": "1974865605204586498",
+        "location": "克拉斯诺亚尔斯克",
+        "name": "黒木トモコ",
+        "pinned_tweet_id": "2039426492791509083",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038452725957201920/996GCo3n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1285,
+          "following_count": 2284,
+          "like_count": 36457,
+          "listed_count": 3,
+          "media_count": 312,
+          "tweet_count": 3737
+        },
+        "username": "Krktmk_8964",
+        "verified": false
+      }
+    ]
+  }
+}

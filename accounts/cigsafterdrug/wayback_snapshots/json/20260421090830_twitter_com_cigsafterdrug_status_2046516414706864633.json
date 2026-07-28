@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2046289883921350919",
+    "created_at": "2026-04-21T09:08:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T10:08:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046516414706864633"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1793001753568485376",
+          "start": 0,
+          "username": "YMNKsos"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046516414706864633",
+    "in_reply_to_user_id": "1793001753568485376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046513463556763809",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YMNKsos 毒虫们飞起来！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2046289883921350919",
+        "created_at": "2026-04-21T09:08:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T10:08:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046516414706864633"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1793001753568485376",
+              "start": 0,
+              "username": "YMNKsos"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046516414706864633",
+        "in_reply_to_user_id": "1793001753568485376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046513463556763809",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YMNKsos 毒虫们飞起来！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1793001753568485376",
+        "conversation_id": "2046289883921350919",
+        "created_at": "2026-04-21T08:56:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T09:56:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046513463556763809"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1536716629505359872",
+              "start": 0,
+              "username": "cigsafterdrug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046513463556763809",
+        "in_reply_to_user_id": "1536716629505359872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046289883921350919",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cigsafterdrug 没关系的，我们这帮毒虫一点也不苦一点也不累，只是截断得想死而已，只是321倒数着玩而已，666还有第几关"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 323,
+          "following_count": 330,
+          "like_count": 21923,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 1723
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-21T19:32:20.000Z",
+        "description": "已幸福，再来骚扰直接杀鼠。法鼠！全家鼠！\n泛性恋，顺直也鼠，顺直公畜更是鼠完了😍",
+        "id": "1793001753568485376",
+        "location": "2.3km🚪188/288/520",
+        "name": "我求你了放过我🏳️‍🌈🏳️‍🌈🏳️‍🌈",
+        "pinned_tweet_id": "1918517368680329280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1793002232503476224/hbBsEqIH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 520,
+          "following_count": 231,
+          "like_count": 4895,
+          "listed_count": 1,
+          "media_count": 213,
+          "tweet_count": 3817
+        },
+        "username": "YMNKsos",
+        "verified": false
+      }
+    ]
+  }
+}

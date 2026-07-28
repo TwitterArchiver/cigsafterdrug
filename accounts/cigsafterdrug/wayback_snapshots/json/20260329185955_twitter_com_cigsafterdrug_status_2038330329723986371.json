@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2038191862616625285",
+    "created_at": "2026-03-29T18:59:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T19:59:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038330329723986371"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2007439875726028800",
+          "start": 0,
+          "username": "APeng87500"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038330329723986371",
+    "in_reply_to_user_id": "2007439875726028800",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038320263134429628",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@APeng87500 好耶！🫶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2038191862616625285",
+        "created_at": "2026-03-29T18:59:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T19:59:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038330329723986371"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2007439875726028800",
+              "start": 0,
+              "username": "APeng87500"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038330329723986371",
+        "in_reply_to_user_id": "2007439875726028800",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038320263134429628",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@APeng87500 好耶！🫶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007439875726028800",
+        "conversation_id": "2038191862616625285",
+        "created_at": "2026-03-29T18:19:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T19:19:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038320263134429628"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1536716629505359872",
+              "start": 0,
+              "username": "cigsafterdrug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038320263134429628",
+        "in_reply_to_user_id": "1536716629505359872",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038191862616625285",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cigsafterdrug 第300fo！！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026943929120444416/QS8rXF5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 302,
+          "following_count": 319,
+          "like_count": 19511,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 1328
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-03T13:12:30.000Z",
+        "description": "画渣/wmc/友跨/臭看番的/phi/osu很菜/ENFP/wacca/oder\n坐标深圳，偶尔刷新香港 生产日期2012.09.30",
+        "id": "2007439875726028800",
+        "location": "幻想乡",
+        "name": "一只吃瓜的博丽灵梦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012853671457886208/RcGIFvmL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 1,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 75
+        },
+        "username": "APeng87500",
+        "verified": false
+      }
+    ]
+  }
+}

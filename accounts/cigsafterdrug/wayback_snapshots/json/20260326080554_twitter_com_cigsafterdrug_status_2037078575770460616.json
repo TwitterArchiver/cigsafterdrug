@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2037038843824922810",
+    "created_at": "2026-03-26T08:05:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T09:05:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037078575770460616"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2032033299980566528",
+          "start": 0,
+          "username": "rinii165892"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037078575770460616",
+    "in_reply_to_user_id": "2032033299980566528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037038843824922810",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rinii165892 宝宝没事就好 等你回来！"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2037038843824922810].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2037038843824922810",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2037038843824922810"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2037038843824922810",
+        "created_at": "2026-03-26T08:05:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T09:05:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037078575770460616"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2032033299980566528",
+              "start": 0,
+              "username": "rinii165892"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037078575770460616",
+        "in_reply_to_user_id": "2032033299980566528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037038843824922810",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rinii165892 宝宝没事就好 等你回来！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026943929120444416/QS8rXF5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 296,
+          "following_count": 315,
+          "like_count": 19219,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 1288
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-12T09:58:00.000Z",
+        "description": "霖的第二黑化人格/少关心我\n举报我司马/会慢慢会fo/大号正常期间锁推/第二账号发言与大号无关，请区分\n✟❀@wu_si42846❀✟",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 54,
+                "username": "wu_si42846"
+              }
+            ]
+          }
+        },
+        "id": "2032033299980566528",
+        "location": "msk坟头",
+        "name": "3.霖（已黑化）",
+        "pinned_tweet_id": "2033570085726740612",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032130669959397377/7kOyBARR_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 186,
+          "following_count": 186,
+          "like_count": 918,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 627
+        },
+        "username": "rinii165892",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2043081625907663111",
+    "created_at": "2026-04-11T21:42:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T22:42:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043082367569686810"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2043082367569686810",
+    "in_reply_to_user_id": "1536716629505359872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043081625907663111",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "如果知道了一切也是會沒辦法的繼續恐懼著吧 所有的所有都因爲我出生了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2043081625907663111",
+        "created_at": "2026-04-11T21:42:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T22:42:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043082367569686810"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043082367569686810",
+        "in_reply_to_user_id": "1536716629505359872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043081625907663111",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "如果知道了一切也是會沒辦法的繼續恐懼著吧 所有的所有都因爲我出生了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2043081625907663111",
+        "created_at": "2026-04-11T21:39:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T22:39:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043081625907663111"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043081625907663111",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想死 我又開始恐懼死亡了\n從我很小很小的時候開始 我就開始思考 宇宙從何而來 如果從整個世界和宇宙都像楚門的世界一樣是被安排好的作秀呢 如果那群觀看者的世界以外還有更大的世界呢 \n因為沒人能給出答案 我沒完沒了的思考著這個問題 也正因如此 我生活在巨大的恐慌之下"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041169513899765761/LjaTiZha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 305,
+          "following_count": 327,
+          "like_count": 20708,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 1536
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2080638337245925601",
+    "created_at": "2026-07-24T12:56:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T13:56:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080638337245925601"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hanqwq457437/s…",
+          "end": 113,
+          "expanded_url": "https://twitter.com/hanqwq457437/status/2080501243106165242",
+          "start": 90,
+          "url": "https://t.co/lv7AkoVWwH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080638337245925601",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080501243106165242",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "其实我特别喜欢长发男 别人说他们颓废我却觉得很好，好想和他在新宿天桥抽烟发呆 看他用带刺青的指尖弹落烟灰 听他抱怨地下乐队演出时键盘手又搞砸了副歌 我会把他断弦的吉他画满卡通小人 https://t.co/lv7AkoVWwH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2080501237641060352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN9s2khbIAAI-eZ.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2080638337245925601",
+        "created_at": "2026-07-24T12:56:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T13:56:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080638337245925601"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hanqwq457437/s…",
+              "end": 113,
+              "expanded_url": "https://twitter.com/hanqwq457437/status/2080501243106165242",
+              "start": 90,
+              "url": "https://t.co/lv7AkoVWwH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080638337245925601",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080501243106165242",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实我特别喜欢长发男 别人说他们颓废我却觉得很好，好想和他在新宿天桥抽烟发呆 看他用带刺青的指尖弹落烟灰 听他抱怨地下乐队演出时键盘手又搞砸了副歌 我会把他断弦的吉他画满卡通小人 https://t.co/lv7AkoVWwH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080501237641060352"
+          ]
+        },
+        "author_id": "1753386090143354880",
+        "conversation_id": "2080501243106165242",
+        "created_at": "2026-07-24T03:52:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T04:52:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080501243106165242"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ofANMdPoOJ",
+              "end": 113,
+              "expanded_url": "https://x.com/HanQWQ457437/status/2080501243106165242/photo/1",
+              "media_key": "3_2080501237641060352",
+              "start": 90,
+              "url": "https://t.co/ofANMdPoOJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080501243106165242",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 730,
+          "like_count": 31,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "其实我特别喜欢长发男 别人说他们颓废我却觉得很好，好想和他在新宿天桥抽烟发呆 看他用带刺青的指尖弹落烟灰 听他抱怨地下乐队演出时键盘手又搞砸了副歌 我会把他断弦的吉他画满卡通小人 https://t.co/ofANMdPoOJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2070816356862431619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 520,
+          "following_count": 472,
+          "like_count": 31674,
+          "listed_count": 0,
+          "media_count": 209,
+          "tweet_count": 3143
+        },
+        "url": "",
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-02T11:53:25.000Z",
+        "description": "08年2月/大一/性别男  欢迎找我聊天，我很需要人类陪我🥺  🚪100cny🤤支持加密货币🤤 欢迎来加我的tg小群 https://t.co/LDm1zGibSQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/aaaaaHanqwq",
+                "end": 82,
+                "expanded_url": "https://t.me/aaaaaHanqwq",
+                "start": 59,
+                "url": "https://t.co/LDm1zGibSQ"
+              }
+            ]
+          }
+        },
+        "id": "1753386090143354880",
+        "location": "City of London, London",
+        "name": "Accelerator🇦🇺",
+        "pinned_tweet_id": "2079785655962599772",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058354606653227008/A1Hj4hES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1142,
+          "following_count": 1060,
+          "like_count": 3475,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 998
+        },
+        "url": "",
+        "username": "HanQWQ457437",
+        "verified": true
+      }
+    ]
+  }
+}

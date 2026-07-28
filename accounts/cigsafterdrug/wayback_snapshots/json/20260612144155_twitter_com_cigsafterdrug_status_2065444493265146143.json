@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2065331949116575752",
+    "created_at": "2026-06-12T14:41:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T15:41:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065444493265146143"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1920665768750182401",
+          "start": 0,
+          "username": "Restorelife0771"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065444493265146143",
+    "in_reply_to_user_id": "1920665768750182401",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065444097893302362",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Restorelife0771 哦哦原來是這樣😱我不行了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2065331949116575752",
+        "created_at": "2026-06-12T14:41:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T15:41:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065444493265146143"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1920665768750182401",
+              "start": 0,
+              "username": "Restorelife0771"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065444493265146143",
+        "in_reply_to_user_id": "1920665768750182401",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065444097893302362",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Restorelife0771 哦哦原來是這樣😱我不行了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920665768750182401",
+        "conversation_id": "2065331949116575752",
+        "created_at": "2026-06-12T14:40:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T15:40:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065444097893302362"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1536716629505359872",
+              "start": 0,
+              "username": "cigsafterdrug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065444097893302362",
+        "in_reply_to_user_id": "1536716629505359872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065443229731041441",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cigsafterdrug 这是个梗啦 ww 是说晶哥经常打听线下聚会点然后端掉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 470,
+          "following_count": 425,
+          "like_count": 28550,
+          "listed_count": 0,
+          "media_count": 151,
+          "tweet_count": 2576
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-09T02:23:09.000Z",
+        "description": "账号尾数改成 0772 就能搜到我的另一个账号。\n顺男友跨  非 MtF/顺女 请注意\n喜欢玩音游 喜欢听电音 在学习日语 成绩很差\nにほんの友達が欲しい",
+        "id": "1920665768750182401",
+        "name": "Restorelife0771",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920699900645261312/_sh8PWQb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 211,
+          "like_count": 3483,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 679
+        },
+        "username": "Restorelife0771",
+        "verified": false
+      }
+    ]
+  }
+}

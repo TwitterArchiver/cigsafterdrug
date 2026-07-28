@@ -1,0 +1,83 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1800934526472028161",
+    "conversation_id": "1800941545576927694",
+    "created_at": "2024-06-12T17:21:38.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-12T18:21:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1800941545576927694"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1800941545576927694",
+    "lang": "in",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "kalo uda tau they didn't want u to come karna ditanya dan diajak paling akhir jangan mau ikut 😶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1800934526472028161",
+        "conversation_id": "1800941545576927694",
+        "created_at": "2024-06-12T17:21:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-12T18:21:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1800941545576927694"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1800941545576927694",
+        "lang": "in",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "kalo uda tau they didn't want u to come karna ditanya dan diajak paling akhir jangan mau ikut 😶"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-12T16:54:18.000Z",
+        "description": "those shitty things were none of ur business",
+        "id": "1800934526472028161",
+        "name": "GiGi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800937471494254592/Y0JdUpcp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 9,
+          "like_count": 0,
+          "listed_count": 0,
+          "tweet_count": 6
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      }
+    ]
+  }
+}

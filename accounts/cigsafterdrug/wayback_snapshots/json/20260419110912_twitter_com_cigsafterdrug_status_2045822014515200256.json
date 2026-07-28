@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2045500316976840750",
+    "created_at": "2026-04-19T11:09:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T12:09:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045822014515200256"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2013321876224057344",
+          "start": 0,
+          "username": "OTxiashu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045822014515200256",
+    "in_reply_to_user_id": "2013321876224057344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045500316976840750",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OTxiashu 阿帕兹阿帕兹阿帕兹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2045500316976840750",
+        "created_at": "2026-04-19T11:09:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T12:09:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045822014515200256"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2013321876224057344",
+              "start": 0,
+              "username": "OTxiashu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045822014515200256",
+        "in_reply_to_user_id": "2013321876224057344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045500316976840750",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OTxiashu 阿帕兹阿帕兹阿帕兹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013321876224057344",
+        "conversation_id": "2045500316976840750",
+        "created_at": "2026-04-18T13:50:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T14:50:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045500316976840750"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045500316976840750",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 500,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "天呐这首阿帕次也太洗脑了吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 318,
+          "following_count": 330,
+          "like_count": 21710,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 1682
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-19T18:46:10.000Z",
+        "description": "无我梦中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ot78725",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ot78725",
+                "start": 0,
+                "url": "https://t.co/RFlA1XtlG6"
+              }
+            ]
+          }
+        },
+        "id": "2013321876224057344",
+        "location": "沃尔库塔-5",
+        "name": "OT夏树",
+        "pinned_tweet_id": "2045458839068356985",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041015244408119296/bvU7l2hs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 423,
+          "following_count": 405,
+          "like_count": 7266,
+          "listed_count": 0,
+          "media_count": 208,
+          "tweet_count": 2953
+        },
+        "url": "https://t.co/RFlA1XtlG6",
+        "username": "OTxiashu",
+        "verified": false
+      }
+    ]
+  }
+}

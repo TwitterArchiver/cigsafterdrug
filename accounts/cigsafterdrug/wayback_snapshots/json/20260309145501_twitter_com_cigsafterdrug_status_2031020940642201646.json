@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2031012702630646259",
+    "created_at": "2026-03-09T14:55:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T15:55:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031020940642201646"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1999504877337395200",
+          "start": 0,
+          "username": "chuan_0123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031020940642201646",
+    "in_reply_to_user_id": "1999504877337395200",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031012702630646259",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chuan_0123 恭喜川川！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 385,
+        "media_key": "3_2031012697203208192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC-bSY8a8AA2DXc.jpg",
+        "width": 637
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2031012702630646259",
+        "created_at": "2026-03-09T14:55:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T15:55:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031020940642201646"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1999504877337395200",
+              "start": 0,
+              "username": "chuan_0123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031020940642201646",
+        "in_reply_to_user_id": "1999504877337395200",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031012702630646259",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chuan_0123 恭喜川川！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031012697203208192"
+          ]
+        },
+        "author_id": "1999504877337395200",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2031012702630646259",
+        "created_at": "2026-03-09T14:22:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T15:22:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031012702630646259"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QnKlC0rzMv",
+              "end": 33,
+              "expanded_url": "https://x.com/chuan_0123/status/2031012702630646259/photo/1",
+              "media_key": "3_2031012697203208192",
+              "start": 10,
+              "url": "https://t.co/QnKlC0rzMv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031012702630646259",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 75,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "木嘿嘿嘿500fo https://t.co/QnKlC0rzMv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026943929120444416/QS8rXF5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 114,
+          "like_count": 17471,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 702
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-12T15:41:53.000Z",
+        "description": "我是川川/20↑/大体雑多垢 病み注意/無言フォロー失礼いたしました/直fo＝喜欢你/顺女/努力戒割戒药中/关取随意 回fo请私信！祝你以后都开心/误清请私信orz不是故意的/🚪88互关免费",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chuan123",
+                "end": 23,
+                "expanded_url": "https://ngl.link/chuan123",
+                "start": 0,
+                "url": "https://t.co/kmXUmkntXo"
+              }
+            ]
+          }
+        },
+        "id": "1999504877337395200",
+        "location": "╰(⇀‸↼)╯→提问箱",
+        "name": "虚空薯条教主",
+        "pinned_tweet_id": "2026652867160051770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026599141066027012/50v9Dmba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 502,
+          "following_count": 308,
+          "like_count": 10078,
+          "listed_count": 2,
+          "media_count": 236,
+          "tweet_count": 4924
+        },
+        "url": "https://t.co/kmXUmkntXo",
+        "username": "chuan_0123",
+        "verified": false
+      }
+    ]
+  }
+}

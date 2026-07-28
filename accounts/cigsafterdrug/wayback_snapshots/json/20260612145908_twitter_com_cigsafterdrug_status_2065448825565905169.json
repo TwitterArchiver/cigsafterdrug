@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2065445030991659017",
+    "created_at": "2026-06-12T14:59:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T15:59:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065448825565905169"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2055521229625262080",
+          "start": 0,
+          "username": "ynxxx_jjkk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065448825565905169",
+    "in_reply_to_user_id": "2055521229625262080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065448467846385875",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ynxxx_jjkk 我覺得好吃😋化凍一點更好吃！以前還有莓果的但是現在只剩芒果跟藍莓"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2065445030991659017",
+        "created_at": "2026-06-12T14:59:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T15:59:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065448825565905169"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2055521229625262080",
+              "start": 0,
+              "username": "ynxxx_jjkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065448825565905169",
+        "in_reply_to_user_id": "2055521229625262080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065448467846385875",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ynxxx_jjkk 我覺得好吃😋化凍一點更好吃！以前還有莓果的但是現在只剩芒果跟藍莓"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055521229625262080",
+        "conversation_id": "2065445030991659017",
+        "created_at": "2026-06-12T14:57:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T15:57:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065448467846385875"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1536716629505359872",
+              "start": 0,
+              "username": "cigsafterdrug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065448467846385875",
+        "in_reply_to_user_id": "1536716629505359872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065445030991659017",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cigsafterdrug 这个好吃吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 471,
+          "following_count": 426,
+          "like_count": 28552,
+          "listed_count": 0,
+          "media_count": 152,
+          "tweet_count": 2579
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-16T05:30:39.000Z",
+        "description": "我的随笔病历本。\n前两个号都被封了，这是我的3.0",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xxxynyn",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xxxynyn",
+                "start": 0,
+                "url": "https://t.co/R72PhVmJRy"
+              }
+            ]
+          }
+        },
+        "id": "2055521229625262080",
+        "name": "旖旎3.0",
+        "pinned_tweet_id": "2062970664160809111",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055521656643502080/L8pEAvzr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 257,
+          "following_count": 194,
+          "like_count": 468,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 151
+        },
+        "url": "https://t.co/R72PhVmJRy",
+        "username": "ynxxx_jjkk",
+        "verified": false
+      }
+    ]
+  }
+}

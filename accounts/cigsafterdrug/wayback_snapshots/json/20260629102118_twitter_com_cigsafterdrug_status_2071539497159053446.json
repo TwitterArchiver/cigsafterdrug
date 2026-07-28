@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070966674254172160"
+      ],
+      "media_source_tweet_id": [
+        "2070966677030715522"
+      ]
+    },
+    "author_id": "1536716629505359872",
+    "conversation_id": "2071539497159053446",
+    "created_at": "2026-06-29T10:21:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T11:21:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071539497159053446"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1292640148946116608",
+          "start": 3,
+          "username": "girlbot44"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nAGARt1Wjx",
+          "end": 68,
+          "expanded_url": "https://x.com/girlbot44/status/2070966677030715522/photo/1",
+          "media_key": "3_2070966674254172160",
+          "start": 45,
+          "url": "https://t.co/nAGARt1Wjx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071539497159053446",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1322
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070966677030715522",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @girlbot44: by @/multiplesocksmakingholes https://t.co/nAGARt1Wjx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 957,
+        "media_key": "3_2070966674254172160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL2NN8CXkAAjD-G.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070966674254172160"
+          ],
+          "media_source_tweet_id": [
+            "2070966677030715522"
+          ]
+        },
+        "author_id": "1536716629505359872",
+        "conversation_id": "2071539497159053446",
+        "created_at": "2026-06-29T10:21:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T11:21:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071539497159053446"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1292640148946116608",
+              "start": 3,
+              "username": "girlbot44"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nAGARt1Wjx",
+              "end": 68,
+              "expanded_url": "https://x.com/girlbot44/status/2070966677030715522/photo/1",
+              "media_key": "3_2070966674254172160",
+              "start": 45,
+              "url": "https://t.co/nAGARt1Wjx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071539497159053446",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1322
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070966677030715522",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @girlbot44: by @/multiplesocksmakingholes https://t.co/nAGARt1Wjx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070966674254172160"
+          ]
+        },
+        "author_id": "1292640148946116608",
+        "conversation_id": "2070966677030715522",
+        "created_at": "2026-06-27T20:25:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T21:25:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070966677030715522"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nAGARt1Wjx",
+              "end": 53,
+              "expanded_url": "https://x.com/girlbot44/status/2070966677030715522/photo/1",
+              "media_key": "3_2070966674254172160",
+              "start": 30,
+              "url": "https://t.co/nAGARt1Wjx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070966677030715522",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 526,
+          "impression_count": 95406,
+          "like_count": 7291,
+          "quote_count": 72,
+          "reply_count": 13,
+          "retweet_count": 1322
+        },
+        "reply_settings": "everyone",
+        "text": "by @/multiplesocksmakingholes https://t.co/nAGARt1Wjx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 506,
+          "following_count": 459,
+          "like_count": 29379,
+          "listed_count": 0,
+          "media_count": 177,
+          "tweet_count": 2866
+        },
+        "url": "",
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-10T01:53:30.000Z",
+        "description": "Give me something I can feel",
+        "id": "1292640148946116608",
+        "name": "VILE✯",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035382918558978048/8H6g8510_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33750,
+          "following_count": 858,
+          "like_count": 31902,
+          "listed_count": 83,
+          "media_count": 1121,
+          "tweet_count": 4231
+        },
+        "url": "",
+        "username": "girlbot44",
+        "verified": false
+      }
+    ]
+  }
+}

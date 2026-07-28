@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2070018562396446806",
+    "created_at": "2026-06-25T07:18:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T08:18:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070043836538323239"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2027798393050066944",
+          "start": 0,
+          "username": "sushipancakenya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070043836538323239",
+    "in_reply_to_user_id": "2027798393050066944",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070028300928618956",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sushipancakenya 素服呀🤤"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2070028286336684032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLo3wkob0AASt4Z.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2070018562396446806",
+        "created_at": "2026-06-25T07:18:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T08:18:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070043836538323239"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2027798393050066944",
+              "start": 0,
+              "username": "sushipancakenya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070043836538323239",
+        "in_reply_to_user_id": "2027798393050066944",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070028300928618956",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sushipancakenya 素服呀🤤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070028286336684032"
+          ]
+        },
+        "author_id": "2027798393050066944",
+        "conversation_id": "2070018562396446806",
+        "created_at": "2026-06-25T06:16:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T07:16:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070028300928618956"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1536716629505359872",
+              "start": 0,
+              "username": "cigsafterdrug"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3ZsZGY9OIl",
+              "end": 44,
+              "expanded_url": "https://x.com/sushipancakenya/status/2070028300928618956/photo/1",
+              "media_key": "3_2070028286336684032",
+              "start": 21,
+              "url": "https://t.co/3ZsZGY9OIl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070028300928618956",
+        "in_reply_to_user_id": "1536716629505359872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070018562396446806",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cigsafterdrug 人之常情了 https://t.co/3ZsZGY9OIl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 506,
+          "following_count": 448,
+          "like_count": 29072,
+          "listed_count": 0,
+          "media_count": 171,
+          "tweet_count": 2805
+        },
+        "url": "",
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-28T17:29:56.000Z",
+        "description": "只是一块寿司在碎碎念 讨厌我请屏蔽我 互fo请私信｜提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/erisnya",
+                "end": 23,
+                "expanded_url": "https://ngl.link/erisnya",
+                "start": 0,
+                "url": "https://t.co/DOhxhLWAvb"
+              }
+            ]
+          }
+        },
+        "id": "2027798393050066944",
+        "location": "0.1km",
+        "name": "你等着寿司吧",
+        "pinned_tweet_id": "2069664288990773458",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033430781125853185/a34pX41y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 53,
+          "like_count": 239,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 486
+        },
+        "url": "https://t.co/DOhxhLWAvb",
+        "username": "sushipancakenya",
+        "verified": false
+      }
+    ]
+  }
+}

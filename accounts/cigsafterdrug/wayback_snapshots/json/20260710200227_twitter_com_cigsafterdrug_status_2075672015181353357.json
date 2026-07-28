@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2075620219725521272",
+    "created_at": "2026-07-10T20:02:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T21:02:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075672015181353357"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2069131894957191168",
+          "start": 0,
+          "username": "Hemlock_114"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075672015181353357",
+    "in_reply_to_user_id": "2069131894957191168",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075620219725521272",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hemlock_114 不需要理由 因為你是你所以喜歡你呀！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2075620219725521272",
+        "created_at": "2026-07-10T20:02:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T21:02:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075672015181353357"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2069131894957191168",
+              "start": 0,
+              "username": "Hemlock_114"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075672015181353357",
+        "in_reply_to_user_id": "2069131894957191168",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075620219725521272",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hemlock_114 不需要理由 因為你是你所以喜歡你呀！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2069131894957191168",
+        "conversation_id": "2075620219725521272",
+        "created_at": "2026-07-10T16:36:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T17:36:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075620219725521272"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075620219725521272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "你们为啥喜欢我 自认为脾气是真的越来越差了 长得也不算好看 还胖 平时也不咋搭理人 我真不理解 气死我了学校那傻逼老师还在那说我态度差 你个神经病哪来的资格说我 我真想一脚给她踹飞 死矮冬瓜长又丑穿得又丑 更年期一样 天天让人尊重她 傻逼 你死得快也不代表我要尊重你好吧 都是人 怎么你难道不是人吗 还自以为高人一等啊"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 271,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们为啥喜欢我 自认为脾气是真的越来越差了 长得也不算好看 还胖 平时也不咋搭理人 我真不理解 气死我了学校那傻逼老师还在那说我态度差 你个神经病哪来的资格说我 我真想一脚给她踹飞 死矮冬瓜长又丑穿得又丑 更年期一样 天天让人尊重她 傻逼 你死得快也不代表我要尊重你好吧 都是人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2070816356862431619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 515,
+          "following_count": 465,
+          "like_count": 30577,
+          "listed_count": 0,
+          "media_count": 192,
+          "tweet_count": 3008
+        },
+        "url": "",
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-22T18:56:04.000Z",
+        "description": "🇭🇰 10 单机透明人🍋\noder｜🩸｜碎碎念｜小作文\n前世@Hemlock_113 (´；ω；｀)\n害怕社交 社交恐惧 只互fo同类",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 30,
+                "username": "Hemlock_113"
+              }
+            ]
+          }
+        },
+        "id": "2069131894957191168",
+        "name": "凝檬_☆2.0",
+        "pinned_tweet_id": "2069139098594611364",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069134933218705408/DX0rO-YL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 396,
+          "following_count": 106,
+          "like_count": 234,
+          "listed_count": 2,
+          "media_count": 23,
+          "tweet_count": 356
+        },
+        "url": "",
+        "username": "Hemlock_114",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2061919031095918983",
+    "created_at": "2026-06-03T04:44:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T05:44:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062032703130886508"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1863233896403628033",
+          "start": 0,
+          "username": "dontweepalone"
+        },
+        {
+          "end": 26,
+          "id": "1942368986051796992",
+          "start": 15,
+          "username": "CunZai1069"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062032703130886508",
+    "in_reply_to_user_id": "1863233896403628033",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061919031095918983",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dontweepalone @CunZai1069 晚安"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2061919031095918983",
+        "created_at": "2026-06-03T04:44:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T05:44:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062032703130886508"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1863233896403628033",
+              "start": 0,
+              "username": "dontweepalone"
+            },
+            {
+              "end": 26,
+              "id": "1942368986051796992",
+              "start": 15,
+              "username": "CunZai1069"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062032703130886508",
+        "in_reply_to_user_id": "1863233896403628033",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061919031095918983",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dontweepalone @CunZai1069 晚安"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1863233896403628033",
+        "conversation_id": "2061919031095918983",
+        "created_at": "2026-06-02T21:13:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T22:13:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061919031095918983"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061919031095918983",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 15283,
+          "like_count": 213,
+          "quote_count": 2,
+          "reply_count": 138,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "【定时】\n发出来了大概就是成功了。\n在这个时间点紫砂没有特别的原因，只是因为我买到药了，因为我终于触到了死亡的边缘。遗书在一个月前已经写好。而这场自杀，我等待了六年。\n作出死亡的决定就如同决定去睡觉一样容易。\n一切都结束了，晚安。不会再有噩梦了。\n祝我好似。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 441,
+          "following_count": 417,
+          "like_count": 27748,
+          "listed_count": 0,
+          "media_count": 139,
+          "tweet_count": 2383
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-01T14:49:35.000Z",
+        "description": "@mnweeper二世\nINFP｜4w5｜06｜agender(they)｜lgbtqa+全友好｜acearo｜精神障碍｜shtwt｜欢迎互fo^_^\nWelcome to my funeral.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "mnweeper"
+              }
+            ]
+          }
+        },
+        "id": "1863233896403628033",
+        "name": "Mnweeper_",
+        "pinned_tweet_id": "2056418972074143974",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056418645686063104/2L0qxg8O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 75,
+          "like_count": 658,
+          "listed_count": 2,
+          "media_count": 8,
+          "tweet_count": 103
+        },
+        "username": "dontweepalone",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-07T23:44:03.000Z",
+        "description": "臭敲代码的 | INTP | 中抑重焦, 貌似还在恶化🙃。喜欢画画和编曲，可以和我私信交流，看到就会回复的！个人网站https://t.co/jvcfxxDPos但是目前还在搭建中……",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "cun-zai.com",
+                "end": 81,
+                "expanded_url": "https://www.cun-zai.com",
+                "start": 58,
+                "url": "https://t.co/jvcfxxDPos"
+              }
+            ]
+          }
+        },
+        "id": "1942368986051796992",
+        "name": "存存之王",
+        "pinned_tweet_id": "2059246921689268487",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043509872428490752/r5DJT75y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 961,
+          "following_count": 1175,
+          "like_count": 3582,
+          "listed_count": 3,
+          "media_count": 66,
+          "tweet_count": 1082
+        },
+        "username": "CunZai1069",
+        "verified": false
+      }
+    ]
+  }
+}

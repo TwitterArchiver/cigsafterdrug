@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2066148316166119530",
+    "created_at": "2026-06-14T14:10:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T15:10:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066161466139725909"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2053707183427366912",
+          "start": 0,
+          "username": "meyu_121"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066161466139725909",
+    "in_reply_to_user_id": "2053707183427366912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066148316166119530",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@meyu_121 可以找大陸轉運倉"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 815,
+        "media_key": "3_2066148313767051265",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKxu8cdbgAEy3uC.jpg",
+        "width": 631
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2066148316166119530",
+        "created_at": "2026-06-14T14:10:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T15:10:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066161466139725909"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2053707183427366912",
+              "start": 0,
+              "username": "meyu_121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066161466139725909",
+        "in_reply_to_user_id": "2053707183427366912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066148316166119530",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meyu_121 可以找大陸轉運倉"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066148313767051265"
+          ]
+        },
+        "author_id": "2053707183427366912",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2066148316166119530",
+        "created_at": "2026-06-14T13:18:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T14:18:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066148316166119530"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZR4LbQbBRs",
+              "end": 31,
+              "expanded_url": "https://x.com/meyu_121/status/2066148316166119530/photo/1",
+              "media_key": "3_2066148313767051265",
+              "start": 8,
+              "url": "https://t.co/ZR4LbQbBRs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066148316166119530",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "香港不可配送。 https://t.co/ZR4LbQbBRs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 478,
+          "following_count": 432,
+          "like_count": 28746,
+          "listed_count": 0,
+          "media_count": 157,
+          "tweet_count": 2651
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-11T05:22:11.000Z",
+        "description": "HongKong🇭🇰∥ㅤod 割手手ㅤ∥ㅤㅤㅤㅤ神聖かまってちゃん 李志 beyondㅤ∥ㅤ愛人 @xuanying114514\nㅤ∥rip @Yume_121_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "xuanying114514"
+              },
+              {
+                "end": 81,
+                "start": 71,
+                "username": "Yume_121_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@yume121_kawa?…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@yume121_kawa?si=Kvl_r-M9N3u6C4DA",
+                "start": 0,
+                "url": "https://t.co/uYCcZZSV0n"
+              }
+            ]
+          }
+        },
+        "id": "2053707183427366912",
+        "location": "まいちゃん全部ゆめ",
+        "name": "Yumeかまってちゃん🎸",
+        "pinned_tweet_id": "2053715766537814126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065306748194631680/YoHLf35n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 175,
+          "like_count": 349,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 318
+        },
+        "url": "https://t.co/uYCcZZSV0n",
+        "username": "meyu_121",
+        "verified": false
+      }
+    ]
+  }
+}

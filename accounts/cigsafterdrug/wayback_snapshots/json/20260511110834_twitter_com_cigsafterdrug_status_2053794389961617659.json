@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2053734642046668801"
+      ],
+      "media_source_tweet_id": [
+        "2053734747025924547"
+      ]
+    },
+    "author_id": "1536716629505359872",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2053794389961617659",
+    "created_at": "2026-05-11T11:08:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T12:08:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053794389961617659"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2047984704046149632",
+          "start": 3,
+          "username": "maisuri_zenbu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bW3tD2V6YT",
+          "end": 46,
+          "expanded_url": "https://x.com/maisuri_zenbu/status/2053734747025924547/video/1",
+          "media_key": "13_2053734642046668801",
+          "start": 23,
+          "url": "https://t.co/bW3tD2V6YT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053794389961617659",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 64
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053734747025924547",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @maisuri_zenbu: 🌊🚲🐼 https://t.co/bW3tD2V6YT"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 33591,
+        "height": 630,
+        "media_key": "13_2053734642046668801",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2053734642046668801/img/pdqL-RmfrYx9FVHN.jpg",
+        "public_metrics": {
+          "view_count": 4036
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2053734642046668801/vid/avc1/504x270/1K8CwZO_kLzIpBVG.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2053734642046668801/vid/avc1/674x360/0YOlGbnH2KkTubJE.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2053734642046668801/vid/avc1/1180x630/_26WmsRDBhFfXOpT.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2053734642046668801/pl/fLXhDg2WqB_rOmcs.m3u8?v=cfc"
+          }
+        ],
+        "width": 1180
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2053734642046668801"
+          ],
+          "media_source_tweet_id": [
+            "2053734747025924547"
+          ]
+        },
+        "author_id": "1536716629505359872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2053794389961617659",
+        "created_at": "2026-05-11T11:08:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T12:08:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053794389961617659"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2047984704046149632",
+              "start": 3,
+              "username": "maisuri_zenbu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bW3tD2V6YT",
+              "end": 46,
+              "expanded_url": "https://x.com/maisuri_zenbu/status/2053734747025924547/video/1",
+              "media_key": "13_2053734642046668801",
+              "start": 23,
+              "url": "https://t.co/bW3tD2V6YT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053794389961617659",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 64
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053734747025924547",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @maisuri_zenbu: 🌊🚲🐼 https://t.co/bW3tD2V6YT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2053734642046668801"
+          ]
+        },
+        "author_id": "2047984704046149632",
+        "conversation_id": "2053734747025924547",
+        "created_at": "2026-05-11T07:11:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T08:11:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053734747025924547"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bW3tD2V6YT",
+              "end": 27,
+              "expanded_url": "https://x.com/maisuri_zenbu/status/2053734747025924547/video/1",
+              "media_key": "13_2053734642046668801",
+              "start": 4,
+              "url": "https://t.co/bW3tD2V6YT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053734747025924547",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 77,
+          "impression_count": 11594,
+          "like_count": 491,
+          "quote_count": 7,
+          "reply_count": 1,
+          "retweet_count": 64
+        },
+        "reply_settings": "everyone",
+        "text": "🌊🚲🐼 https://t.co/bW3tD2V6YT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 415,
+          "following_count": 391,
+          "like_count": 24693,
+          "listed_count": 0,
+          "media_count": 124,
+          "tweet_count": 2062
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-25T10:24:21.000Z",
+        "description": "神聖かまってちゃん",
+        "id": "2047984704046149632",
+        "location": "🇰🇷",
+        "name": "マイスリー",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048518333130276864/Nuu2ZCQs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 102,
+          "like_count": 2211,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 223
+        },
+        "username": "maisuri_zenbu",
+        "verified": false
+      }
+    ]
+  }
+}

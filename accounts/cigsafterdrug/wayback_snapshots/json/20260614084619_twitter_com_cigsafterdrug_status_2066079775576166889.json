@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066079770421415936"
+      ]
+    },
+    "author_id": "1536716629505359872",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2066079775576166889",
+    "created_at": "2026-06-14T08:46:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T09:46:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066079775576166889"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+          "display_url": "infinitetweet.me/interaction-ci…",
+          "end": 40,
+          "expanded_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+          "images": [
+            {
+              "height": 1884,
+              "url": "https://pbs.twimg.com/news_img/2063850851077345280/jtdMrF_N?format=jpg&name=orig",
+              "width": 3600
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2063850851077345280/jtdMrF_N?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 17,
+          "status": 200,
+          "title": "Interaction Circle • Infinitweet",
+          "unwound_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+          "url": "https://t.co/BHn3znr27u"
+        },
+        {
+          "display_url": "pic.x.com/9ZJ8EvxbOg",
+          "end": 64,
+          "expanded_url": "https://x.com/cigsafterdrug/status/2066079775576166889/photo/1",
+          "media_key": "3_2066079770421415936",
+          "start": 41,
+          "url": "https://t.co/9ZJ8EvxbOg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066079775576166889",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的Twitter互动圈\n\n➡️ https://t.co/BHn3znr27u https://t.co/9ZJ8EvxbOg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2066079770421415936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKwwmsmW0AACcmn.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066079770421415936"
+          ]
+        },
+        "author_id": "1536716629505359872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2066079775576166889",
+        "created_at": "2026-06-14T08:46:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T09:46:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066079775576166889"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinitetweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2063850851077345280/jtdMrF_N?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2063850851077345280/jtdMrF_N?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/BHn3znr27u"
+            },
+            {
+              "display_url": "pic.x.com/9ZJ8EvxbOg",
+              "end": 64,
+              "expanded_url": "https://x.com/cigsafterdrug/status/2066079775576166889/photo/1",
+              "media_key": "3_2066079770421415936",
+              "start": 41,
+              "url": "https://t.co/9ZJ8EvxbOg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066079775576166889",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/BHn3znr27u https://t.co/9ZJ8EvxbOg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 473,
+          "following_count": 426,
+          "like_count": 28692,
+          "listed_count": 0,
+          "media_count": 156,
+          "tweet_count": 2624
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      }
+    ]
+  }
+}

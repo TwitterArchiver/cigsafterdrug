@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2065331949116575752",
+    "created_at": "2026-06-12T17:14:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T18:14:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065482849067905073"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1510243706347028482",
+          "start": 0,
+          "username": "Qyunachii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065482849067905073",
+    "in_reply_to_user_id": "1510243706347028482",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065482272472752215",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Qyunachii 🤤🤤🤤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2065331949116575752",
+        "created_at": "2026-06-12T17:14:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T18:14:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065482849067905073"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1510243706347028482",
+              "start": 0,
+              "username": "Qyunachii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065482849067905073",
+        "in_reply_to_user_id": "1510243706347028482",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065482272472752215",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Qyunachii 🤤🤤🤤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510243706347028482",
+        "conversation_id": "2065331949116575752",
+        "created_at": "2026-06-12T17:12:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T18:12:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065482272472752215"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1536716629505359872",
+              "start": 0,
+              "username": "cigsafterdrug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065482272472752215",
+        "in_reply_to_user_id": "1536716629505359872",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065331949116575752",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cigsafterdrug o趴果奶要要要"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 472,
+          "following_count": 426,
+          "like_count": 28570,
+          "listed_count": 0,
+          "media_count": 152,
+          "tweet_count": 2590
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-02T13:12:25.000Z",
+        "description": "如果觉得被冒犯了那是我的猫发的，它有四个爪子打字比我快。如果你讨厌アトラス那我们就是好朋友，真的超级超级喜欢哈姆子@Chiqyuna",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Chiqyuna"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chiqyuna",
+                "end": 23,
+                "expanded_url": "https://ngl.link/chiqyuna",
+                "start": 0,
+                "url": "https://t.co/MzdDuzes1D"
+              }
+            ]
+          }
+        },
+        "id": "1510243706347028482",
+        "location": "四軒茶屋",
+        "name": "ツ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047131412747444224/nLWdoqbB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211,
+          "following_count": 449,
+          "like_count": 7010,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 2022
+        },
+        "url": "https://t.co/MzdDuzes1D",
+        "username": "Qyunachii",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2069667319387976043",
+    "created_at": "2026-06-24T18:01:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T19:01:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069843291672301777"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2066080690438123520",
+          "start": 0,
+          "username": "Seviraine"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069843291672301777",
+    "in_reply_to_user_id": "2066080690438123520",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069821596995571778",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Seviraine 耐你喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2069667319387976043",
+        "created_at": "2026-06-24T18:01:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T19:01:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069843291672301777"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2066080690438123520",
+              "start": 0,
+              "username": "Seviraine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069843291672301777",
+        "in_reply_to_user_id": "2066080690438123520",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069821596995571778",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Seviraine 耐你喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066080690438123520",
+        "conversation_id": "2069667319387976043",
+        "created_at": "2026-06-24T16:34:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T17:34:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069821596995571778"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1536716629505359872",
+              "start": 0,
+              "username": "cigsafterdrug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069821596995571778",
+        "in_reply_to_user_id": "1536716629505359872",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069667319387976043",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cigsafterdrug 恭喜回归！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 506,
+          "following_count": 447,
+          "like_count": 29029,
+          "listed_count": 0,
+          "media_count": 168,
+          "tweet_count": 2795
+        },
+        "url": "",
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-14T09:01:23.000Z",
+        "description": "=mimi 欢迎互fo直fo丨我爱地域黑辱男辱女丨od自伤丨餐券丨我是一个精神病 放下屠刀立地成佛你把手机摔了我就死了我只是一个精神病 网蛆 祝您早日活全家♡",
+        "id": "2066080690438123520",
+        "location": "直fo是想和你玩欢迎评论区互动呀",
+        "name": "Πика",
+        "pinned_tweet_id": "2066146607738061272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066085412012204032/RZx8QrMl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 228,
+          "like_count": 941,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 364
+        },
+        "url": "",
+        "username": "Seviraine",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2072178935383965703",
+    "created_at": "2026-07-01T04:42:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T05:42:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072178935383965703"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2072178935383965703",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "哈哈哈哈哈哈哈哈哈哈我妈说待会帮我收拾床我就把白兔和药盒提前放到出门的包里 然后呢，我妈就翻我包了然后翻到白兔和药盒了。\n哈哈哈哈哈哈再见了所有的白兔。白兔没了可以再买，我心疼的是我的钱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2072178935383965703",
+        "created_at": "2026-07-01T04:42:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T05:42:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072178935383965703"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072178935383965703",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哈哈哈哈哈哈哈哈哈哈我妈说待会帮我收拾床我就把白兔和药盒提前放到出门的包里 然后呢，我妈就翻我包了然后翻到白兔和药盒了。\n哈哈哈哈哈哈再见了所有的白兔。白兔没了可以再买，我心疼的是我的钱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2070816356862431619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 504,
+          "following_count": 457,
+          "like_count": 29472,
+          "listed_count": 0,
+          "media_count": 179,
+          "tweet_count": 2893
+        },
+        "url": "",
+        "username": "cigsafterdrug",
+        "verified": false
+      }
+    ]
+  }
+}

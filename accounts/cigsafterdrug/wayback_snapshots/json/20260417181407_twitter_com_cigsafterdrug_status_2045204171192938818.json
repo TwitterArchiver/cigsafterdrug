@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2045204171192938818",
+    "created_at": "2026-04-17T18:14:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T19:14:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045204171192938818"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2045022236201918465",
+          "start": 3,
+          "username": "cVPrL20wIa42392"
+        },
+        {
+          "end": 37,
+          "id": "1455784742922555395",
+          "start": 23,
+          "username": "lengcuicui119"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045204171192938818",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045026285047742517",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cVPrL20wIa42392: 一世@lengcuicui119因vpn IP波动被封了\n（已申诉）不知道能不能解开了，暂且先用这个，x对我来说就像树洞，我不能没有他，互fo慢回，谢谢大家🥺"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [lengcuicui119].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "lengcuicui119",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "lengcuicui119"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2045204171192938818",
+        "created_at": "2026-04-17T18:14:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T19:14:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045204171192938818"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2045022236201918465",
+              "start": 3,
+              "username": "cVPrL20wIa42392"
+            },
+            {
+              "end": 37,
+              "id": "1455784742922555395",
+              "start": 23,
+              "username": "lengcuicui119"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045204171192938818",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045026285047742517",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cVPrL20wIa42392: 一世@lengcuicui119因vpn IP波动被封了\n（已申诉）不知道能不能解开了，暂且先用这个，x对我来说就像树洞，我不能没有他，互fo慢回，谢谢大家🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045022236201918465",
+        "conversation_id": "2045026285047742517",
+        "created_at": "2026-04-17T06:27:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T07:27:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045026285047742517"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1455784742922555395",
+              "start": 2,
+              "username": "lengcuicui119"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045026285047742517",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2358,
+          "like_count": 76,
+          "quote_count": 0,
+          "reply_count": 26,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "一世@lengcuicui119因vpn IP波动被封了\n（已申诉）不知道能不能解开了，暂且先用这个，x对我来说就像树洞，我不能没有他，互fo慢回，谢谢大家🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 308,
+          "following_count": 328,
+          "like_count": 21562,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 1645
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-17T06:11:19.000Z",
+        "description": "白兔pr重度依赖，可以叫我小杀，od/不🔪🩸/致幻/不涉政/日语🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/分享点sex内容/药理学习中/二三涉/请自行避雷🥰/同类互fo（慢回怕号又崩了）/评论可能收不到，延迟回复抱歉，但请不要问我物质渠道，也不出售任何物质🙂‍↔️欢迎找我提问！！！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/0J0vv0Ub53"
+              }
+            ]
+          }
+        },
+        "id": "2045022236201918465",
+        "name": "山本殺し（二世互fo寻回版）",
+        "pinned_tweet_id": "2045026285047742517",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045022879562231808/TOsi7poo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 92,
+          "like_count": 47,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 45
+        },
+        "url": "https://t.co/0J0vv0Ub53",
+        "username": "cVPrL20wIa42392",
+        "verified": false
+      }
+    ]
+  }
+}

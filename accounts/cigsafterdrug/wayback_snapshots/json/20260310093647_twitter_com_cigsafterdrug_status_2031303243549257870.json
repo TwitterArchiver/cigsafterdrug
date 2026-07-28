@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2031030482931249479",
+    "created_at": "2026-03-10T09:36:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T10:36:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031303243549257870"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2028350488266330112",
+          "start": 0,
+          "username": "Rodea498703"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031303243549257870",
+    "in_reply_to_user_id": "2028350488266330112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031302295015796941",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rodea498703 www怎么投到50:50的啊喂！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2031030482931249479",
+        "created_at": "2026-03-10T09:36:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T10:36:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031303243549257870"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2028350488266330112",
+              "start": 0,
+              "username": "Rodea498703"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031303243549257870",
+        "in_reply_to_user_id": "2028350488266330112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031302295015796941",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rodea498703 www怎么投到50:50的啊喂！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028350488266330112",
+        "conversation_id": "2031030482931249479",
+        "created_at": "2026-03-10T09:33:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T10:33:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031302295015796941"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1536716629505359872",
+              "start": 0,
+              "username": "cigsafterdrug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031302295015796941",
+        "in_reply_to_user_id": "1536716629505359872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031030482931249479",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cigsafterdrug 好像两个都是要的意思"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026943929120444416/QS8rXF5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 159,
+          "like_count": 17629,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 801
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-02T06:03:51.000Z",
+        "description": "",
+        "id": "2028350488266330112",
+        "name": "Rodea",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028403907324518400/9kt8BgjM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 23,
+          "like_count": 18,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 24
+        },
+        "username": "Rodea498703",
+        "verified": false
+      }
+    ]
+  }
+}

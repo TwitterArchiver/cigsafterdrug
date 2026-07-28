@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2058257499099471904",
+    "created_at": "2026-05-25T10:38:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T11:38:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058860127718109625"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1445681460497694723",
+          "start": 0,
+          "username": "cryptochenrui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058860127718109625",
+    "in_reply_to_user_id": "1445681460497694723",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058813575553253622",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cryptochenrui 是这样🤤🤤😇😇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2058257499099471904",
+        "created_at": "2026-05-25T10:38:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T11:38:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058860127718109625"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1445681460497694723",
+              "start": 0,
+              "username": "cryptochenrui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058860127718109625",
+        "in_reply_to_user_id": "1445681460497694723",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058813575553253622",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cryptochenrui 是这样🤤🤤😇😇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1445681460497694723",
+        "conversation_id": "2058257499099471904",
+        "created_at": "2026-05-25T07:33:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T08:33:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058813575553253622"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1536716629505359872",
+              "start": 0,
+              "username": "cigsafterdrug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058813575553253622",
+        "in_reply_to_user_id": "1536716629505359872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058811197462556935",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cigsafterdrug 一块印花布没任何版型卖700。。。😅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 424,
+          "following_count": 404,
+          "like_count": 26540,
+          "listed_count": 0,
+          "media_count": 130,
+          "tweet_count": 2256
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-06T09:25:19.000Z",
+        "description": "这里是精神病和嗑药od频道.\n边缘人直fo。\n交易员频道是@chenrui2025",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 29,
+                "username": "chenrui2025"
+              }
+            ]
+          }
+        },
+        "id": "1445681460497694723",
+        "location": "南昌，湘赣鄂，长三角，珠三角",
+        "name": "relife栗子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034259613885796353/B-zmpLFS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 206,
+          "like_count": 9081,
+          "listed_count": 5,
+          "media_count": 126,
+          "tweet_count": 2203
+        },
+        "username": "cryptochenrui",
+        "verified": false
+      }
+    ]
+  }
+}

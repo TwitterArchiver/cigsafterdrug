@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2064282717781696610",
+    "created_at": "2026-06-09T12:30:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T13:30:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064324234432892995"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2047894021457211393",
+          "start": 0,
+          "username": "FanQie_QianQian"
+        },
+        {
+          "end": 28,
+          "id": "2055521229625262080",
+          "start": 17,
+          "username": "ynxxx_jjkk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064324234432892995",
+    "in_reply_to_user_id": "2047894021457211393",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064282717781696610",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FanQie_QianQian @ynxxx_jjkk 18件麥樂雞🤤🤤🤤"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2064282707811844097",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKXOL4sbQAEEDJK.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2064282717781696610",
+        "created_at": "2026-06-09T12:30:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T13:30:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064324234432892995"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2047894021457211393",
+              "start": 0,
+              "username": "FanQie_QianQian"
+            },
+            {
+              "end": 28,
+              "id": "2055521229625262080",
+              "start": 17,
+              "username": "ynxxx_jjkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064324234432892995",
+        "in_reply_to_user_id": "2047894021457211393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064282717781696610",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FanQie_QianQian @ynxxx_jjkk 18件麥樂雞🤤🤤🤤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064282707811844097"
+          ]
+        },
+        "author_id": "2047894021457211393",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2064282717781696610",
+        "created_at": "2026-06-09T09:45:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T10:45:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064282717781696610"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2055521229625262080",
+              "start": 0,
+              "username": "ynxxx_jjkk"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/g5I8itehCa",
+              "end": 88,
+              "expanded_url": "https://x.com/FanQie_QianQian/status/2064282717781696610/photo/1",
+              "media_key": "3_2064282707811844097",
+              "start": 65,
+              "url": "https://t.co/g5I8itehCa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064282717781696610",
+        "in_reply_to_user_id": "2055521229625262080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 67,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@ynxxx_jjkk \n旖旎醬抽到了想要的杯子超開心\n然後那個薯條盒子換新包裝了好好玩\n旖旎醬居然覺得wow醬好吃。\n我佛了。 https://t.co/g5I8itehCa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 460,
+          "following_count": 421,
+          "like_count": 28284,
+          "listed_count": 0,
+          "media_count": 144,
+          "tweet_count": 2510
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-25T04:22:51.000Z",
+        "description": "重生之8.0\n11年 順女 LGBTQ全友好 前世互關尋回\n另一個我@_FanQie11_\n寶寶 @7q46843886669",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "_FanQie11_"
+              },
+              {
+                "end": 63,
+                "start": 49,
+                "username": "7q46843886669"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_1",
+                "start": 0,
+                "url": "https://t.co/JbrJBgq8ZL"
+              }
+            ]
+          }
+        },
+        "id": "2047894021457211393",
+        "name": "飯企鵝8.0",
+        "pinned_tweet_id": "2051753420537954589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057140948434649088/mo_BXY2p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 702,
+          "following_count": 46,
+          "like_count": 1571,
+          "listed_count": 1,
+          "media_count": 57,
+          "tweet_count": 696
+        },
+        "url": "https://t.co/JbrJBgq8ZL",
+        "username": "FanQie_QianQian",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-16T05:30:39.000Z",
+        "description": "我的病历本。\n\n我前两个号都被封了，这是我的3.0",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xxxynyn",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xxxynyn",
+                "start": 0,
+                "url": "https://t.co/R72PhVmJRy"
+              }
+            ]
+          }
+        },
+        "id": "2055521229625262080",
+        "name": "旖旎3.0",
+        "pinned_tweet_id": "2062970664160809111",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055521656643502080/L8pEAvzr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 158,
+          "like_count": 161,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 73
+        },
+        "url": "https://t.co/R72PhVmJRy",
+        "username": "ynxxx_jjkk",
+        "verified": false
+      }
+    ]
+  }
+}

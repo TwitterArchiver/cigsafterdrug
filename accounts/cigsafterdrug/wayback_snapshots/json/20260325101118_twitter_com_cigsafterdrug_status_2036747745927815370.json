@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2036725673835036675",
+    "created_at": "2026-03-25T10:11:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T11:11:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036747745927815370"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2014723682548224000",
+          "start": 0,
+          "username": "FanQie_CaoDamn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036747745927815370",
+    "in_reply_to_user_id": "2014723682548224000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036746819527696400",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FanQie_CaoDamn 誒？！我不用啊。是最近才要用嗎？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2036725673835036675",
+        "created_at": "2026-03-25T10:11:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T11:11:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036747745927815370"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2014723682548224000",
+              "start": 0,
+              "username": "FanQie_CaoDamn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036747745927815370",
+        "in_reply_to_user_id": "2014723682548224000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036746819527696400",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FanQie_CaoDamn 誒？！我不用啊。是最近才要用嗎？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014723682548224000",
+        "conversation_id": "2036725673835036675",
+        "created_at": "2026-03-25T10:07:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T11:07:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036746819527696400"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1536716629505359872",
+              "start": 0,
+              "username": "cigsafterdrug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036746819527696400",
+        "in_reply_to_user_id": "1536716629505359872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036739677978522071",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cigsafterdrug 要處方）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026943929120444416/QS8rXF5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 296,
+          "following_count": 315,
+          "like_count": 19111,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 1239
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-23T15:35:47.000Z",
+        "description": "11年 友跨 順女 查成分回fo",
+        "id": "2014723682548224000",
+        "location": "🚪",
+        "name": "番茄操蛋5.0",
+        "pinned_tweet_id": "2034970612104667382",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031772724541157376/hd0rc-h1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 638,
+          "following_count": 402,
+          "like_count": 5595,
+          "listed_count": 0,
+          "media_count": 148,
+          "tweet_count": 1975
+        },
+        "username": "FanQie_CaoDamn",
+        "verified": false
+      }
+    ]
+  }
+}

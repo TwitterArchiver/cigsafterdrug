@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2045373433308209394",
+    "created_at": "2026-04-18T14:19:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T15:19:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045507509105148339"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1898308906994294784",
+          "start": 0,
+          "username": "TTBRAr12"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045507509105148339",
+    "in_reply_to_user_id": "1536716629505359872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045507442872901976",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TTBRAr12 一次别买太多就好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2045373433308209394",
+        "created_at": "2026-04-18T14:19:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T15:19:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045507509105148339"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1898308906994294784",
+              "start": 0,
+              "username": "TTBRAr12"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045507509105148339",
+        "in_reply_to_user_id": "1536716629505359872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045507442872901976",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TTBRAr12 一次别买太多就好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2045373433308209394",
+        "created_at": "2026-04-18T14:19:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T15:19:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045507442872901976"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1898308906994294784",
+              "start": 0,
+              "username": "TTBRAr12"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045507442872901976",
+        "in_reply_to_user_id": "1898308906994294784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045502920591065178",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TTBRAr12 我也不知道上限诶 老板只会问你买多少 比较正常的范围是2-3元一颗 一次内我只买过20/30颗 可以自己考虑一下"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 312,
+          "following_count": 328,
+          "like_count": 21659,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 1666
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-08T09:44:56.000Z",
+        "description": "",
+        "id": "1898308906994294784",
+        "name": "TTAR",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966263377233403904/aqrIK04U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 619,
+          "like_count": 4856,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 825
+        },
+        "username": "TTBRAr12",
+        "verified": false,
+        "withheld": {
+          "country_codes": [
+            "TR"
+          ]
+        }
+      }
+    ]
+  }
+}

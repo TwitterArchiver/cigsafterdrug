@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2025667823016751527",
+    "created_at": "2026-03-17T11:29:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T12:29:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033868363626320276"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1881345106512592897",
+          "start": 0,
+          "username": "gugugugu107905"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033868363626320276",
+    "in_reply_to_user_id": "1881345106512592897",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033864191833223283",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gugugugu107905 好哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2025667823016751527",
+        "created_at": "2026-03-17T11:29:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T12:29:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033868363626320276"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1881345106512592897",
+              "start": 0,
+              "username": "gugugugu107905"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033868363626320276",
+        "in_reply_to_user_id": "1881345106512592897",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033864191833223283",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gugugugu107905 好哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1881345106512592897",
+        "conversation_id": "2025667823016751527",
+        "created_at": "2026-03-17T11:13:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T12:13:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033864191833223283"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1536716629505359872",
+              "start": 0,
+              "username": "cigsafterdrug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033864191833223283",
+        "in_reply_to_user_id": "1536716629505359872",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025667823016751527",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cigsafterdrug 互关"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026943929120444416/QS8rXF5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 290,
+          "like_count": 18473,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 1083
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-20T14:16:55.000Z",
+        "description": "stuckInFuckinHell-人类观察所(Human Observation Organization HOO)前优秀员工/极度厌蠢厌巨婴厌NPD/来自地狱的躁狂兼职典狱长/梦想是创立自己的宗教/不参与价值交换/不擅长发表暴论/喜好猎奇的嗜血观众/金牌鉴黄师\n\n群星大爱，万象无垠。群星万象会现任主教",
+        "id": "1881345106512592897",
+        "location": "Human Observation Org",
+        "name": "Magni-Tanukyee🦝",
+        "pinned_tweet_id": "2033865155084489113",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014709878275657728/mRlHFfpY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 732,
+          "like_count": 1548,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 1380
+        },
+        "username": "gugugugu107905",
+        "verified": false
+      }
+    ]
+  }
+}

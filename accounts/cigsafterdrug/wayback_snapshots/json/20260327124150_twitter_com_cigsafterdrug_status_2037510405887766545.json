@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2037450583398125993",
+    "created_at": "2026-03-27T12:41:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T13:41:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037510405887766545"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1886385501130866688",
+          "start": 0,
+          "username": "Lomyral"
+        },
+        {
+          "end": 24,
+          "id": "1243590342911410176",
+          "start": 9,
+          "username": "bing2000100830"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037510405887766545",
+    "in_reply_to_user_id": "1886385501130866688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037505966015660299",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lomyral @bing2000100830 好细致！谢谢宝宝！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2037450583398125993",
+        "created_at": "2026-03-27T12:41:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T13:41:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037510405887766545"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1886385501130866688",
+              "start": 0,
+              "username": "Lomyral"
+            },
+            {
+              "end": 24,
+              "id": "1243590342911410176",
+              "start": 9,
+              "username": "bing2000100830"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037510405887766545",
+        "in_reply_to_user_id": "1886385501130866688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037505966015660299",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lomyral @bing2000100830 好细致！谢谢宝宝！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886385501130866688",
+        "conversation_id": "2037450583398125993",
+        "created_at": "2026-03-27T12:24:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T13:24:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037505966015660299"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1243590342911410176",
+              "start": 0,
+              "username": "bing2000100830"
+            },
+            {
+              "end": 30,
+              "id": "1536716629505359872",
+              "start": 16,
+              "username": "cigsafterdrug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037505966015660299",
+        "in_reply_to_user_id": "1243590342911410176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037504007464427579",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bing2000100830 @cigsafterdrug 红霉素因为可能会对胃部产生刺激造成恶心、呕吐所以一般都是肠溶胶囊，只有到达十二指肠才开始崩解、吸收，所以起效会比较慢，建议提前3-5h吃🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026943929120444416/QS8rXF5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 315,
+          "like_count": 19316,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 1300
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-03T12:05:49.000Z",
+        "description": "enby,he/they.泛性恋.日常推,除了碎碎念就没别的了.不贩卖任何东西.我不吸毒，别钓了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lomyral",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lomyral",
+                "start": 0,
+                "url": "https://t.co/ZWfkB4yLYI"
+              }
+            ]
+          }
+        },
+        "id": "1886385501130866688",
+        "location": "医院药房",
+        "name": "Lomyral",
+        "pinned_tweet_id": "2037008321446830236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888630778453729280/vZIfPLyg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 441,
+          "following_count": 435,
+          "like_count": 34034,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 3679
+        },
+        "url": "https://t.co/ZWfkB4yLYI",
+        "username": "Lomyral",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "🥲",
+        "id": "1243590342911410176",
+        "location": "月球",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030176214581964800/ytEL2-pP_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 707,
+          "like_count": 22778,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 1393
+        },
+        "username": "bing2000100830",
+        "verified": false
+      }
+    ]
+  }
+}

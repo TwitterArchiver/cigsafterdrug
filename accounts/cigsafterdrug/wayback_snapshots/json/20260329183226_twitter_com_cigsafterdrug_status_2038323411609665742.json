@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2038191862616625285",
+    "created_at": "2026-03-29T18:32:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T19:32:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038323411609665742"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1977492000493481984",
+          "start": 0,
+          "username": "jcy19950601"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038323411609665742",
+    "in_reply_to_user_id": "1977492000493481984",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038274035209884019",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jcy19950601 fo啦！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2038191862616625285",
+        "created_at": "2026-03-29T18:32:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T19:32:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038323411609665742"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1977492000493481984",
+              "start": 0,
+              "username": "jcy19950601"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038323411609665742",
+        "in_reply_to_user_id": "1977492000493481984",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038274035209884019",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jcy19950601 fo啦！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1977492000493481984",
+        "conversation_id": "2038191862616625285",
+        "created_at": "2026-03-29T15:16:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T16:16:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038274035209884019"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1536716629505359872",
+              "start": 0,
+              "username": "cigsafterdrug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038274035209884019",
+        "in_reply_to_user_id": "1536716629505359872",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038191862616625285",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cigsafterdrug 申请"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026943929120444416/QS8rXF5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 300,
+          "following_count": 318,
+          "like_count": 19510,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 1327
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-12T21:50:33.000Z",
+        "description": "这条苦海无涯我已双脚踏上｜上网只为了缓解/发泄情绪｜互fo欢迎",
+        "id": "1977492000493481984",
+        "name": "野火",
+        "pinned_tweet_id": "2037778521175568616",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037786916549013504/wboQaIAE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 62,
+          "like_count": 1131,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 443
+        },
+        "username": "jcy19950601",
+        "verified": false
+      }
+    ]
+  }
+}

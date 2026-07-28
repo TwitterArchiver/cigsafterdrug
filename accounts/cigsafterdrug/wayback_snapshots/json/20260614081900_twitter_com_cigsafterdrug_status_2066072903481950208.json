@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2065993474454011977",
+    "created_at": "2026-06-14T08:19:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T09:19:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066072903481950208"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1910629733785870336",
+          "start": 0,
+          "username": "ji_chu25601"
+        },
+        {
+          "end": 25,
+          "id": "1995074945429458944",
+          "start": 13,
+          "username": "mizuiro3144"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066072903481950208",
+    "in_reply_to_user_id": "1910629733785870336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065993474454011977",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ji_chu25601 @mizuiro3144 流泪的眼睛 好美🥹"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2065993472138727424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKviHeca0AAyidT.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2065993474454011977",
+        "created_at": "2026-06-14T08:19:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T09:19:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066072903481950208"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1910629733785870336",
+              "start": 0,
+              "username": "ji_chu25601"
+            },
+            {
+              "end": 25,
+              "id": "1995074945429458944",
+              "start": 13,
+              "username": "mizuiro3144"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066072903481950208",
+        "in_reply_to_user_id": "1910629733785870336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065993474454011977",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ji_chu25601 @mizuiro3144 流泪的眼睛 好美🥹"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065993472138727424"
+          ]
+        },
+        "author_id": "1910629733785870336",
+        "conversation_id": "2065993474454011977",
+        "created_at": "2026-06-14T03:03:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T04:03:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065993474454011977"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RXGsu2TDYe",
+              "end": 26,
+              "expanded_url": "https://x.com/ji_chu25601/status/2065993474454011977/photo/1",
+              "media_key": "3_2065993472138727424",
+              "start": 3,
+              "url": "https://t.co/RXGsu2TDYe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065993474454011977",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 185,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "很美 https://t.co/RXGsu2TDYe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 473,
+          "following_count": 425,
+          "like_count": 28673,
+          "listed_count": 0,
+          "media_count": 154,
+          "tweet_count": 2620
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-11T09:43:30.000Z",
+        "description": "(欢迎互fo有点卡成分)ip广州",
+        "id": "1910629733785870336",
+        "name": "精神活性物质",
+        "pinned_tweet_id": "2065648226682929507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060801794629062656/Mmf_CC7s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 108,
+          "like_count": 90,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 418
+        },
+        "username": "ji_chu25601",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-30T10:18:40.000Z",
+        "description": "05/长发蝻/双相/od/🔪/广州。",
+        "id": "1995074945429458944",
+        "location": "Hong Kong",
+        "name": "mizuiro",
+        "pinned_tweet_id": "2020176354403307815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995075507378110464/FrPunWsV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 334,
+          "like_count": 4351,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1363
+        },
+        "username": "mizuiro3144",
+        "verified": false
+      }
+    ]
+  }
+}

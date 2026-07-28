@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2059607217847116278",
+    "created_at": "2026-05-27T19:34:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T20:34:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059719839087034874"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1672613612098293761",
+          "start": 0,
+          "username": "yi_smokq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059719839087034874",
+    "in_reply_to_user_id": "1672613612098293761",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059607217847116278",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yi_smokq 羨慕了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2059607211564040192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJUx2L4bgAA7m2V.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2059607217847116278",
+        "created_at": "2026-05-27T19:34:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T20:34:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059719839087034874"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1672613612098293761",
+              "start": 0,
+              "username": "yi_smokq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059719839087034874",
+        "in_reply_to_user_id": "1672613612098293761",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059607217847116278",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yi_smokq 羨慕了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059607211564040192"
+          ]
+        },
+        "author_id": "1672613612098293761",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2059607217847116278",
+        "created_at": "2026-05-27T12:06:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T13:06:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059607217847116278"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "右美沙芬"
+            },
+            {
+              "end": 9,
+              "start": 6,
+              "tag": "od"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JswXOedYfT",
+              "end": 33,
+              "expanded_url": "https://x.com/yi_smokq/status/2059607217847116278/photo/1",
+              "media_key": "3_2059607211564040192",
+              "start": 10,
+              "url": "https://t.co/JswXOedYfT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059607217847116278",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2170,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#右美沙芬 #od https://t.co/JswXOedYfT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 432,
+          "following_count": 411,
+          "like_count": 27072,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 2303
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-24T14:32:22.000Z",
+        "description": "od ed 自残 爸爸活I 平胸hate this world. 问废话一律不回 09年 @sammy52_0萌萌的小女孩😋",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 45,
+                "username": "sammy52_0"
+              }
+            ]
+          }
+        },
+        "id": "1672613612098293761",
+        "location": "🚪88/288/520/1314",
+        "name": "清",
+        "pinned_tweet_id": "2038663240943800717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057485693660930048/Fo6uKP_F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1103,
+          "following_count": 44,
+          "like_count": 1352,
+          "listed_count": 1,
+          "media_count": 78,
+          "tweet_count": 793
+        },
+        "username": "yi_smokq",
+        "verified": false
+      }
+    ]
+  }
+}

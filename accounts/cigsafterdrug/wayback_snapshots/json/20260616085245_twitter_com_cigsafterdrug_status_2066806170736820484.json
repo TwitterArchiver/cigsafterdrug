@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2066806170736820484",
+    "created_at": "2026-06-16T08:52:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T09:52:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066806170736820484"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/cigsafterdrug/…",
+          "end": 50,
+          "expanded_url": "https://twitter.com/cigsafterdrug/status/2066804236827148408",
+          "start": 27,
+          "url": "https://t.co/CG4ptkVoVK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066806170736820484",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066804236827148408",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "笑死我了我找不到給我嚇醒了然後找到了不過剩幾支 哭了 https://t.co/CG4ptkVoVK"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2066806170736820484",
+        "created_at": "2026-06-16T08:52:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T09:52:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066806170736820484"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cigsafterdrug/…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/cigsafterdrug/status/2066804236827148408",
+              "start": 27,
+              "url": "https://t.co/CG4ptkVoVK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066806170736820484",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066804236827148408",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "笑死我了我找不到給我嚇醒了然後找到了不過剩幾支 哭了 https://t.co/CG4ptkVoVK"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2066804236827148408",
+        "created_at": "2026-06-16T08:45:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T09:45:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066804236827148408"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066804236827148408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的黑魔鬼沒啦😭😭😭😭😭在最想吃的時候發現沒了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 490,
+          "following_count": 434,
+          "like_count": 28936,
+          "listed_count": 0,
+          "media_count": 162,
+          "tweet_count": 2730
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      }
+    ]
+  }
+}

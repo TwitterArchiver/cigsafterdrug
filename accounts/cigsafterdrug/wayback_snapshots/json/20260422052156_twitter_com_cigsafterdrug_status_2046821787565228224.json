@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2046796163668693483",
+    "created_at": "2026-04-22T05:21:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T06:21:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046821787565228224"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1847712034361659392",
+          "start": 0,
+          "username": "huaxuejilebaike"
+        },
+        {
+          "end": 30,
+          "id": "2030832351656493056",
+          "start": 17,
+          "username": "Suintouhea2t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046821787565228224",
+    "in_reply_to_user_id": "1847712034361659392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046796163668693483",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huaxuejilebaike @Suintouhea2t 10086秒后复活"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2046796163668693483",
+        "created_at": "2026-04-22T05:21:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T06:21:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046821787565228224"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1847712034361659392",
+              "start": 0,
+              "username": "huaxuejilebaike"
+            },
+            {
+              "end": 30,
+              "id": "2030832351656493056",
+              "start": 17,
+              "username": "Suintouhea2t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046821787565228224",
+        "in_reply_to_user_id": "1847712034361659392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046796163668693483",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huaxuejilebaike @Suintouhea2t 10086秒后复活"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1847712034361659392",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2046796163668693483",
+        "created_at": "2026-04-22T03:40:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T04:40:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046796163668693483"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046796163668693483",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 7523,
+          "like_count": 106,
+          "quote_count": 31,
+          "reply_count": 59,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "讣告\n化学极乐百科的wiki主sakura（鸡哥）\n真名董晗\n2026年4月19日下午3点20分，sakura因愈美片普瑞巴林药物过量后坠楼死亡，目前他妈妈接的电话，已确认\n此账号将由Meng管理\n沉重悼念"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324,
+          "following_count": 338,
+          "like_count": 22190,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 1743
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-19T18:51:20.000Z",
+        "description": "官网：https://t.co/DF7NTAL0F9 TG交流群：https://t.co/ngKDwwK3ao DC交流群：https://t.co/Zb0fsL464g",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "jile.bid",
+                "end": 26,
+                "expanded_url": "http://jile.bid",
+                "start": 3,
+                "url": "https://t.co/DF7NTAL0F9"
+              },
+              {
+                "display_url": "t.me/weizhanersheng…",
+                "end": 56,
+                "expanded_url": "http://t.me/weizhanersheng666",
+                "start": 33,
+                "url": "https://t.co/ngKDwwK3ao"
+              },
+              {
+                "display_url": "discord.gg/XmNt8AXCEb",
+                "end": 86,
+                "expanded_url": "http://discord.gg/XmNt8AXCEb",
+                "start": 63,
+                "url": "https://t.co/Zb0fsL464g"
+              }
+            ]
+          }
+        },
+        "id": "1847712034361659392",
+        "name": "化学极乐百科⚛️",
+        "pinned_tweet_id": "2043905280967397423",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046789084790890496/tu0DxovY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1363,
+          "following_count": 912,
+          "like_count": 24159,
+          "listed_count": 2,
+          "media_count": 376,
+          "tweet_count": 2834
+        },
+        "username": "huaxuejilebaike",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-09T02:27:34.000Z",
+        "description": "一个患有精神病的用户🧠🤍｜自伤🩸OD💊｜｜ISFP-T 1(´-ω-`)｜同类回fo🎹𝄞♡🪽提问箱https://t.co/AWOjVlhb0X @rinii165892 我爱你老公",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 73,
+                "username": "rinii165892"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/suintouhea2t",
+                "end": 72,
+                "expanded_url": "http://ngl.link/suintouhea2t",
+                "start": 49,
+                "url": "https://t.co/AWOjVlhb0X"
+              }
+            ]
+          }
+        },
+        "id": "2030832351656493056",
+        "location": "墓地🪦",
+        "name": "Moe",
+        "pinned_tweet_id": "2043268852448928043",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042123320003588097/bsh5B1an_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 528,
+          "following_count": 437,
+          "like_count": 2803,
+          "listed_count": 0,
+          "media_count": 104,
+          "tweet_count": 2011
+        },
+        "username": "Suintouhea2t",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2066142750500917415",
+    "created_at": "2026-06-14T18:09:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T19:09:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066221468422475792"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2016028559228469252",
+          "start": 0,
+          "username": "Alvvaysioffy1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066221468422475792",
+    "in_reply_to_user_id": "2016028559228469252",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066142750500917415",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Alvvaysioffy1 sade🤤🤤"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066142743790026752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKxp4OrbAAATLkF.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2066142750500917415",
+        "created_at": "2026-06-14T18:09:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T19:09:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066221468422475792"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2016028559228469252",
+              "start": 0,
+              "username": "Alvvaysioffy1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066221468422475792",
+        "in_reply_to_user_id": "2016028559228469252",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066142750500917415",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Alvvaysioffy1 sade🤤🤤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066142743790026752"
+          ]
+        },
+        "author_id": "2016028559228469252",
+        "conversation_id": "2066142750500917415",
+        "created_at": "2026-06-14T12:56:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T13:56:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066142750500917415"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cfXw9bI8aq",
+              "end": 64,
+              "expanded_url": "https://x.com/Alvvaysioffy1/status/2066142750500917415/photo/1",
+              "media_key": "3_2066142743790026752",
+              "start": 41,
+              "url": "https://t.co/cfXw9bI8aq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066142750500917415",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1309,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨天成年，给自己买了三张专辑，sade和齐柏林飞艇是上周淘的，每张只要720哦😼 https://t.co/cfXw9bI8aq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 481,
+          "following_count": 432,
+          "like_count": 28757,
+          "listed_count": 0,
+          "media_count": 158,
+          "tweet_count": 2661
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-27T06:03:52.000Z",
+        "description": "不线下。随缘回fo👯‍♂️\nip东京学生在读 喜欢收集cd\n交友大欢迎^ ^",
+        "id": "2016028559228469252",
+        "name": "小春",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058087989570678785/k1dk8u7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 437,
+          "following_count": 204,
+          "like_count": 1177,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 771
+        },
+        "username": "Alvvaysioffy1",
+        "verified": false
+      }
+    ]
+  }
+}

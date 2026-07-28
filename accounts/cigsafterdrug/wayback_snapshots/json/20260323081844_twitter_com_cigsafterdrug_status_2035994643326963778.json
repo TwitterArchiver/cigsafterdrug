@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2035803816835399837",
+    "created_at": "2026-03-23T08:18:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T09:18:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035994643326963778"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1643490407094030338",
+          "start": 0,
+          "username": "Usam8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035994643326963778",
+    "in_reply_to_user_id": "1643490407094030338",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035994389663900055",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Usam8964 要被自己干的蠢事气笑了额呵呵😇😇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2035803816835399837",
+        "created_at": "2026-03-23T08:18:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T09:18:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035994643326963778"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1643490407094030338",
+              "start": 0,
+              "username": "Usam8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035994643326963778",
+        "in_reply_to_user_id": "1643490407094030338",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035994389663900055",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Usam8964 要被自己干的蠢事气笑了额呵呵😇😇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643490407094030338",
+        "conversation_id": "2035803816835399837",
+        "created_at": "2026-03-23T08:17:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T09:17:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035994389663900055"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1536716629505359872",
+              "start": 0,
+              "username": "cigsafterdrug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035994389663900055",
+        "in_reply_to_user_id": "1536716629505359872",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035994274245087674",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cigsafterdrug 回避型神了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026943929120444416/QS8rXF5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 310,
+          "like_count": 18827,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 1194
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n 持病（双極性障害など）Gganbu:@bolckAshley\n\nℵ₀n-β1naria",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 110,
+                "username": "bolckAshley"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "name": "イレンナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018810990268436480/IVOmWUUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3637,
+          "following_count": 1134,
+          "like_count": 43561,
+          "listed_count": 9,
+          "media_count": 428,
+          "tweet_count": 5595
+        },
+        "username": "Usam8964",
+        "verified": false
+      }
+    ]
+  }
+}

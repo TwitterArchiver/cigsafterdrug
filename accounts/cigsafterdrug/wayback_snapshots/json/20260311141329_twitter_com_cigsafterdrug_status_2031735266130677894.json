@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2031711586059190287",
+    "created_at": "2026-03-11T14:13:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-11T15:13:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031735266130677894"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1999504877337395200",
+          "start": 0,
+          "username": "chuan_0123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031735266130677894",
+    "in_reply_to_user_id": "1999504877337395200",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031711586059190287",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chuan_0123 帅"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2031711576412262400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDIW6g4aEAA2CR2.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2031711586059190287",
+        "created_at": "2026-03-11T14:13:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T15:13:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031735266130677894"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1999504877337395200",
+              "start": 0,
+              "username": "chuan_0123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031735266130677894",
+        "in_reply_to_user_id": "1999504877337395200",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031711586059190287",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chuan_0123 帅"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031711576412262400"
+          ]
+        },
+        "author_id": "1999504877337395200",
+        "conversation_id": "2031711586059190287",
+        "created_at": "2026-03-11T12:39:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T13:39:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031711586059190287"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nhXyauIzeQ",
+              "end": 32,
+              "expanded_url": "https://x.com/chuan_0123/status/2031711586059190287/photo/1",
+              "media_key": "3_2031711576412262400",
+              "start": 9,
+              "url": "https://t.co/nhXyauIzeQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031711586059190287",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 166,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "给自己割了条花臂 https://t.co/nhXyauIzeQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026943929120444416/QS8rXF5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 251,
+          "following_count": 276,
+          "like_count": 17873,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 949
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-12T15:41:53.000Z",
+        "description": "我是川川/20↑/大体雑多垢 病み注意/無言フォロー失礼いたしました/直fo＝喜欢你/顺女/努力戒割戒药中/关取随意 回fo请私信！祝你以后都开心/误清请私信orz不是故意的/🚪88互关免费",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chuan123",
+                "end": 23,
+                "expanded_url": "https://ngl.link/chuan123",
+                "start": 0,
+                "url": "https://t.co/kmXUmkntXo"
+              }
+            ]
+          }
+        },
+        "id": "1999504877337395200",
+        "location": "╰(⇀‸↼)╯→提问箱",
+        "name": "虚空薯条教主",
+        "pinned_tweet_id": "2026652867160051770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026599141066027012/50v9Dmba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 544,
+          "following_count": 321,
+          "like_count": 10371,
+          "listed_count": 2,
+          "media_count": 255,
+          "tweet_count": 5102
+        },
+        "url": "https://t.co/kmXUmkntXo",
+        "username": "chuan_0123",
+        "verified": false
+      }
+    ]
+  }
+}

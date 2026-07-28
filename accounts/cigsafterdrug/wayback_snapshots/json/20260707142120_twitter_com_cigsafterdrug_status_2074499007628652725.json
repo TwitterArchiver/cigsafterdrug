@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074498999026094081",
+        "3_2074498999080599552",
+        "3_2074498999026118656",
+        "3_2074498998984204288"
+      ]
+    },
+    "author_id": "1536716629505359872",
+    "conversation_id": "2074499007628652725",
+    "created_at": "2026-07-07T14:21:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T15:21:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074499007628652725"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5SmnY7bV6o",
+          "end": 49,
+          "expanded_url": "https://x.com/cigsafterdrug/status/2074499007628652725/photo/1",
+          "media_key": "3_2074498999026094081",
+          "start": 26,
+          "url": "https://t.co/5SmnY7bV6o"
+        },
+        {
+          "display_url": "pic.x.com/5SmnY7bV6o",
+          "end": 49,
+          "expanded_url": "https://x.com/cigsafterdrug/status/2074499007628652725/photo/1",
+          "media_key": "3_2074498999080599552",
+          "start": 26,
+          "url": "https://t.co/5SmnY7bV6o"
+        },
+        {
+          "display_url": "pic.x.com/5SmnY7bV6o",
+          "end": 49,
+          "expanded_url": "https://x.com/cigsafterdrug/status/2074499007628652725/photo/1",
+          "media_key": "3_2074498999026118656",
+          "start": 26,
+          "url": "https://t.co/5SmnY7bV6o"
+        },
+        {
+          "display_url": "pic.x.com/5SmnY7bV6o",
+          "end": 49,
+          "expanded_url": "https://x.com/cigsafterdrug/status/2074499007628652725/photo/1",
+          "media_key": "3_2074498998984204288",
+          "start": 26,
+          "url": "https://t.co/5SmnY7bV6o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074499007628652725",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "贫穷的小女孩正在寻门哥😭😭🫩🫩😡😡😇😇🥺🥺🤤🤤🤤👾 https://t.co/5SmnY7bV6o"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2074498999026094081",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMoZ2TPakAEKyzN.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2074498999080599552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMoZ2TcaQAACoq3.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2074498999026118656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMoZ2TPa8AAa65Y.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2074498998984204288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMoZ2TFbYAAVvFp.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074498999026094081",
+            "3_2074498999080599552",
+            "3_2074498999026118656",
+            "3_2074498998984204288"
+          ]
+        },
+        "author_id": "1536716629505359872",
+        "conversation_id": "2074499007628652725",
+        "created_at": "2026-07-07T14:21:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T15:21:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074499007628652725"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5SmnY7bV6o",
+              "end": 49,
+              "expanded_url": "https://x.com/cigsafterdrug/status/2074499007628652725/photo/1",
+              "media_key": "3_2074498999026094081",
+              "start": 26,
+              "url": "https://t.co/5SmnY7bV6o"
+            },
+            {
+              "display_url": "pic.x.com/5SmnY7bV6o",
+              "end": 49,
+              "expanded_url": "https://x.com/cigsafterdrug/status/2074499007628652725/photo/1",
+              "media_key": "3_2074498999080599552",
+              "start": 26,
+              "url": "https://t.co/5SmnY7bV6o"
+            },
+            {
+              "display_url": "pic.x.com/5SmnY7bV6o",
+              "end": 49,
+              "expanded_url": "https://x.com/cigsafterdrug/status/2074499007628652725/photo/1",
+              "media_key": "3_2074498999026118656",
+              "start": 26,
+              "url": "https://t.co/5SmnY7bV6o"
+            },
+            {
+              "display_url": "pic.x.com/5SmnY7bV6o",
+              "end": 49,
+              "expanded_url": "https://x.com/cigsafterdrug/status/2074499007628652725/photo/1",
+              "media_key": "3_2074498998984204288",
+              "start": 26,
+              "url": "https://t.co/5SmnY7bV6o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074499007628652725",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "贫穷的小女孩正在寻门哥😭😭🫩🫩😡😡😇😇🥺🥺🤤🤤🤤👾 https://t.co/5SmnY7bV6o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2070816356862431619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 503,
+          "following_count": 463,
+          "like_count": 30061,
+          "listed_count": 0,
+          "media_count": 189,
+          "tweet_count": 2970
+        },
+        "url": "",
+        "username": "cigsafterdrug",
+        "verified": false
+      }
+    ]
+  }
+}

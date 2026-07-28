@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2073007688490045716",
+    "created_at": "2026-07-03T19:59:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T20:59:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073134497860886945"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1755664020944941056",
+          "start": 0,
+          "username": "Korewoizontoyo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073134497860886945",
+    "in_reply_to_user_id": "1755664020944941056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073007688490045716",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Korewoizontoyo 妈妈呀。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2073007680453824512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMTNgIobUAAY0XF.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2073007688490045716",
+        "created_at": "2026-07-03T19:59:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T20:59:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073134497860886945"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1755664020944941056",
+              "start": 0,
+              "username": "Korewoizontoyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073134497860886945",
+        "in_reply_to_user_id": "1755664020944941056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073007688490045716",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Korewoizontoyo 妈妈呀。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073007680453824512"
+          ]
+        },
+        "author_id": "1755664020944941056",
+        "conversation_id": "2073007688490045716",
+        "created_at": "2026-07-03T11:35:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T12:35:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073007688490045716"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YV8OlbEDuq",
+              "end": 31,
+              "expanded_url": "https://x.com/Korewoizontoyo/status/2073007688490045716/photo/1",
+              "media_key": "3_2073007680453824512",
+              "start": 8,
+              "url": "https://t.co/YV8OlbEDuq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073007688490045716",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 566,
+          "like_count": 43,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这集是消肿逼， https://t.co/YV8OlbEDuq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2070816356862431619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 504,
+          "following_count": 461,
+          "like_count": 29606,
+          "listed_count": 0,
+          "media_count": 180,
+          "tweet_count": 2915
+        },
+        "url": "",
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-08T18:45:05.000Z",
+        "description": "无意义。\n我是渔鸽。oder。自残自伤。我会查成分回关。\n只是一个互联网神人而已，你拉黑我的话我就死了。 \n \n我最重要最爱的女孩@6De_dian 🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 65,
+                "username": "6De_dian"
+              }
+            ]
+          }
+        },
+        "id": "1755664020944941056",
+        "location": "地狱",
+        "name": "鋸齒切斷視神經",
+        "pinned_tweet_id": "2067641877361541426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072550280047321088/SM9rfL6w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 505,
+          "like_count": 3301,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 1051
+        },
+        "url": "",
+        "username": "Korewoizontoyo",
+        "verified": false
+      }
+    ]
+  }
+}

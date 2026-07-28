@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2031002188919824518",
+    "created_at": "2026-03-10T08:00:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T09:00:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031279125747609714"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "3186788754",
+          "start": 0,
+          "username": "lixiang19671027"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031279125747609714",
+    "in_reply_to_user_id": "3186788754",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031266862730981841",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lixiang19671027 我也想！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2031002188919824518",
+        "created_at": "2026-03-10T08:00:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T09:00:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031279125747609714"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "3186788754",
+              "start": 0,
+              "username": "lixiang19671027"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031279125747609714",
+        "in_reply_to_user_id": "3186788754",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031266862730981841",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lixiang19671027 我也想！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3186788754",
+        "conversation_id": "2031002188919824518",
+        "created_at": "2026-03-10T07:12:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T08:12:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031266862730981841"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1536716629505359872",
+              "start": 0,
+              "username": "cigsafterdrug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031266862730981841",
+        "in_reply_to_user_id": "1536716629505359872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031002188919824518",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cigsafterdrug 我想成为人类"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026943929120444416/QS8rXF5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 137,
+          "like_count": 17564,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 752
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2015-05-06T16:22:17.000Z",
+        "description": "社交弱者\n24h高强度打游戏",
+        "id": "3186788754",
+        "location": "萨沙共和国",
+        "name": "藤原★サンザシ//今日も絶賛「鬱」中★★★",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1705312549896409088/XhtSgyvv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 3083,
+          "like_count": 1978,
+          "listed_count": 10,
+          "media_count": 50,
+          "tweet_count": 811
+        },
+        "username": "lixiang19671027",
+        "verified": false
+      }
+    ]
+  }
+}

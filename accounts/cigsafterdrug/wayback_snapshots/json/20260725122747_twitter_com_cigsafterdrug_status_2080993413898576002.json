@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2080943941558428082",
+    "created_at": "2026-07-25T12:27:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T13:27:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080993413898576002"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2047894021457211393",
+          "start": 0,
+          "username": "FanQie_QianQian"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080993413898576002",
+    "in_reply_to_user_id": "2047894021457211393",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080943941558428082",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FanQie_QianQian 傻逼吧我操"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2080943941558428082",
+        "created_at": "2026-07-25T12:27:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T13:27:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080993413898576002"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2047894021457211393",
+              "start": 0,
+              "username": "FanQie_QianQian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080993413898576002",
+        "in_reply_to_user_id": "2047894021457211393",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080943941558428082",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FanQie_QianQian 傻逼吧我操"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047894021457211393",
+        "conversation_id": "2080943941558428082",
+        "created_at": "2026-07-25T09:11:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T10:11:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080943941558428082"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080943941558428082",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 117,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "記得我有一個前任 打烏萌拼機認識的 說自己喜歡地雷女 跑來要我微信 \n後來在一起之後發現我手上有疤說很害怕 還說什麼要是我在他家od就怎麼樣怎麼樣 \n我操 哥們你不是喜歡地雷女嗎 我od又不是給你投毒割手又不是捅你 你到底咋了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2070816356862431619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 522,
+          "following_count": 474,
+          "like_count": 31718,
+          "listed_count": 0,
+          "media_count": 210,
+          "tweet_count": 3161
+        },
+        "url": "",
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-25T04:22:51.000Z",
+        "description": "重生之8.0\n11年 順女 LGBTQ全友好 無門不接線下\n\n主人@7q468438x8964\n\n另一個我 @QianQian_TwT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 33,
+                "username": "7q468438x8964"
+              },
+              {
+                "end": 67,
+                "start": 54,
+                "username": "QianQian_TwT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_1",
+                "start": 0,
+                "url": "https://t.co/JbrJBgq8ZL"
+              }
+            ]
+          }
+        },
+        "id": "2047894021457211393",
+        "name": "番茄操蛋",
+        "pinned_tweet_id": "2065786713256141126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080615646304612352/tvT9kcsx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1434,
+          "following_count": 106,
+          "like_count": 5641,
+          "listed_count": 2,
+          "media_count": 193,
+          "tweet_count": 2174
+        },
+        "url": "https://t.co/JbrJBgq8ZL",
+        "username": "FanQie_QianQian",
+        "verified": false
+      }
+    ]
+  }
+}

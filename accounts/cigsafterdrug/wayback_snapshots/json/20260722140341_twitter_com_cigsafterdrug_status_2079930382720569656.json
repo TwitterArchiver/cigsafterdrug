@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2079856237353762968",
+    "created_at": "2026-07-22T14:03:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T15:03:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079930382720569656"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2013233628847980544",
+          "start": 0,
+          "username": "Asukai_Yuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079930382720569656",
+    "in_reply_to_user_id": "2013233628847980544",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079920062627250315",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Asukai_Yuki 😛😛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2079856237353762968",
+        "created_at": "2026-07-22T14:03:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T15:03:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079930382720569656"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2013233628847980544",
+              "start": 0,
+              "username": "Asukai_Yuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079930382720569656",
+        "in_reply_to_user_id": "2013233628847980544",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079920062627250315",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Asukai_Yuki 😛😛"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013233628847980544",
+        "conversation_id": "2079856237353762968",
+        "created_at": "2026-07-22T13:22:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T14:22:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079920062627250315"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1536716629505359872",
+              "start": 0,
+              "username": "cigsafterdrug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079920062627250315",
+        "in_reply_to_user_id": "1536716629505359872",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079856237353762968",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cigsafterdrug 舔舔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2070816356862431619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 522,
+          "following_count": 469,
+          "like_count": 31544,
+          "listed_count": 0,
+          "media_count": 206,
+          "tweet_count": 3115
+        },
+        "url": "",
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-19T12:54:43.000Z",
+        "description": "＝飞鸟井郁希/yuki | 🏳️‍⚧️🏳️‍🌈enby | 餐券女 | 天真的和感伤的吉他手 | 红色担当❤️ | 🚪52/99/150纯绿聊天\n\n前世/oc堆放处： @SUNSET_ROCK_\n好朋友：@0803SUHONG @zou_hua62172 @hynsug_aaugcx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 84,
+                "username": "SUNSET_ROCK_"
+              },
+              {
+                "end": 113,
+                "start": 102,
+                "username": "0803SUHONG"
+              },
+              {
+                "end": 127,
+                "start": 114,
+                "username": "zou_hua62172"
+              },
+              {
+                "end": 142,
+                "start": 128,
+                "username": "hynsug_aaugcx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mikanseinonatsu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mikanseinonatsu",
+                "start": 0,
+                "url": "https://t.co/1wmN2eVRYQ"
+              }
+            ]
+          }
+        },
+        "id": "2013233628847980544",
+        "location": "纯绿🚪52/99/150没福利纯圈钱",
+        "name": "飞鸟井郁希",
+        "pinned_tweet_id": "2079562396960731616",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078508009702268928/p6S16Kqi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 474,
+          "following_count": 248,
+          "like_count": 390,
+          "listed_count": 1,
+          "media_count": 303,
+          "tweet_count": 3126
+        },
+        "url": "https://t.co/1wmN2eVRYQ",
+        "username": "Asukai_Yuki",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2037778922713264624",
+    "created_at": "2026-03-28T06:28:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T07:28:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037778922713264624"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mettazashi3756…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/mettazashi37564/status/2037694163635064877",
+          "start": 6,
+          "url": "https://t.co/M8e19uP8TH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037778922713264624",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037694163635064877",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "cutie https://t.co/M8e19uP8TH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2037694160237694976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEdYCuXbEAAn4-c.jpg",
+        "width": 1088
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2037778922713264624",
+        "created_at": "2026-03-28T06:28:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T07:28:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037778922713264624"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mettazashi3756…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/mettazashi37564/status/2037694163635064877",
+              "start": 6,
+              "url": "https://t.co/M8e19uP8TH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037778922713264624",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037694163635064877",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "cutie https://t.co/M8e19uP8TH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037694160237694976"
+          ]
+        },
+        "author_id": "1802157534754865152",
+        "conversation_id": "2037694163635064877",
+        "created_at": "2026-03-28T00:52:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T01:52:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037694163635064877"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PiyPSZvMYc",
+              "end": 23,
+              "expanded_url": "https://x.com/mettazashi37564/status/2037694163635064877/photo/1",
+              "media_key": "3_2037694160237694976",
+              "start": 0,
+              "url": "https://t.co/PiyPSZvMYc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037694163635064877",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 2623,
+          "like_count": 478,
+          "quote_count": 4,
+          "reply_count": 8,
+          "retweet_count": 105
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/PiyPSZvMYc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026943929120444416/QS8rXF5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 297,
+          "following_count": 314,
+          "like_count": 19338,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 1302
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-16T01:54:19.000Z",
+        "description": "鮮血公式人間屠殺チャンネルhttps://t.co/Ah20pa1hDQ(ゲボ)https://t.co/wc8tIvUIZg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCSDIN…",
+                "end": 36,
+                "expanded_url": "https://youtube.com/channel/UCSDIN5KRF2cHvHnQ35fbemQ?si=pE86yJYE-kROeRhifeature=shared",
+                "start": 13,
+                "url": "https://t.co/Ah20pa1hDQ"
+              },
+              {
+                "display_url": "instagram.com/senketsu_metta…",
+                "end": 63,
+                "expanded_url": "https://www.instagram.com/senketsu_mettazashi37564/",
+                "start": 40,
+                "url": "https://t.co/wc8tIvUIZg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@realotakugebo…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@realotakugebo?feature=shared",
+                "start": 0,
+                "url": "https://t.co/Mi52oRVDPT"
+              }
+            ]
+          }
+        },
+        "id": "1802157534754865152",
+        "location": "個人人間屠殺ちゃんねる",
+        "name": "鮮血A子ちゃん 滅多刺しひろくん",
+        "pinned_tweet_id": "2033780333448192172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033616285570043904/vsClsXu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23653,
+          "following_count": 59,
+          "like_count": 2856,
+          "listed_count": 8,
+          "media_count": 19,
+          "tweet_count": 81
+        },
+        "url": "https://t.co/Mi52oRVDPT",
+        "username": "mettazashi37564",
+        "verified": false
+      }
+    ]
+  }
+}

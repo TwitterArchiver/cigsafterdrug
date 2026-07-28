@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2055270340029526343",
+    "created_at": "2026-05-15T13:44:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T14:44:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055283234846675101"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2002670122767667200",
+          "start": 0,
+          "username": "Lotus_LianHua04"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055283234846675101",
+    "in_reply_to_user_id": "2002670122767667200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055281239569875115",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lotus_LianHua04 啊啊我就说我怎么只有想吐的感觉…主要看见安非他酮的评价很两极 有些说没有滥用价值 有些又说好o😢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2055270340029526343",
+        "created_at": "2026-05-15T13:44:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T14:44:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055283234846675101"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2002670122767667200",
+              "start": 0,
+              "username": "Lotus_LianHua04"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055283234846675101",
+        "in_reply_to_user_id": "2002670122767667200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055281239569875115",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lotus_LianHua04 啊啊我就说我怎么只有想吐的感觉…主要看见安非他酮的评价很两极 有些说没有滥用价值 有些又说好o😢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2055270340029526343",
+        "created_at": "2026-05-15T13:36:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T14:36:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055281239569875115"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1536716629505359872",
+              "start": 0,
+              "username": "cigsafterdrug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055281239569875115",
+        "in_reply_to_user_id": "1536716629505359872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055270340029526343",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cigsafterdrug 如果你说的是安非他酮的话这个东西单独吃多少都没感觉还可能狂吐💧💧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 414,
+          "following_count": 394,
+          "like_count": 25222,
+          "listed_count": 0,
+          "media_count": 124,
+          "tweet_count": 2111
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 21,
+          "like_count": 696,
+          "listed_count": 0,
+          "media_count": 125,
+          "tweet_count": 1490
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      }
+    ]
+  }
+}

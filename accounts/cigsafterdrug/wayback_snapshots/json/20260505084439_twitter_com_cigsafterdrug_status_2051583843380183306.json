@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2051351350760575344",
+    "created_at": "2026-05-05T08:44:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T09:44:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051583843380183306"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1626002616009519104",
+          "start": 0,
+          "username": "HOIYmessenger"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051583843380183306",
+    "in_reply_to_user_id": "1626002616009519104",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051559061834051950",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HOIYmessenger 🥺💗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2051351350760575344",
+        "created_at": "2026-05-05T08:44:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T09:44:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051583843380183306"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1626002616009519104",
+              "start": 0,
+              "username": "HOIYmessenger"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051583843380183306",
+        "in_reply_to_user_id": "1626002616009519104",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051559061834051950",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HOIYmessenger 🥺💗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1626002616009519104",
+        "conversation_id": "2051351350760575344",
+        "created_at": "2026-05-05T07:06:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T08:06:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051559061834051950"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1536716629505359872",
+              "start": 0,
+              "username": "cigsafterdrug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051559061834051950",
+        "in_reply_to_user_id": "1536716629505359872",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051351350760575344",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cigsafterdrug 都好看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 361,
+          "following_count": 369,
+          "like_count": 23792,
+          "listed_count": 0,
+          "media_count": 117,
+          "tweet_count": 1936
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-15T23:36:58.000Z",
+        "description": "2025.12.26/2009.10.26\n🏆🏆🏆\n跨圈第一穆斯林人妖🥇 全世界最重XYN🥇 全世界最丑XYN🥇 以上奖项不接受反驳😡😡😡👊",
+        "id": "1626002616009519104",
+        "location": "火狱",
+        "name": "Asuku🍥🏳️‍⚧️☪️",
+        "pinned_tweet_id": "2050757085881880832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050761107141480448/sgTCo116_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 218,
+          "like_count": 241,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 75
+        },
+        "username": "HOIYmessenger",
+        "verified": false
+      }
+    ]
+  }
+}

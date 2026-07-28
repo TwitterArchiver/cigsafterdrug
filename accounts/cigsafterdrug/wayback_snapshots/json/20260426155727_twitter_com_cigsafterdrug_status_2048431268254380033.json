@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2048245944110764328",
+    "created_at": "2026-04-26T15:57:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T16:57:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048431268254380033"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1548098740254539776",
+          "start": 0,
+          "username": "Yume_121_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048431268254380033",
+    "in_reply_to_user_id": "1548098740254539776",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048245944110764328",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yume_121_ 完全瘋子⋯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2048245944110764328",
+        "created_at": "2026-04-26T15:57:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T16:57:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048431268254380033"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1548098740254539776",
+              "start": 0,
+              "username": "Yume_121_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048431268254380033",
+        "in_reply_to_user_id": "1548098740254539776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048245944110764328",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yume_121_ 完全瘋子⋯"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1548098740254539776",
+        "conversation_id": "2048245944110764328",
+        "created_at": "2026-04-26T03:41:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T04:41:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048245944110764328"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048245944110764328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 144,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我操，我妈，太恐怖了，本来还在很平静的在那里和我说话，讲人生大道理。然后下一秒一拳上来，然后然后然后又平静的继续说，然后然然后一巴掌扇过来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 339,
+          "following_count": 353,
+          "like_count": 22885,
+          "listed_count": 0,
+          "media_count": 110,
+          "tweet_count": 1829
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-16T00:16:19.000Z",
+        "description": "🇭🇰HongKonger NO CHINESE\n神聖かまってちゃん Li Zhi\nidk japanese sorry i use goggle translate\nNOai NO轉載 @yume121_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 93,
+                "username": "yume121_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/suki73456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/suki73456",
+                "start": 0,
+                "url": "https://t.co/Nu2GGZ7Kvv"
+              }
+            ]
+          }
+        },
+        "id": "1548098740254539776",
+        "location": "Q群493098046",
+        "name": "yume",
+        "pinned_tweet_id": "2044403038719500447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025178868051738625/pegHpHaT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 521,
+          "following_count": 329,
+          "like_count": 2307,
+          "listed_count": 1,
+          "media_count": 418,
+          "tweet_count": 1916
+        },
+        "url": "https://t.co/Nu2GGZ7Kvv",
+        "username": "Yume_121_",
+        "verified": false
+      }
+    ]
+  }
+}

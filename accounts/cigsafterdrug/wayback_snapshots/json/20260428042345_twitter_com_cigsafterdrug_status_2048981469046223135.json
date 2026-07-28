@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048820396737409024"
+      ],
+      "media_source_tweet_id": [
+        "2048820405792911401"
+      ]
+    },
+    "author_id": "1536716629505359872",
+    "conversation_id": "2048981469046223135",
+    "created_at": "2026-04-28T04:23:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T05:23:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048981469046223135"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 23,
+          "start": 15,
+          "tag": "ranfren"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1867557457612222465",
+          "start": 3,
+          "username": "tutou1027"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oJq3fRMUau",
+          "end": 54,
+          "expanded_url": "https://x.com/tutou1027/status/2048820405792911401/photo/1",
+          "media_key": "3_2048820396737409024",
+          "start": 31,
+          "url": "https://t.co/oJq3fRMUau"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048981469046223135",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 85
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048820405792911401",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tutou1027: #ranfren\n一切都会好的 https://t.co/oJq3fRMUau"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 985,
+        "media_key": "3_2048820396737409024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG7fS7QbsAAyj-s.jpg",
+        "width": 1308
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048820396737409024"
+          ],
+          "media_source_tweet_id": [
+            "2048820405792911401"
+          ]
+        },
+        "author_id": "1536716629505359872",
+        "conversation_id": "2048981469046223135",
+        "created_at": "2026-04-28T04:23:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T05:23:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048981469046223135"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 15,
+              "tag": "ranfren"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1867557457612222465",
+              "start": 3,
+              "username": "tutou1027"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oJq3fRMUau",
+              "end": 54,
+              "expanded_url": "https://x.com/tutou1027/status/2048820405792911401/photo/1",
+              "media_key": "3_2048820396737409024",
+              "start": 31,
+              "url": "https://t.co/oJq3fRMUau"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048981469046223135",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 85
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048820405792911401",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tutou1027: #ranfren\n一切都会好的 https://t.co/oJq3fRMUau"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048820396737409024"
+          ]
+        },
+        "author_id": "1867557457612222465",
+        "conversation_id": "2048820405792911401",
+        "created_at": "2026-04-27T17:43:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T18:43:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048820405792911401"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 0,
+              "tag": "ranfren"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oJq3fRMUau",
+              "end": 39,
+              "expanded_url": "https://x.com/tutou1027/status/2048820405792911401/photo/1",
+              "media_key": "3_2048820396737409024",
+              "start": 16,
+              "url": "https://t.co/oJq3fRMUau"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048820405792911401",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 40,
+          "impression_count": 2311,
+          "like_count": 405,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 85
+        },
+        "reply_settings": "everyone",
+        "text": "#ranfren\n一切都会好的 https://t.co/oJq3fRMUau"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 351,
+          "following_count": 360,
+          "like_count": 23048,
+          "listed_count": 0,
+          "media_count": 110,
+          "tweet_count": 1840
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-13T13:09:43.000Z",
+        "description": "｜直接称呼兔头就好｜中文｜回复全是翻译器…😢",
+        "id": "1867557457612222465",
+        "name": "红烧兔头",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047726740848754688/eT58CeRq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 90,
+          "like_count": 160,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 73
+        },
+        "username": "tutou1027",
+        "verified": false
+      }
+    ]
+  }
+}

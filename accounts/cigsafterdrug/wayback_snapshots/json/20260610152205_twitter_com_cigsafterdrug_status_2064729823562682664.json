@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2064729823562682664",
+    "created_at": "2026-06-10T15:22:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T16:22:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064729823562682664"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "plsDontkissmeonthesidewalk’s Space · 0 listening · Where live audio conversations happen",
+          "display_url": "x.com/i/spaces/1RJjp…",
+          "end": 23,
+          "expanded_url": "https://x.com/i/spaces/1RJjppknymLKw",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/2064729824892235776/kPpfW7Ue?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2064729824892235776/kPpfW7Ue?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 0,
+          "status": 200,
+          "title": "Happening now: 不知道",
+          "unwound_url": "https://twitter.com/i/spaces/1RJjppknymLKw/peek",
+          "url": "https://t.co/S91zgK4DX2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064729823562682664",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/S91zgK4DX2"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2064729823562682664",
+        "created_at": "2026-06-10T15:22:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T16:22:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064729823562682664"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "plsDontkissmeonthesidewalk’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1RJjp…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1RJjppknymLKw",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2064729824892235776/kPpfW7Ue?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2064729824892235776/kPpfW7Ue?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 不知道",
+              "unwound_url": "https://twitter.com/i/spaces/1RJjppknymLKw/peek",
+              "url": "https://t.co/S91zgK4DX2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064729823562682664",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/S91zgK4DX2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 461,
+          "following_count": 423,
+          "like_count": 28420,
+          "listed_count": 0,
+          "media_count": 148,
+          "tweet_count": 2532
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      }
+    ]
+  }
+}

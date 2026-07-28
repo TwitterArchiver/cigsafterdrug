@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052752605651271680"
+      ],
+      "media_source_tweet_id": [
+        "2052752618959839419"
+      ]
+    },
+    "author_id": "1536716629505359872",
+    "conversation_id": "2052760680412115184",
+    "created_at": "2026-05-08T14:40:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T15:40:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052760680412115184"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1986491979136659456",
+          "start": 3,
+          "username": "suicideiscringe"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/50UYi6kb6B",
+          "end": 57,
+          "expanded_url": "https://x.com/suicideiscringe/status/2052752618959839419/photo/1",
+          "media_key": "3_2052752605651271680",
+          "start": 34,
+          "url": "https://t.co/50UYi6kb6B"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052760680412115184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052752618959839419",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @suicideiscringe: 想要互fo求转🥺🤲🏻🤲🏻 https://t.co/50UYi6kb6B"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2052752605651271680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHzXnm-aAAApsaS.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052752605651271680"
+          ],
+          "media_source_tweet_id": [
+            "2052752618959839419"
+          ]
+        },
+        "author_id": "1536716629505359872",
+        "conversation_id": "2052760680412115184",
+        "created_at": "2026-05-08T14:40:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T15:40:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052760680412115184"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1986491979136659456",
+              "start": 3,
+              "username": "suicideiscringe"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/50UYi6kb6B",
+              "end": 57,
+              "expanded_url": "https://x.com/suicideiscringe/status/2052752618959839419/photo/1",
+              "media_key": "3_2052752605651271680",
+              "start": 34,
+              "url": "https://t.co/50UYi6kb6B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052760680412115184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052752618959839419",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @suicideiscringe: 想要互fo求转🥺🤲🏻🤲🏻 https://t.co/50UYi6kb6B"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052752605651271680"
+          ]
+        },
+        "author_id": "1986491979136659456",
+        "conversation_id": "2052752618959839419",
+        "created_at": "2026-05-08T14:08:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T15:08:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052752618959839419"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/50UYi6kb6B",
+              "end": 36,
+              "expanded_url": "https://x.com/suicideiscringe/status/2052752618959839419/photo/1",
+              "media_key": "3_2052752605651271680",
+              "start": 13,
+              "url": "https://t.co/50UYi6kb6B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052752618959839419",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "following",
+        "text": "想要互fo求转🥺🤲🏻🤲🏻 https://t.co/50UYi6kb6B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 364,
+          "following_count": 375,
+          "like_count": 24025,
+          "listed_count": 0,
+          "media_count": 119,
+          "tweet_count": 1984
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-06T17:53:07.000Z",
+        "description": "小孩子不懂事乱发的",
+        "id": "1986491979136659456",
+        "name": "Estazolam",
+        "pinned_tweet_id": "2052752618959839419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991465272113524739/A_dq2Iih_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 90,
+          "like_count": 837,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 252
+        },
+        "username": "suicideiscringe",
+        "verified": false
+      }
+    ]
+  }
+}

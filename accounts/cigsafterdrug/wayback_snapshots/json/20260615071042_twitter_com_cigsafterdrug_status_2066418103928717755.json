@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2066258155726938270",
+    "created_at": "2026-06-15T07:10:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T08:10:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066418103928717755"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1964331185590718464",
+          "start": 0,
+          "username": "breakcoreWTF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066418103928717755",
+    "in_reply_to_user_id": "1964331185590718464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066258155726938270",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@breakcoreWTF 我吃一口😛"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1538,
+        "media_key": "3_2066258148604948480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKzS1rHasAAH-J6.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2066258147896147968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKzS1oebQAAldbN.jpg",
+        "width": 1538
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2066258155726938270",
+        "created_at": "2026-06-15T07:10:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T08:10:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066418103928717755"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1964331185590718464",
+              "start": 0,
+              "username": "breakcoreWTF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066418103928717755",
+        "in_reply_to_user_id": "1964331185590718464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066258155726938270",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@breakcoreWTF 我吃一口😛"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066258148604948480",
+            "3_2066258147896147968"
+          ]
+        },
+        "author_id": "1964331185590718464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2066258155726938270",
+        "created_at": "2026-06-14T20:35:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T21:35:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066258155726938270"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IsIuW9RSBX",
+              "end": 23,
+              "expanded_url": "https://x.com/breakcoreWTF/status/2066258155726938270/photo/1",
+              "media_key": "3_2066258148604948480",
+              "start": 0,
+              "url": "https://t.co/IsIuW9RSBX"
+            },
+            {
+              "display_url": "pic.x.com/IsIuW9RSBX",
+              "end": 23,
+              "expanded_url": "https://x.com/breakcoreWTF/status/2066258155726938270/photo/1",
+              "media_key": "3_2066258147896147968",
+              "start": 0,
+              "url": "https://t.co/IsIuW9RSBX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066258155726938270",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 182,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/IsIuW9RSBX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 485,
+          "following_count": 431,
+          "like_count": 28869,
+          "listed_count": 0,
+          "media_count": 161,
+          "tweet_count": 2687
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "OD丨自伤丨Vocaloid丨音游丨友跨顺女\n喜欢爬宠 不卖药 非必要不回私信 我很穷欢迎投喂\n不喜欢的直接b 同类查成分回fo 取关请双取",
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061439509125074944/Hf-Lim6c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 816,
+          "following_count": 684,
+          "like_count": 17875,
+          "listed_count": 0,
+          "media_count": 262,
+          "tweet_count": 4876
+        },
+        "username": "breakcoreWTF",
+        "verified": false
+      }
+    ]
+  }
+}

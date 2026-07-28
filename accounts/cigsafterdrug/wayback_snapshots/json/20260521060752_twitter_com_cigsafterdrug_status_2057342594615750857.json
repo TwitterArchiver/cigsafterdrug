@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2057342594615750857",
+    "created_at": "2026-05-21T06:07:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T07:07:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057342594615750857"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1806867712054026241",
+          "start": 3,
+          "username": "maomao8011"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057342594615750857",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 104
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057122734912758103",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @maomao8011: 不能接受我是控制狂的话 就要接受我情感漠视哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2057342594615750857",
+        "created_at": "2026-05-21T06:07:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T07:07:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057342594615750857"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1806867712054026241",
+              "start": 3,
+              "username": "maomao8011"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057342594615750857",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 104
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057122734912758103",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @maomao8011: 不能接受我是控制狂的话 就要接受我情感漠视哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1806867712054026241",
+        "conversation_id": "2057122734912758103",
+        "created_at": "2026-05-20T15:34:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T16:34:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057122734912758103"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057122734912758103",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 48088,
+          "like_count": 509,
+          "quote_count": 19,
+          "reply_count": 47,
+          "retweet_count": 104
+        },
+        "reply_settings": "everyone",
+        "text": "不能接受我是控制狂的话 就要接受我情感漠视哦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 420,
+          "following_count": 399,
+          "like_count": 25884,
+          "listed_count": 0,
+          "media_count": 128,
+          "tweet_count": 2193
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-29T01:50:18.000Z",
+        "description": "我认为宅是一种优点 | 好友位377",
+        "id": "1806867712054026241",
+        "location": "🇰🇷",
+        "name": "真理",
+        "pinned_tweet_id": "1806954980684988509",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054250933933264896/azcIkyOy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5231,
+          "following_count": 43,
+          "like_count": 285,
+          "listed_count": 8,
+          "media_count": 36,
+          "tweet_count": 133
+        },
+        "username": "maomao8011",
+        "verified": false
+      }
+    ]
+  }
+}

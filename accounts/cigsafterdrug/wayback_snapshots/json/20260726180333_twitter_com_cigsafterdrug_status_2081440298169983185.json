@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2079958135494824169",
+    "created_at": "2026-07-26T18:03:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T19:03:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081440298169983185"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2064786063290474496",
+          "start": 0,
+          "username": "Meow_Lego12"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081440298169983185",
+    "in_reply_to_user_id": "2064786063290474496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079958135494824169",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Meow_Lego12 啊啊啊啊好噁心。我也是看到他的臉就感覺很噁心⋯"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2079958135494824169].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2079958135494824169",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2079958135494824169"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2079958135494824169",
+        "created_at": "2026-07-26T18:03:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T19:03:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081440298169983185"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2064786063290474496",
+              "start": 0,
+              "username": "Meow_Lego12"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081440298169983185",
+        "in_reply_to_user_id": "2064786063290474496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079958135494824169",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Meow_Lego12 啊啊啊啊好噁心。我也是看到他的臉就感覺很噁心⋯"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2070816356862431619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 527,
+          "following_count": 476,
+          "like_count": 31770,
+          "listed_count": 0,
+          "media_count": 211,
+          "tweet_count": 3172
+        },
+        "url": "",
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-10T19:06:48.000Z",
+        "description": "",
+        "id": "2064786063290474496",
+        "name": "名稱不可為空白",
+        "pinned_tweet_id": "2078143717240885289",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073172931753201664/RfhOtnrX_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 15,
+          "like_count": 787,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 321
+        },
+        "url": "",
+        "username": "Meow_Lego12",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2079891014186307956",
+    "created_at": "2026-07-22T14:33:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T15:33:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079937764678910014"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1970504759762419712",
+          "start": 0,
+          "username": "DkyOnlyforu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079937764678910014",
+    "in_reply_to_user_id": "1970504759762419712",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079935088872366163",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DkyOnlyforu 🫪🫪🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2079891014186307956",
+        "created_at": "2026-07-22T14:33:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T15:33:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079937764678910014"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1970504759762419712",
+              "start": 0,
+              "username": "DkyOnlyforu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079937764678910014",
+        "in_reply_to_user_id": "1970504759762419712",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079935088872366163",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DkyOnlyforu 🫪🫪🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970504759762419712",
+        "conversation_id": "2079891014186307956",
+        "created_at": "2026-07-22T14:22:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T15:22:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079935088872366163"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1536716629505359872",
+              "start": 0,
+              "username": "cigsafterdrug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079935088872366163",
+        "in_reply_to_user_id": "1536716629505359872",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079891014186307956",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cigsafterdrug 萌晕"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2070816356862431619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 522,
+          "following_count": 469,
+          "like_count": 31565,
+          "listed_count": 0,
+          "media_count": 206,
+          "tweet_count": 3118
+        },
+        "url": "",
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-23T15:05:26.000Z",
+        "description": "泥嚎我是月月^ω^ ｜06｜isfp｜♏️｜ od自伤｜不是健全人｜不聊黄别发屌｜智商很低只有十四岁｜🚪88纯绿｜不闲聊谢谢谢过门甩口令么么哒",
+        "id": "1970504759762419712",
+        "location": "懵逼中",
+        "name": "哎呀，你别哭了",
+        "pinned_tweet_id": "2051542151184753090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079067181468512256/2AGW4iVr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2108,
+          "following_count": 494,
+          "like_count": 5606,
+          "listed_count": 2,
+          "media_count": 363,
+          "tweet_count": 2729
+        },
+        "url": "",
+        "username": "DkyOnlyforu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2051351350760575344",
+    "created_at": "2026-05-05T17:11:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T18:11:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051711509999563103"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1890581711072972800",
+          "start": 0,
+          "username": "Pulemini49"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051711509999563103",
+    "in_reply_to_user_id": "1890581711072972800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051697200510681232",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Pulemini49 过久一点淡下来会没那么明显的！鲜红的也很可爱嘛🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2051697190289154048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHkXuWXaIAARSFL.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2051351350760575344",
+        "created_at": "2026-05-05T17:11:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T18:11:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051711509999563103"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1890581711072972800",
+              "start": 0,
+              "username": "Pulemini49"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051711509999563103",
+        "in_reply_to_user_id": "1890581711072972800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051697200510681232",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Pulemini49 过久一点淡下来会没那么明显的！鲜红的也很可爱嘛🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051697190289154048"
+          ]
+        },
+        "author_id": "1890581711072972800",
+        "conversation_id": "2051351350760575344",
+        "created_at": "2026-05-05T16:15:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T17:15:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051697200510681232"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1536716629505359872",
+              "start": 0,
+              "username": "cigsafterdrug"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zkoImwhjVy",
+              "end": 55,
+              "expanded_url": "https://x.com/Pulemini49/status/2051697200510681232/photo/1",
+              "media_key": "3_2051697190289154048",
+              "start": 32,
+              "url": "https://t.co/zkoImwhjVy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051697200510681232",
+        "in_reply_to_user_id": "1536716629505359872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051351350760575344",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cigsafterdrug 我腿上是这样的 特别特别特别恶心 https://t.co/zkoImwhjVy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 363,
+          "following_count": 369,
+          "like_count": 23800,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 1944
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-15T01:59:46.000Z",
+        "description": "不加联系方式 想发什么发什么",
+        "id": "1890581711072972800",
+        "location": "Osaka-fu, Japan",
+        "name": "莲",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929383639734951936/PCBUFNyy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 40,
+          "like_count": 987,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 276
+        },
+        "username": "Pulemini49",
+        "verified": false
+      }
+    ]
+  }
+}

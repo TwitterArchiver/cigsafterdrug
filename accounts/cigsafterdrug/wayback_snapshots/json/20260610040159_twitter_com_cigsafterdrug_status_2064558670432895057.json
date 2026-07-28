@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2064478157168849147",
+    "created_at": "2026-06-10T04:01:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T05:01:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064558670432895057"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2053707183427366912",
+          "start": 0,
+          "username": "meyu_121"
+        },
+        {
+          "end": 25,
+          "id": "2020935362386984964",
+          "start": 10,
+          "username": "Xuanying114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064558670432895057",
+    "in_reply_to_user_id": "2053707183427366912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064478157168849147",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@meyu_121 @Xuanying114514 好好睇！家駒生日快樂！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2064478153524097024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKZ_8UtbsAA_aIP.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2064478157168849147",
+        "created_at": "2026-06-10T04:01:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T05:01:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064558670432895057"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2053707183427366912",
+              "start": 0,
+              "username": "meyu_121"
+            },
+            {
+              "end": 25,
+              "id": "2020935362386984964",
+              "start": 10,
+              "username": "Xuanying114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064558670432895057",
+        "in_reply_to_user_id": "2053707183427366912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064478157168849147",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meyu_121 @Xuanying114514 好好睇！家駒生日快樂！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064478153524097024"
+          ]
+        },
+        "author_id": "2053707183427366912",
+        "conversation_id": "2064478157168849147",
+        "created_at": "2026-06-09T22:42:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T23:42:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064478157168849147"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7xmtmu7UWY",
+              "end": 32,
+              "expanded_url": "https://x.com/meyu_121/status/2064478157168849147/photo/1",
+              "media_key": "3_2064478153524097024",
+              "start": 9,
+              "url": "https://t.co/7xmtmu7UWY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064478157168849147",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 65,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "家駒 生日快樂！ https://t.co/7xmtmu7UWY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 459,
+          "following_count": 420,
+          "like_count": 28311,
+          "listed_count": 0,
+          "media_count": 144,
+          "tweet_count": 2518
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-11T05:22:11.000Z",
+        "description": "yume🇭🇰∥健全人fol我死那个∥神聖かまってちゃん 李志 beyond∥愛人 @xuanying114514\n∥rip @Yume_121_\n@Yume_121_3",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 41,
+                "username": "xuanying114514"
+              },
+              {
+                "end": 72,
+                "start": 62,
+                "username": "Yume_121_"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "Yume_121_3"
+              }
+            ]
+          }
+        },
+        "id": "2053707183427366912",
+        "location": "^  ̳   ̫   ̳^",
+        "name": "Yume",
+        "pinned_tweet_id": "2053715766537814126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053707994354028544/O2G0V1D2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 149,
+          "like_count": 221,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 210
+        },
+        "username": "meyu_121",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-09T18:58:46.000Z",
+        "description": "一個小油條🇨🇳 \n爱人：@meyu_121\nrip：@yume_121_3\n神聖かまってちゃん🎸（Japan）、低苦艾、李志（China），羅大佑、陳昇、張雨生（Taiwan），黃耀明、達明一派、Beyond（HongKong）が好きです。\n日本語が基礎がなく、翻訳ツールしか使えません、すみません",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 12,
+                "username": "meyu_121"
+              },
+              {
+                "end": 37,
+                "start": 26,
+                "username": "yume_121_3"
+              }
+            ]
+          }
+        },
+        "id": "2020935362386984964",
+        "name": "玄英かまってちゃん🎸",
+        "pinned_tweet_id": "2045440180946079798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052695065877991424/x0EsIjdh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 180,
+          "like_count": 5561,
+          "listed_count": 1,
+          "media_count": 176,
+          "tweet_count": 1372
+        },
+        "username": "Xuanying114514",
+        "verified": false
+      }
+    ]
+  }
+}

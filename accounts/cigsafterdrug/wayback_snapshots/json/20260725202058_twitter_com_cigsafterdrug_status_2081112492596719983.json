@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2081074082385465617",
+    "created_at": "2026-07-25T20:20:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T21:20:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081112492596719983"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2066080690438123520",
+          "start": 0,
+          "username": "Seviraine"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081112492596719983",
+    "in_reply_to_user_id": "2066080690438123520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081074082385465617",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Seviraine 好帥好美麗⋯"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20833,
+        "height": 720,
+        "media_key": "7_2081073528640872448",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2081073528640872448/pu/img/r_Zy77fG8AqvoeVl.jpg",
+        "public_metrics": {
+          "view_count": 48
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2081073528640872448/pu/vid/avc1/360x270/QVmzKlyweWjZBt6Z.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2081073528640872448/pu/vid/avc1/480x360/ghp5PvcWtXG4xP_3.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2081073528640872448/pu/vid/avc1/960x720/XXUDKcE_7VXEhkRV.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2081073528640872448/pu/pl/66uzQi4pJ4Lz5P7a.m3u8?tag=12"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2081074082385465617",
+        "created_at": "2026-07-25T20:20:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T21:20:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081112492596719983"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2066080690438123520",
+              "start": 0,
+              "username": "Seviraine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081112492596719983",
+        "in_reply_to_user_id": "2066080690438123520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081074082385465617",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Seviraine 好帥好美麗⋯"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2081073528640872448"
+          ]
+        },
+        "author_id": "2066080690438123520",
+        "conversation_id": "2081074082385465617",
+        "created_at": "2026-07-25T17:48:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T18:48:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081074082385465617"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/O4gprOG2fs",
+              "end": 28,
+              "expanded_url": "https://x.com/Seviraine/status/2081074082385465617/video/1",
+              "media_key": "7_2081073528640872448",
+              "start": 5,
+              "url": "https://t.co/O4gprOG2fs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081074082385465617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 85,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "目前状态 https://t.co/O4gprOG2fs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2070816356862431619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 524,
+          "following_count": 475,
+          "like_count": 31753,
+          "listed_count": 0,
+          "media_count": 210,
+          "tweet_count": 3169
+        },
+        "url": "",
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-14T09:01:23.000Z",
+        "description": "一个精神病，回fo私信",
+        "id": "2066080690438123520",
+        "name": "Πика",
+        "pinned_tweet_id": "2066146607738061272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081075017413238784/4pahPiY8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 1,
+          "like_count": 999,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 11
+        },
+        "url": "",
+        "username": "Seviraine",
+        "verified": false
+      }
+    ]
+  }
+}

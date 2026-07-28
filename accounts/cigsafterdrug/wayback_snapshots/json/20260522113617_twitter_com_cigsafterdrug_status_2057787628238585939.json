@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2057787628238585939",
+    "created_at": "2026-05-22T11:36:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T12:36:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057787628238585939"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1974825034100187136",
+          "start": 3,
+          "username": "ryqr116"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057787628238585939",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057581738973679812",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ryqr116: 你们这些傻逼 为什么喜欢我之后又不喜欢了 我杀了你们"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2057787628238585939",
+        "created_at": "2026-05-22T11:36:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T12:36:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057787628238585939"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1974825034100187136",
+              "start": 3,
+              "username": "ryqr116"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057787628238585939",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057581738973679812",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ryqr116: 你们这些傻逼 为什么喜欢我之后又不喜欢了 我杀了你们"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974825034100187136",
+        "conversation_id": "2057581738973679812",
+        "created_at": "2026-05-21T21:58:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T22:58:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057581738973679812"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057581738973679812",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5501,
+          "like_count": 145,
+          "quote_count": 0,
+          "reply_count": 40,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "你们这些傻逼 为什么喜欢我之后又不喜欢了 我杀了你们"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 419,
+          "following_count": 398,
+          "like_count": 26037,
+          "listed_count": 0,
+          "media_count": 128,
+          "tweet_count": 2204
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-05T13:12:43.000Z",
+        "description": "我的爱 停泊在\n无风的海\n小号@usernanne7 只过互关",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 15,
+                "username": "usernanne7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ryqr116",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ryqr116",
+                "start": 0,
+                "url": "https://t.co/EvzkXg3Jki"
+              }
+            ]
+          }
+        },
+        "id": "1974825034100187136",
+        "location": "提问箱",
+        "name": "frost",
+        "pinned_tweet_id": "2054852836387651677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051999739814797313/ki2dJLt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 515,
+          "following_count": 15,
+          "like_count": 4225,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 1101
+        },
+        "url": "https://t.co/EvzkXg3Jki",
+        "username": "ryqr116",
+        "verified": false
+      }
+    ]
+  }
+}

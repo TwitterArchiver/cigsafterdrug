@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2059566272481005702",
+    "created_at": "2026-05-27T11:06:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T12:06:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059592008847745341"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1824390995754225667",
+          "start": 0,
+          "username": "Bcattiy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059592008847745341",
+    "in_reply_to_user_id": "1824390995754225667",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059566272481005702",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bcattiy 这种贱逼才是最该死的…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2059566264578916353",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJUMmweawAEw9rL.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2059566272481005702",
+        "created_at": "2026-05-27T11:06:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T12:06:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059592008847745341"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1824390995754225667",
+              "start": 0,
+              "username": "Bcattiy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059592008847745341",
+        "in_reply_to_user_id": "1824390995754225667",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059566272481005702",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bcattiy 这种贱逼才是最该死的…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059566264578916353"
+          ]
+        },
+        "author_id": "1824390995754225667",
+        "conversation_id": "2059566272481005702",
+        "created_at": "2026-05-27T09:23:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T10:23:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059566272481005702"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DoqOVJ4L8d",
+              "end": 30,
+              "expanded_url": "https://x.com/Bcattiy/status/2059566272481005702/photo/1",
+              "media_key": "3_2059566264578916353",
+              "start": 7,
+              "url": "https://t.co/DoqOVJ4L8d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059566272481005702",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 255,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "老子要疯了。 https://t.co/DoqOVJ4L8d"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 432,
+          "following_count": 412,
+          "like_count": 26991,
+          "listed_count": 0,
+          "media_count": 131,
+          "tweet_count": 2298
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-16T10:21:31.000Z",
+        "description": "恶心我就把我屏蔽别来找骂 自己想想自己够不够贱的",
+        "id": "1824390995754225667",
+        "name": "Bcattiy",
+        "pinned_tweet_id": "2056048671276609905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056179460823805952/Dg0JD-QG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 88,
+          "like_count": 2003,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 1095
+        },
+        "username": "Bcattiy",
+        "verified": true
+      }
+    ]
+  }
+}

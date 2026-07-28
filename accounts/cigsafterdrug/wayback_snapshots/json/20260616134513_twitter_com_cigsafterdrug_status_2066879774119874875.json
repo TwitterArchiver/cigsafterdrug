@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2066847767075635258",
+    "created_at": "2026-06-16T13:45:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T14:45:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066879774119874875"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2066537184879050752",
+          "start": 0,
+          "username": "meyu0630"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066879774119874875",
+    "in_reply_to_user_id": "2066537184879050752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066862947104854402",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@meyu0630 對呀對呀！一開始就是看到你帳號很多關於神逐的內容所有fo了！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2066847767075635258",
+        "created_at": "2026-06-16T13:45:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T14:45:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066879774119874875"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2066537184879050752",
+              "start": 0,
+              "username": "meyu0630"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066879774119874875",
+        "in_reply_to_user_id": "2066537184879050752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066862947104854402",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meyu0630 對呀對呀！一開始就是看到你帳號很多關於神逐的內容所有fo了！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066537184879050752",
+        "conversation_id": "2066847767075635258",
+        "created_at": "2026-06-16T12:38:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T13:38:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066862947104854402"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1536716629505359872",
+              "start": 0,
+              "username": "cigsafterdrug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066862947104854402",
+        "in_reply_to_user_id": "1536716629505359872",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066847767075635258",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cigsafterdrug 😻迴迴居然也听SKC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 491,
+          "following_count": 437,
+          "like_count": 29053,
+          "listed_count": 0,
+          "media_count": 163,
+          "tweet_count": 2762
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-15T15:06:32.000Z",
+        "description": "🇭🇰6.30🎂愛人@XuanYing114514\n神聖かまってちゃん beyond 李志",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 9,
+                "username": "XuanYing114514"
+              }
+            ]
+          }
+        },
+        "id": "2066537184879050752",
+        "name": "YUME",
+        "pinned_tweet_id": "2066538967152091418",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066538034431131648/KBem8x8n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 49,
+          "like_count": 42,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 26
+        },
+        "username": "meyu0630",
+        "verified": false
+      }
+    ]
+  }
+}

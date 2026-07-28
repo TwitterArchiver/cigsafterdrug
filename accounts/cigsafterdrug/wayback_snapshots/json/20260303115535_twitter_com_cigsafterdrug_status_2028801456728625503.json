@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2028801456728625503",
+    "created_at": "2026-03-03T11:55:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T12:55:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2028801456728625503"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/maoxian1527/st…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/maoxian1527/status/2028697184808653218",
+          "start": 7,
+          "url": "https://t.co/QuJ1sG6qLO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028801456728625503",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028697184808653218",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我将尝试😋😋 https://t.co/QuJ1sG6qLO"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2028801456728625503",
+        "created_at": "2026-03-03T11:55:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T12:55:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028801456728625503"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/maoxian1527/st…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/maoxian1527/status/2028697184808653218",
+              "start": 7,
+              "url": "https://t.co/QuJ1sG6qLO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028801456728625503",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028697184808653218",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我将尝试😋😋 https://t.co/QuJ1sG6qLO"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929416262989557760",
+        "conversation_id": "2028697184808653218",
+        "created_at": "2026-03-03T05:01:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T06:01:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028697184808653218"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2028697184808653218",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 725,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "教你们一个很极端的减肥方法：\n买75mg pr80 3盒\n一个月之内 两天不吃饭 少喝水 难受就吃2t普瑞巴林\n第三天可以吃一些低脂食物\n尝试两周 你能看到一个很大的收获"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026943929120444416/QS8rXF5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 106,
+          "like_count": 16600,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 608
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-02T05:54:41.000Z",
+        "description": "🤍🍥2010.11.17🍥🤍｜并不可爱小宅女（猫娘…？｜碎碎念ing… |🏳️‍⚧️友好｜简体｜ 脾气不好 极讨厌私信 | 看成分互fo｜负能｜ @mao_xian1527 ｜顺女",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 73,
+                "username": "mao_xian1527"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maoxianact.top",
+                "end": 23,
+                "expanded_url": "http://maoxianact.top/",
+                "start": 0,
+                "url": "https://t.co/BsriOOm0E4"
+              }
+            ]
+          }
+        },
+        "id": "1929416262989557760",
+        "location": "中華民國🇹🇼",
+        "name": "猫弦nekogen🍥",
+        "pinned_tweet_id": "2026838426809729196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021082119691534336/-FUI5SF__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1181,
+          "following_count": 264,
+          "like_count": 2876,
+          "listed_count": 1,
+          "media_count": 169,
+          "tweet_count": 1231
+        },
+        "url": "https://t.co/BsriOOm0E4",
+        "username": "maoxian1527",
+        "verified": false
+      }
+    ]
+  }
+}

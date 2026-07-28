@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2031665593703878945",
+    "created_at": "2026-03-12T08:04:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T09:04:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032004817707810954"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1982391146770022400",
+          "start": 0,
+          "username": "Naturyyy_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032004817707810954",
+    "in_reply_to_user_id": "1982391146770022400",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031987007241744748",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Naturyyy_ 🤓🫰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2031665593703878945",
+        "created_at": "2026-03-12T08:04:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T09:04:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032004817707810954"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1982391146770022400",
+              "start": 0,
+              "username": "Naturyyy_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032004817707810954",
+        "in_reply_to_user_id": "1982391146770022400",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031987007241744748",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Naturyyy_ 🤓🫰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1982391146770022400",
+        "conversation_id": "2031665593703878945",
+        "created_at": "2026-03-12T06:53:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T07:53:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031987007241744748"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1536716629505359872",
+              "start": 0,
+              "username": "cigsafterdrug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031987007241744748",
+        "in_reply_to_user_id": "1536716629505359872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031665593703878945",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cigsafterdrug 我想要說的，前人們都說過了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026943929120444416/QS8rXF5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 278,
+          "like_count": 17946,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 988
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-26T10:17:50.000Z",
+        "description": "碎碎念/雪兔 我很溫良⁃ ⩊ ⁃ 玩推是想交朋友咪",
+        "id": "1982391146770022400",
+        "name": "米亞塔",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030906111763922944/qe054xPs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 20,
+          "like_count": 520,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 47
+        },
+        "username": "Naturyyy_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2059205380690063869",
+    "created_at": "2026-05-26T09:47:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T10:47:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059209918541111406"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1874458926558961664",
+          "start": 0,
+          "username": "DaiianaVez69773"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059209918541111406",
+    "in_reply_to_user_id": "1874458926558961664",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059205380690063869",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DaiianaVez69773 我也是😇"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1233,
+        "media_key": "3_2059205365976494080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJPEXsabcAAwz8E.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2059205380690063869",
+        "created_at": "2026-05-26T09:47:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T10:47:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059209918541111406"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1874458926558961664",
+              "start": 0,
+              "username": "DaiianaVez69773"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059209918541111406",
+        "in_reply_to_user_id": "1874458926558961664",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059205380690063869",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DaiianaVez69773 我也是😇"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059205365976494080"
+          ]
+        },
+        "author_id": "1874458926558961664",
+        "conversation_id": "2059205380690063869",
+        "created_at": "2026-05-26T09:29:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T10:29:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059205380690063869"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/modN043PC2",
+              "end": 64,
+              "expanded_url": "https://x.com/DaiianaVez69773/status/2059205380690063869/photo/1",
+              "media_key": "3_2059205365976494080",
+              "start": 41,
+              "url": "https://t.co/modN043PC2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059205380690063869",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的关注列表总是莫名其妙出现一堆莫名其妙的人生，我还要定期清除。msk你太牛逼了 https://t.co/modN043PC2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 430,
+          "following_count": 411,
+          "like_count": 26765,
+          "listed_count": 0,
+          "media_count": 131,
+          "tweet_count": 2274
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-01T14:14:55.000Z",
+        "description": "08 高3 infj-t 精神分裂、重度焦虑、双相情感障碍 服药治疗中，不良嗜好od吸烟割手\n音乐  jrock/噪音/盯鞋/黑金残死旋死血碾等金属/ボカロ/jpop/emocore/地下udg \n是个九年二次元小资历  喜欢cult片（可以向我推荐好看的电影😋） 拉康派精神分析/不想有哲学门派倾向，大体上是悲观理性",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ouoshizego",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ouoshizego",
+                "start": 0,
+                "url": "https://t.co/EAnsMRl5JL"
+              }
+            ]
+          }
+        },
+        "id": "1874458926558961664",
+        "location": "ぺんてるに行きました",
+        "name": "矢澤源義かまってちゃん🔋🎸",
+        "pinned_tweet_id": "2044722696920125723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908777584210714625/L-fqHbRN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 259,
+          "following_count": 209,
+          "like_count": 12710,
+          "listed_count": 1,
+          "media_count": 142,
+          "tweet_count": 1067
+        },
+        "url": "https://t.co/EAnsMRl5JL",
+        "username": "DaiianaVez69773",
+        "verified": false
+      }
+    ]
+  }
+}

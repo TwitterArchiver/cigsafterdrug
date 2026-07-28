@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2032786379680485381",
+    "created_at": "2026-03-14T12:50:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T13:50:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032801613535179026"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1482056426885468160",
+          "start": 0,
+          "username": "sarielxx00ww"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032801613535179026",
+    "in_reply_to_user_id": "1482056426885468160",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032786379680485381",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sarielxx00ww 天才吧！？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2032786367416250370",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDXoblYaMAIQMSG.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2032786379680485381",
+        "created_at": "2026-03-14T12:50:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T13:50:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032801613535179026"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1482056426885468160",
+              "start": 0,
+              "username": "sarielxx00ww"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032801613535179026",
+        "in_reply_to_user_id": "1482056426885468160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032786379680485381",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sarielxx00ww 天才吧！？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032786367416250370"
+          ]
+        },
+        "author_id": "1482056426885468160",
+        "conversation_id": "2032786379680485381",
+        "created_at": "2026-03-14T11:50:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T12:50:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032786379680485381"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AsDQpdKnao",
+              "end": 44,
+              "expanded_url": "https://x.com/sarielxx00ww/status/2032786379680485381/photo/1",
+              "media_key": "3_2032786367416250370",
+              "start": 21,
+              "url": "https://t.co/AsDQpdKnao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032786379680485381",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我又用管子顺了36t愈美😋根本没有味道！ https://t.co/AsDQpdKnao"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026943929120444416/QS8rXF5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 282,
+          "like_count": 18246,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 1034
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-14T18:27:28.000Z",
+        "description": "梦想是躺在床上睡个好觉₍^˶ ╸𖥦 ╸˵^₎⟆",
+        "id": "1482056426885468160",
+        "name": "只是，不想失去",
+        "pinned_tweet_id": "1916888218181795975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761503815361007616/XhLOj9GI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 464,
+          "like_count": 3377,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 108
+        },
+        "username": "sarielxx00ww",
+        "verified": false
+      }
+    ]
+  }
+}

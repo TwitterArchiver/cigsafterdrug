@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2031441685549596797",
+    "created_at": "2026-03-11T05:32:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-11T06:32:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031604192272691303"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1958823376539262976",
+          "start": 0,
+          "username": "O7Uywn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031604192272691303",
+    "in_reply_to_user_id": "1958823376539262976",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031441685549596797",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@O7Uywn 有我诶！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2031441680839356423",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDEhchhaMAcoOV8.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2031441685549596797",
+        "created_at": "2026-03-11T05:32:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T06:32:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031604192272691303"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1958823376539262976",
+              "start": 0,
+              "username": "O7Uywn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031604192272691303",
+        "in_reply_to_user_id": "1958823376539262976",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031441685549596797",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@O7Uywn 有我诶！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031441680839356423"
+          ]
+        },
+        "author_id": "1958823376539262976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2031441685549596797",
+        "created_at": "2026-03-10T18:46:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T19:46:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031441685549596797"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinitetweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2030654447379202049/PuWVH0fJ?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2030654447379202049/PuWVH0fJ?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/MGJOsYlWnG"
+            },
+            {
+              "display_url": "pic.x.com/eEDyYhC3DD",
+              "end": 64,
+              "expanded_url": "https://x.com/O7Uywn/status/2031441685549596797/photo/1",
+              "media_key": "3_2031441680839356423",
+              "start": 41,
+              "url": "https://t.co/eEDyYhC3DD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031441685549596797",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/MGJOsYlWnG https://t.co/eEDyYhC3DD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026943929120444416/QS8rXF5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 262,
+          "like_count": 17785,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 911
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-22T09:27:52.000Z",
+        "description": "我別無選擇",
+        "id": "1958823376539262976",
+        "name": "柏林",
+        "pinned_tweet_id": "2025195682831958335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027540187262373888/Z2DjNUeO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 48,
+          "like_count": 666,
+          "listed_count": 0,
+          "media_count": 378,
+          "tweet_count": 1758
+        },
+        "username": "O7Uywn",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058888736340140032"
+      ],
+      "media_source_tweet_id": [
+        "2058888745366224908"
+      ]
+    },
+    "author_id": "1536716629505359872",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2059005206881591564",
+    "created_at": "2026-05-25T20:14:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T21:14:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059005206881591564"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2058879697011019776",
+          "start": 3,
+          "username": "Zarathustra8964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4s9jnGKx0r",
+          "end": 79,
+          "expanded_url": "https://x.com/Zarathustra8964/status/2058888745366224908/photo/1",
+          "media_key": "3_2058888736340140032",
+          "start": 56,
+          "url": "https://t.co/4s9jnGKx0r"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059005206881591564",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058888745366224908",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Zarathustra8964: 我是查拉图斯特拉，我重生了，这一世我要寻回我的互关，求转啊啊啊啊啊啊 https://t.co/4s9jnGKx0r"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1026,
+        "media_key": "3_2058888736340140032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJKkZbGbYAAXgPr.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058888736340140032"
+          ],
+          "media_source_tweet_id": [
+            "2058888745366224908"
+          ]
+        },
+        "author_id": "1536716629505359872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2059005206881591564",
+        "created_at": "2026-05-25T20:14:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T21:14:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059005206881591564"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2058879697011019776",
+              "start": 3,
+              "username": "Zarathustra8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4s9jnGKx0r",
+              "end": 79,
+              "expanded_url": "https://x.com/Zarathustra8964/status/2058888745366224908/photo/1",
+              "media_key": "3_2058888736340140032",
+              "start": 56,
+              "url": "https://t.co/4s9jnGKx0r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059005206881591564",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058888745366224908",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Zarathustra8964: 我是查拉图斯特拉，我重生了，这一世我要寻回我的互关，求转啊啊啊啊啊啊 https://t.co/4s9jnGKx0r"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058888736340140032"
+          ]
+        },
+        "author_id": "2058879697011019776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2058888745366224908",
+        "created_at": "2026-05-25T12:31:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T13:31:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058888745366224908"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4s9jnGKx0r",
+              "end": 58,
+              "expanded_url": "https://x.com/Zarathustra8964/status/2058888745366224908/photo/1",
+              "media_key": "3_2058888736340140032",
+              "start": 35,
+              "url": "https://t.co/4s9jnGKx0r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058888745366224908",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1502,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "我是查拉图斯特拉，我重生了，这一世我要寻回我的互关，求转啊啊啊啊啊啊 https://t.co/4s9jnGKx0r"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 423,
+          "following_count": 408,
+          "like_count": 26673,
+          "listed_count": 0,
+          "media_count": 130,
+          "tweet_count": 2265
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-25T12:00:57.000Z",
+        "description": "互关寻回中……..",
+        "id": "2058879697011019776",
+        "name": "查拉图斯特拉.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058883784288927744/va7XxYIs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 58,
+          "like_count": 25,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 7
+        },
+        "username": "Zarathustra8964",
+        "verified": false
+      }
+    ]
+  }
+}

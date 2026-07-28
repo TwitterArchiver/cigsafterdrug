@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054283619338768384"
+      ],
+      "media_source_tweet_id": [
+        "2054283621511442657"
+      ]
+    },
+    "author_id": "1536716629505359872",
+    "conversation_id": "2054647040844689664",
+    "created_at": "2026-05-13T19:36:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T20:36:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054647040844689664"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1746103140716294145",
+          "start": 3,
+          "username": "DeatheKid_117"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DJwt73G2Ca",
+          "end": 45,
+          "expanded_url": "https://x.com/DeatheKid_117/status/2054283621511442657/photo/1",
+          "media_key": "3_2054283619338768384",
+          "start": 22,
+          "url": "https://t.co/DJwt73G2Ca"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054647040844689664",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 345
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054283621511442657",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DeatheKid_117: 02 https://t.co/DJwt73G2Ca"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1350,
+        "media_key": "3_2054283619338768384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIJIEVaXUAAFcSy.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054283619338768384"
+          ],
+          "media_source_tweet_id": [
+            "2054283621511442657"
+          ]
+        },
+        "author_id": "1536716629505359872",
+        "conversation_id": "2054647040844689664",
+        "created_at": "2026-05-13T19:36:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T20:36:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054647040844689664"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1746103140716294145",
+              "start": 3,
+              "username": "DeatheKid_117"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DJwt73G2Ca",
+              "end": 45,
+              "expanded_url": "https://x.com/DeatheKid_117/status/2054283621511442657/photo/1",
+              "media_key": "3_2054283619338768384",
+              "start": 22,
+              "url": "https://t.co/DJwt73G2Ca"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054647040844689664",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 345
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054283621511442657",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DeatheKid_117: 02 https://t.co/DJwt73G2Ca"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054283619338768384"
+          ]
+        },
+        "author_id": "1746103140716294145",
+        "conversation_id": "2054283621511442657",
+        "created_at": "2026-05-12T19:32:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T20:32:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054283621511442657"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DJwt73G2Ca",
+              "end": 26,
+              "expanded_url": "https://x.com/DeatheKid_117/status/2054283621511442657/photo/1",
+              "media_key": "3_2054283619338768384",
+              "start": 3,
+              "url": "https://t.co/DJwt73G2Ca"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054283621511442657",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 270,
+          "impression_count": 23820,
+          "like_count": 3066,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 345
+        },
+        "reply_settings": "everyone",
+        "text": "02 https://t.co/DJwt73G2Ca"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 413,
+          "following_count": 392,
+          "like_count": 25070,
+          "listed_count": 0,
+          "media_count": 124,
+          "tweet_count": 2101
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-13T09:33:50.000Z",
+        "description": "ᶜᵒⁿⁿᵉᶜᵗᵉᵈ ᵛⁱᵃ ᵉᵗʰᵉʳⁿᵉᵗ ᶜᵃᵇˡᵉ\n⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿\n\nInsta: N1ck_wonders \n\ncomms open",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "inprnt.com/profile/n1ck_w…",
+                "end": 23,
+                "expanded_url": "https://www.inprnt.com/profile/n1ck_wonders/?fbclid=PAQ0xDSwLBP41leHRuA2FlbQIxMQABp1PKaOYGwgdv0_PPOW",
+                "start": 0,
+                "url": "https://t.co/6xqOTIarwp"
+              }
+            ]
+          }
+        },
+        "id": "1746103140716294145",
+        "location": "Everywhere ",
+        "name": "★N¡cΚ☆",
+        "pinned_tweet_id": "2052515929628479938",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043512052182917120/ib_0xHmH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3624,
+          "following_count": 27,
+          "like_count": 1262,
+          "listed_count": 10,
+          "media_count": 596,
+          "tweet_count": 726
+        },
+        "url": "https://t.co/6xqOTIarwp",
+        "username": "DeatheKid_117",
+        "verified": false
+      }
+    ]
+  }
+}

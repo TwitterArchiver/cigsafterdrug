@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2031679729351414221",
+    "created_at": "2026-03-11T10:37:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-11T11:37:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031680943334015396"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1688959853346140178",
+          "start": 0,
+          "username": "Ellieo07"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031680943334015396",
+    "in_reply_to_user_id": "1688959853346140178",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031679729351414221",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ellieo07 人坤求放过！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2031679729351414221",
+        "created_at": "2026-03-11T10:37:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T11:37:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031680943334015396"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1688959853346140178",
+              "start": 0,
+              "username": "Ellieo07"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031680943334015396",
+        "in_reply_to_user_id": "1688959853346140178",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031679729351414221",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ellieo07 人坤求放过！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1688959853346140178",
+        "conversation_id": "2031679729351414221",
+        "created_at": "2026-03-11T10:32:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T11:32:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031679729351414221"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2031679729351414221",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "明明想扩和我一样懵逼的女孩纸结果一堆人坤关注我了 好想哭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026943929120444416/QS8rXF5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246,
+          "following_count": 273,
+          "like_count": 17842,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 938
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-08T17:06:38.000Z",
+        "description": "解构",
+        "id": "1688959853346140178",
+        "name": "estelle",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031192448437985280/bKRLmS5c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 29,
+          "like_count": 50,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 56
+        },
+        "username": "Ellieo07",
+        "verified": false
+      }
+    ]
+  }
+}

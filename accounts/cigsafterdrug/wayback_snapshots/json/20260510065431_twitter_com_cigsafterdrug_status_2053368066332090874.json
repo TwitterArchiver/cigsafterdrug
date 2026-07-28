@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2053106791303766198",
+    "created_at": "2026-05-10T06:54:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T07:54:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053368066332090874"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1634191229310341121",
+          "start": 0,
+          "username": "jkhh_kkj"
+        },
+        {
+          "end": 17,
+          "id": "2041081377592938496",
+          "start": 10,
+          "username": "sfpsrf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053368066332090874",
+    "in_reply_to_user_id": "1634191229310341121",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053320527683666381",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jkhh_kkj @sfpsrf 確實"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2053106791303766198",
+        "created_at": "2026-05-10T06:54:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T07:54:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053368066332090874"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1634191229310341121",
+              "start": 0,
+              "username": "jkhh_kkj"
+            },
+            {
+              "end": 17,
+              "id": "2041081377592938496",
+              "start": 10,
+              "username": "sfpsrf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053368066332090874",
+        "in_reply_to_user_id": "1634191229310341121",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053320527683666381",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jkhh_kkj @sfpsrf 確實"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634191229310341121",
+        "conversation_id": "2053106791303766198",
+        "created_at": "2026-05-10T03:45:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T04:45:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053320527683666381"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1536716629505359872",
+              "start": 0,
+              "username": "cigsafterdrug"
+            },
+            {
+              "end": 22,
+              "id": "2041081377592938496",
+              "start": 15,
+              "username": "sfpsrf"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "d029ddcdc4fc44b6"
+        },
+        "id": "2053320527683666381",
+        "in_reply_to_user_id": "1536716629505359872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053145103741681880",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cigsafterdrug @sfpsrf 难抽死了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 396,
+          "following_count": 382,
+          "like_count": 24238,
+          "listed_count": 0,
+          "media_count": 123,
+          "tweet_count": 2032
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-10T13:55:34.000Z",
+        "description": "Disappointment is like a coin that always saves enough tickets to leave.",
+        "id": "1634191229310341121",
+        "location": "Hong Kong",
+        "name": "jxmy bsp",
+        "pinned_tweet_id": "1941322444842860870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932786553782480905/Xl76b5ly_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 361,
+          "like_count": 10209,
+          "listed_count": 1,
+          "media_count": 73,
+          "tweet_count": 2610
+        },
+        "username": "jkhh_kkj",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-06T09:11:58.000Z",
+        "description": "",
+        "id": "2041081377592938496",
+        "location": "  ",
+        "name": "碎风",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049889464919744512/g6h0yR4p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 8,
+          "like_count": 646,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 239
+        },
+        "username": "sfpsrf",
+        "verified": false
+      }
+    ]
+  }
+}

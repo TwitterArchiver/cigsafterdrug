@@ -1,0 +1,370 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_623477061051547648"
+      ],
+      "media_source_tweet_id": [
+        "623477081880465408"
+      ]
+    },
+    "author_id": "1536716629505359872",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1443277565393719296",
+          "name": "Hello Kitty"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1443277565393719296",
+          "name": "Hello Kitty"
+        }
+      },
+      {
+        "domain": {
+          "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+          "id": "122",
+          "name": "Fictional Character"
+        },
+        "entity": {
+          "id": "1443277565393719296",
+          "name": "Hello Kitty"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1443277565393719296",
+          "name": "Hello Kitty"
+        }
+      }
+    ],
+    "conversation_id": "2043653205662540197",
+    "created_at": "2026-04-13T11:31:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T12:31:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043653205662540197"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "899502186",
+          "start": 3,
+          "username": "0u0HaNako666"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Uh1Rn0v9zs",
+          "end": 55,
+          "expanded_url": "https://x.com/0u0HaNako666/status/623477081880465408/video/1",
+          "media_key": "7_623477061051547648",
+          "start": 33,
+          "url": "http://t.co/Uh1Rn0v9zs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043653205662540197",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 181
+    },
+    "referenced_tweets": [
+      {
+        "id": "623477081880465408",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @0u0HaNako666: キティちゃんの時計があった☆ http://t.co/Uh1Rn0v9zs"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3067,
+        "height": 848,
+        "media_key": "7_623477061051547648",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/623477061051547648/pu/img/Sl1d9P3kGOkMuFnm.jpg",
+        "public_metrics": {
+          "view_count": 4697
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/623477061051547648/pu/vid/482x640/lIVtnUFrW6B_TXCj.mp4"
+          },
+          {
+            "bit_rate": 320000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/623477061051547648/pu/vid/240x320/mVE0Mm6u59JLuYTf.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/623477061051547648/pu/pl/oGhmNSsH_f5Vmwgj.m3u8"
+          }
+        ],
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_623477061051547648"
+          ],
+          "media_source_tweet_id": [
+            "623477081880465408"
+          ]
+        },
+        "author_id": "1536716629505359872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1443277565393719296",
+              "name": "Hello Kitty"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1443277565393719296",
+              "name": "Hello Kitty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1443277565393719296",
+              "name": "Hello Kitty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1443277565393719296",
+              "name": "Hello Kitty"
+            }
+          }
+        ],
+        "conversation_id": "2043653205662540197",
+        "created_at": "2026-04-13T11:31:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T12:31:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043653205662540197"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "899502186",
+              "start": 3,
+              "username": "0u0HaNako666"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Uh1Rn0v9zs",
+              "end": 55,
+              "expanded_url": "https://x.com/0u0HaNako666/status/623477081880465408/video/1",
+              "media_key": "7_623477061051547648",
+              "start": 33,
+              "url": "http://t.co/Uh1Rn0v9zs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043653205662540197",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 181
+        },
+        "referenced_tweets": [
+          {
+            "id": "623477081880465408",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @0u0HaNako666: キティちゃんの時計があった☆ http://t.co/Uh1Rn0v9zs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_623477061051547648"
+          ]
+        },
+        "author_id": "899502186",
+        "conversation_id": "623477081880465408",
+        "created_at": "2015-07-21T12:58:14.000Z",
+        "edit_controls": {
+          "editable_until": "2015-07-21T13:28:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "623477081880465408"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Uh1Rn0v9zs",
+              "end": 37,
+              "expanded_url": "https://x.com/0u0HaNako666/status/623477081880465408/video/1",
+              "media_key": "7_623477061051547648",
+              "start": 15,
+              "url": "http://t.co/Uh1Rn0v9zs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "623477081880465408",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 0,
+          "like_count": 665,
+          "quote_count": 7,
+          "reply_count": 85,
+          "retweet_count": 181
+        },
+        "reply_settings": "everyone",
+        "text": "キティちゃんの時計があった☆ http://t.co/Uh1Rn0v9zs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041169513899765761/LjaTiZha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 304,
+          "following_count": 321,
+          "like_count": 20947,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 1565
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2012-10-23T08:30:24.000Z",
+        "description": "神聖かまってちゃん🐼ネット配信者.「進撃の巨人」The Final Season主題歌OP・2期ED. 「恋は雨上がりのように」映画主題歌、劇伴.「電波女と青春男」OP担当. 今まで作った自主制作Pv▷:https://t.co/fxmjNE4Euf",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/user/vivaru",
+                "end": 125,
+                "expanded_url": "https://www.youtube.com/user/vivaru",
+                "start": 102,
+                "url": "https://t.co/fxmjNE4Euf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/nekonokonekono…",
+                "end": 23,
+                "expanded_url": "https://lit.link/nekonokonekonoko",
+                "start": 0,
+                "url": "https://t.co/AVgDmRDB0v"
+              }
+            ]
+          }
+        },
+        "id": "899502186",
+        "name": "の子",
+        "pinned_tweet_id": "1885316431317000694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959939181129703424/Rjo5Fls1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178476,
+          "following_count": 225,
+          "like_count": 364139,
+          "listed_count": 1362,
+          "media_count": 2710,
+          "tweet_count": 54802
+        },
+        "url": "https://t.co/AVgDmRDB0v",
+        "username": "0u0HaNako666",
+        "verified": false
+      }
+    ]
+  }
+}

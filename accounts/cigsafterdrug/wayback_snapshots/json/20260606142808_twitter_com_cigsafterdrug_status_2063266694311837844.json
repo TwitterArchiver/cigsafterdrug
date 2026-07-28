@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063240837413187584",
+        "3_2063240837459275776"
+      ],
+      "media_source_tweet_id": [
+        "2063240897085559167",
+        "2063240897085559167"
+      ]
+    },
+    "author_id": "1536716629505359872",
+    "conversation_id": "2063266694311837844",
+    "created_at": "2026-06-06T14:28:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T15:28:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063266694311837844"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2002670122767667200",
+          "start": 3,
+          "username": "Lotus_LianHua04"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Q2M0uTtG0S",
+          "end": 136,
+          "expanded_url": "https://x.com/Lotus_LianHua04/status/2063240897085559167/photo/1",
+          "media_key": "3_2063240837413187584",
+          "start": 113,
+          "url": "https://t.co/Q2M0uTtG0S"
+        },
+        {
+          "display_url": "pic.x.com/Q2M0uTtG0S",
+          "end": 136,
+          "expanded_url": "https://x.com/Lotus_LianHua04/status/2063240897085559167/photo/1",
+          "media_key": "3_2063240837459275776",
+          "start": 113,
+          "url": "https://t.co/Q2M0uTtG0S"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063266694311837844",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063240897085559167",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Lotus_LianHua04: 我想和同類互fo了\n我是Lotus/蓮花\n煙/酒/嗑/戒割\n我目前常居南京喜歡我的我們線下面基一起玩吧\n然後我是現代新中國最低學歷擁有者。然後是我喜歡的幾個騷貨。然後求轉發。然後沒了 https://t.co/Q2M0uTtG0S"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2063240837413187584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKIanDAXsAAtbg9.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1770,
+        "media_key": "3_2063240837459275776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKIanDLW8AA_K23.jpg",
+        "width": 1770
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063240837413187584",
+            "3_2063240837459275776"
+          ],
+          "media_source_tweet_id": [
+            "2063240897085559167",
+            "2063240897085559167"
+          ]
+        },
+        "author_id": "1536716629505359872",
+        "conversation_id": "2063266694311837844",
+        "created_at": "2026-06-06T14:28:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T15:28:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063266694311837844"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2002670122767667200",
+              "start": 3,
+              "username": "Lotus_LianHua04"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q2M0uTtG0S",
+              "end": 136,
+              "expanded_url": "https://x.com/Lotus_LianHua04/status/2063240897085559167/photo/1",
+              "media_key": "3_2063240837413187584",
+              "start": 113,
+              "url": "https://t.co/Q2M0uTtG0S"
+            },
+            {
+              "display_url": "pic.x.com/Q2M0uTtG0S",
+              "end": 136,
+              "expanded_url": "https://x.com/Lotus_LianHua04/status/2063240897085559167/photo/1",
+              "media_key": "3_2063240837459275776",
+              "start": 113,
+              "url": "https://t.co/Q2M0uTtG0S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063266694311837844",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063240897085559167",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Lotus_LianHua04: 我想和同類互fo了\n我是Lotus/蓮花\n煙/酒/嗑/戒割\n我目前常居南京喜歡我的我們線下面基一起玩吧\n然後我是現代新中國最低學歷擁有者。然後是我喜歡的幾個騷貨。然後求轉發。然後沒了 https://t.co/Q2M0uTtG0S"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063240837413187584",
+            "3_2063240837459275776"
+          ]
+        },
+        "author_id": "2002670122767667200",
+        "conversation_id": "2063240897085559167",
+        "created_at": "2026-06-06T12:45:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T13:45:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063240897085559167"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q2M0uTtG0S",
+              "end": 115,
+              "expanded_url": "https://x.com/Lotus_LianHua04/status/2063240897085559167/photo/1",
+              "media_key": "3_2063240837413187584",
+              "start": 92,
+              "url": "https://t.co/Q2M0uTtG0S"
+            },
+            {
+              "display_url": "pic.x.com/Q2M0uTtG0S",
+              "end": 115,
+              "expanded_url": "https://x.com/Lotus_LianHua04/status/2063240897085559167/photo/1",
+              "media_key": "3_2063240837459275776",
+              "start": 92,
+              "url": "https://t.co/Q2M0uTtG0S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063240897085559167",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 140,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我想和同類互fo了\n我是Lotus/蓮花\n煙/酒/嗑/戒割\n我目前常居南京喜歡我的我們線下面基一起玩吧\n然後我是現代新中國最低學歷擁有者。然後是我喜歡的幾個騷貨。然後求轉發。然後沒了 https://t.co/Q2M0uTtG0S"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 457,
+          "following_count": 420,
+          "like_count": 28023,
+          "listed_count": 0,
+          "media_count": 144,
+          "tweet_count": 2467
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 26,
+          "like_count": 817,
+          "listed_count": 1,
+          "media_count": 147,
+          "tweet_count": 1826
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      }
+    ]
+  }
+}

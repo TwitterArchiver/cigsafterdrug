@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2080243768712925420",
+    "created_at": "2026-07-23T20:42:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T21:42:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080393098614682061"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1554387909587136512",
+          "start": 0,
+          "username": "Gag_Order_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080393098614682061",
+    "in_reply_to_user_id": "1554387909587136512",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080243768712925420",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Gag_Order_ 噢不⋯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2080243768712925420",
+        "created_at": "2026-07-23T20:42:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T21:42:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080393098614682061"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1554387909587136512",
+              "start": 0,
+              "username": "Gag_Order_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080393098614682061",
+        "in_reply_to_user_id": "1554387909587136512",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080243768712925420",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gag_Order_ 噢不⋯"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554387909587136512",
+        "conversation_id": "2080243768712925420",
+        "created_at": "2026-07-23T10:48:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T11:48:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080243768712925420"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080243768712925420",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 500,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 32,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "可能很久看不了推了。\n药又被收走了 现在手机也要被收走\n变形金钢失败了。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2070816356862431619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 522,
+          "following_count": 471,
+          "like_count": 31611,
+          "listed_count": 0,
+          "media_count": 206,
+          "tweet_count": 3128
+        },
+        "url": "",
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-02T08:45:45.000Z",
+        "description": "友跨同一枚\n暂时退役的oder\n梦想是有吃不完的致幻剂",
+        "id": "1554387909587136512",
+        "name": "缄",
+        "pinned_tweet_id": "2079494310861382058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048364763000999936/yihDE35S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 224,
+          "following_count": 227,
+          "like_count": 887,
+          "listed_count": 1,
+          "media_count": 44,
+          "tweet_count": 457
+        },
+        "url": "",
+        "username": "Gag_Order_",
+        "verified": false
+      }
+    ]
+  }
+}

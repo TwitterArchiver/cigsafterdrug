@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2045373433308209394",
+    "created_at": "2026-04-19T05:29:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T06:29:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045736623988785627"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2002670122767667200",
+          "start": 0,
+          "username": "Lotus_LianHua04"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045736623988785627",
+    "in_reply_to_user_id": "2002670122767667200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045706434059337783",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lotus_LianHua04 啊啊我不行了…去药房买就是很尴尬但这老板也很好笑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2045373433308209394",
+        "created_at": "2026-04-19T05:29:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T06:29:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045736623988785627"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2002670122767667200",
+              "start": 0,
+              "username": "Lotus_LianHua04"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045736623988785627",
+        "in_reply_to_user_id": "2002670122767667200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045706434059337783",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lotus_LianHua04 啊啊我不行了…去药房买就是很尴尬但这老板也很好笑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2045373433308209394",
+        "created_at": "2026-04-19T03:29:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T04:29:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045706434059337783"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1536716629505359872",
+              "start": 0,
+              "username": "cigsafterdrug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045706434059337783",
+        "in_reply_to_user_id": "1536716629505359872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045373433308209394",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cigsafterdrug 我买的是一个特别丑的绿色啊啊！最搞笑的是因为我粤语不好还一直频繁滑手机老板认为我是以前走私止咳水那类人，当场和我说你给多少钱就能买多少粒"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 315,
+          "following_count": 328,
+          "like_count": 21669,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 1674
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2025452734577869286",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034457349608583168/v42_v5eG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 21,
+          "like_count": 371,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 1084
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2042591239267365210",
+    "created_at": "2026-04-10T19:32:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T20:32:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042687179969966520"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2002670122767667200",
+          "start": 0,
+          "username": "Lotus_LianHua04"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042687179969966520",
+    "in_reply_to_user_id": "2002670122767667200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042673766321287317",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lotus_LianHua04 是的我是香港人～我是在京东上买的或许可以试一下？如果有地址限制可以找其他地区的集运仓地址在运过来，我就是这样的！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2042591239267365210",
+        "created_at": "2026-04-10T19:32:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T20:32:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042687179969966520"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2002670122767667200",
+              "start": 0,
+              "username": "Lotus_LianHua04"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042687179969966520",
+        "in_reply_to_user_id": "2002670122767667200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042673766321287317",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lotus_LianHua04 是的我是香港人～我是在京东上买的或许可以试一下？如果有地址限制可以找其他地区的集运仓地址在运过来，我就是这样的！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2042591239267365210",
+        "created_at": "2026-04-10T18:39:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T19:39:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042673766321287317"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1536716629505359872",
+              "start": 0,
+              "username": "cigsafterdrug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042673766321287317",
+        "in_reply_to_user_id": "1536716629505359872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042591239267365210",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cigsafterdrug 💧💧感动呀btw你是在香港么？深圳好买的只有依托我都喷血"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041169513899765761/LjaTiZha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 305,
+          "following_count": 326,
+          "like_count": 20571,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 1509
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2025452734577869286",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034457349608583168/v42_v5eG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 20,
+          "like_count": 353,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 1056
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      }
+    ]
+  }
+}

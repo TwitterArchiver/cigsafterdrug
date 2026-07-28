@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2030976650536759500",
+    "created_at": "2026-03-09T11:59:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T12:59:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2030976650536759500"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/cigsafterdrug/…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/cigsafterdrug/status/2030975007560765742",
+          "start": 13,
+          "url": "https://t.co/iAxqKMKb3p"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030976650536759500",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030975007560765742",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "嗯我一直在抖 我一直在吃 https://t.co/iAxqKMKb3p"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2030976650536759500",
+        "created_at": "2026-03-09T11:59:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T12:59:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030976650536759500"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cigsafterdrug/…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/cigsafterdrug/status/2030975007560765742",
+              "start": 13,
+              "url": "https://t.co/iAxqKMKb3p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030976650536759500",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030975007560765742",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "嗯我一直在抖 我一直在吃 https://t.co/iAxqKMKb3p"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2030975007560765742",
+        "created_at": "2026-03-09T11:52:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T12:52:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030975007560765742"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2030975007560765742",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "hh藥效上來了一直跟我媽說話"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026943929120444416/QS8rXF5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 111,
+          "like_count": 17405,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 677
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      }
+    ]
+  }
+}

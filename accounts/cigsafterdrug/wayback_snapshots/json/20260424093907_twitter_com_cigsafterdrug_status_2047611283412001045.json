@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2047588178543116619",
+    "created_at": "2026-04-24T09:39:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T10:39:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047611283412001045"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1997261936229249024",
+          "start": 0,
+          "username": "Shiro344213"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047611283412001045",
+    "in_reply_to_user_id": "1997261936229249024",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047588178543116619",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shiro344213 没事就好…好好休息！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2266,
+        "height": 960,
+        "media_key": "13_2047588157177421824",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2047588157177421824/img/lZWZa0d9b9R38AlK.jpg",
+        "public_metrics": {
+          "view_count": 129
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2047588157177421824/vid/avc1/320x426/NaVMbyLJXqcnsXyw.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2047588157177421824/vid/avc1/480x640/CbWoMEEFkaThM_0P.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2047588157177421824/vid/avc1/720x960/7KurwNEuM5te66wl.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2047588157177421824/pl/SesFFzqPhIoTvPl0.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2047588178543116619",
+        "created_at": "2026-04-24T09:39:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T10:39:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047611283412001045"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1997261936229249024",
+              "start": 0,
+              "username": "Shiro344213"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047611283412001045",
+        "in_reply_to_user_id": "1997261936229249024",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047588178543116619",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shiro344213 没事就好…好好休息！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2047588157177421824"
+          ]
+        },
+        "author_id": "1997261936229249024",
+        "conversation_id": "2047588178543116619",
+        "created_at": "2026-04-24T08:07:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T09:07:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047588178543116619"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/o6XeXsJqHO",
+              "end": 163,
+              "expanded_url": "https://x.com/Shiro344213/status/2047588178543116619/video/1",
+              "media_key": "13_2047588157177421824",
+              "start": 140,
+              "url": "https://t.co/o6XeXsJqHO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047588178543116619",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 275,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真的会把我吓死掉 现在已经完全清醒了 不适症状全都消退了 医院很压抑 今晚就马上回家 戒o半个月吧 为了我的身体 也为了更好的复o体验 从昨天到现在脑子一直在想事情停不下来怎么克制都无法放空大脑 三天只睡了四五个小时 感觉只有回家 回到熟悉的环境才可以好好睡觉 很想回家就是了… https://t.co/o6XeXsJqHO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 331,
+          "following_count": 345,
+          "like_count": 22628,
+          "listed_count": 0,
+          "media_count": 107,
+          "tweet_count": 1806
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-06T11:09:11.000Z",
+        "description": "这里是小白的一些碎碎念 07｜分舌｜化妆师｜cosplay｜二次元｜od｜自残｜重抑重焦｜负能量｜ 🇯🇵日语学习ing同类互fo欢迎找我互动 漏回记得私信",
+        "id": "1997261936229249024",
+        "location": "福建",
+        "name": "白酱Shiro",
+        "pinned_tweet_id": "2031078396357390831",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027486229235994625/2PvY2uF2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 337,
+          "following_count": 133,
+          "like_count": 41,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 151
+        },
+        "username": "Shiro344213",
+        "verified": false
+      }
+    ]
+  }
+}

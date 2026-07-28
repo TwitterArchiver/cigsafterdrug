@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2053074003049459885",
+    "created_at": "2026-05-09T14:29:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T15:29:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053120138736783434"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1257327365115412480",
+          "start": 0,
+          "username": "TomatoKami1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053120138736783434",
+    "in_reply_to_user_id": "1257327365115412480",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053118570813624320",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TomatoKami1 下年去香港看🤤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2053074003049459885",
+        "created_at": "2026-05-09T14:29:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T15:29:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053120138736783434"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1257327365115412480",
+              "start": 0,
+              "username": "TomatoKami1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053120138736783434",
+        "in_reply_to_user_id": "1257327365115412480",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053118570813624320",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TomatoKami1 下年去香港看🤤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1257327365115412480",
+        "conversation_id": "2053074003049459885",
+        "created_at": "2026-05-09T14:23:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T15:23:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053118570813624320"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1536716629505359872",
+              "start": 0,
+              "username": "cigsafterdrug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053118570813624320",
+        "in_reply_to_user_id": "1536716629505359872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053074003049459885",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cigsafterdrug 我也好想去tt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 365,
+          "following_count": 376,
+          "like_count": 24170,
+          "listed_count": 0,
+          "media_count": 123,
+          "tweet_count": 2014
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-04T15:13:07.000Z",
+        "description": "异世勇者大人的呕吐箱^^☆精神不安定祈祷中......欢迎找我玩。互fo大欢迎",
+        "id": "1257327365115412480",
+        "location": "你面前",
+        "name": "坦度螺酮盖饭",
+        "pinned_tweet_id": "2041147076042699151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052995841544327168/UXlTdvcr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 19,
+          "like_count": 151,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 66
+        },
+        "username": "TomatoKami1",
+        "verified": false
+      }
+    ]
+  }
+}

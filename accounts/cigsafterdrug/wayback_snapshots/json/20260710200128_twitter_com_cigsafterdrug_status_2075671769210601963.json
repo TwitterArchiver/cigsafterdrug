@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2075653630414512228",
+    "created_at": "2026-07-10T20:01:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T21:01:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075671769210601963"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2073780355434483712",
+          "start": 0,
+          "username": "QianQian_TwT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075671769210601963",
+    "in_reply_to_user_id": "2073780355434483712",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075653630414512228",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QianQian_TwT 萌女子"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1560,
+        "media_key": "3_2075653624706056192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM4z-XFbQAArERB.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2075653630414512228",
+        "created_at": "2026-07-10T20:01:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T21:01:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075671769210601963"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2073780355434483712",
+              "start": 0,
+              "username": "QianQian_TwT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075671769210601963",
+        "in_reply_to_user_id": "2073780355434483712",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075653630414512228",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QianQian_TwT 萌女子"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075653624706056192"
+          ]
+        },
+        "author_id": "2073780355434483712",
+        "conversation_id": "2075653630414512228",
+        "created_at": "2026-07-10T18:49:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T19:49:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075653630414512228"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Vw0RyRhgSz",
+              "end": 27,
+              "expanded_url": "https://x.com/QianQian_TwT/status/2075653630414512228/photo/1",
+              "media_key": "3_2075653624706056192",
+              "start": 4,
+              "url": "https://t.co/Vw0RyRhgSz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075653630414512228",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 129,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "無加工 https://t.co/Vw0RyRhgSz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2070816356862431619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 515,
+          "following_count": 465,
+          "like_count": 30573,
+          "listed_count": 0,
+          "media_count": 192,
+          "tweet_count": 3007
+        },
+        "url": "",
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-05T14:47:09.000Z",
+        "description": "寶寶 @7q46843886669\n姐姐 @OoOooo0518\n媽媽 @zameru619",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "7q46843886669"
+              },
+              {
+                "end": 32,
+                "start": 21,
+                "username": "OoOooo0518"
+              },
+              {
+                "end": 46,
+                "start": 36,
+                "username": "zameru619"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_2",
+                "start": 0,
+                "url": "https://t.co/v79ODfNpxi"
+              }
+            ]
+          }
+        },
+        "id": "2073780355434483712",
+        "name": "番茄操蛋",
+        "pinned_tweet_id": "2073811033744171495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073780960559276032/7BDjGxja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 946,
+          "following_count": 52,
+          "like_count": 780,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 237
+        },
+        "url": "https://t.co/v79ODfNpxi",
+        "username": "QianQian_TwT",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2071258478782693774",
+    "created_at": "2026-06-28T15:44:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T16:44:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071258478782693774"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ame8964/status…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/ame8964/status/2069131487778381862",
+          "start": 13,
+          "url": "https://t.co/BQzm5dwi7l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071258478782693774",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069131487778381862",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我们来支持这个ame好吗 https://t.co/BQzm5dwi7l"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2071258478782693774",
+        "created_at": "2026-06-28T15:44:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T16:44:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071258478782693774"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ame8964/status…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/ame8964/status/2069131487778381862",
+              "start": 13,
+              "url": "https://t.co/BQzm5dwi7l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071258478782693774",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069131487778381862",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我们来支持这个ame好吗 https://t.co/BQzm5dwi7l"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1262416576617148417",
+        "conversation_id": "2069131487778381862",
+        "created_at": "2026-06-22T18:52:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T19:52:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069131487778381862"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069131487778381862",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 203,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "声明：已有男朋友 很专一 不找网调 不约炮 不开🚪 （友善的推油们绝对可以加好友但是我不发pyq的） 不跟男人聊性事（可以尝试给姐妹们解惑的）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 508,
+          "following_count": 456,
+          "like_count": 29274,
+          "listed_count": 0,
+          "media_count": 176,
+          "tweet_count": 2846
+        },
+        "url": "",
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-18T16:15:51.000Z",
+        "description": "-小雨\n-10年 港人（518964）（拒小粉紅）\n-与顺直男恋爱中的顺直女（1i）\n-我是爱慕可是男友也是爱慕怎么办\n-LGBTQ+全包容\n-乌蒙批 世画批",
+        "id": "1262416576617148417",
+        "name": "Ame",
+        "pinned_tweet_id": "2069131487778381862",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068818807091830784/Wd3v37sx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 41,
+          "like_count": 307,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 304
+        },
+        "url": "",
+        "username": "Ame8964",
+        "verified": false
+      }
+    ]
+  }
+}

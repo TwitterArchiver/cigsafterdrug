@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2046640710569615786",
+    "created_at": "2026-04-21T17:22:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T18:22:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046640710569615786"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1599377355503726592",
+          "start": 3,
+          "username": "meiiiTvT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046640710569615786",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046384816107753751",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @meiiiTvT: 我特别害怕对一个人产生依赖，实际上最害怕的就是产生依赖后的落差感，不要这样对我，我无法承受。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2046640710569615786",
+        "created_at": "2026-04-21T17:22:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T18:22:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046640710569615786"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1599377355503726592",
+              "start": 3,
+              "username": "meiiiTvT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046640710569615786",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046384816107753751",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @meiiiTvT: 我特别害怕对一个人产生依赖，实际上最害怕的就是产生依赖后的落差感，不要这样对我，我无法承受。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599377355503726592",
+        "conversation_id": "2046384816107753751",
+        "created_at": "2026-04-21T00:25:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T01:25:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046384816107753751"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046384816107753751",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2340,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我特别害怕对一个人产生依赖，实际上最害怕的就是产生依赖后的落差感，不要这样对我，我无法承受。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 323,
+          "following_count": 332,
+          "like_count": 22115,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 1732
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-04T12:17:45.000Z",
+        "description": "我是小莓🍓｜07重抑中焦ed｜互fo欢迎｜🚪50纯绿｜@DEnyoffshshsh爱你",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 27,
+                "username": "DEnyoffshshsh"
+              }
+            ]
+          }
+        },
+        "id": "1599377355503726592",
+        "name": "meiii",
+        "pinned_tweet_id": "2037903436201734285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045410089381814272/uyLfbCCd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 534,
+          "following_count": 436,
+          "like_count": 1631,
+          "listed_count": 0,
+          "media_count": 224,
+          "tweet_count": 2162
+        },
+        "username": "meiiiTvT",
+        "verified": false
+      }
+    ]
+  }
+}

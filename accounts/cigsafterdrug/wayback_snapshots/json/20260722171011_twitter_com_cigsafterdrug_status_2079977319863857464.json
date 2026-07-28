@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2079930630817935726",
+    "created_at": "2026-07-22T17:10:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T18:10:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079977319863857464"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1431288671844536321",
+          "start": 0,
+          "username": "alvinabdjjsa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079977319863857464",
+    "in_reply_to_user_id": "1431288671844536321",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079972114384511072",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@alvinabdjjsa 我會嚇死😇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2079930630817935726",
+        "created_at": "2026-07-22T17:10:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T18:10:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079977319863857464"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1431288671844536321",
+              "start": 0,
+              "username": "alvinabdjjsa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079977319863857464",
+        "in_reply_to_user_id": "1431288671844536321",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079972114384511072",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@alvinabdjjsa 我會嚇死😇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1431288671844536321",
+        "conversation_id": "2079930630817935726",
+        "created_at": "2026-07-22T16:49:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T17:49:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079972114384511072"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1536716629505359872",
+              "start": 0,
+              "username": "cigsafterdrug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079972114384511072",
+        "in_reply_to_user_id": "1536716629505359872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079930630817935726",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cigsafterdrug 床上藏廣式雙馬尾點算☝️🤓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2070816356862431619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 522,
+          "following_count": 470,
+          "like_count": 31571,
+          "listed_count": 0,
+          "media_count": 206,
+          "tweet_count": 3121
+        },
+        "url": "",
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-27T16:13:24.000Z",
+        "description": "最愛小貓",
+        "id": "1431288671844536321",
+        "location": "Hong Kong",
+        "name": "sadcato",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1584186471636144128/_h-5xTPl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 383,
+          "like_count": 1262,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 6
+        },
+        "url": "",
+        "username": "alvinabdjjsa",
+        "verified": false
+      }
+    ]
+  }
+}

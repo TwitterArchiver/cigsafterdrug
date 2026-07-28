@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064757146320093184"
+      ],
+      "media_source_tweet_id": [
+        "2064757149105041722"
+      ]
+    },
+    "author_id": "1536716629505359872",
+    "conversation_id": "2065035072022171959",
+    "created_at": "2026-06-11T11:35:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T12:35:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065035072022171959"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1758479697879482368",
+          "start": 3,
+          "username": "maichongsheng"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gFtLtA0MEV",
+          "end": 42,
+          "expanded_url": "https://x.com/maichongsheng/status/2064757149105041722/photo/1",
+          "media_key": "3_2064757146320093184",
+          "start": 19,
+          "url": "https://t.co/gFtLtA0MEV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065035072022171959",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 123
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064757149105041722",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @maichongsheng: https://t.co/gFtLtA0MEV"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2065035072022171959].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2065035072022171959",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2065035072022171959"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 974,
+        "media_key": "3_2064757146320093184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKd9r13bwAAk2UL.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064757146320093184"
+          ]
+        },
+        "author_id": "1758479697879482368",
+        "conversation_id": "2064757149105041722",
+        "created_at": "2026-06-10T17:10:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T18:10:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064757149105041722"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gFtLtA0MEV",
+              "end": 23,
+              "expanded_url": "https://x.com/maichongsheng/status/2064757149105041722/photo/1",
+              "media_key": "3_2064757146320093184",
+              "start": 0,
+              "url": "https://t.co/gFtLtA0MEV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064757149105041722",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 71,
+          "impression_count": 4401,
+          "like_count": 868,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 123
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/gFtLtA0MEV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 459,
+          "following_count": 422,
+          "like_count": 28451,
+          "listed_count": 0,
+          "media_count": 148,
+          "tweet_count": 2533
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-16T13:13:35.000Z",
+        "description": "Скоро с тобой буду я рядом.۩\n霾\n｜Do not use all the images I have posted without permission.\n@ssooiiiooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 92,
+                "username": "ssooiiiooo"
+              }
+            ]
+          }
+        },
+        "id": "1758479697879482368",
+        "location": "Спокойная ночь",
+        "name": "Туман",
+        "pinned_tweet_id": "2053284506891907531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049315476573216770/BGEKdSSO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12382,
+          "following_count": 87,
+          "like_count": 4249,
+          "listed_count": 20,
+          "media_count": 22,
+          "tweet_count": 48
+        },
+        "username": "maichongsheng",
+        "verified": false
+      }
+    ]
+  }
+}

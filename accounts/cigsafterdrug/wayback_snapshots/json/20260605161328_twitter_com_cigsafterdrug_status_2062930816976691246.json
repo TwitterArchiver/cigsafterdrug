@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2062930816976691246",
+    "created_at": "2026-06-05T16:13:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T17:13:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062930816976691246"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2057425772198215680",
+          "start": 3,
+          "username": "boqiaoahm4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062930816976691246",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062840459073065165",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @boqiaoahm4: 我可以把脸靠在你的手臂上吗？我可以和你散步的时候勾住你的手吗？我可以把脑袋埋进你的怀里蹭蹭吗？我可以舔舔你吗？我可以摁着你的脑袋让你只能看着我吗？我可以咬住你不让你逃跑吗？我可以把你手机砸掉只能和我交流吗？我可以趁你睡着时把你分尸和我永远绑在一起…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2062930816976691246",
+        "created_at": "2026-06-05T16:13:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T17:13:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062930816976691246"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2057425772198215680",
+              "start": 3,
+              "username": "boqiaoahm4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062930816976691246",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062840459073065165",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @boqiaoahm4: 我可以把脸靠在你的手臂上吗？我可以和你散步的时候勾住你的手吗？我可以把脑袋埋进你的怀里蹭蹭吗？我可以舔舔你吗？我可以摁着你的脑袋让你只能看着我吗？我可以咬住你不让你逃跑吗？我可以把你手机砸掉只能和我交流吗？我可以趁你睡着时把你分尸和我永远绑在一起…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057425772198215680",
+        "conversation_id": "2062840459073065165",
+        "created_at": "2026-06-05T10:14:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T11:14:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062840459073065165"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062840459073065165",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 857,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "我可以把脸靠在你的手臂上吗？我可以和你散步的时候勾住你的手吗？我可以把脑袋埋进你的怀里蹭蹭吗？我可以舔舔你吗？我可以摁着你的脑袋让你只能看着我吗？我可以咬住你不让你逃跑吗？我可以把你手机砸掉只能和我交流吗？我可以趁你睡着时把你分尸和我永远绑在一起吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 453,
+          "following_count": 420,
+          "like_count": 27999,
+          "listed_count": 0,
+          "media_count": 145,
+          "tweet_count": 2452
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉\n前世@dzzzzz467732\n查成分回fo\n提问箱https://t.co/Al4Mvhwm7Y\n没人我会很尴尬的🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 8,
+                "username": "dzzzzz467732"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 55,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 32,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 367,
+          "following_count": 198,
+          "like_count": 820,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 650
+        },
+        "username": "boqiaoahm4",
+        "verified": false
+      }
+    ]
+  }
+}

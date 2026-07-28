@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080595628686729217"
+      ]
+    },
+    "author_id": "1536716629505359872",
+    "conversation_id": "2080595637796835633",
+    "created_at": "2026-07-24T10:07:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T11:07:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080595637796835633"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1898308906994294784",
+          "start": 8,
+          "username": "TTBRAr12"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PpkIMju1iv",
+          "end": 49,
+          "expanded_url": "https://x.com/cigsafterdrug/status/2080595637796835633/photo/1",
+          "media_key": "3_2080595628686729217",
+          "start": 26,
+          "url": "https://t.co/PpkIMju1iv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080595637796835633",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "离开的路上碰到了@TTBRAr12 今日推油浓度高 https://t.co/PpkIMju1iv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1366,
+        "media_key": "3_2080595628686729217",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN_Cs2kaYAETRRC.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080595628686729217"
+          ]
+        },
+        "author_id": "1536716629505359872",
+        "conversation_id": "2080595637796835633",
+        "created_at": "2026-07-24T10:07:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T11:07:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080595637796835633"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1898308906994294784",
+              "start": 8,
+              "username": "TTBRAr12"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PpkIMju1iv",
+              "end": 49,
+              "expanded_url": "https://x.com/cigsafterdrug/status/2080595637796835633/photo/1",
+              "media_key": "3_2080595628686729217",
+              "start": 26,
+              "url": "https://t.co/PpkIMju1iv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080595637796835633",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "离开的路上碰到了@TTBRAr12 今日推油浓度高 https://t.co/PpkIMju1iv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2070816356862431619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 521,
+          "following_count": 471,
+          "like_count": 31642,
+          "listed_count": 0,
+          "media_count": 209,
+          "tweet_count": 3136
+        },
+        "url": "",
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-08T09:44:56.000Z",
+        "description": "",
+        "id": "1898308906994294784",
+        "name": "TTAR",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075459583410327552/FeIlteVS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 919,
+          "like_count": 7873,
+          "listed_count": 0,
+          "media_count": 112,
+          "tweet_count": 1579
+        },
+        "url": "",
+        "username": "TTBRAr12",
+        "verified": false,
+        "withheld": {
+          "country_codes": [
+            "TR"
+          ]
+        }
+      }
+    ]
+  }
+}

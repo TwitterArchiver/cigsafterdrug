@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2042343042292781185",
+    "created_at": "2026-04-09T20:45:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T21:45:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042343042292781185"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/0u0hanako666/s…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/0u0hanako666/status/2042235354548490689",
+          "start": 7,
+          "url": "https://t.co/w6grqJp64k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042343042292781185",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042235354548490689",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "死にたい季節 https://t.co/w6grqJp64k"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2042343042292781185",
+        "created_at": "2026-04-09T20:45:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T21:45:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042343042292781185"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/0u0hanako666/s…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/0u0hanako666/status/2042235354548490689",
+              "start": 7,
+              "url": "https://t.co/w6grqJp64k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042343042292781185",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042235354548490689",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "死にたい季節 https://t.co/w6grqJp64k"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "899502186",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2042235354548490689",
+        "created_at": "2026-04-09T13:37:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T14:37:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042235354548490689"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042235354548490689",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 150,
+          "impression_count": 223730,
+          "like_count": 5341,
+          "quote_count": 176,
+          "reply_count": 230,
+          "retweet_count": 541
+        },
+        "reply_settings": "everyone",
+        "text": "死にたい"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041169513899765761/LjaTiZha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 303,
+          "following_count": 324,
+          "like_count": 20485,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 1484
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2012-10-23T08:30:24.000Z",
+        "description": "神聖かまってちゃん🐼ネット配信者.「進撃の巨人」The Final Season主題歌OP・2期ED. 「恋は雨上がりのように」映画主題歌、劇伴.「電波女と青春男」OP担当. 今まで作った自主制作Pv▷:https://t.co/fxmjNE4Euf",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/user/vivaru",
+                "end": 125,
+                "expanded_url": "https://www.youtube.com/user/vivaru",
+                "start": 102,
+                "url": "https://t.co/fxmjNE4Euf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/nekonokonekono…",
+                "end": 23,
+                "expanded_url": "https://lit.link/nekonokonekonoko",
+                "start": 0,
+                "url": "https://t.co/AVgDmRDB0v"
+              }
+            ]
+          }
+        },
+        "id": "899502186",
+        "name": "の子",
+        "pinned_tweet_id": "1885316431317000694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959939181129703424/Rjo5Fls1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178267,
+          "following_count": 226,
+          "like_count": 363757,
+          "listed_count": 1363,
+          "media_count": 2708,
+          "tweet_count": 54790
+        },
+        "url": "https://t.co/AVgDmRDB0v",
+        "username": "0u0HaNako666",
+        "verified": false
+      }
+    ]
+  }
+}

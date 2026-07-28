@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2052445906159710301",
+    "created_at": "2026-05-08T16:49:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T17:49:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052793077170130957"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2001675650994999296",
+          "start": 0,
+          "username": "Pluralitysubsys"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052793077170130957",
+    "in_reply_to_user_id": "2001675650994999296",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052763664449724842",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Pluralitysubsys KST"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2052445906159710301",
+        "created_at": "2026-05-08T16:49:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T17:49:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052793077170130957"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2001675650994999296",
+              "start": 0,
+              "username": "Pluralitysubsys"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052793077170130957",
+        "in_reply_to_user_id": "2001675650994999296",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052763664449724842",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Pluralitysubsys KST"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2001675650994999296",
+        "conversation_id": "2052445906159710301",
+        "created_at": "2026-05-08T14:52:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T15:52:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052763664449724842"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1536716629505359872",
+              "start": 0,
+              "username": "cigsafterdrug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052763664449724842",
+        "in_reply_to_user_id": "1536716629505359872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052445906159710301",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cigsafterdrug 什么演唱会"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 364,
+          "following_count": 374,
+          "like_count": 24021,
+          "listed_count": 0,
+          "media_count": 119,
+          "tweet_count": 1986
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-18T15:27:35.000Z",
+        "description": "千夜系统的子系统 | 创造型 median（mesosian）",
+        "id": "2001675650994999296",
+        "location": "Hong Kong",
+        "name": "清梦与清云",
+        "pinned_tweet_id": "2051583965748953204",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040321451027468288/A1-8QvCF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 72,
+          "like_count": 902,
+          "listed_count": 0,
+          "media_count": 108,
+          "tweet_count": 1570
+        },
+        "username": "Pluralitysubsys",
+        "verified": false
+      }
+    ]
+  }
+}

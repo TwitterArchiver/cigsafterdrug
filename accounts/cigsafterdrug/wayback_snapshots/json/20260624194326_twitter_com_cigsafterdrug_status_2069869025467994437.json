@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2069712262546502013",
+    "created_at": "2026-06-24T19:43:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T20:43:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069869025467994437"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1974906457977196544",
+          "start": 0,
+          "username": "yhmhxm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069869025467994437",
+    "in_reply_to_user_id": "1974906457977196544",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069861607883329847",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yhmhxm 🫂🫶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2069712262546502013",
+        "created_at": "2026-06-24T19:43:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T20:43:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069869025467994437"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1974906457977196544",
+              "start": 0,
+              "username": "yhmhxm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069869025467994437",
+        "in_reply_to_user_id": "1974906457977196544",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069861607883329847",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yhmhxm 🫂🫶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974906457977196544",
+        "conversation_id": "2069712262546502013",
+        "created_at": "2026-06-24T19:13:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T20:13:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069861607883329847"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1536716629505359872",
+              "start": 0,
+              "username": "cigsafterdrug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069861607883329847",
+        "in_reply_to_user_id": "1536716629505359872",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069712262546502013",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cigsafterdrug 抱抱你🫂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 506,
+          "following_count": 447,
+          "like_count": 29050,
+          "listed_count": 0,
+          "media_count": 168,
+          "tweet_count": 2799
+        },
+        "url": "",
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-05T18:36:28.000Z",
+        "description": "18y 男 歡迎互fo",
+        "id": "1974906457977196544",
+        "name": "疤疤boy",
+        "pinned_tweet_id": "1974910627169833458",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038613417909768192/87ZzK_rc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 51,
+          "like_count": 1816,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 233
+        },
+        "url": "",
+        "username": "yhmhxm",
+        "verified": false
+      }
+    ]
+  }
+}

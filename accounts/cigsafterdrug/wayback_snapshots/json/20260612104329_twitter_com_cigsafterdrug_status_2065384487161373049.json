@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2065331949116575752",
+    "created_at": "2026-06-12T10:43:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T11:43:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065384487161373049"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2046660159867400192",
+          "start": 0,
+          "username": "nyanyanya6767"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065384487161373049",
+    "in_reply_to_user_id": "2046660159867400192",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065381803045892598",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nyanyanya6767 小姐姐od是什么呀？我也好想跟地雷妹od呀。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2065331949116575752",
+        "created_at": "2026-06-12T10:43:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T11:43:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065384487161373049"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2046660159867400192",
+              "start": 0,
+              "username": "nyanyanya6767"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065384487161373049",
+        "in_reply_to_user_id": "2046660159867400192",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065381803045892598",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nyanyanya6767 小姐姐od是什么呀？我也好想跟地雷妹od呀。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046660159867400192",
+        "conversation_id": "2065331949116575752",
+        "created_at": "2026-06-12T10:32:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T11:32:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065381803045892598"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1536716629505359872",
+              "start": 0,
+              "username": "cigsafterdrug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065381803045892598",
+        "in_reply_to_user_id": "1536716629505359872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065331949116575752",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cigsafterdrug od是什麼啊我也想參加（來自用戶名好想法地雷妹的留言）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 466,
+          "following_count": 423,
+          "like_count": 28497,
+          "listed_count": 0,
+          "media_count": 149,
+          "tweet_count": 2547
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-21T18:39:55.000Z",
+        "description": "可以叫我歐姆\n躁鬱｜焦慮｜解離｜ADHD｜自傷｜od｜穿孔｜金屬｜Goth｜\n純綠／半綠／非綠開放中，全台可跑歡迎私訊詢問\n防走失：@omo20060903",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 66,
+                "username": "omo20060903"
+              }
+            ]
+          }
+        },
+        "id": "2046660159867400192",
+        "name": "？二代目",
+        "pinned_tweet_id": "2061471539116339494",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046663732911370240/Xy3J4G70_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 880,
+          "following_count": 472,
+          "like_count": 7112,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 242
+        },
+        "username": "nyanyanya6767",
+        "verified": false
+      }
+    ]
+  }
+}

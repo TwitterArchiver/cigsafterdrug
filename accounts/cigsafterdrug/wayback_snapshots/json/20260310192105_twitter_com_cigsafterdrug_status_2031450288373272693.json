@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2031450282991955970"
+      ]
+    },
+    "author_id": "1536716629505359872",
+    "conversation_id": "2031450288373272693",
+    "created_at": "2026-03-10T19:21:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T20:21:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2031450288373272693"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4dTSXKBkdK",
+          "end": 40,
+          "expanded_url": "https://x.com/cigsafterdrug/status/2031450288373272693/photo/1",
+          "media_key": "3_2031450282991955970",
+          "start": 17,
+          "url": "https://t.co/4dTSXKBkdK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031450288373272693",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "wtf？？ shtwt被ban了 https://t.co/4dTSXKBkdK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1731,
+        "media_key": "3_2031450282991955970",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDEpRPCaMAIcYOG.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031450282991955970"
+          ]
+        },
+        "author_id": "1536716629505359872",
+        "conversation_id": "2031450288373272693",
+        "created_at": "2026-03-10T19:21:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T20:21:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031450288373272693"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4dTSXKBkdK",
+              "end": 40,
+              "expanded_url": "https://x.com/cigsafterdrug/status/2031450288373272693/photo/1",
+              "media_key": "3_2031450282991955970",
+              "start": 17,
+              "url": "https://t.co/4dTSXKBkdK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031450288373272693",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "wtf？？ shtwt被ban了 https://t.co/4dTSXKBkdK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026943929120444416/QS8rXF5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 252,
+          "like_count": 17768,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 895
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      }
+    ]
+  }
+}

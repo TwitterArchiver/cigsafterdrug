@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2079831593041150261",
+    "created_at": "2026-07-22T08:49:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T09:49:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079851262179443017"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2073780355434483712",
+          "start": 0,
+          "username": "QianQian_TwT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079851262179443017",
+    "in_reply_to_user_id": "2073780355434483712",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079849073306165314",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QianQian_TwT 兌🤤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2079831593041150261",
+        "created_at": "2026-07-22T08:49:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T09:49:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079851262179443017"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2073780355434483712",
+              "start": 0,
+              "username": "QianQian_TwT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079851262179443017",
+        "in_reply_to_user_id": "2073780355434483712",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079849073306165314",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QianQian_TwT 兌🤤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073780355434483712",
+        "conversation_id": "2079831593041150261",
+        "created_at": "2026-07-22T08:40:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T09:40:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079849073306165314"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1536716629505359872",
+              "start": 0,
+              "username": "cigsafterdrug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079849073306165314",
+        "in_reply_to_user_id": "1536716629505359872",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079831593041150261",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cigsafterdrug =爽"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2070816356862431619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 521,
+          "following_count": 468,
+          "like_count": 31532,
+          "listed_count": 0,
+          "media_count": 203,
+          "tweet_count": 3105
+        },
+        "url": "",
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-05T14:47:09.000Z",
+        "description": "LGBTQ 全友好？！交友大歡迎！！\n寶寶 @7q468438x8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 22,
+                "username": "7q468438x8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_2",
+                "start": 0,
+                "url": "https://t.co/v79ODfNpxi"
+              }
+            ]
+          }
+        },
+        "id": "2073780355434483712",
+        "name": "番茄操蛋",
+        "pinned_tweet_id": "2074128231528333573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073780960559276032/7BDjGxja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1390,
+          "following_count": 56,
+          "like_count": 1355,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 341
+        },
+        "url": "https://t.co/v79ODfNpxi",
+        "username": "QianQian_TwT",
+        "verified": true
+      }
+    ]
+  }
+}

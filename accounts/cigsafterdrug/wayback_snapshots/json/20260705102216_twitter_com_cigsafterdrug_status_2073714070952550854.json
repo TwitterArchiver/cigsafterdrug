@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073714065072062466"
+      ]
+    },
+    "author_id": "1536716629505359872",
+    "conversation_id": "2073714070952550854",
+    "created_at": "2026-07-05T10:22:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T11:22:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073714070952550854"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/J0XfM7fJNN",
+          "end": 61,
+          "expanded_url": "https://x.com/cigsafterdrug/status/2073714070952550854/photo/1",
+          "media_key": "3_2073714065072062466",
+          "start": 38,
+          "url": "https://t.co/J0XfM7fJNN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073714070952550854",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "就是呢我🈹在增生上來然後一直有有些硬硬的皮刺之類的東西我撕不下來。好煩呀。 https://t.co/J0XfM7fJNN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2073714065072062466",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMdP9IZaAAIqLo0.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073714065072062466"
+          ]
+        },
+        "author_id": "1536716629505359872",
+        "conversation_id": "2073714070952550854",
+        "created_at": "2026-07-05T10:22:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T11:22:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073714070952550854"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/J0XfM7fJNN",
+              "end": 61,
+              "expanded_url": "https://x.com/cigsafterdrug/status/2073714070952550854/photo/1",
+              "media_key": "3_2073714065072062466",
+              "start": 38,
+              "url": "https://t.co/J0XfM7fJNN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073714070952550854",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "就是呢我🈹在增生上來然後一直有有些硬硬的皮刺之類的東西我撕不下來。好煩呀。 https://t.co/J0XfM7fJNN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2070816356862431619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 501,
+          "following_count": 461,
+          "like_count": 29690,
+          "listed_count": 0,
+          "media_count": 182,
+          "tweet_count": 2927
+        },
+        "url": "",
+        "username": "cigsafterdrug",
+        "verified": false
+      }
+    ]
+  }
+}

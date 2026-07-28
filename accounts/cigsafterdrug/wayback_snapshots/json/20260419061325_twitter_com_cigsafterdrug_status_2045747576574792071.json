@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2045373433308209394",
+    "created_at": "2026-04-19T06:13:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T07:13:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045747576574792071"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1798973564269318144",
+          "start": 0,
+          "username": "BrandiJens12162"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045747576574792071",
+    "in_reply_to_user_id": "1798973564269318144",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045742263880589367",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BrandiJens12162 送你一袋:D"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2045373433308209394",
+        "created_at": "2026-04-19T06:13:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T07:13:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045747576574792071"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1798973564269318144",
+              "start": 0,
+              "username": "BrandiJens12162"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045747576574792071",
+        "in_reply_to_user_id": "1798973564269318144",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045742263880589367",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BrandiJens12162 送你一袋:D"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1798973564269318144",
+        "conversation_id": "2045373433308209394",
+        "created_at": "2026-04-19T05:52:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T06:52:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045742263880589367"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1536716629505359872",
+              "start": 0,
+              "username": "cigsafterdrug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045742263880589367",
+        "in_reply_to_user_id": "1536716629505359872",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045373433308209394",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cigsafterdrug 好想吃……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 316,
+          "following_count": 329,
+          "like_count": 21682,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 1677
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-07T07:01:57.000Z",
+        "description": "我是小媛 \n魂兮归来 \n同类互fo大欢迎",
+        "id": "1798973564269318144",
+        "location": "🚪52",
+        "name": "但求富贵于我身",
+        "pinned_tweet_id": "2041141934530629975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045524517662203904/hDXGwEDu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 24,
+          "like_count": 259,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 223
+        },
+        "username": "BrandiJens12162",
+        "verified": false
+      }
+    ]
+  }
+}

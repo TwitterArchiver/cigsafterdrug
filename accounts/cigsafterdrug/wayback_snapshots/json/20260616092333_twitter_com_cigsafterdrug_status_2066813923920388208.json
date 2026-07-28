@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2066813902600699904"
+      ]
+    },
+    "author_id": "1536716629505359872",
+    "conversation_id": "2066813923920388208",
+    "created_at": "2026-06-16T09:23:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T10:23:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066813923920388208"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/runZgGgRFn",
+          "end": 31,
+          "expanded_url": "https://x.com/cigsafterdrug/status/2066813923920388208/photo/1",
+          "media_key": "16_2066813902600699904",
+          "start": 8,
+          "url": "https://t.co/runZgGgRFn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066813923920388208",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "Round 2 https://t.co/runZgGgRFn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1182,
+        "media_key": "16_2066813902600699904",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HK7MS0FagAAhIeq.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HK7MS0FagAAhIeq.mp4"
+          }
+        ],
+        "width": 886
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2066813902600699904"
+          ]
+        },
+        "author_id": "1536716629505359872",
+        "conversation_id": "2066813923920388208",
+        "created_at": "2026-06-16T09:23:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T10:23:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066813923920388208"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/runZgGgRFn",
+              "end": 31,
+              "expanded_url": "https://x.com/cigsafterdrug/status/2066813923920388208/photo/1",
+              "media_key": "16_2066813902600699904",
+              "start": 8,
+              "url": "https://t.co/runZgGgRFn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066813923920388208",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Round 2 https://t.co/runZgGgRFn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 490,
+          "following_count": 434,
+          "like_count": 28973,
+          "listed_count": 0,
+          "media_count": 163,
+          "tweet_count": 2739
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      }
+    ]
+  }
+}

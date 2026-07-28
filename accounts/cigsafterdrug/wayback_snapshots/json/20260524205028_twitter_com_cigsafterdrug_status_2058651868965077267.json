@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2058651868965077267",
+    "created_at": "2026-05-24T20:50:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T21:50:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058651868965077267"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2053366838248259584",
+          "start": 3,
+          "username": "Cassie2meqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058651868965077267",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058610574662181214",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Cassie2meqwq: 我的理想型是割手、嗑药、关种病、学人精、文青、手臂、纹身、眉钉、同时谈很多个、高死鼻、厚嘴唇、阳萎感、穿搭、把自己的愚蠢包装进艺术\n感受"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2058651868965077267",
+        "created_at": "2026-05-24T20:50:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T21:50:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058651868965077267"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2053366838248259584",
+              "start": 3,
+              "username": "Cassie2meqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058651868965077267",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058610574662181214",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Cassie2meqwq: 我的理想型是割手、嗑药、关种病、学人精、文青、手臂、纹身、眉钉、同时谈很多个、高死鼻、厚嘴唇、阳萎感、穿搭、把自己的愚蠢包装进艺术\n感受"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053366838248259584",
+        "conversation_id": "2058610574662181214",
+        "created_at": "2026-05-24T18:06:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T19:06:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058610574662181214"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058610574662181214",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我的理想型是割手、嗑药、关种病、学人精、文青、手臂、纹身、眉钉、同时谈很多个、高死鼻、厚嘴唇、阳萎感、穿搭、把自己的愚蠢包装进艺术\n感受"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 424,
+          "following_count": 403,
+          "like_count": 26552,
+          "listed_count": 0,
+          "media_count": 130,
+          "tweet_count": 2255
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-10T06:50:59.000Z",
+        "description": "因为爱存在\n| 已成年| BD | OVERDOSE | BISEXUAL | 语言是 中韩英|\n男生查成分互fo | 女生都fo | 不可接受小粉红 ！！！|(没回就私信我）",
+        "id": "2053366838248259584",
+        "name": "酸性✝️",
+        "pinned_tweet_id": "2057485786535313415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427639531638786/4bR3vvpl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 163,
+          "like_count": 115,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 228
+        },
+        "username": "Cassie2meqwq",
+        "verified": false
+      }
+    ]
+  }
+}

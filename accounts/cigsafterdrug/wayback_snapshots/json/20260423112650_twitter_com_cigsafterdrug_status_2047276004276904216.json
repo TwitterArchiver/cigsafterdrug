@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2047263513530478694",
+    "created_at": "2026-04-23T11:26:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T12:26:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047276004276904216"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1997261936229249024",
+          "start": 0,
+          "username": "Shiro344213"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047276004276904216",
+    "in_reply_to_user_id": "1997261936229249024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047263513530478694",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shiro344213 小心哇 希望白酱快点没事🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2963,
+        "height": 720,
+        "media_key": "13_2047263419737559040",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2047263419737559040/img/X1kSd08yipW8M0jj.jpg",
+        "public_metrics": {
+          "view_count": 18
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2047263419737559040/vid/avc1/272x270/3td_ZjPzZZAaUa3t.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2047263419737559040/vid/avc1/362x360/3NuDnh-CMX5yraDi.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2047263419737559040/vid/avc1/726x720/8gDjLEQKGzYjXMjA.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2047263419737559040/pl/jors6C6cP9P2q3KX.m3u8"
+          }
+        ],
+        "width": 726
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2047263513530478694",
+        "created_at": "2026-04-23T11:26:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T12:26:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047276004276904216"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1997261936229249024",
+              "start": 0,
+              "username": "Shiro344213"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047276004276904216",
+        "in_reply_to_user_id": "1997261936229249024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047263513530478694",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shiro344213 小心哇 希望白酱快点没事🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2047263419737559040"
+          ]
+        },
+        "author_id": "1997261936229249024",
+        "conversation_id": "2047263513530478694",
+        "created_at": "2026-04-23T10:37:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T11:37:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047263513530478694"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aAsyIqWUwT",
+              "end": 130,
+              "expanded_url": "https://x.com/Shiro344213/status/2047263513530478694/video/1",
+              "media_key": "13_2047263419737559040",
+              "start": 107,
+              "url": "https://t.co/aAsyIqWUwT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047263513530478694",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "连着两天大剂量od过后不要再喝很多酒 就算隔了一两天也不可以 喝完酒过3个小时后和朋友聊天 聊着聊着就开始浑身发麻抽搐发抖 呼吸抑制非常严重无法呼吸 头非常晕恶心想吐体温升高到38，抢救非常不好受 希望安全下机🙏 https://t.co/aAsyIqWUwT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 330,
+          "following_count": 344,
+          "like_count": 22430,
+          "listed_count": 0,
+          "media_count": 107,
+          "tweet_count": 1789
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-06T11:09:11.000Z",
+        "description": "这里是小白的一些碎碎念 07｜分舌｜化妆师｜cosplay｜二次元｜od｜自残｜重抑重焦｜负能量｜ 🇯🇵日语学习ing…同类互fo",
+        "id": "1997261936229249024",
+        "location": "福建",
+        "name": "白酱Shiro",
+        "pinned_tweet_id": "2031078396357390831",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027486229235994625/2PvY2uF2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 202,
+          "following_count": 108,
+          "like_count": 37,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 125
+        },
+        "username": "Shiro344213",
+        "verified": false
+      }
+    ]
+  }
+}

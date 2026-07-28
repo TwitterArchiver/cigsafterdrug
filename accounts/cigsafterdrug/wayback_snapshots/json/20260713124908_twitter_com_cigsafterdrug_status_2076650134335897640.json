@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076650126974816256"
+      ]
+    },
+    "author_id": "1536716629505359872",
+    "conversation_id": "2076650134335897640",
+    "created_at": "2026-07-13T12:49:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T13:49:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076650134335897640"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/RnTMzLMzsM",
+          "end": 30,
+          "expanded_url": "https://x.com/cigsafterdrug/status/2076650134335897640/photo/1",
+          "media_key": "3_2076650126974816256",
+          "start": 7,
+          "url": "https://t.co/RnTMzLMzsM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076650134335897640",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "喜欢短发ww https://t.co/RnTMzLMzsM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2076650126974816256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNG-SbUakAA0EYJ.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076650126974816256"
+          ]
+        },
+        "author_id": "1536716629505359872",
+        "conversation_id": "2076650134335897640",
+        "created_at": "2026-07-13T12:49:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T13:49:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076650134335897640"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RnTMzLMzsM",
+              "end": 30,
+              "expanded_url": "https://x.com/cigsafterdrug/status/2076650134335897640/photo/1",
+              "media_key": "3_2076650126974816256",
+              "start": 7,
+              "url": "https://t.co/RnTMzLMzsM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076650134335897640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喜欢短发ww https://t.co/RnTMzLMzsM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2070816356862431619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 521,
+          "following_count": 469,
+          "like_count": 31004,
+          "listed_count": 0,
+          "media_count": 194,
+          "tweet_count": 3026
+        },
+        "url": "",
+        "username": "cigsafterdrug",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2043398948979913094",
+    "created_at": "2026-04-14T04:41:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T05:41:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043912560848842996"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1911429624694730753",
+          "start": 0,
+          "username": "huixue888"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043912560848842996",
+    "in_reply_to_user_id": "1911429624694730753",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043848358704631952",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huixue888 😋🔥"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2043398948979913094",
+        "created_at": "2026-04-14T04:41:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T05:41:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043912560848842996"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1911429624694730753",
+              "start": 0,
+              "username": "huixue888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043912560848842996",
+        "in_reply_to_user_id": "1911429624694730753",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043848358704631952",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huixue888 😋🔥"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1911429624694730753",
+        "conversation_id": "2043398948979913094",
+        "created_at": "2026-04-14T00:26:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T01:26:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043848358704631952"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1536716629505359872",
+              "start": 0,
+              "username": "cigsafterdrug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043848358704631952",
+        "in_reply_to_user_id": "1536716629505359872",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043398948979913094",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cigsafterdrug 想吃😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041169513899765761/LjaTiZha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 304,
+          "following_count": 320,
+          "like_count": 20987,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 1572
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-13T14:42:06.000Z",
+        "description": "HRT2024.2.18｜09高中辍学｜超级社恐｜喜欢听0014556 尹康 小怜 极贵｜同类，od妹，边缘化青少年互fo好不好！（会查成分\n｜不鉴证 不发黄｜",
+        "id": "1911429624694730753",
+        "location": "上海",
+        "name": "奶猪🧸🐖🐽",
+        "pinned_tweet_id": "2031575477773808131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024139862908002305/H8Uz73bI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 372,
+          "following_count": 269,
+          "like_count": 4536,
+          "listed_count": 1,
+          "media_count": 72,
+          "tweet_count": 1119
+        },
+        "username": "huixue888",
+        "verified": false
+      }
+    ]
+  }
+}

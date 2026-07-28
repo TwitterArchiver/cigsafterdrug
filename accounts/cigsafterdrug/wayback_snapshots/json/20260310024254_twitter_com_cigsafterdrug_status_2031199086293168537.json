@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2031199086293168537",
+    "created_at": "2026-03-10T02:42:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T03:42:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2031199086293168537"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/cigsafterdrug/…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/cigsafterdrug/status/2030979736206541105",
+          "start": 12,
+          "url": "https://t.co/qEP7hJntz7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031199086293168537",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030979736206541105",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "呃啊呃有0个人跟我互关 https://t.co/qEP7hJntz7"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2031199086293168537",
+        "created_at": "2026-03-10T02:42:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T03:42:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031199086293168537"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cigsafterdrug/…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/cigsafterdrug/status/2030979736206541105",
+              "start": 12,
+              "url": "https://t.co/qEP7hJntz7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031199086293168537",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030979736206541105",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "呃啊呃有0个人跟我互关 https://t.co/qEP7hJntz7"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2030979736206541105",
+        "created_at": "2026-03-09T12:11:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T13:11:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030979736206541105"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2030979736206541105",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 103,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "os好想跟oded精神病餐劵女/男互关。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026943929120444416/QS8rXF5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 117,
+          "like_count": 17531,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 734
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      }
+    ]
+  }
+}

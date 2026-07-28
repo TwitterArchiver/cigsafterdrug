@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2079181734219075918",
+    "created_at": "2026-07-20T16:13:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T17:13:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079238159733588383"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2045598149704818688",
+          "start": 0,
+          "username": "Dodioibs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079238159733588383",
+    "in_reply_to_user_id": "2045598149704818688",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079181734219075918",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dodioibs 特别美萌呀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1100,
+        "media_key": "3_2079181719039864832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNq8werbcAA50pn.jpg",
+        "width": 684
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2079181719035604992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNq8weqacAAYMDt.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2079181734219075918",
+        "created_at": "2026-07-20T16:13:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T17:13:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079238159733588383"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2045598149704818688",
+              "start": 0,
+              "username": "Dodioibs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079238159733588383",
+        "in_reply_to_user_id": "2045598149704818688",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079181734219075918",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dodioibs 特别美萌呀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079181719039864832",
+            "3_2079181719035604992"
+          ]
+        },
+        "author_id": "2045598149704818688",
+        "conversation_id": "2079181734219075918",
+        "created_at": "2026-07-20T12:28:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T13:28:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079181734219075918"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZPnX1gZAm7",
+              "end": 64,
+              "expanded_url": "https://x.com/Dodioibs/status/2079181734219075918/photo/1",
+              "media_key": "3_2079181719039864832",
+              "start": 41,
+              "url": "https://t.co/ZPnX1gZAm7"
+            },
+            {
+              "display_url": "pic.x.com/ZPnX1gZAm7",
+              "end": 64,
+              "expanded_url": "https://x.com/Dodioibs/status/2079181734219075918/photo/1",
+              "media_key": "3_2079181719035604992",
+              "start": 41,
+              "url": "https://t.co/ZPnX1gZAm7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079181734219075918",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 84,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "p2是原相机 这套我拍了很多张照片但是我怕你们嫌烦没p 如果你们感觉好看我再去p https://t.co/ZPnX1gZAm7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2070816356862431619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 522,
+          "following_count": 469,
+          "like_count": 31429,
+          "listed_count": 0,
+          "media_count": 200,
+          "tweet_count": 3082
+        },
+        "url": "",
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-18T20:21:35.000Z",
+        "description": "中式地雷餐券女 自傷 od bpd｜\n没回和定制伤口私信我 不怎么上线\n防炸@dooaisuan\n爱人@c10n3_f\n老婆3.0 @lyxz738",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 38,
+                "username": "dooaisuan"
+              },
+              {
+                "end": 59,
+                "start": 51,
+                "username": "c10n3_f"
+              },
+              {
+                "end": 74,
+                "start": 66,
+                "username": "lyxz738"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bhxj1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bhxj1",
+                "start": 0,
+                "url": "https://t.co/7MZYvhdtK5"
+              }
+            ]
+          }
+        },
+        "id": "2045598149704818688",
+        "location": "13.14🚪纯绿",
+        "name": "小酸2.0（寻回推友中）",
+        "pinned_tweet_id": "2079171730413933020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079186633807785984/EszLATHw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 384,
+          "following_count": 277,
+          "like_count": 1037,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 1034
+        },
+        "url": "https://t.co/7MZYvhdtK5",
+        "username": "Dodioibs",
+        "verified": false
+      }
+    ]
+  }
+}

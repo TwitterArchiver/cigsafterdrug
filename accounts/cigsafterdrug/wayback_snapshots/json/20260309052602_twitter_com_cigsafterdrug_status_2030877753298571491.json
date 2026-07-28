@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2030733925442822246",
+    "created_at": "2026-03-09T05:26:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T06:26:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030877753298571491"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1779008306033639424",
+          "start": 0,
+          "username": "chikawaiiiiia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030877753298571491",
+    "in_reply_to_user_id": "1779008306033639424",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030773226620555517",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chikawaiiiiia 我去好煎熬！爱信等😌😌"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2030733925442822246",
+        "created_at": "2026-03-09T05:26:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T06:26:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030877753298571491"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1779008306033639424",
+              "start": 0,
+              "username": "chikawaiiiiia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030877753298571491",
+        "in_reply_to_user_id": "1779008306033639424",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030773226620555517",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chikawaiiiiia 我去好煎熬！爱信等😌😌"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779008306033639424",
+        "conversation_id": "2030733925442822246",
+        "created_at": "2026-03-08T22:30:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T23:30:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030773226620555517"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1536716629505359872",
+              "start": 0,
+              "username": "cigsafterdrug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030773226620555517",
+        "in_reply_to_user_id": "1536716629505359872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030733925442822246",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cigsafterdrug 我还要一个多月才能拿到😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026943929120444416/QS8rXF5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 120,
+          "like_count": 17341,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 670
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-13T04:46:54.000Z",
+        "description": "高中无孩爱猫爱狗od女 喜欢抹茶 可以叫我c_aaaaat 欢迎找我互fo",
+        "id": "1779008306033639424",
+        "location": "Kawanishi-cho, Nara",
+        "name": "亖十",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791409692666912768/FETBZ0JL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 90,
+          "like_count": 1615,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 313
+        },
+        "username": "chikawaiiiiia",
+        "verified": false
+      }
+    ]
+  }
+}

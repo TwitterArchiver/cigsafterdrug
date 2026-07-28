@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2059890776562446508",
+    "created_at": "2026-05-28T08:00:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T09:00:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059907622812446827"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1638959586140098560",
+          "start": 0,
+          "username": "jiuyouforwhite"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059907622812446827",
+    "in_reply_to_user_id": "1638959586140098560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059890776562446508",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiuyouforwhite 如此帅萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1630,
+        "media_key": "3_2059890767720792064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJYzvU4awAAtO1P.jpg",
+        "width": 1236
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2059890776562446508",
+        "created_at": "2026-05-28T08:00:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T09:00:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059907622812446827"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1638959586140098560",
+              "start": 0,
+              "username": "jiuyouforwhite"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059907622812446827",
+        "in_reply_to_user_id": "1638959586140098560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059890776562446508",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiuyouforwhite 如此帅萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059890767720792064"
+          ]
+        },
+        "author_id": "1638959586140098560",
+        "conversation_id": "2059890776562446508",
+        "created_at": "2026-05-28T06:53:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T07:53:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059890776562446508"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UgCFFCeYFd",
+              "end": 50,
+              "expanded_url": "https://x.com/jiuyouforwhite/status/2059890776562446508/photo/1",
+              "media_key": "3_2059890767720792064",
+              "start": 27,
+              "url": "https://t.co/UgCFFCeYFd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059890776562446508",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 303,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我喜欢恰到好处的亚穿搭or恰到好处的concise🥺 https://t.co/UgCFFCeYFd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 433,
+          "following_count": 413,
+          "like_count": 27121,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 2311
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-23T17:43:19.000Z",
+        "description": "无性别enby/无浪漫倾向泛性恋/药理帮助/碎碎念/哲思/回fo(没回吱声)/备用号:@jiuyouforwhite2/偏爱:@Numiouoo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 43,
+                "username": "jiuyouforwhite2"
+              },
+              {
+                "end": 72,
+                "start": 63,
+                "username": "Numiouoo"
+              }
+            ]
+          }
+        },
+        "id": "1638959586140098560",
+        "location": "Thrillingly pointless",
+        "name": "反胃的Sisyphus",
+        "pinned_tweet_id": "2051091519847698605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043493826246082560/syYxrkxW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2186,
+          "following_count": 1455,
+          "like_count": 4600,
+          "listed_count": 3,
+          "media_count": 248,
+          "tweet_count": 2289
+        },
+        "username": "jiuyouforwhite",
+        "verified": false
+      }
+    ]
+  }
+}

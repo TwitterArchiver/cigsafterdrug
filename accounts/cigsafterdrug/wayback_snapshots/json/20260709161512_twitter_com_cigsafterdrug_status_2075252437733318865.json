@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2075252437733318865",
+    "created_at": "2026-07-09T16:15:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T17:15:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075252437733318865"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/karo269640607/…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/karo269640607/status/2074974767187395020",
+          "start": 14,
+          "url": "https://t.co/l4RLCFpzx0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075252437733318865",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074974767187395020",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你终究不是我的右美沙芬呀。 https://t.co/l4RLCFpzx0"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2075252437733318865",
+        "created_at": "2026-07-09T16:15:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T17:15:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075252437733318865"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/karo269640607/…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/karo269640607/status/2074974767187395020",
+              "start": 14,
+              "url": "https://t.co/l4RLCFpzx0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075252437733318865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074974767187395020",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你终究不是我的右美沙芬呀。 https://t.co/l4RLCFpzx0"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1937073350750466048",
+        "conversation_id": "2074974767187395020",
+        "created_at": "2026-07-08T21:51:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T22:51:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074974767187395020"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074974767187395020",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 164,
+          "like_count": 14,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "右美沙芬跟左美沙芬的名字给我的感觉就像是拉姆跟蕾姆"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2070816356862431619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 515,
+          "following_count": 466,
+          "like_count": 30434,
+          "listed_count": 0,
+          "media_count": 191,
+          "tweet_count": 3000
+        },
+        "url": "",
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-23T09:01:20.000Z",
+        "description": "o割餐券  I  ADHD、重焦中抑 |  虚无主义 | 顺女女同 | 生物化学药理板绘❤️ | 同类互fo | 混乱邪恶同人女 | 讨厌宗教 |恐游像素RPG爱好者|任何物种或性取向欢迎 | 化学极乐 | 基佬孝女言切 衛拓拒拆逆、生化里昂右向全肯定| 骂我的全家替我挡灾",
+        "id": "1937073350750466048",
+        "name": "请代我看看这个世界",
+        "pinned_tweet_id": "2070341749247996152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028587877639045120/B1wypVK8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 508,
+          "following_count": 713,
+          "like_count": 37838,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 7688
+        },
+        "url": "",
+        "username": "karo269640607",
+        "verified": false
+      }
+    ]
+  }
+}

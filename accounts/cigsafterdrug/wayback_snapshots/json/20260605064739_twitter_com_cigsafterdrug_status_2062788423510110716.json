@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2062518838500131179",
+    "created_at": "2026-06-05T06:47:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T07:47:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062788423510110716"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1481172876589821952",
+          "start": 0,
+          "username": "pyke2076"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062788423510110716",
+    "in_reply_to_user_id": "1481172876589821952",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062518838500131179",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pyke2076 ？！偷一口！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2062518751892041728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ-J4I0bcAAZLFU.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2062518751850102785",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ-J4IqbgAEij8D.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2062518838500131179",
+        "created_at": "2026-06-05T06:47:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T07:47:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062788423510110716"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1481172876589821952",
+              "start": 0,
+              "username": "pyke2076"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062788423510110716",
+        "in_reply_to_user_id": "1481172876589821952",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062518838500131179",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pyke2076 ？！偷一口！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062518751892041728",
+            "3_2062518751850102785"
+          ]
+        },
+        "author_id": "1481172876589821952",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2062518838500131179",
+        "created_at": "2026-06-04T12:56:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T13:56:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062518838500131179"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Uoc0Rjpsak",
+              "end": 29,
+              "expanded_url": "https://x.com/pyke2076/status/2062518838500131179/photo/1",
+              "media_key": "3_2062518751892041728",
+              "start": 6,
+              "url": "https://t.co/Uoc0Rjpsak"
+            },
+            {
+              "display_url": "pic.x.com/Uoc0Rjpsak",
+              "end": 29,
+              "expanded_url": "https://x.com/pyke2076/status/2062518838500131179/photo/1",
+              "media_key": "3_2062518751850102785",
+              "start": 6,
+              "url": "https://t.co/Uoc0Rjpsak"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062518838500131179",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1301,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我能吃到死 https://t.co/Uoc0Rjpsak"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 441,
+          "following_count": 416,
+          "like_count": 27842,
+          "listed_count": 0,
+          "media_count": 140,
+          "tweet_count": 2420
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "description": "Don't let it be the day",
+        "id": "1481172876589821952",
+        "location": "地狱 ",
+        "name": "bunny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1739460199323435008/cSDInbKL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8391,
+          "following_count": 1226,
+          "like_count": 66126,
+          "listed_count": 8,
+          "media_count": 3083,
+          "tweet_count": 18877
+        },
+        "username": "pyke2076",
+        "verified": false
+      }
+    ]
+  }
+}

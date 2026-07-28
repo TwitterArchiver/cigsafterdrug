@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056336774360944640"
+      ]
+    },
+    "author_id": "1536716629505359872",
+    "conversation_id": "2056336780463624428",
+    "created_at": "2026-05-18T11:31:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T12:31:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056336780463624428"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 18,
+          "start": 11,
+          "tag": "edtwtㅤ"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YvLmJr3irI",
+          "end": 42,
+          "expanded_url": "https://x.com/cigsafterdrug/status/2056336780463624428/photo/1",
+          "media_key": "3_2056336774360944640",
+          "start": 19,
+          "url": "https://t.co/YvLmJr3irI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056336780463624428",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我要發奮減大腿TvT #edtwtㅤ https://t.co/YvLmJr3irI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2056336774360944640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HImTZr5bUAAnNkG.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056336774360944640"
+          ]
+        },
+        "author_id": "1536716629505359872",
+        "conversation_id": "2056336780463624428",
+        "created_at": "2026-05-18T11:31:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T12:31:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056336780463624428"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 18,
+              "start": 11,
+              "tag": "edtwtㅤ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YvLmJr3irI",
+              "end": 42,
+              "expanded_url": "https://x.com/cigsafterdrug/status/2056336780463624428/photo/1",
+              "media_key": "3_2056336774360944640",
+              "start": 19,
+              "url": "https://t.co/YvLmJr3irI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056336780463624428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我要發奮減大腿TvT #edtwtㅤ https://t.co/YvLmJr3irI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 419,
+          "following_count": 395,
+          "like_count": 25695,
+          "listed_count": 0,
+          "media_count": 127,
+          "tweet_count": 2158
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2043401358511087797",
+    "created_at": "2026-04-13T05:08:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T06:08:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043556800998568117"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1560533329912311808",
+          "start": 0,
+          "username": "BdZzbw6goo2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043556800998568117",
+    "in_reply_to_user_id": "1560533329912311808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043523129113448672",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BdZzbw6goo2 好！我等过会再买白兔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2043401358511087797",
+        "created_at": "2026-04-13T05:08:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T06:08:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043556800998568117"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1560533329912311808",
+              "start": 0,
+              "username": "BdZzbw6goo2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043556800998568117",
+        "in_reply_to_user_id": "1560533329912311808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043523129113448672",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BdZzbw6goo2 好！我等过会再买白兔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560533329912311808",
+        "conversation_id": "2043401358511087797",
+        "created_at": "2026-04-13T02:54:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T03:54:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043523129113448672"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1536716629505359872",
+              "start": 0,
+              "username": "cigsafterdrug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043523129113448672",
+        "in_reply_to_user_id": "1536716629505359872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043401358511087797",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cigsafterdrug 第四个？阿片类欣快超爽的，不过也看人，有的人吃了也没啥感觉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041169513899765761/LjaTiZha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 302,
+          "following_count": 320,
+          "like_count": 20893,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 1561
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-19T07:45:35.000Z",
+        "description": "MTF /HRT since 25.11.16/中重度抑郁/互fo/oder/深柜中/有阿斯伯格不是很会聊天致歉",
+        "id": "1560533329912311808",
+        "name": "Lily 🏳️‍⚧️",
+        "pinned_tweet_id": "2036571069851771293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023587572161933312/nuq0npKD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 638,
+          "following_count": 832,
+          "like_count": 54726,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 421
+        },
+        "username": "BdZzbw6goo2",
+        "verified": true
+      }
+    ]
+  }
+}

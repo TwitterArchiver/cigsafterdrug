@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2031426709095157889",
+    "created_at": "2026-03-10T18:54:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T19:54:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031443471261905157"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1831328988960034816",
+          "start": 0,
+          "username": "55ghcgxc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031443471261905157",
+    "in_reply_to_user_id": "1831328988960034816",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031426709095157889",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@55ghcgxc 行邦烤99"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2031426709095157889",
+        "created_at": "2026-03-10T18:54:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T19:54:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031443471261905157"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1831328988960034816",
+              "start": 0,
+              "username": "55ghcgxc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031443471261905157",
+        "in_reply_to_user_id": "1831328988960034816",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031426709095157889",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@55ghcgxc 行邦烤99"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1831328988960034816",
+        "conversation_id": "2031426709095157889",
+        "created_at": "2026-03-10T17:47:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T18:47:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031426709095157889"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cigsafterdrug/…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/cigsafterdrug/status/2030979736206541105",
+              "start": 27,
+              "url": "https://t.co/PADh6yH9Mq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031426709095157889",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030979736206541105",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "os好想和搞oc和邦烤的oded精神病餐券女/男互关 https://t.co/PADh6yH9Mq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026943929120444416/QS8rXF5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 245,
+          "like_count": 17763,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 891
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-04T13:50:51.000Z",
+        "description": "女的｜鸡别关注我。08辍学精神病｜抽烟喝酒od割手｜想发什么就发什么少对别人指指点点｜",
+        "id": "1831328988960034816",
+        "name": "如果把表面的爱称作爱的话",
+        "pinned_tweet_id": "1991575231174176973",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991562214021758977/qdM_ok-B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 134,
+          "like_count": 513,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 125
+        },
+        "username": "55ghcgxc",
+        "verified": false
+      }
+    ]
+  }
+}

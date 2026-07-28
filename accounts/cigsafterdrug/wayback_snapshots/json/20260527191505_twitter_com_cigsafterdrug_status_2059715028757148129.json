@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059715022876782592"
+      ]
+    },
+    "author_id": "1536716629505359872",
+    "conversation_id": "2059715028757148129",
+    "created_at": "2026-05-27T19:15:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T20:15:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059715028757148129"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/GuigtAxVCu",
+          "end": 26,
+          "expanded_url": "https://x.com/cigsafterdrug/status/2059715028757148129/photo/1",
+          "media_key": "3_2059715022876782592",
+          "start": 3,
+          "url": "https://t.co/GuigtAxVCu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059715028757148129",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "喜欢 https://t.co/GuigtAxVCu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2059715022876782592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJWT5oUbMAA3fpj.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059715022876782592"
+          ]
+        },
+        "author_id": "1536716629505359872",
+        "conversation_id": "2059715028757148129",
+        "created_at": "2026-05-27T19:15:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T20:15:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059715028757148129"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GuigtAxVCu",
+              "end": 26,
+              "expanded_url": "https://x.com/cigsafterdrug/status/2059715028757148129/photo/1",
+              "media_key": "3_2059715022876782592",
+              "start": 3,
+              "url": "https://t.co/GuigtAxVCu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059715028757148129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喜欢 https://t.co/GuigtAxVCu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 432,
+          "following_count": 411,
+          "like_count": 27058,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 2302
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      }
+    ]
+  }
+}

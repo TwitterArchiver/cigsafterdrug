@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2066235418291712444",
+    "created_at": "2026-06-14T19:04:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T20:04:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066235418291712444"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/fartxoxo/statu…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/fartxoxo/status/2065425518422528156",
+          "start": 19,
+          "url": "https://t.co/ZVnHxSrG2s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066235418291712444",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065425518422528156",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "唉我想做愛但是被人看到疤感覺好尷尬對 https://t.co/ZVnHxSrG2s"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2066235418291712444",
+        "created_at": "2026-06-14T19:04:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T20:04:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066235418291712444"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/fartxoxo/statu…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/fartxoxo/status/2065425518422528156",
+              "start": 19,
+              "url": "https://t.co/ZVnHxSrG2s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066235418291712444",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065425518422528156",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "唉我想做愛但是被人看到疤感覺好尷尬對 https://t.co/ZVnHxSrG2s"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063618619905601536",
+        "conversation_id": "2065425518422528156",
+        "created_at": "2026-06-12T13:26:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T14:26:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065425518422528156"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065425518422528156",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 480,
+          "impression_count": 149989,
+          "like_count": 9828,
+          "quote_count": 98,
+          "reply_count": 57,
+          "retweet_count": 523
+        },
+        "reply_settings": "everyone",
+        "text": "we were fucking and he saw my cuts and made us stop i want to fucking die"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 481,
+          "following_count": 432,
+          "like_count": 28787,
+          "listed_count": 0,
+          "media_count": 159,
+          "tweet_count": 2665
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-07T13:47:58.000Z",
+        "description": "hi \nshe/her\n#ouchietwt / #shtwt\ni follow back :)",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 22,
+                "start": 12,
+                "tag": "ouchietwt"
+              },
+              {
+                "end": 31,
+                "start": 25,
+                "tag": "shtwt"
+              }
+            ]
+          }
+        },
+        "id": "2063618619905601536",
+        "name": "idk",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 89,
+          "like_count": 245,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 82
+        },
+        "username": "fartxoxo",
+        "verified": false
+      }
+    ]
+  }
+}

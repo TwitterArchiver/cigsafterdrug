@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2065412678911451167",
+    "created_at": "2026-06-12T13:39:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T14:39:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065428894220746816"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2053366838248259584",
+          "start": 0,
+          "username": "Cassie2meqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065428894220746816",
+    "in_reply_to_user_id": "2053366838248259584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065421883307393342",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cassie2meqwq 我认为爱是互相伤害，互相理解，可以互相抚慰伤口的，嫉妒，无尽的索取"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2065421883307393342].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2065421883307393342",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2065421883307393342"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2065412678911451167",
+        "created_at": "2026-06-12T13:39:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T14:39:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065428894220746816"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2053366838248259584",
+              "start": 0,
+              "username": "Cassie2meqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065428894220746816",
+        "in_reply_to_user_id": "2053366838248259584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065421883307393342",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cassie2meqwq 我认为爱是互相伤害，互相理解，可以互相抚慰伤口的，嫉妒，无尽的索取"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 470,
+          "following_count": 425,
+          "like_count": 28535,
+          "listed_count": 0,
+          "media_count": 151,
+          "tweet_count": 2566
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-10T06:50:59.000Z",
+        "description": "因为爱存在\n| 已成年| BD | OVERDOSE | BISEXUAL | 文青病｜语言是 中韩英|查成分互fo",
+        "id": "2053366838248259584",
+        "name": "酸性✝️",
+        "pinned_tweet_id": "2057485786535313415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427639531638786/4bR3vvpl_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 208,
+          "like_count": 265,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 518
+        },
+        "username": "Cassie2meqwq",
+        "verified": false
+      }
+    ]
+  }
+}

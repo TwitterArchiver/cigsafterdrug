@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2054132776006557696"
+      ],
+      "media_source_tweet_id": [
+        "2054132850472161465"
+      ]
+    },
+    "author_id": "1536716629505359872",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2054611907408179247",
+    "created_at": "2026-05-13T17:17:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T18:17:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054611907408179247"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 18,
+          "start": 15,
+          "tag": "主花"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1845858717902008320",
+          "start": 3,
+          "username": "wasd0149_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Fso708NLYh",
+          "end": 54,
+          "expanded_url": "https://x.com/wasd0149_/status/2054132850472161465/video/1",
+          "media_key": "13_2054132776006557696",
+          "start": 31,
+          "url": "https://t.co/Fso708NLYh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054611907408179247",
+    "lang": "in",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4640
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054132850472161465",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wasd0149_: #主花 \n📞mosi mosi https://t.co/Fso708NLYh"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 24000,
+        "height": 1536,
+        "media_key": "13_2054132776006557696",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2054132776006557696/img/PXIz1vb-n1qPXoaF.jpg",
+        "public_metrics": {
+          "view_count": 124997
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2054132776006557696/vid/avc1/360x270/gCDQpaly8PEq_J6D.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2054132776006557696/vid/avc1/480x360/fOBk6xges6Ti0nL-.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2054132776006557696/vid/avc1/960x720/-rPtDWcpPK69JHIU.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2054132776006557696/pl/0o5J3M18G6ll9-Fx.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2054132776006557696"
+          ],
+          "media_source_tweet_id": [
+            "2054132850472161465"
+          ]
+        },
+        "author_id": "1536716629505359872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2054611907408179247",
+        "created_at": "2026-05-13T17:17:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T18:17:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054611907408179247"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 18,
+              "start": 15,
+              "tag": "主花"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1845858717902008320",
+              "start": 3,
+              "username": "wasd0149_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Fso708NLYh",
+              "end": 54,
+              "expanded_url": "https://x.com/wasd0149_/status/2054132850472161465/video/1",
+              "media_key": "13_2054132776006557696",
+              "start": 31,
+              "url": "https://t.co/Fso708NLYh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054611907408179247",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4640
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054132850472161465",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wasd0149_: #主花 \n📞mosi mosi https://t.co/Fso708NLYh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2054132776006557696"
+          ]
+        },
+        "author_id": "1845858717902008320",
+        "conversation_id": "2054132850472161465",
+        "created_at": "2026-05-12T09:33:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T10:33:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054132850472161465"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "主花"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Fso708NLYh",
+              "end": 39,
+              "expanded_url": "https://x.com/wasd0149_/status/2054132850472161465/video/1",
+              "media_key": "13_2054132776006557696",
+              "start": 16,
+              "url": "https://t.co/Fso708NLYh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054132850472161465",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6263,
+          "impression_count": 348082,
+          "like_count": 24026,
+          "quote_count": 441,
+          "reply_count": 8,
+          "retweet_count": 4640
+        },
+        "reply_settings": "everyone",
+        "text": "#主花 \n📞mosi mosi https://t.co/Fso708NLYh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 412,
+          "following_count": 390,
+          "like_count": 24972,
+          "listed_count": 0,
+          "media_count": 124,
+          "tweet_count": 2091
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-14T16:06:38.000Z",
+        "description": "⌨️",
+        "id": "1845858717902008320",
+        "location": "movkey0149@gmail.com",
+        "name": "뭅키",
+        "pinned_tweet_id": "2022314137985118445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845905915289260033/DAgwVmrc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7233,
+          "following_count": 59,
+          "like_count": 291,
+          "listed_count": 10,
+          "media_count": 61,
+          "tweet_count": 143
+        },
+        "username": "wasd0149_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2058048748102857113",
+    "created_at": "2026-05-23T04:53:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T05:53:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058048748102857113"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/r4incandy_ange…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/r4incandy_angel/status/2057886100366971346",
+          "start": 15,
+          "url": "https://t.co/QRhbu5IMhX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058048748102857113",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057886100366971346",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Love forever!💗 https://t.co/QRhbu5IMhX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 518,
+        "media_key": "3_2057886098848628736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI8UgPYWQAAoMw1.jpg",
+        "width": 735
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2058048748102857113",
+        "created_at": "2026-05-23T04:53:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T05:53:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058048748102857113"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/r4incandy_ange…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/r4incandy_angel/status/2057886100366971346",
+              "start": 15,
+              "url": "https://t.co/QRhbu5IMhX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058048748102857113",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057886100366971346",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Love forever!💗 https://t.co/QRhbu5IMhX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057886098848628736"
+          ]
+        },
+        "author_id": "1420194317013069826",
+        "conversation_id": "2057886100366971346",
+        "created_at": "2026-05-22T18:07:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T19:07:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057886100366971346"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/a4IIWNVeIx",
+              "end": 23,
+              "expanded_url": "https://x.com/R4INCANDY_ANGEL/status/2057886100366971346/photo/1",
+              "media_key": "3_2057886098848628736",
+              "start": 0,
+              "url": "https://t.co/a4IIWNVeIx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057886100366971346",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 166,
+          "impression_count": 19470,
+          "like_count": 3020,
+          "quote_count": 12,
+          "reply_count": 6,
+          "retweet_count": 773
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/a4IIWNVeIx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 424,
+          "following_count": 404,
+          "like_count": 26348,
+          "listed_count": 0,
+          "media_count": 128,
+          "tweet_count": 2234
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-28T01:28:18.000Z",
+        "description": "˚₊‧꒰ა ♡ ໒꒱ ‧₊˚ '𝔱𝔥𝔢 𝔦𝔫𝔱𝔢𝔯𝔫𝔢𝔱 𝔡𝔦𝔢𝔡... 𝔞𝔫𝔡 𝔦 𝔴𝔞𝔰 𝔤𝔦𝔳𝔢𝔫 𝔩𝔦𝔣𝔢.'                 𑣲⋆lia • she/her • 7teen",
+        "id": "1420194317013069826",
+        "location": "WINDOSE",
+        "name": "˚₊‧꒰ა lia ໒꒱ ‧₊˚",
+        "pinned_tweet_id": "2056381334692491283",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055415941811314688/eU4IDOer_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1894,
+          "following_count": 2200,
+          "like_count": 71351,
+          "listed_count": 5,
+          "media_count": 968,
+          "tweet_count": 8471
+        },
+        "username": "R4INCANDY_ANGEL",
+        "verified": false
+      }
+    ]
+  }
+}

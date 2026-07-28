@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2043990758559195389",
+    "created_at": "2026-04-14T09:58:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T10:58:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043992262787641707"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1548098740254539776",
+          "start": 0,
+          "username": "Yume_121_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043992262787641707",
+    "in_reply_to_user_id": "1548098740254539776",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043992073645547800",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yume_121_ 雞兒一路走好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2043990758559195389",
+        "created_at": "2026-04-14T09:58:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T10:58:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043992262787641707"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1548098740254539776",
+              "start": 0,
+              "username": "Yume_121_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043992262787641707",
+        "in_reply_to_user_id": "1548098740254539776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043992073645547800",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yume_121_ 雞兒一路走好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1548098740254539776",
+        "conversation_id": "2043990758559195389",
+        "created_at": "2026-04-14T09:57:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T10:57:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043992073645547800"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1536716629505359872",
+              "start": 0,
+              "username": "cigsafterdrug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043992073645547800",
+        "in_reply_to_user_id": "1536716629505359872",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043991904648606196",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cigsafterdrug 鸡哥，我祝你星途璀璨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041169513899765761/LjaTiZha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 303,
+          "following_count": 323,
+          "like_count": 21147,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 1593
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-16T00:16:19.000Z",
+        "description": "🇭🇰Hong Kong 2012\n 神聖かまってちゃん\n idk japanese sorry i use goggle translate\nNOai NO轉載 @yume121_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 81,
+                "username": "yume121_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/suki73456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/suki73456",
+                "start": 0,
+                "url": "https://t.co/Nu2GGZ7Kvv"
+              }
+            ]
+          }
+        },
+        "id": "1548098740254539776",
+        "name": "yume",
+        "pinned_tweet_id": "2028685485745520819",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025178868051738625/pegHpHaT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 284,
+          "like_count": 1814,
+          "listed_count": 1,
+          "media_count": 330,
+          "tweet_count": 1438
+        },
+        "url": "https://t.co/Nu2GGZ7Kvv",
+        "username": "Yume_121_",
+        "verified": false
+      }
+    ]
+  }
+}

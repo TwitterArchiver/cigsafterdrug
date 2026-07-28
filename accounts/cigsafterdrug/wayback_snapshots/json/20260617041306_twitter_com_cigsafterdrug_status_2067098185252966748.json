@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2067042593884791134",
+    "created_at": "2026-06-17T04:13:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T05:13:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067098185252966748"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1757603703811371008",
+          "start": 0,
+          "username": "11andpr89648964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067098185252966748",
+    "in_reply_to_user_id": "1757603703811371008",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067042593884791134",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@11andpr89648964 收到！🚬"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17083,
+        "height": 960,
+        "media_key": "13_2067042531070939136",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2067042531070939136/img/zIGCOktGM6GvN2DD.jpg",
+        "public_metrics": {
+          "view_count": 996
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067042531070939136/vid/avc1/320x564/YiX58nd59g6nPVW-.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067042531070939136/vid/avc1/480x846/4ZnpKm6rPL5pvgGe.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067042531070939136/vid/avc1/544x960/h3gjEcNOwNpQ-8Du.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2067042531070939136/pl/U2hymJfspxxjzNI1.m3u8?v=cfc"
+          }
+        ],
+        "width": 544
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2067042593884791134",
+        "created_at": "2026-06-17T04:13:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T05:13:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067098185252966748"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1757603703811371008",
+              "start": 0,
+              "username": "11andpr89648964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067098185252966748",
+        "in_reply_to_user_id": "1757603703811371008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067042593884791134",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@11andpr89648964 收到！🚬"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2067042531070939136"
+          ]
+        },
+        "author_id": "1757603703811371008",
+        "conversation_id": "2067042593884791134",
+        "created_at": "2026-06-17T00:32:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T01:32:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067042593884791134"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fwnVNSSCtM",
+              "end": 31,
+              "expanded_url": "https://x.com/11andpr89648964/status/2067042593884791134/video/1",
+              "media_key": "13_2067042531070939136",
+              "start": 8,
+              "url": "https://t.co/fwnVNSSCtM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067042593884791134",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2361,
+          "like_count": 53,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "都来给我赔一根 https://t.co/fwnVNSSCtM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 503,
+          "following_count": 443,
+          "like_count": 29093,
+          "listed_count": 0,
+          "media_count": 166,
+          "tweet_count": 2780
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "重度双相情感障碍患者 友跨 顺女 爱我请给我买普瑞巴林… 我爱普瑞 普瑞爱我 最喜欢的动物是小鸡𖤐HAIL SATAN.666𖤐 🚪88",
+        "id": "1757603703811371008",
+        "location": "普瑞药效里",
+        "name": "11",
+        "pinned_tweet_id": "2066273352856306030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1332,
+          "following_count": 898,
+          "like_count": 157,
+          "listed_count": 1,
+          "media_count": 175,
+          "tweet_count": 1754
+        },
+        "username": "11andpr89648964",
+        "verified": false
+      }
+    ]
+  }
+}

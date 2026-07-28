@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2051351350760575344",
+    "created_at": "2026-05-05T18:58:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T19:58:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051738231126020432"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2036831390294249472",
+          "start": 0,
+          "username": "Nanaki_yuri"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051738231126020432",
+    "in_reply_to_user_id": "2036831390294249472",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051723453305348362",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nanaki_yuri 我也是⋯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2051351350760575344",
+        "created_at": "2026-05-05T18:58:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T19:58:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051738231126020432"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2036831390294249472",
+              "start": 0,
+              "username": "Nanaki_yuri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051738231126020432",
+        "in_reply_to_user_id": "2036831390294249472",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051723453305348362",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nanaki_yuri 我也是⋯"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2036831390294249472",
+        "conversation_id": "2051351350760575344",
+        "created_at": "2026-05-05T17:59:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T18:59:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051723453305348362"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1536716629505359872",
+              "start": 0,
+              "username": "cigsafterdrug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051723453305348362",
+        "in_reply_to_user_id": "1536716629505359872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051351350760575344",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cigsafterdrug 我腿上毛孔很明显，所以不喜欢腿上的增生。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 364,
+          "following_count": 369,
+          "like_count": 23819,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 1947
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-25T15:43:57.000Z",
+        "description": "waiting for you…(☆^ー^☆)",
+        "id": "2036831390294249472",
+        "location": "香港",
+        "name": "yuri-mizuiro",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051056963581337600/P6H958WQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 19,
+          "like_count": 206,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 78
+        },
+        "username": "Nanaki_yuri",
+        "verified": false
+      }
+    ]
+  }
+}

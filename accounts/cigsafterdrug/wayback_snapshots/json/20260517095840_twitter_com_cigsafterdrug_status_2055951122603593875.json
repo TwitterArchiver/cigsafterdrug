@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2055951122603593875",
+    "created_at": "2026-05-17T09:58:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T10:58:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055951122603593875"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2052601714419658752",
+          "start": 3,
+          "username": "Crystallize888"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055951122603593875",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055915966479950328",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Crystallize888: 評論區抽獎免費贈送IC-26（阿片類）包郵\n條件：點讚 關注 轉發 評論\n40轉發開獎\n\n本團隊不定期抽獎隨即物質供各位研究。歡迎可以加入我們的網站論壇投稿wiki,聊天。支持暗網，端到端加密。目前最安全的精神物質圈。\n\n粉絲多的可以談合…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2055951122603593875",
+        "created_at": "2026-05-17T09:58:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T10:58:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055951122603593875"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2052601714419658752",
+              "start": 3,
+              "username": "Crystallize888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055951122603593875",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055915966479950328",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Crystallize888: 評論區抽獎免費贈送IC-26（阿片類）包郵\n條件：點讚 關注 轉發 評論\n40轉發開獎\n\n本團隊不定期抽獎隨即物質供各位研究。歡迎可以加入我們的網站論壇投稿wiki,聊天。支持暗網，端到端加密。目前最安全的精神物質圈。\n\n粉絲多的可以談合…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2052601714419658752",
+        "conversation_id": "2055915966479950328",
+        "created_at": "2026-05-17T07:38:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T08:38:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055915966479950328"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055915966479950328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 509,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "評論區抽獎免費贈送IC-26（阿片類）包郵\n條件：點讚 關注 轉發 評論\n40轉發開獎\n\n本團隊不定期抽獎隨即物質供各位研究。歡迎可以加入我們的網站論壇投稿wiki,聊天。支持暗網，端到端加密。目前最安全的精神物質圈。\n\n粉絲多的可以談合作，測評。入駐網站。有實力的可以直接來應聘入職拿工資。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 421,
+          "following_count": 397,
+          "like_count": 25497,
+          "listed_count": 0,
+          "media_count": 124,
+          "tweet_count": 2143
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-08T04:09:58.000Z",
+        "description": "Offical X Acoount Of https://t.co/MkurdUpcAd\n#odtwt #shtwt #結晶化\n多人帳號\n☆real life anime main character\n⛧°⋆༺♱༻⋆°⛧",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 51,
+                "start": 45,
+                "tag": "odtwt"
+              },
+              {
+                "end": 58,
+                "start": 52,
+                "tag": "shtwt"
+              },
+              {
+                "end": 63,
+                "start": 59,
+                "tag": "結晶化"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "Crystallize.Club",
+                "end": 44,
+                "expanded_url": "http://Crystallize.Club",
+                "start": 21,
+                "url": "https://t.co/MkurdUpcAd"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "crystallize.club",
+                "end": 23,
+                "expanded_url": "http://crystallize.club",
+                "start": 0,
+                "url": "https://t.co/cIXzl6egXK"
+              }
+            ]
+          }
+        },
+        "id": "2052601714419658752",
+        "location": "Tai Wan",
+        "name": "結晶化 - Crystallize 精神物質結晶圈",
+        "pinned_tweet_id": "2054172285578453071",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054166877304197120/XhSr4TLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 53,
+          "like_count": 28,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 74
+        },
+        "url": "https://t.co/cIXzl6egXK",
+        "username": "Crystallize888",
+        "verified": true
+      }
+    ]
+  }
+}

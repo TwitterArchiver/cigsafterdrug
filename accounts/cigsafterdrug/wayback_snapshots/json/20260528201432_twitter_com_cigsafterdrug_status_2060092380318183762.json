@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2060030083457573276",
+    "created_at": "2026-05-28T20:14:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T21:14:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060092380318183762"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1893671443566903296",
+          "start": 0,
+          "username": "Lin_su1102"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060092380318183762",
+    "in_reply_to_user_id": "1893671443566903296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060030083457573276",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lin_su1102 喜欢你小宝"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10441,
+        "height": 1280,
+        "media_key": "7_2060030019112734720",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2060030019112734720/pu/img/A0hQ5FAEIPfyLxAL.jpg",
+        "public_metrics": {
+          "view_count": 260
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2060030019112734720/pu/vid/avc1/320x568/BeG-31b3gD0Ev36u.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2060030019112734720/pu/vid/avc1/480x852/4qWaV9FQyMGy3_w8.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2060030019112734720/pu/vid/avc1/720x1280/YRtafZUhy288DYmN.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2060030019112734720/pu/pl/6yCGT-2C3W7ugbaO.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2060030083457573276",
+        "created_at": "2026-05-28T20:14:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T21:14:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060092380318183762"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1893671443566903296",
+              "start": 0,
+              "username": "Lin_su1102"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060092380318183762",
+        "in_reply_to_user_id": "1893671443566903296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060030083457573276",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lin_su1102 喜欢你小宝"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2060030019112734720"
+          ]
+        },
+        "author_id": "1893671443566903296",
+        "conversation_id": "2060030083457573276",
+        "created_at": "2026-05-28T16:07:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T17:07:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060030083457573276"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/f2bPn3NXUp",
+              "end": 40,
+              "expanded_url": "https://x.com/Lin_su1102/status/2060030083457573276/video/1",
+              "media_key": "7_2060030019112734720",
+              "start": 17,
+              "url": "https://t.co/f2bPn3NXUp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060030083457573276",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 688,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喜欢我吗？可不可以喜欢我求求你了 https://t.co/f2bPn3NXUp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 435,
+          "following_count": 416,
+          "like_count": 27208,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 2318
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-23T14:37:21.000Z",
+        "description": "我是鳞溯 我秽土转生了这是鳞溯2.0 你们可以接着叫我小溯 我磕 zc 欢迎互fo🚪52，我接伤口定制https://t.co/bIAzkK1JXL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/linsu_1102",
+                "end": 74,
+                "expanded_url": "https://ngl.link/linsu_1102",
+                "start": 51,
+                "url": "https://t.co/bIAzkK1JXL"
+              }
+            ]
+          }
+        },
+        "id": "1893671443566903296",
+        "location": "Tokyo-to, Japan",
+        "name": "溯（接伤口定制）",
+        "pinned_tweet_id": "2049473626597154862",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910981379568918528/eXWWa22__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 396,
+          "following_count": 135,
+          "like_count": 6059,
+          "listed_count": 0,
+          "media_count": 130,
+          "tweet_count": 1120
+        },
+        "username": "Lin_su1102",
+        "verified": false
+      }
+    ]
+  }
+}

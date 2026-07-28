@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2077688688465924279",
+    "created_at": "2026-07-16T10:32:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T11:32:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077702955298607300"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2069070474269868034",
+          "start": 0,
+          "username": "meyuyume121"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077702955298607300",
+    "in_reply_to_user_id": "2069070474269868034",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077688688465924279",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@meyuyume121 o起"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2077688685882232832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNVu2gvb0AA_5fj.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2077688688465924279",
+        "created_at": "2026-07-16T10:32:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T11:32:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077702955298607300"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2069070474269868034",
+              "start": 0,
+              "username": "meyuyume121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077702955298607300",
+        "in_reply_to_user_id": "2069070474269868034",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077688688465924279",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meyuyume121 o起"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077688685882232832"
+          ]
+        },
+        "author_id": "2069070474269868034",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2077688688465924279",
+        "created_at": "2026-07-16T09:35:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T10:35:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077688688465924279"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mkOZUB2w0f",
+              "end": 27,
+              "expanded_url": "https://x.com/meyuyume121/status/2077688688465924279/photo/1",
+              "media_key": "3_2077688685882232832",
+              "start": 4,
+              "url": "https://t.co/mkOZUB2w0f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077688688465924279",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 55,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哥几个 https://t.co/mkOZUB2w0f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2070816356862431619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 524,
+          "following_count": 470,
+          "like_count": 31112,
+          "listed_count": 0,
+          "media_count": 196,
+          "tweet_count": 3051
+        },
+        "url": "",
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-22T14:52:26.000Z",
+        "description": "愛人@Gen_ei_SKC0218\n神聖かまってちゃん beyond 李志\n🇭🇰🇭🇰🇭🇰\n😻互fol😻\n@yume0u0121",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "Gen_ei_SKC0218"
+              },
+              {
+                "end": 63,
+                "start": 52,
+                "username": "yume0u0121"
+              }
+            ]
+          }
+        },
+        "id": "2069070474269868034",
+        "name": "yume",
+        "pinned_tweet_id": "2069071485034279064",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069072982857936896/5MG7UIfg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 163,
+          "like_count": 234,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 265
+        },
+        "url": "",
+        "username": "meyuyume121",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2061525596858114058",
+    "created_at": "2026-06-01T19:19:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T20:19:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061528177424621720"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1358666452945965057",
+          "start": 0,
+          "username": "luoaa_072"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061528177424621720",
+    "in_reply_to_user_id": "1358666452945965057",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061525596858114058",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@luoaa_072 抱抱你…学校不是唯一的出路 先好好休息吧🫂🫂一定很痛"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 800,
+        "media_key": "3_2061525588326912000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJwCmaOakAAKdXR.jpg",
+        "width": 711
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2061525596858114058",
+        "created_at": "2026-06-01T19:19:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T20:19:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061528177424621720"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1358666452945965057",
+              "start": 0,
+              "username": "luoaa_072"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061528177424621720",
+        "in_reply_to_user_id": "1358666452945965057",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061525596858114058",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luoaa_072 抱抱你…学校不是唯一的出路 先好好休息吧🫂🫂一定很痛"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061525588326912000"
+          ]
+        },
+        "author_id": "1358666452945965057",
+        "conversation_id": "2061525596858114058",
+        "created_at": "2026-06-01T19:09:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T20:09:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061525596858114058"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Nj35CBlByL",
+              "end": 54,
+              "expanded_url": "https://x.com/luoaa_072/status/2061525596858114058/photo/1",
+              "media_key": "3_2061525588326912000",
+              "start": 31,
+              "url": "https://t.co/Nj35CBlByL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061525596858114058",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "跳楼被朋友晶了\n学校劝退了\n这辈子完了，谁能解决掉我的痛苦？ https://t.co/Nj35CBlByL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 435,
+          "following_count": 414,
+          "like_count": 27676,
+          "listed_count": 0,
+          "media_count": 137,
+          "tweet_count": 2368
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-08T06:38:23.000Z",
+        "description": "18↑｜2%药物和98%酒精构成",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/zh-tw/luoaa0723",
+                "end": 23,
+                "expanded_url": "https://lit.link/zh-tw/luoaa0723",
+                "start": 0,
+                "url": "https://t.co/lYSdLqiNfy"
+              }
+            ]
+          }
+        },
+        "id": "1358666452945965057",
+        "name": "点点O3O",
+        "pinned_tweet_id": "2051555691006234849",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021891596166533120/vhvmZmEi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 565,
+          "following_count": 490,
+          "like_count": 12620,
+          "listed_count": 2,
+          "media_count": 187,
+          "tweet_count": 2872
+        },
+        "url": "https://t.co/lYSdLqiNfy",
+        "username": "luoaa_072",
+        "verified": false
+      }
+    ]
+  }
+}

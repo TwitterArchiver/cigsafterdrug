@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2079154488670409089",
+    "created_at": "2026-07-20T15:48:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T16:48:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079231923311054947"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1917890381104271361",
+          "start": 0,
+          "username": "AV1O492"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079231923311054947",
+    "in_reply_to_user_id": "1917890381104271361",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079154488670409089",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AV1O492 Dizzy你爹死了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2079154488670409089",
+        "created_at": "2026-07-20T15:48:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T16:48:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079231923311054947"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1917890381104271361",
+              "start": 0,
+              "username": "AV1O492"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079231923311054947",
+        "in_reply_to_user_id": "1917890381104271361",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079154488670409089",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AV1O492 Dizzy你爹死了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917890381104271361",
+        "conversation_id": "2079154488670409089",
+        "created_at": "2026-07-20T10:40:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T11:40:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079154488670409089"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079154488670409089",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 733,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "路过的每人评论一句Dizzy你爹死了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2070816356862431619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 522,
+          "following_count": 469,
+          "like_count": 31420,
+          "listed_count": 0,
+          "media_count": 200,
+          "tweet_count": 3081
+        },
+        "url": "",
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是Dizzy也可以叫我枭儿｜he/them｜ #dmctwt 🍕 I LOVE DANTE and everyone could see that",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 101,
+                "start": 94,
+                "tag": "dmctwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/6bOGA23",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/6bOGA23",
+                "start": 0,
+                "url": "https://t.co/6YOoA2BVID"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "Redgrave",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2078916554520228324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074352994737631232/LVqUW_Bw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1520,
+          "following_count": 89,
+          "like_count": 6082,
+          "listed_count": 2,
+          "media_count": 366,
+          "tweet_count": 3053
+        },
+        "url": "https://t.co/6YOoA2BVID",
+        "username": "AV1O492",
+        "verified": false
+      }
+    ]
+  }
+}

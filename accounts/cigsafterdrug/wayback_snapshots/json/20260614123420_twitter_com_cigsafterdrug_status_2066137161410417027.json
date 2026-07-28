@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2066065276395987330",
+    "created_at": "2026-06-14T12:34:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T13:34:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066137161410417027"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2053707183427366912",
+          "start": 0,
+          "username": "meyu_121"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066137161410417027",
+    "in_reply_to_user_id": "2053707183427366912",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066131538438496676",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@meyu_121 白兔白兔🤤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2066065276395987330",
+        "created_at": "2026-06-14T12:34:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T13:34:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066137161410417027"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2053707183427366912",
+              "start": 0,
+              "username": "meyu_121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066137161410417027",
+        "in_reply_to_user_id": "2053707183427366912",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066131538438496676",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meyu_121 白兔白兔🤤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053707183427366912",
+        "conversation_id": "2066065276395987330",
+        "created_at": "2026-06-14T12:12:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T13:12:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066131538438496676"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1536716629505359872",
+              "start": 0,
+              "username": "cigsafterdrug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066131538438496676",
+        "in_reply_to_user_id": "1536716629505359872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066065276395987330",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cigsafterdrug 白兔媽媽媽媽媽媽媽媽"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 478,
+          "following_count": 432,
+          "like_count": 28731,
+          "listed_count": 0,
+          "media_count": 157,
+          "tweet_count": 2643
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-11T05:22:11.000Z",
+        "description": "HongKong🇭🇰∥ㅤod 割手手ㅤ∥ㅤㅤㅤㅤ神聖かまってちゃん 李志 beyondㅤ∥ㅤ愛人 @xuanying114514\nㅤ∥rip @Yume_121_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "xuanying114514"
+              },
+              {
+                "end": 81,
+                "start": 71,
+                "username": "Yume_121_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@yume121_kawa?…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@yume121_kawa?si=Kvl_r-M9N3u6C4DA",
+                "start": 0,
+                "url": "https://t.co/uYCcZZSV0n"
+              }
+            ]
+          }
+        },
+        "id": "2053707183427366912",
+        "location": "まいちゃん全部ゆめ",
+        "name": "Yumeかまってちゃん🎸",
+        "pinned_tweet_id": "2053715766537814126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065306748194631680/YoHLf35n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 174,
+          "like_count": 345,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 314
+        },
+        "url": "https://t.co/uYCcZZSV0n",
+        "username": "meyu_121",
+        "verified": false
+      }
+    ]
+  }
+}

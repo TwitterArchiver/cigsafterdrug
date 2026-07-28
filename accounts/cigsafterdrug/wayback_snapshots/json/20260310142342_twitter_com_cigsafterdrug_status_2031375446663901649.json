@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2030979736206541105",
+    "created_at": "2026-03-10T14:23:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T15:23:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031375446663901649"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1812582185293234176",
+          "start": 0,
+          "username": "xingyi1234567"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031375446663901649",
+    "in_reply_to_user_id": "1812582185293234176",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031374578120049069",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xingyi1234567 好呀好呀一起玩！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2030979736206541105",
+        "created_at": "2026-03-10T14:23:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T15:23:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031375446663901649"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1812582185293234176",
+              "start": 0,
+              "username": "xingyi1234567"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031375446663901649",
+        "in_reply_to_user_id": "1812582185293234176",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031374578120049069",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xingyi1234567 好呀好呀一起玩！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1812582185293234176",
+        "conversation_id": "2030979736206541105",
+        "created_at": "2026-03-10T14:20:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T15:20:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031374578120049069"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1536716629505359872",
+              "start": 0,
+              "username": "cigsafterdrug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031374578120049069",
+        "in_reply_to_user_id": "1536716629505359872",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030979736206541105",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cigsafterdrug os我也想和你玩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026943929120444416/QS8rXF5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 213,
+          "like_count": 17701,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 849
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-14T20:17:32.000Z",
+        "description": "废人日记",
+        "id": "1812582185293234176",
+        "name": "^_^",
+        "pinned_tweet_id": "1988979830260658279",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1812669906808168450/WFOUJ4st_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 90,
+          "like_count": 1074,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 383
+        },
+        "username": "xingyi1234567",
+        "verified": false
+      }
+    ]
+  }
+}

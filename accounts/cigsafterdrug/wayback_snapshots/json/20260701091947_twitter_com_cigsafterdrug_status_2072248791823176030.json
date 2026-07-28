@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2072235826629476553",
+    "created_at": "2026-07-01T09:19:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T10:19:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072248791823176030"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2002670122767667200",
+          "start": 0,
+          "username": "Lotus_LianHua04"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072248791823176030",
+    "in_reply_to_user_id": "2002670122767667200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072248017361473688",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lotus_LianHua04 国家是底线 碰到底线了就不行😡😡😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2072235826629476553",
+        "created_at": "2026-07-01T09:19:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T10:19:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072248791823176030"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2002670122767667200",
+              "start": 0,
+              "username": "Lotus_LianHua04"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072248791823176030",
+        "in_reply_to_user_id": "2002670122767667200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072248017361473688",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lotus_LianHua04 国家是底线 碰到底线了就不行😡😡😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2072235826629476553",
+        "created_at": "2026-07-01T09:16:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T10:16:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072248017361473688"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1536716629505359872",
+              "start": 0,
+              "username": "cigsafterdrug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072248017361473688",
+        "in_reply_to_user_id": "1536716629505359872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072236967501107339",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cigsafterdrug 宝宝你头像这个美国女人xd而且rh了[捂嘴哭]"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2070816356862431619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 504,
+          "following_count": 458,
+          "like_count": 29497,
+          "listed_count": 0,
+          "media_count": 179,
+          "tweet_count": 2898
+        },
+        "url": "",
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 28,
+          "like_count": 1175,
+          "listed_count": 0,
+          "media_count": 196,
+          "tweet_count": 2669
+        },
+        "url": "",
+        "username": "Lotus_LianHua04",
+        "verified": false
+      }
+    ]
+  }
+}

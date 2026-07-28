@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2073116014783734150",
+    "created_at": "2026-07-03T18:45:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T19:45:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073116014783734150"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2073116014783734150",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的偶像是北京小三王菲，香港小三林忆莲，英国小三小野洋子，台湾小三陈绮贞，日本小三椎名林擒，美国小三雅丽安娜，韩国小三金敏喜。做小三是一种选择。在山东当小三，你犯了家族死罪；在北京当小三，你在向现实妥协；在上海当小三，你选择了一种生活方式；在巴黎当小三，你是一个浪漫的女人。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2073116014783734150",
+        "created_at": "2026-07-03T18:45:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T19:45:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073116014783734150"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073116014783734150",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的偶像是北京小三王菲，香港小三林忆莲，英国小三小野洋子，台湾小三陈绮贞，日本小三椎名林擒，美国小三雅丽安娜，韩国小三金敏喜。做小三是一种选择。在山东当小三，你犯了家族死罪；在北京当小三，你在向现实妥协；在上海当小三，你选择了一种生活方式；在巴黎当小三，你是一个浪漫的女人。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2070816356862431619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 504,
+          "following_count": 460,
+          "like_count": 29597,
+          "listed_count": 0,
+          "media_count": 180,
+          "tweet_count": 2912
+        },
+        "url": "",
+        "username": "cigsafterdrug",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045117019578925056"
+      ]
+    },
+    "author_id": "1536716629505359872",
+    "conversation_id": "2045117029225799793",
+    "created_at": "2026-04-17T12:27:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T13:27:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045117029225799793"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/nSWpecqCJj",
+          "end": 36,
+          "expanded_url": "https://x.com/cigsafterdrug/status/2045117029225799793/photo/1",
+          "media_key": "3_2045117019578925056",
+          "start": 13,
+          "url": "https://t.co/nSWpecqCJj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045117029225799793",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "結他袋是最好藏身地（？？ https://t.co/nSWpecqCJj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2045117019578925056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGG3GAQbgAAtRgI.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045117019578925056"
+          ]
+        },
+        "author_id": "1536716629505359872",
+        "conversation_id": "2045117029225799793",
+        "created_at": "2026-04-17T12:27:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T13:27:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045117029225799793"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nSWpecqCJj",
+              "end": 36,
+              "expanded_url": "https://x.com/cigsafterdrug/status/2045117029225799793/photo/1",
+              "media_key": "3_2045117019578925056",
+              "start": 13,
+              "url": "https://t.co/nSWpecqCJj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045117029225799793",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "結他袋是最好藏身地（？？ https://t.co/nSWpecqCJj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041169513899765761/LjaTiZha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 308,
+          "following_count": 327,
+          "like_count": 21521,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 1639
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      }
+    ]
+  }
+}

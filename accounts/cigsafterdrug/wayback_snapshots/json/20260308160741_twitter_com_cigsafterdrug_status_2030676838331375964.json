@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2030614624648016027",
+    "created_at": "2026-03-08T16:07:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T17:07:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030676838331375964"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1741871837464694784",
+          "start": 0,
+          "username": "Raintnear_asl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030676838331375964",
+    "in_reply_to_user_id": "1741871837464694784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030614624648016027",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Raintnear_asl 压力大就会一直暴食 结果暴完好像更沉重了……抱抱🫂清除行为很伤身 注意身体呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2030614624648016027",
+        "created_at": "2026-03-08T16:07:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T17:07:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030676838331375964"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1741871837464694784",
+              "start": 0,
+              "username": "Raintnear_asl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030676838331375964",
+        "in_reply_to_user_id": "1741871837464694784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030614624648016027",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Raintnear_asl 压力大就会一直暴食 结果暴完好像更沉重了……抱抱🫂清除行为很伤身 注意身体呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2030614624648016027",
+        "created_at": "2026-03-08T12:00:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T13:00:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030614624648016027"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2030614624648016027",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 286,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近又开始催吐了 两天吃完了一周生活费 我好绝望我好累"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026943929120444416/QS8rXF5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 119,
+          "like_count": 17297,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 654
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "description": "一个神神叨叨的神秘女孩",
+        "id": "1741871837464694784",
+        "location": "天国",
+        "name": "世界你是否知晓一切？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026692339121664001/cwmcalPm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238,
+          "following_count": 318,
+          "like_count": 9151,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 765
+        },
+        "username": "Raintnear_asl",
+        "verified": false
+      }
+    ]
+  }
+}

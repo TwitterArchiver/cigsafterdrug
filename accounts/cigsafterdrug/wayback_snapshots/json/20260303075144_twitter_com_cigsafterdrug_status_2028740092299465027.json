@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Philosophy",
+          "id": "1047111740322865153",
+          "name": "Philosophy"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Philosophy",
+          "id": "1047111740322865153",
+          "name": "Philosophy"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1278093262406815744",
+          "name": "Fields of study"
+        }
+      }
+    ],
+    "conversation_id": "2028740092299465027",
+    "created_at": "2026-03-03T07:51:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T08:51:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028740092299465027"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1960389326258495492",
+          "start": 3,
+          "username": "looolzaozimin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028740092299465027",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028591167634616787",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @looolzaozimin: 比起爱更想侵略你，让你落泪让你高潮让你疼痛，让我带给你疯狂的体验，让我影响你思考的哲学议题你的创伤你爱的能力都是我带给你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278093262406815744",
+              "name": "Fields of study"
+            }
+          }
+        ],
+        "conversation_id": "2028740092299465027",
+        "created_at": "2026-03-03T07:51:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T08:51:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028740092299465027"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1960389326258495492",
+              "start": 3,
+              "username": "looolzaozimin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028740092299465027",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028591167634616787",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @looolzaozimin: 比起爱更想侵略你，让你落泪让你高潮让你疼痛，让我带给你疯狂的体验，让我影响你思考的哲学议题你的创伤你爱的能力都是我带给你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1960389326258495492",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278093262406815744",
+              "name": "Fields of study"
+            }
+          }
+        ],
+        "conversation_id": "2028591167634616787",
+        "created_at": "2026-03-02T21:59:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T22:59:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028591167634616787"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2028591167634616787",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1344,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "比起爱更想侵略你，让你落泪让你高潮让你疼痛，让我带给你疯狂的体验，让我影响你思考的哲学议题你的创伤你爱的能力都是我带给你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026943929120444416/QS8rXF5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 104,
+          "like_count": 16530,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 601
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-26T17:10:37.000Z",
+        "description": "第二人格@songbansha6606",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 4,
+                "username": "songbansha6606"
+              }
+            ]
+          }
+        },
+        "id": "1960389326258495492",
+        "location": "門288 28888",
+        "name": "小藻",
+        "pinned_tweet_id": "1969267181771804999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006630961887535104/Xwoq_Ilo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24029,
+          "following_count": 42,
+          "like_count": 129,
+          "listed_count": 24,
+          "media_count": 81,
+          "tweet_count": 197
+        },
+        "username": "looolzaozimin",
+        "verified": false
+      }
+    ]
+  }
+}

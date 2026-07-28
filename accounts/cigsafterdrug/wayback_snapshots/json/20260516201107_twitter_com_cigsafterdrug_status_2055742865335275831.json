@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2055742865335275831",
+    "created_at": "2026-05-16T20:11:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T21:11:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055742865335275831"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1659962043460354050",
+          "start": 3,
+          "username": "SalviaSWC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055742865335275831",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 29
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988435954017923408",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SalviaSWC: 我们不要过正常生活了，一起去od吧，吞下一盒药一起等药效吧，我们闭着眼躺在床上看内幻吧，被一起送进医院洗胃吧，去药店买纳洛酮注射液一起去吃阿片类药物吧，一起因为吸毒被抓进戒毒所因为是策划药被放出来，手拉着手一起在幸福的幻觉里逃避可怕的现实吧🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2055742865335275831",
+        "created_at": "2026-05-16T20:11:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T21:11:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055742865335275831"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1659962043460354050",
+              "start": 3,
+              "username": "SalviaSWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055742865335275831",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 29
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988435954017923408",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SalviaSWC: 我们不要过正常生活了，一起去od吧，吞下一盒药一起等药效吧，我们闭着眼躺在床上看内幻吧，被一起送进医院洗胃吧，去药店买纳洛酮注射液一起去吃阿片类药物吧，一起因为吸毒被抓进戒毒所因为是策划药被放出来，手拉着手一起在幸福的幻觉里逃避可怕的现实吧🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1988435954017923408",
+        "created_at": "2025-11-12T02:37:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T03:37:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988435954017923408"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ww123qwq/statu…",
+              "end": 145,
+              "expanded_url": "https://twitter.com/ww123qwq/status/1988423199361822831",
+              "start": 122,
+              "url": "https://t.co/cCldjeUOGL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988435954017923408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 34291,
+          "like_count": 229,
+          "quote_count": 5,
+          "reply_count": 10,
+          "retweet_count": 29
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988423199361822831",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我们不要过正常生活了，一起去od吧，吞下一盒药一起等药效吧，我们闭着眼躺在床上看内幻吧，被一起送进医院洗胃吧，去药店买纳洛酮注射液一起去吃阿片类药物吧，一起因为吸毒被抓进戒毒所因为是策划药被放出来，手拉着手一起在幸福的幻觉里逃避可怕的现实吧🥹 https://t.co/cCldjeUOGL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 419,
+          "following_count": 395,
+          "like_count": 25460,
+          "listed_count": 0,
+          "media_count": 124,
+          "tweet_count": 2135
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "非必要不键政🏳️|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n丨药物知识开源化💊|来FreeODwiki看看吧！https://t.co/ki2TerCl7C |Say Know to Drugs 😼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 54,
+                "username": "DXM8964LXM"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC/Free…",
+                "end": 115,
+                "expanded_url": "https://github.com/SalviaSWC/FreeODwiki",
+                "start": 92,
+                "url": "https://t.co/ki2TerCl7C"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAeQd"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034583473692852224/nE4xPVUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4597,
+          "following_count": 1028,
+          "like_count": 24033,
+          "listed_count": 11,
+          "media_count": 527,
+          "tweet_count": 7741
+        },
+        "url": "https://t.co/20q0OtAeQd",
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

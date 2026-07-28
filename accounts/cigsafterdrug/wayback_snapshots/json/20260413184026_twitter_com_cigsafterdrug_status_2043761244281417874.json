@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2043401358511087797",
+    "created_at": "2026-04-13T18:40:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T19:40:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043761244281417874"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1222610594123014144",
+          "start": 0,
+          "username": "ikamono55"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043761244281417874",
+    "in_reply_to_user_id": "1222610594123014144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043756227856117912",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ikamono55 噢噢好的谢谢你～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2043401358511087797",
+        "created_at": "2026-04-13T18:40:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T19:40:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043761244281417874"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1222610594123014144",
+              "start": 0,
+              "username": "ikamono55"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043761244281417874",
+        "in_reply_to_user_id": "1222610594123014144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043756227856117912",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ikamono55 噢噢好的谢谢你～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1222610594123014144",
+        "conversation_id": "2043401358511087797",
+        "created_at": "2026-04-13T18:20:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T19:20:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043756227856117912"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1536716629505359872",
+              "start": 0,
+              "username": "cigsafterdrug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043756227856117912",
+        "in_reply_to_user_id": "1536716629505359872",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043401358511087797",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cigsafterdrug 第一个感受是药效很淡很迷茫😶‍🌫️，成分比较杂有氯苯那敏，感觉不如第二个メジコン，不过胶囊和包装好看（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041169513899765761/LjaTiZha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 303,
+          "following_count": 320,
+          "like_count": 20963,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 1569
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-29T20:01:14.000Z",
+        "description": "妄想症、感觉所有人都要害我、恨母癖",
+        "id": "1222610594123014144",
+        "name": "🐍素貞銀白🐍",
+        "pinned_tweet_id": "2026778159006494739",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043091186408448000/XHfhH5Bp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 181,
+          "like_count": 599,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 227
+        },
+        "username": "ikamono55",
+        "verified": false
+      }
+    ]
+  }
+}

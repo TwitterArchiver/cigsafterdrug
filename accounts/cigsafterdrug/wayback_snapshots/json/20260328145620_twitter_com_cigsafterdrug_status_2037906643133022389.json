@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2037906643133022389",
+    "created_at": "2026-03-28T14:56:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T15:56:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037906643133022389"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1938268740501872641",
+          "start": 3,
+          "username": "jelily_worm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037906643133022389",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037898807929884728",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jelily_worm: 为啥我的朋友一直觉得我会嗑药嗑死掉我真的好无奈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2037906643133022389",
+        "created_at": "2026-03-28T14:56:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T15:56:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037906643133022389"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1938268740501872641",
+              "start": 3,
+              "username": "jelily_worm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037906643133022389",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037898807929884728",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jelily_worm: 为啥我的朋友一直觉得我会嗑药嗑死掉我真的好无奈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1938268740501872641",
+        "conversation_id": "2037898807929884728",
+        "created_at": "2026-03-28T14:25:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T15:25:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037898807929884728"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037898807929884728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "为啥我的朋友一直觉得我会嗑药嗑死掉我真的好无奈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026943929120444416/QS8rXF5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 296,
+          "following_count": 314,
+          "like_count": 19425,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 1310
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-26T16:11:05.000Z",
+        "description": "=jely /菌  English/中文  They/He Cupioromatic asexual genderfluid",
+        "id": "1938268740501872641",
+        "location": "27club",
+        "name": "Profundo carmesí",
+        "pinned_tweet_id": "2022282829221310647",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032515716726067200/iPwyaz61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 125,
+          "like_count": 3696,
+          "listed_count": 0,
+          "media_count": 160,
+          "tweet_count": 2384
+        },
+        "username": "jelily_worm",
+        "verified": false
+      }
+    ]
+  }
+}

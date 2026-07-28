@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2078479031742169572",
+    "created_at": "2026-07-19T06:55:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T07:55:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078735464643830077"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1838620535804317696",
+          "start": 0,
+          "username": "karmakarma1221"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078735464643830077",
+    "in_reply_to_user_id": "1838620535804317696",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078479031742169572",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@karmakarma1221 太美了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2078479017099853824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNg9p19XAAAA4Xg.jpg",
+        "width": 683
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2078479031742169572",
+        "created_at": "2026-07-19T06:55:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T07:55:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078735464643830077"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1838620535804317696",
+              "start": 0,
+              "username": "karmakarma1221"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078735464643830077",
+        "in_reply_to_user_id": "1838620535804317696",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078479031742169572",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@karmakarma1221 太美了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078479017099853824"
+          ]
+        },
+        "author_id": "1838620535804317696",
+        "conversation_id": "2078479031742169572",
+        "created_at": "2026-07-18T13:56:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T14:56:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078479031742169572"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XW4ByPKrwj",
+              "end": 34,
+              "expanded_url": "https://x.com/karmakarma1221/status/2078479031742169572/photo/1",
+              "media_key": "3_2078479017099853824",
+              "start": 11,
+              "url": "https://t.co/XW4ByPKrwj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078479031742169572",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1539,
+          "like_count": 88,
+          "quote_count": 0,
+          "reply_count": 45,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "孩子们我剪了一个短发 https://t.co/XW4ByPKrwj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2070816356862431619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 523,
+          "following_count": 469,
+          "like_count": 31320,
+          "listed_count": 0,
+          "media_count": 199,
+          "tweet_count": 3075
+        },
+        "url": "",
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-24T16:44:40.000Z",
+        "description": "我是蛞蝓 关注蛞蝓喵 关注蛞蝓谢谢喵♪( ´▽｀)\n\n我的提问箱 https://t.co/PXiBB5SkEn",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/karmakarma1221",
+                "end": 56,
+                "expanded_url": "https://ngl.link/karmakarma1221",
+                "start": 33,
+                "url": "https://t.co/PXiBB5SkEn"
+              }
+            ]
+          }
+        },
+        "id": "1838620535804317696",
+        "location": "公共厕所",
+        "name": "蛞蝓神膜拜膜拜",
+        "pinned_tweet_id": "2075711625663836464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068374958074413056/lXNJV8S8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1261,
+          "following_count": 736,
+          "like_count": 911,
+          "listed_count": 0,
+          "media_count": 212,
+          "tweet_count": 2826
+        },
+        "url": "",
+        "username": "karmakarma1221",
+        "verified": false
+      }
+    ]
+  }
+}

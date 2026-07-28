@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2054616321661526427",
+    "created_at": "2026-05-13T19:31:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T20:31:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054645616387777005"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1958823376539262976",
+          "start": 0,
+          "username": "O7Uywn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054645616387777005",
+    "in_reply_to_user_id": "1958823376539262976",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054639545229218166",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@O7Uywn 哇那很好了🥹💗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2054616321661526427",
+        "created_at": "2026-05-13T19:31:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T20:31:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054645616387777005"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1958823376539262976",
+              "start": 0,
+              "username": "O7Uywn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054645616387777005",
+        "in_reply_to_user_id": "1958823376539262976",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054639545229218166",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@O7Uywn 哇那很好了🥹💗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1958823376539262976",
+        "conversation_id": "2054616321661526427",
+        "created_at": "2026-05-13T19:06:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T20:06:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054639545229218166"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1536716629505359872",
+              "start": 0,
+              "username": "cigsafterdrug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054639545229218166",
+        "in_reply_to_user_id": "1536716629505359872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054616321661526427",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cigsafterdrug 可以試試。我上回擱醫院走廊哭的時候一個小女孩給我塞了一大包衛生紙還安慰我，還擴列了v，我倆經常一起吐槽本地醫生。特別好玩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 413,
+          "following_count": 392,
+          "like_count": 25058,
+          "listed_count": 0,
+          "media_count": 124,
+          "tweet_count": 2099
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-22T09:27:52.000Z",
+        "description": "我別無選擇",
+        "id": "1958823376539262976",
+        "name": "柏林",
+        "pinned_tweet_id": "2025195682831958335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027540187262373888/Z2DjNUeO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 49,
+          "like_count": 844,
+          "listed_count": 0,
+          "media_count": 450,
+          "tweet_count": 2086
+        },
+        "username": "O7Uywn",
+        "verified": false
+      }
+    ]
+  }
+}

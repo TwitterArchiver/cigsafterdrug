@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2044487893088121165",
+    "created_at": "2026-04-15T19:29:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T20:29:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044498378483265556"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1965007054961291264",
+          "start": 0,
+          "username": "jadeinreality29"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044498378483265556",
+    "in_reply_to_user_id": "1965007054961291264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044492164256919659",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jadeinreality29 呃啊我现在也是摘了打算过几天看看能不能带回去"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2044487893088121165",
+        "created_at": "2026-04-15T19:29:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T20:29:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044498378483265556"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1965007054961291264",
+              "start": 0,
+              "username": "jadeinreality29"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044498378483265556",
+        "in_reply_to_user_id": "1965007054961291264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044492164256919659",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jadeinreality29 呃啊我现在也是摘了打算过几天看看能不能带回去"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965007054961291264",
+        "conversation_id": "2044487893088121165",
+        "created_at": "2026-04-15T19:04:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T20:04:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044492164256919659"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1536716629505359872",
+              "start": 0,
+              "username": "cigsafterdrug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044492164256919659",
+        "in_reply_to_user_id": "1536716629505359872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044487893088121165",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cigsafterdrug 哦不 我也是 耳骨老是发炎就摘掉了😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041169513899765761/LjaTiZha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 305,
+          "following_count": 324,
+          "like_count": 21321,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 1617
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-08T10:59:35.000Z",
+        "description": "od/ed/lgbt镇魂 我没有双亲你伤害不到我我们只是网友",
+        "id": "1965007054961291264",
+        "location": "07",
+        "name": "Jaded_dust",
+        "pinned_tweet_id": "2036017437943144921",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028567578642395136/QkvTu9RP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 102,
+          "like_count": 1586,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 390
+        },
+        "username": "jadeinreality29",
+        "verified": false
+      }
+    ]
+  }
+}

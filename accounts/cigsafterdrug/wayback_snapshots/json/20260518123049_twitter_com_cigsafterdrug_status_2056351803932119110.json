@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055869521932828672"
+      ],
+      "media_source_tweet_id": [
+        "2055869524310913369"
+      ]
+    },
+    "author_id": "1536716629505359872",
+    "conversation_id": "2056351803932119110",
+    "created_at": "2026-05-18T12:30:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T13:30:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056351803932119110"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2009320243076976647",
+          "start": 3,
+          "username": "reincxarnation"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RN8QtMN4tq",
+          "end": 47,
+          "expanded_url": "https://x.com/reincxarnation/status/2055869524310913369/photo/1",
+          "media_key": "3_2055869521932828672",
+          "start": 24,
+          "url": "https://t.co/RN8QtMN4tq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056351803932119110",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 262
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055869524310913369",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @reincxarnation: sfx https://t.co/RN8QtMN4tq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 513,
+        "media_key": "3_2055869521932828672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIfqcA9bwAAHQ7h.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055869521932828672"
+          ],
+          "media_source_tweet_id": [
+            "2055869524310913369"
+          ]
+        },
+        "author_id": "1536716629505359872",
+        "conversation_id": "2056351803932119110",
+        "created_at": "2026-05-18T12:30:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T13:30:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056351803932119110"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2009320243076976647",
+              "start": 3,
+              "username": "reincxarnation"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RN8QtMN4tq",
+              "end": 47,
+              "expanded_url": "https://x.com/reincxarnation/status/2055869524310913369/photo/1",
+              "media_key": "3_2055869521932828672",
+              "start": 24,
+              "url": "https://t.co/RN8QtMN4tq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056351803932119110",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 262
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055869524310913369",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @reincxarnation: sfx https://t.co/RN8QtMN4tq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055869521932828672"
+          ]
+        },
+        "author_id": "2009320243076976647",
+        "conversation_id": "2055869524310913369",
+        "created_at": "2026-05-17T04:34:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T05:34:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055869524310913369"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RN8QtMN4tq",
+              "end": 27,
+              "expanded_url": "https://x.com/reincxarnation/status/2055869524310913369/photo/1",
+              "media_key": "3_2055869521932828672",
+              "start": 4,
+              "url": "https://t.co/RN8QtMN4tq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055869524310913369",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 77,
+          "impression_count": 9170,
+          "like_count": 1901,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 262
+        },
+        "reply_settings": "everyone",
+        "text": "sfx https://t.co/RN8QtMN4tq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 419,
+          "following_count": 395,
+          "like_count": 25709,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 2163
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-08T17:44:19.000Z",
+        "description": "#shtwt @souviient",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 6,
+                "start": 0,
+                "tag": "shtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 17,
+                "start": 7,
+                "username": "souviient"
+              }
+            ]
+          }
+        },
+        "id": "2009320243076976647",
+        "location": "he/him",
+        "name": "reau",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056049304591314944/th-pfBqX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 64,
+          "like_count": 1060,
+          "listed_count": 2,
+          "media_count": 68,
+          "tweet_count": 472
+        },
+        "username": "reincxarnation",
+        "verified": false
+      }
+    ]
+  }
+}

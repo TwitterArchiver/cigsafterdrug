@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041792974221385728"
+      ]
+    },
+    "author_id": "1536716629505359872",
+    "conversation_id": "2041792980152136026",
+    "created_at": "2026-04-08T08:19:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T09:19:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041792980152136026"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/zfUqNIZ3H0",
+          "end": 28,
+          "expanded_url": "https://x.com/cigsafterdrug/status/2041792980152136026/photo/1",
+          "media_key": "3_2041792974221385728",
+          "start": 5,
+          "url": "https://t.co/zfUqNIZ3H0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041792980152136026",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "這也太帥 https://t.co/zfUqNIZ3H0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2041792974221385728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFXn5GVaoAAIQ46.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041792974221385728"
+          ]
+        },
+        "author_id": "1536716629505359872",
+        "conversation_id": "2041792980152136026",
+        "created_at": "2026-04-08T08:19:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T09:19:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041792980152136026"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zfUqNIZ3H0",
+              "end": 28,
+              "expanded_url": "https://x.com/cigsafterdrug/status/2041792980152136026/photo/1",
+              "media_key": "3_2041792974221385728",
+              "start": 5,
+              "url": "https://t.co/zfUqNIZ3H0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041792980152136026",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "這也太帥 https://t.co/zfUqNIZ3H0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041169513899765761/LjaTiZha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 299,
+          "following_count": 319,
+          "like_count": 20252,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 1448
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      }
+    ]
+  }
+}

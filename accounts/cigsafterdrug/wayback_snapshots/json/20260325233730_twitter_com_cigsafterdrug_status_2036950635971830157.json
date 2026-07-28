@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2036850044280996342",
+    "created_at": "2026-03-25T23:37:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T00:37:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036950635971830157"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1958823376539262976",
+          "start": 0,
+          "username": "O7Uywn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036950635971830157",
+    "in_reply_to_user_id": "1958823376539262976",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036891031267139870",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@O7Uywn 唉真的🥲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2036850044280996342",
+        "created_at": "2026-03-25T23:37:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T00:37:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036950635971830157"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1958823376539262976",
+              "start": 0,
+              "username": "O7Uywn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036950635971830157",
+        "in_reply_to_user_id": "1958823376539262976",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036891031267139870",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@O7Uywn 唉真的🥲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1958823376539262976",
+        "conversation_id": "2036850044280996342",
+        "created_at": "2026-03-25T19:40:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T20:40:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036891031267139870"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1536716629505359872",
+              "start": 0,
+              "username": "cigsafterdrug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036891031267139870",
+        "in_reply_to_user_id": "1536716629505359872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036850044280996342",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cigsafterdrug 這個時候真的很無力。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026943929120444416/QS8rXF5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 297,
+          "following_count": 315,
+          "like_count": 19186,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 1284
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-22T09:27:52.000Z",
+        "description": "我別無選擇",
+        "id": "1958823376539262976",
+        "name": "柏林",
+        "pinned_tweet_id": "2025195682831958335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027540187262373888/Z2DjNUeO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 46,
+          "like_count": 792,
+          "listed_count": 0,
+          "media_count": 401,
+          "tweet_count": 1895
+        },
+        "username": "O7Uywn",
+        "verified": false
+      }
+    ]
+  }
+}

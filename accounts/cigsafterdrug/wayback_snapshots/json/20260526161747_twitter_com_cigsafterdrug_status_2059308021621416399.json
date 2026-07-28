@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2059217769938526225",
+    "created_at": "2026-05-26T16:17:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T17:17:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059308021621416399"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2001675650994999296",
+          "start": 0,
+          "username": "Pluralitysubsys"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059308021621416399",
+    "in_reply_to_user_id": "2001675650994999296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059307111469977680",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Pluralitysubsys 演技深厚是这样的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 714,
+        "media_key": "3_2059307109414731777",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJQg58QaAAEh5f9.jpg",
+        "width": 714
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2059217769938526225",
+        "created_at": "2026-05-26T16:17:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T17:17:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059308021621416399"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2001675650994999296",
+              "start": 0,
+              "username": "Pluralitysubsys"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059308021621416399",
+        "in_reply_to_user_id": "2001675650994999296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059307111469977680",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Pluralitysubsys 演技深厚是这样的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059307109414731777"
+          ]
+        },
+        "author_id": "2001675650994999296",
+        "conversation_id": "2059217769938526225",
+        "created_at": "2026-05-26T16:14:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T17:14:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059307111469977680"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1536716629505359872",
+              "start": 0,
+              "username": "cigsafterdrug"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/V9RZDctWIw",
+              "end": 48,
+              "expanded_url": "https://x.com/Pluralitysubsys/status/2059307111469977680/photo/1",
+              "media_key": "3_2059307109414731777",
+              "start": 25,
+              "url": "https://t.co/V9RZDctWIw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059307111469977680",
+        "in_reply_to_user_id": "1536716629505359872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059217769938526225",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cigsafterdrug 贪玩他们也会相信吗 https://t.co/V9RZDctWIw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 430,
+          "following_count": 411,
+          "like_count": 26867,
+          "listed_count": 0,
+          "media_count": 131,
+          "tweet_count": 2286
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-18T15:27:35.000Z",
+        "description": "千夜系统的子系统 | 创造型 median（mesosian）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.psychonautwiki.org/wiki/Psychoact…",
+                "end": 23,
+                "expanded_url": "https://m.psychonautwiki.org/wiki/Psychoactive%20substance%20index",
+                "start": 0,
+                "url": "https://t.co/V27J0WGYKr"
+              }
+            ]
+          }
+        },
+        "id": "2001675650994999296",
+        "location": "全球最大的化工厂 A区第8期11栋0318室",
+        "name": "清梦与清云",
+        "pinned_tweet_id": "2059175171286819294",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054795902284656640/ZxBvmJNI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 87,
+          "like_count": 1119,
+          "listed_count": 0,
+          "media_count": 125,
+          "tweet_count": 1884
+        },
+        "url": "https://t.co/V27J0WGYKr",
+        "username": "Pluralitysubsys",
+        "verified": false
+      }
+    ]
+  }
+}

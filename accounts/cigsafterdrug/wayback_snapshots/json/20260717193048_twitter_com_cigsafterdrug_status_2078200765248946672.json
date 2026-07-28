@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2078054440012259687",
+    "created_at": "2026-07-17T19:30:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T20:30:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078200765248946672"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1982391146770022400",
+          "start": 0,
+          "username": "Naturyyy_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078200765248946672",
+    "in_reply_to_user_id": "1982391146770022400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078054440012259687",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Naturyyy_ 不是這樣的🫂🫂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2078054440012259687",
+        "created_at": "2026-07-17T19:30:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T20:30:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078200765248946672"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1982391146770022400",
+              "start": 0,
+              "username": "Naturyyy_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078200765248946672",
+        "in_reply_to_user_id": "1982391146770022400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078054440012259687",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Naturyyy_ 不是這樣的🫂🫂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1982391146770022400",
+        "conversation_id": "2078054440012259687",
+        "created_at": "2026-07-17T09:49:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T10:49:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078054440012259687"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078054440012259687",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的好糟糕"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2070816356862431619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 521,
+          "following_count": 468,
+          "like_count": 31245,
+          "listed_count": 0,
+          "media_count": 198,
+          "tweet_count": 3072
+        },
+        "url": "",
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-26T10:17:50.000Z",
+        "description": "什麼時候可以去死",
+        "id": "1982391146770022400",
+        "name": "米亞塔",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072365505936297984/39G6LN6v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 23,
+          "like_count": 762,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 96
+        },
+        "url": "",
+        "username": "Naturyyy_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2072438643852292550",
+    "created_at": "2026-07-01T21:54:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T22:54:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072438643852292550"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1882823505336750080",
+          "start": 3,
+          "username": "huiseliuye"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072438643852292550",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 29
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072266195408199987",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @huiseliuye: 一个完美的男人就应该od割腕有心理疾病"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2072438643852292550",
+        "created_at": "2026-07-01T21:54:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T22:54:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072438643852292550"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1882823505336750080",
+              "start": 3,
+              "username": "huiseliuye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072438643852292550",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 29
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072266195408199987",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @huiseliuye: 一个完美的男人就应该od割腕有心理疾病"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882823505336750080",
+        "conversation_id": "2072266195408199987",
+        "created_at": "2026-07-01T10:28:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T11:28:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072266195408199987"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072266195408199987",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 6129,
+          "like_count": 193,
+          "quote_count": 5,
+          "reply_count": 26,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "一个完美的男人就应该od割腕有心理疾病"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2070816356862431619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 504,
+          "following_count": 457,
+          "like_count": 29488,
+          "listed_count": 0,
+          "media_count": 179,
+          "tweet_count": 2902
+        },
+        "url": "",
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-24T16:11:30.000Z",
+        "description": "我呢是一位好评率100%的客服呀\n温良呆萌善良的小猪猪一枚呀\n一个比心兔兔回关",
+        "id": "1882823505336750080",
+        "location": "服了还要天天给你们这群猪支教",
+        "name": "客服萌萌猪。",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038166012840001536/sI7fZzsN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1128,
+          "following_count": 86,
+          "like_count": 24453,
+          "listed_count": 4,
+          "media_count": 285,
+          "tweet_count": 2857
+        },
+        "url": "",
+        "username": "huiseliuye",
+        "verified": false
+      }
+    ]
+  }
+}

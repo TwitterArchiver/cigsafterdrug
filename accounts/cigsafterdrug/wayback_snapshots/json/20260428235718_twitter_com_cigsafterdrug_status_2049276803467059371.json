@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2049125169692840151",
+    "created_at": "2026-04-28T23:57:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T00:57:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049276803467059371"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2033500865362112512",
+          "start": 0,
+          "username": "Loved_Nemesis"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049276803467059371",
+    "in_reply_to_user_id": "2033500865362112512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049260302022377528",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Loved_Nemesis 他这句哥感觉特别晶格…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2049125169692840151",
+        "created_at": "2026-04-28T23:57:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T00:57:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049276803467059371"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2033500865362112512",
+              "start": 0,
+              "username": "Loved_Nemesis"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049276803467059371",
+        "in_reply_to_user_id": "2033500865362112512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049260302022377528",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Loved_Nemesis 他这句哥感觉特别晶格…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033500865362112512",
+        "conversation_id": "2049125169692840151",
+        "created_at": "2026-04-28T22:51:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T23:51:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049260302022377528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1536716629505359872",
+              "start": 0,
+              "username": "cigsafterdrug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049260302022377528",
+        "in_reply_to_user_id": "1536716629505359872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049125169692840151",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cigsafterdrug 看着像傻逼条子🙄"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 351,
+          "following_count": 363,
+          "like_count": 23228,
+          "listed_count": 0,
+          "media_count": 113,
+          "tweet_count": 1853
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-16T11:09:53.000Z",
+        "description": "𝑵𝒐𝒕𝒉𝒊𝒏𝒈 𝒉𝒆𝒓𝒆 𝒘𝒂𝒔 𝒎𝒆𝒂𝒏𝒕 𝒕𝒐 𝒑𝒆𝒓𝒔𝒊𝒔𝒕",
+        "id": "2033500865362112512",
+        "location": "Last Thoughts",
+        "name": "𝒩ℯ𝓂ℯ𝓈𝒾𝓈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034105172000182277/QepbVCs1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 39,
+          "like_count": 383,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 229
+        },
+        "username": "Loved_Nemesis",
+        "verified": false
+      }
+    ]
+  }
+}

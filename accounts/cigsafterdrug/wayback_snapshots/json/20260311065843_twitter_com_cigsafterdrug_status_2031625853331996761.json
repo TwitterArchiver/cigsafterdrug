@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2030979736206541105",
+    "created_at": "2026-03-11T06:58:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-11T07:58:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031625853331996761"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1675334984931098631",
+          "start": 0,
+          "username": "qwq_7obii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031625853331996761",
+    "in_reply_to_user_id": "1675334984931098631",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031624712728568168",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qwq_7obii os我也好想跟你互关"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2030979736206541105",
+        "created_at": "2026-03-11T06:58:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T07:58:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031625853331996761"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1675334984931098631",
+              "start": 0,
+              "username": "qwq_7obii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031625853331996761",
+        "in_reply_to_user_id": "1675334984931098631",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031624712728568168",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qwq_7obii os我也好想跟你互关"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1675334984931098631",
+        "conversation_id": "2030979736206541105",
+        "created_at": "2026-03-11T06:54:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T07:54:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031624712728568168"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1536716629505359872",
+              "start": 0,
+              "username": "cigsafterdrug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031624712728568168",
+        "in_reply_to_user_id": "1536716629505359872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030979736206541105",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cigsafterdrug os好想互关"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026943929120444416/QS8rXF5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238,
+          "following_count": 263,
+          "like_count": 17788,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 913
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-02T02:46:12.000Z",
+        "description": "痛痛痛痛痛痛痛痛痛痛痛#le",
+        "id": "1675334984931098631",
+        "location": "我的心为恐惧和欲望而跳动 ",
+        "name": "薄荷纸",
+        "pinned_tweet_id": "2004906415077704133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004202596178026496/7TJWH9fA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 353,
+          "following_count": 73,
+          "like_count": 412,
+          "listed_count": 1,
+          "media_count": 102,
+          "tweet_count": 799
+        },
+        "username": "qwq_7obii",
+        "verified": false
+      }
+    ]
+  }
+}

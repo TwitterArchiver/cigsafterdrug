@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2054611384156262468",
+    "created_at": "2026-05-13T17:15:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T18:15:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054611384156262468"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1472219833261772801",
+          "start": 3,
+          "username": "xxx_jjkk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054611384156262468",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054461692776796513",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xxx_jjkk: 其实我不想死 如果有机会我很羡慕正常人的生活 我羡慕他们有持久的友谊 有能维护的人际关系 有被关爱的家庭 有好好生活的动力 还有人生的目标 体验到的情感与乐趣\n而我只能感觉到无法磨灭的恨意 空虚 折磨和疲倦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2054611384156262468",
+        "created_at": "2026-05-13T17:15:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T18:15:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054611384156262468"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1472219833261772801",
+              "start": 3,
+              "username": "xxx_jjkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054611384156262468",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054461692776796513",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xxx_jjkk: 其实我不想死 如果有机会我很羡慕正常人的生活 我羡慕他们有持久的友谊 有能维护的人际关系 有被关爱的家庭 有好好生活的动力 还有人生的目标 体验到的情感与乐趣\n而我只能感觉到无法磨灭的恨意 空虚 折磨和疲倦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1472219833261772801",
+        "conversation_id": "2054461692776796513",
+        "created_at": "2026-05-13T07:20:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T08:20:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054461692776796513"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054461692776796513",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1835,
+          "like_count": 101,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "其实我不想死 如果有机会我很羡慕正常人的生活 我羡慕他们有持久的友谊 有能维护的人际关系 有被关爱的家庭 有好好生活的动力 还有人生的目标 体验到的情感与乐趣\n而我只能感觉到无法磨灭的恨意 空虚 折磨和疲倦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 412,
+          "following_count": 390,
+          "like_count": 24962,
+          "listed_count": 0,
+          "media_count": 124,
+          "tweet_count": 2090
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-18T14:59:07.000Z",
+        "description": "我把一生都存进这小小的屏幕里\n当我离去\n这里至少还留有我曾活过的痕迹\n@yn_xxxjkjk 2.0备份一下互关",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 35,
+                "username": "yn_xxxjkjk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xxxynyn",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xxxynyn",
+                "start": 0,
+                "url": "https://t.co/yz1Ew7xhf4"
+              }
+            ]
+          }
+        },
+        "id": "1472219833261772801",
+        "name": "旖旎",
+        "pinned_tweet_id": "2045469984315658626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035262095277862912/s0vuE8mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1223,
+          "following_count": 493,
+          "like_count": 13270,
+          "listed_count": 1,
+          "media_count": 106,
+          "tweet_count": 1917
+        },
+        "url": "https://t.co/yz1Ew7xhf4",
+        "username": "xxx_jjkk",
+        "verified": false
+      }
+    ]
+  }
+}

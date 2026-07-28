@@ -1,0 +1,655 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048759029032476672",
+        "3_2048759029024075776",
+        "3_2048759029053460480",
+        "3_2048759029049294848"
+      ],
+      "media_source_tweet_id": [
+        "2048759840185663615",
+        "2048759840185663615",
+        "2048759840185663615",
+        "2048759840185663615"
+      ]
+    },
+    "author_id": "1536716629505359872",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10034633749",
+          "name": "COUNT DOWN TV (CDTV)"
+        }
+      },
+      {
+        "domain": {
+          "description": "Television Show Genres",
+          "id": "22",
+          "name": "TV Genres"
+        },
+        "entity": {
+          "id": "1293278449495203840",
+          "name": "Music TV"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Television",
+          "id": "1072937043393560576",
+          "name": "Television"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1276514328007467008",
+          "name": "Movies & TV"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1293278449495203840",
+          "name": "Music TV"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1293300990947467264",
+          "name": "COUNT DOWN TV"
+        }
+      },
+      {
+        "domain": {
+          "description": "For global/conceptual TV shows without localization.",
+          "id": "172",
+          "name": "Global TV Show"
+        },
+        "entity": {
+          "id": "1293300990947467264",
+          "name": "COUNT DOWN TV"
+        }
+      }
+    ],
+    "conversation_id": "2048793103705030802",
+    "created_at": "2026-04-27T15:55:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T16:55:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048793103705030802"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1685124498",
+          "start": 3,
+          "username": "aNo2mass"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jBh1bw7Jiv",
+          "end": 52,
+          "expanded_url": "https://x.com/aNo2mass/status/2048759840185663615/photo/1",
+          "media_key": "3_2048759029032476672",
+          "start": 29,
+          "url": "https://t.co/jBh1bw7Jiv"
+        },
+        {
+          "display_url": "pic.x.com/jBh1bw7Jiv",
+          "end": 52,
+          "expanded_url": "https://x.com/aNo2mass/status/2048759840185663615/photo/1",
+          "media_key": "3_2048759029024075776",
+          "start": 29,
+          "url": "https://t.co/jBh1bw7Jiv"
+        },
+        {
+          "display_url": "pic.x.com/jBh1bw7Jiv",
+          "end": 52,
+          "expanded_url": "https://x.com/aNo2mass/status/2048759840185663615/photo/1",
+          "media_key": "3_2048759029053460480",
+          "start": 29,
+          "url": "https://t.co/jBh1bw7Jiv"
+        },
+        {
+          "display_url": "pic.x.com/jBh1bw7Jiv",
+          "end": 52,
+          "expanded_url": "https://x.com/aNo2mass/status/2048759840185663615/photo/1",
+          "media_key": "3_2048759029049294848",
+          "start": 29,
+          "url": "https://t.co/jBh1bw7Jiv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048793103705030802",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 643
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048759840185663615",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aNo2mass: デジカメ360度📸　CDTV https://t.co/jBh1bw7Jiv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2048759029032476672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG6ne2va4AAS3to.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2048759029024075776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG6ne2tasAANCtI.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2048759029053460480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG6ne20bEAA8btk.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2048759029049294848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG6ne2zbgAA3Tm4.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048759029032476672",
+            "3_2048759029024075776",
+            "3_2048759029053460480",
+            "3_2048759029049294848"
+          ],
+          "media_source_tweet_id": [
+            "2048759840185663615",
+            "2048759840185663615",
+            "2048759840185663615",
+            "2048759840185663615"
+          ]
+        },
+        "author_id": "1536716629505359872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10034633749",
+              "name": "COUNT DOWN TV (CDTV)"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television Show Genres",
+              "id": "22",
+              "name": "TV Genres"
+            },
+            "entity": {
+              "id": "1293278449495203840",
+              "name": "Music TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Television",
+              "id": "1072937043393560576",
+              "name": "Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1276514328007467008",
+              "name": "Movies & TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293278449495203840",
+              "name": "Music TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293300990947467264",
+              "name": "COUNT DOWN TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "For global/conceptual TV shows without localization.",
+              "id": "172",
+              "name": "Global TV Show"
+            },
+            "entity": {
+              "id": "1293300990947467264",
+              "name": "COUNT DOWN TV"
+            }
+          }
+        ],
+        "conversation_id": "2048793103705030802",
+        "created_at": "2026-04-27T15:55:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T16:55:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048793103705030802"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1685124498",
+              "start": 3,
+              "username": "aNo2mass"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jBh1bw7Jiv",
+              "end": 52,
+              "expanded_url": "https://x.com/aNo2mass/status/2048759840185663615/photo/1",
+              "media_key": "3_2048759029032476672",
+              "start": 29,
+              "url": "https://t.co/jBh1bw7Jiv"
+            },
+            {
+              "display_url": "pic.x.com/jBh1bw7Jiv",
+              "end": 52,
+              "expanded_url": "https://x.com/aNo2mass/status/2048759840185663615/photo/1",
+              "media_key": "3_2048759029024075776",
+              "start": 29,
+              "url": "https://t.co/jBh1bw7Jiv"
+            },
+            {
+              "display_url": "pic.x.com/jBh1bw7Jiv",
+              "end": 52,
+              "expanded_url": "https://x.com/aNo2mass/status/2048759840185663615/photo/1",
+              "media_key": "3_2048759029053460480",
+              "start": 29,
+              "url": "https://t.co/jBh1bw7Jiv"
+            },
+            {
+              "display_url": "pic.x.com/jBh1bw7Jiv",
+              "end": 52,
+              "expanded_url": "https://x.com/aNo2mass/status/2048759840185663615/photo/1",
+              "media_key": "3_2048759029049294848",
+              "start": 29,
+              "url": "https://t.co/jBh1bw7Jiv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048793103705030802",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 643
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048759840185663615",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aNo2mass: デジカメ360度📸　CDTV https://t.co/jBh1bw7Jiv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048759029032476672",
+            "3_2048759029024075776",
+            "3_2048759029053460480",
+            "3_2048759029049294848"
+          ]
+        },
+        "author_id": "1685124498",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10034633749",
+              "name": "COUNT DOWN TV (CDTV)"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television Show Genres",
+              "id": "22",
+              "name": "TV Genres"
+            },
+            "entity": {
+              "id": "1293278449495203840",
+              "name": "Music TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Television",
+              "id": "1072937043393560576",
+              "name": "Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1276514328007467008",
+              "name": "Movies & TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293278449495203840",
+              "name": "Music TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293300990947467264",
+              "name": "COUNT DOWN TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "For global/conceptual TV shows without localization.",
+              "id": "172",
+              "name": "Global TV Show"
+            },
+            "entity": {
+              "id": "1293300990947467264",
+              "name": "COUNT DOWN TV"
+            }
+          }
+        ],
+        "conversation_id": "2048759840185663615",
+        "created_at": "2026-04-27T13:43:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T14:39:53.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048759040344568162",
+          "2048759840185663615"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jBh1bw7Jiv",
+              "end": 38,
+              "expanded_url": "https://x.com/aNo2mass/status/2048759840185663615/photo/1",
+              "media_key": "3_2048759029032476672",
+              "start": 15,
+              "url": "https://t.co/jBh1bw7Jiv"
+            },
+            {
+              "display_url": "pic.x.com/jBh1bw7Jiv",
+              "end": 38,
+              "expanded_url": "https://x.com/aNo2mass/status/2048759840185663615/photo/1",
+              "media_key": "3_2048759029024075776",
+              "start": 15,
+              "url": "https://t.co/jBh1bw7Jiv"
+            },
+            {
+              "display_url": "pic.x.com/jBh1bw7Jiv",
+              "end": 38,
+              "expanded_url": "https://x.com/aNo2mass/status/2048759840185663615/photo/1",
+              "media_key": "3_2048759029053460480",
+              "start": 15,
+              "url": "https://t.co/jBh1bw7Jiv"
+            },
+            {
+              "display_url": "pic.x.com/jBh1bw7Jiv",
+              "end": 38,
+              "expanded_url": "https://x.com/aNo2mass/status/2048759840185663615/photo/1",
+              "media_key": "3_2048759029049294848",
+              "start": 15,
+              "url": "https://t.co/jBh1bw7Jiv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048759840185663615",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 439,
+          "impression_count": 151143,
+          "like_count": 9854,
+          "quote_count": 80,
+          "reply_count": 171,
+          "retweet_count": 643
+        },
+        "reply_settings": "everyone",
+        "text": "デジカメ360度📸　CDTV https://t.co/jBh1bw7Jiv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 343,
+          "following_count": 356,
+          "like_count": 22968,
+          "listed_count": 0,
+          "media_count": 110,
+          "tweet_count": 1835
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2013-08-20T07:40:12.000Z",
+        "description": "あのです。本物。https://t.co/makH5KeR3O ✟ https://t.co/7Yq6aam8wJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "hell-blau.com",
+                "end": 31,
+                "expanded_url": "https://hell-blau.com",
+                "start": 8,
+                "url": "https://t.co/makH5KeR3O"
+              },
+              {
+                "display_url": "ano-official.com",
+                "end": 57,
+                "expanded_url": "https://ano-official.com",
+                "start": 34,
+                "url": "https://t.co/7Yq6aam8wJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/a_n_o2mass/",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/a_n_o2mass/",
+                "start": 0,
+                "url": "https://t.co/L9ro8hNmEF"
+              }
+            ]
+          }
+        },
+        "id": "1685124498",
+        "location": "必然　",
+        "name": "あの",
+        "pinned_tweet_id": "1696504578605482008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757773313215279104/2_qsCT2n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1292843,
+          "following_count": 328,
+          "like_count": 17616,
+          "listed_count": 4109,
+          "media_count": 2417,
+          "tweet_count": 6689
+        },
+        "url": "https://t.co/L9ro8hNmEF",
+        "username": "aNo2mass",
+        "verified": true
+      }
+    ]
+  }
+}

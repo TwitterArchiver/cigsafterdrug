@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2075859531339555081",
+    "created_at": "2026-07-11T08:34:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T09:34:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075861257895432571"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1873501865113178112",
+          "start": 0,
+          "username": "liu68435"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075861257895432571",
+    "in_reply_to_user_id": "1873501865113178112",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075860224687456548",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liu68435 🫂🫂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2075859531339555081",
+        "created_at": "2026-07-11T08:34:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T09:34:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075861257895432571"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1873501865113178112",
+              "start": 0,
+              "username": "liu68435"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075861257895432571",
+        "in_reply_to_user_id": "1873501865113178112",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075860224687456548",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liu68435 🫂🫂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1873501865113178112",
+        "conversation_id": "2075859531339555081",
+        "created_at": "2026-07-11T08:30:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T09:30:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075860224687456548"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1536716629505359872",
+              "start": 0,
+              "username": "cigsafterdrug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075860224687456548",
+        "in_reply_to_user_id": "1536716629505359872",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075859531339555081",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cigsafterdrug 不会哒(*^▽^*)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2070816356862431619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 515,
+          "following_count": 466,
+          "like_count": 30577,
+          "listed_count": 0,
+          "media_count": 192,
+          "tweet_count": 3013
+        },
+        "url": "",
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-29T22:50:45.000Z",
+        "description": "希望认识各种各样的人，全群体欢迎(=・ω・=)，都会回fo的，没有的话可以私信我，欢迎聊天，|ω・）\\\\日本語勉強中、DM○，フォロバ100%",
+        "id": "1873501865113178112",
+        "name": "真白熙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003963434812190720/Z2iu7Ir8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 690,
+          "like_count": 10080,
+          "listed_count": 3,
+          "media_count": 12,
+          "tweet_count": 426
+        },
+        "url": "",
+        "username": "liu68435",
+        "verified": false
+      }
+    ]
+  }
+}

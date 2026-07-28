@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2034575686632190463",
+    "created_at": "2026-03-19T12:38:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T13:38:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034610582951973257"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1902217890738401281",
+          "start": 0,
+          "username": "SylwiaY7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034610582951973257",
+    "in_reply_to_user_id": "1902217890738401281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034609620942250428",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SylwiaY7 （唉我现在有点晕打字有点怪！）唉现在多了人注意ed 有时候会害怕被人说催吐包 口臭 什么的 求求用正常温和的态度对待我吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2034575686632190463",
+        "created_at": "2026-03-19T12:38:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T13:38:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034610582951973257"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1902217890738401281",
+              "start": 0,
+              "username": "SylwiaY7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034610582951973257",
+        "in_reply_to_user_id": "1902217890738401281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034609620942250428",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SylwiaY7 （唉我现在有点晕打字有点怪！）唉现在多了人注意ed 有时候会害怕被人说催吐包 口臭 什么的 求求用正常温和的态度对待我吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902217890738401281",
+        "conversation_id": "2034575686632190463",
+        "created_at": "2026-03-19T12:35:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T13:35:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034609620942250428"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1536716629505359872",
+              "start": 0,
+              "username": "cigsafterdrug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034609620942250428",
+        "in_reply_to_user_id": "1536716629505359872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034600307314053246",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cigsafterdrug 是的🙂‍↕️还要担心胃会不会出毛病导致口臭什么的 毕竟本来就是为了形象减肥 有口臭了肯定得不偿失"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026943929120444416/QS8rXF5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 279,
+          "following_count": 294,
+          "like_count": 18571,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 1114
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-19T04:38:16.000Z",
+        "description": "",
+        "id": "1902217890738401281",
+        "name": "Sylwia",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023853936030216193/teTeCxB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 10,
+          "like_count": 54,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 87
+        },
+        "username": "SylwiaY7",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2080266315663601786",
+    "created_at": "2026-07-24T10:08:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T11:08:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080595859906162916"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1767122266414882816",
+          "start": 0,
+          "username": "shu_fan0228"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080595859906162916",
+    "in_reply_to_user_id": "1767122266414882816",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080266315663601786",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shu_fan0228 好帅好美啊😇"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2080266275205287936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN6XJ9PWEAAv7XN.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2080266275201187840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN6XJ9OXgAA5ZZQ.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2080266275205316608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN6XJ9PWgAA_4AC.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2080266275209551872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN6XJ9QXIAAdojj.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2080266315663601786",
+        "created_at": "2026-07-24T10:08:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T11:08:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080595859906162916"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1767122266414882816",
+              "start": 0,
+              "username": "shu_fan0228"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080595859906162916",
+        "in_reply_to_user_id": "1767122266414882816",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080266315663601786",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shu_fan0228 好帅好美啊😇"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080266275205287936",
+            "3_2080266275201187840",
+            "3_2080266275205316608",
+            "3_2080266275209551872"
+          ]
+        },
+        "author_id": "1767122266414882816",
+        "conversation_id": "2080266315663601786",
+        "created_at": "2026-07-23T12:18:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T13:18:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080266315663601786"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qJxZvHzhfI",
+              "end": 49,
+              "expanded_url": "https://x.com/shu_fan0228/status/2080266315663601786/photo/1",
+              "media_key": "3_2080266275205287936",
+              "start": 26,
+              "url": "https://t.co/qJxZvHzhfI"
+            },
+            {
+              "display_url": "pic.x.com/qJxZvHzhfI",
+              "end": 49,
+              "expanded_url": "https://x.com/shu_fan0228/status/2080266315663601786/photo/1",
+              "media_key": "3_2080266275201187840",
+              "start": 26,
+              "url": "https://t.co/qJxZvHzhfI"
+            },
+            {
+              "display_url": "pic.x.com/qJxZvHzhfI",
+              "end": 49,
+              "expanded_url": "https://x.com/shu_fan0228/status/2080266315663601786/photo/1",
+              "media_key": "3_2080266275205316608",
+              "start": 26,
+              "url": "https://t.co/qJxZvHzhfI"
+            },
+            {
+              "display_url": "pic.x.com/qJxZvHzhfI",
+              "end": 49,
+              "expanded_url": "https://x.com/shu_fan0228/status/2080266315663601786/photo/1",
+              "media_key": "3_2080266275209551872",
+              "start": 26,
+              "url": "https://t.co/qJxZvHzhfI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080266315663601786",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3755,
+          "like_count": 122,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "不过我要先发点照片。我将多多使用面部油彩，好东西呀 https://t.co/qJxZvHzhfI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2070816356862431619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 521,
+          "following_count": 472,
+          "like_count": 31646,
+          "listed_count": 0,
+          "media_count": 209,
+          "tweet_count": 3138
+        },
+        "url": "",
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-11T09:36:16.000Z",
+        "description": "一个幸福的旋转的白痴神棍",
+        "id": "1767122266414882816",
+        "name": "临死前最后一顿饭要吃什么好？",
+        "pinned_tweet_id": "2071318336601030813",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925656856036352000/NJqr_bws_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2274,
+          "following_count": 165,
+          "like_count": 3412,
+          "listed_count": 3,
+          "media_count": 748,
+          "tweet_count": 4531
+        },
+        "url": "",
+        "username": "shu_fan0228",
+        "verified": false
+      }
+    ]
+  }
+}

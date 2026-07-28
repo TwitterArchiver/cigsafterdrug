@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2066859376330289397",
+    "created_at": "2026-06-16T12:24:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T13:24:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066859376330289397"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1783930046329266176",
+          "start": 3,
+          "username": "padusaviummiler"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066859376330289397",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066497349262639180",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @padusaviummiler: 组织不好语言表达不出来有点难受"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2066859376330289397",
+        "created_at": "2026-06-16T12:24:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T13:24:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066859376330289397"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1783930046329266176",
+              "start": 3,
+              "username": "padusaviummiler"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066859376330289397",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066497349262639180",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @padusaviummiler: 组织不好语言表达不出来有点难受"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1783930046329266176",
+        "conversation_id": "2066497349262639180",
+        "created_at": "2026-06-15T12:25:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T13:25:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066497349262639180"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066497349262639180",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 247,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "组织不好语言表达不出来有点难受"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 491,
+          "following_count": 436,
+          "like_count": 29027,
+          "listed_count": 0,
+          "media_count": 163,
+          "tweet_count": 2749
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-26T18:44:15.000Z",
+        "description": "我在你生命中的位置太蘑菇了",
+        "id": "1783930046329266176",
+        "location": "那雾汽从不跨越河畔的围栏",
+        "name": "🍄",
+        "pinned_tweet_id": "1853657790839165353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047621643573542913/YkjG14s6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 435,
+          "following_count": 709,
+          "like_count": 13289,
+          "listed_count": 2,
+          "media_count": 546,
+          "tweet_count": 5465
+        },
+        "username": "padusaviummiler",
+        "verified": false
+      }
+    ]
+  }
+}

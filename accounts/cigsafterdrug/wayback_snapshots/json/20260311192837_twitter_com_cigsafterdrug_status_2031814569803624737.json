@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2031748974470951095",
+    "created_at": "2026-03-11T19:28:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-11T20:28:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031814569803624737"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1245894083744157696",
+          "start": 0,
+          "username": "youngrowithug"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031814569803624737",
+    "in_reply_to_user_id": "1245894083744157696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031805454784012490",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@youngrowithug 哇啊 不敢大剂量吃了 主要是之前吃了不多但是联用 给送进医院了 我也不知道我上限多少"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2031748974470951095",
+        "created_at": "2026-03-11T19:28:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T20:28:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031814569803624737"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1245894083744157696",
+              "start": 0,
+              "username": "youngrowithug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031814569803624737",
+        "in_reply_to_user_id": "1245894083744157696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031805454784012490",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youngrowithug 哇啊 不敢大剂量吃了 主要是之前吃了不多但是联用 给送进医院了 我也不知道我上限多少"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1245894083744157696",
+        "conversation_id": "2031748974470951095",
+        "created_at": "2026-03-11T18:52:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T19:52:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031805454784012490"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1536716629505359872",
+              "start": 0,
+              "username": "cigsafterdrug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031805454784012490",
+        "in_reply_to_user_id": "1536716629505359872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031748974470951095",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cigsafterdrug 我第一次吃了一板感觉效果也不太强 后来加大剂量才好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026943929120444416/QS8rXF5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 267,
+          "following_count": 276,
+          "like_count": 17930,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 979
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-03T02:01:24.000Z",
+        "description": "07直/性别男/infj/目前在上大学/对所有人都很友善/特别喜欢听音乐 来一起交流吧/平时会发一些日常和废话/欢迎来互fo哦",
+        "id": "1245894083744157696",
+        "location": "妈妈子宫外的世界太残酷了",
+        "name": "youngrowithug",
+        "pinned_tweet_id": "2030387717809562104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029420462070259712/AMDvWOtO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 219,
+          "like_count": 306,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 168
+        },
+        "username": "youngrowithug",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,471 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2065805385949159578",
+    "created_at": "2026-06-13T16:12:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T17:12:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065829793149640853"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2053707183427366912",
+          "start": 0,
+          "username": "meyu_121"
+        },
+        {
+          "end": 26,
+          "id": "1874458926558961664",
+          "start": 10,
+          "username": "DaiianaVez69773"
+        },
+        {
+          "end": 38,
+          "id": "2044436921477197824",
+          "start": 27,
+          "username": "LongMa0305"
+        },
+        {
+          "end": 54,
+          "id": "2020935362386984964",
+          "start": 39,
+          "username": "XuanYing114514"
+        },
+        {
+          "end": 65,
+          "id": "1324780748298096640",
+          "start": 55,
+          "username": "N00NEFR0G"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065829793149640853",
+    "in_reply_to_user_id": "2053707183427366912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065805385949159578",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@meyu_121 @DaiianaVez69773 @LongMa0305 @XuanYing114514 @N00NEFR0G 媽媽"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 807,
+        "media_key": "3_2065805382795034624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKs3DPCWgAA5W7c.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2065805385949159578",
+        "created_at": "2026-06-13T16:12:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T17:12:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065829793149640853"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2053707183427366912",
+              "start": 0,
+              "username": "meyu_121"
+            },
+            {
+              "end": 26,
+              "id": "1874458926558961664",
+              "start": 10,
+              "username": "DaiianaVez69773"
+            },
+            {
+              "end": 38,
+              "id": "2044436921477197824",
+              "start": 27,
+              "username": "LongMa0305"
+            },
+            {
+              "end": 54,
+              "id": "2020935362386984964",
+              "start": 39,
+              "username": "XuanYing114514"
+            },
+            {
+              "end": 65,
+              "id": "1324780748298096640",
+              "start": 55,
+              "username": "N00NEFR0G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065829793149640853",
+        "in_reply_to_user_id": "2053707183427366912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065805385949159578",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meyu_121 @DaiianaVez69773 @LongMa0305 @XuanYing114514 @N00NEFR0G 媽媽"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065805382795034624"
+          ]
+        },
+        "author_id": "2053707183427366912",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2065805385949159578",
+        "created_at": "2026-06-13T14:35:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T15:35:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065805385949159578"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 54,
+              "id": "1874458926558961664",
+              "start": 38,
+              "username": "DaiianaVez69773"
+            },
+            {
+              "end": 66,
+              "id": "2044436921477197824",
+              "start": 55,
+              "username": "LongMa0305"
+            },
+            {
+              "end": 92,
+              "id": "2020935362386984964",
+              "start": 77,
+              "username": "XuanYing114514"
+            },
+            {
+              "end": 119,
+              "id": "1536716629505359872",
+              "start": 105,
+              "username": "cigsafterdrug"
+            },
+            {
+              "end": 130,
+              "id": "1324780748298096640",
+              "start": 120,
+              "username": "N00NEFR0G"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Meet your Twitter family: parents, spouse, and children! 🌳 This fun feature uses a secret algorithm to predict your closest Twitter connections, representing your parents, spouse, and children 👨‍👩‍👧‍👦",
+              "display_url": "infinitetweet.me/family-tree",
+              "end": 158,
+              "expanded_url": "https://infinitetweet.me/family-tree",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2063924582226997248/EC8yn-Pk?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2063924582226997248/EC8yn-Pk?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 135,
+              "status": 200,
+              "title": "Family Tree • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/family-tree",
+              "url": "https://t.co/ERfG9W9X0W"
+            },
+            {
+              "display_url": "pic.x.com/IXnti9ikxQ",
+              "end": 182,
+              "expanded_url": "https://x.com/meyu_121/status/2065805385949159578/photo/1",
+              "media_key": "3_2065805382795034624",
+              "start": 159,
+              "url": "https://t.co/IXnti9ikxQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065805385949159578",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 150,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "👨‍👩‍👧‍👦 My Twitter Family:\n👫 Parents: @DaiianaVez69773 @LongMa0305\n👰 Spouse: @XuanYing114514\n👶 Children: @cigsafterdrug @N00NEFR0G\n\n➡️ https://t.co/ERfG9W9X0W https://t.co/IXnti9ikxQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 474,
+          "following_count": 425,
+          "like_count": 28631,
+          "listed_count": 0,
+          "media_count": 152,
+          "tweet_count": 2611
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-11T05:22:11.000Z",
+        "description": "yume🇭🇰∥健全人fol我死那个∥神聖かまってちゃん 李志 beyond∥愛人 @xuanying114514\n∥rip @Yume_121_\n@Yume_121_3",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 41,
+                "username": "xuanying114514"
+              },
+              {
+                "end": 72,
+                "start": 62,
+                "username": "Yume_121_"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "Yume_121_3"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@yume121_kawa?…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@yume121_kawa?si=Kvl_r-M9N3u6C4DA",
+                "start": 0,
+                "url": "https://t.co/uYCcZZSV0n"
+              }
+            ]
+          }
+        },
+        "id": "2053707183427366912",
+        "location": "まいちゃん全部ゆめ",
+        "name": "Yumeかまってちゃん🎸",
+        "pinned_tweet_id": "2053715766537814126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065306748194631680/YoHLf35n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 170,
+          "like_count": 318,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 292
+        },
+        "url": "https://t.co/uYCcZZSV0n",
+        "username": "meyu_121",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-01T14:14:55.000Z",
+        "description": "08 infj-t 双相情感障碍、重度焦虑、精神分裂 服药治疗中，不良嗜好od吸烟割手\n音乐  jrock/噪音/盯鞋/黑金残死旋死血碾等金属/ボカロ/jpop/emocore/地下udg \n是个九年二次元小资历  喜欢cult片， 拉康派精神分析/不想有哲学门派倾向，大体上是悲观理性  会回fo喜欢的人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ouoshizego",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ouoshizego",
+                "start": 0,
+                "url": "https://t.co/EAnsMRl5JL"
+              }
+            ]
+          }
+        },
+        "id": "1874458926558961664",
+        "location": "ぺんてるに行きました",
+        "name": "矢澤源義かまってちゃん🔋🎸",
+        "pinned_tweet_id": "2059308590339678354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908777584210714625/L-fqHbRN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 327,
+          "following_count": 266,
+          "like_count": 14766,
+          "listed_count": 1,
+          "media_count": 167,
+          "tweet_count": 1366
+        },
+        "url": "https://t.co/EAnsMRl5JL",
+        "username": "DaiianaVez69773",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-15T15:25:32.000Z",
+        "description": "愛されたい",
+        "id": "2044436921477197824",
+        "name": "马卡龙先生（マカロン先生）",
+        "pinned_tweet_id": "2056785821886456288",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044437112662155265/qcQmvn27_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 67,
+          "like_count": 678,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 1627
+        },
+        "username": "LongMa0305",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-09T18:58:46.000Z",
+        "description": "一個小油條🇨🇳 \n爱人：@meyu_121\nrip：@yume_121_3\n神聖かまってちゃん🎸（Japan）、低苦艾、李志（China），羅大佑、陳昇、張雨生（Taiwan），黃耀明、達明一派、Beyond（HongKong）が好きです。\n日本語が基礎がなく、翻訳ツールしか使えません、すみません",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 12,
+                "username": "meyu_121"
+              },
+              {
+                "end": 37,
+                "start": 26,
+                "username": "yume_121_3"
+              }
+            ]
+          }
+        },
+        "id": "2020935362386984964",
+        "name": "玄英かまってちゃん🎸",
+        "pinned_tweet_id": "2045440180946079798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065306892021432320/rjm-g9Hw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 187,
+          "like_count": 5687,
+          "listed_count": 1,
+          "media_count": 182,
+          "tweet_count": 1404
+        },
+        "username": "XuanYing114514",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-06T18:28:53.000Z",
+        "description": "20↓ 日本語勉強中 雑多🐸🐄👽\n無言フォロー失礼します（ﾉ´д｀）\n備用垢 @Fr0gn00ne",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 39,
+                "username": "Fr0gn00ne"
+              }
+            ]
+          }
+        },
+        "id": "1324780748298096640",
+        "location": "自殺に向かう途中",
+        "name": "noone",
+        "pinned_tweet_id": "2015369797987655759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959218405548138496/ICZpnQ2F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 1934,
+          "like_count": 16877,
+          "listed_count": 3,
+          "media_count": 324,
+          "tweet_count": 9172
+        },
+        "username": "N00NEFR0G",
+        "verified": false
+      }
+    ]
+  }
+}

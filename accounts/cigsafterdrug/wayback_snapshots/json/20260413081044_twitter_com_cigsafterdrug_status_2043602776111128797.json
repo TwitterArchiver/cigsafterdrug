@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2043537879818002727",
+    "created_at": "2026-04-13T08:10:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T09:10:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043602776111128797"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2043162919131570177",
+          "start": 0,
+          "username": "BuildBible62588"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043602776111128797",
+    "in_reply_to_user_id": "2043162919131570177",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043537879818002727",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BuildBible62588 111:3"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2043537879818002727",
+        "created_at": "2026-04-13T08:10:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T09:10:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043602776111128797"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2043162919131570177",
+              "start": 0,
+              "username": "BuildBible62588"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043602776111128797",
+        "in_reply_to_user_id": "2043162919131570177",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043537879818002727",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BuildBible62588 111:3"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043162919131570177",
+        "conversation_id": "2043537879818002727",
+        "created_at": "2026-04-13T03:52:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T04:52:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043537879818002727"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043537879818002727",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 109,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "互fo的小寶評論一下！因為人有點多我不知道那些事互fo噠(┯_┯)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041169513899765761/LjaTiZha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 303,
+          "following_count": 321,
+          "like_count": 20906,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 1564
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-12T03:03:15.000Z",
+        "description": "大號被封鎖(┯_┯)這里是唉愛2.0尋找丟失的互關ing                   \nMy love：@The_emonn6060",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 56,
+                "username": "The_emonn6060"
+              }
+            ]
+          }
+        },
+        "id": "2043162919131570177",
+        "location": "神秘星球",
+        "name": "唉、愛",
+        "pinned_tweet_id": "2043424255317340406",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043418558471045120/15eW0Jpd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 57,
+          "like_count": 21,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 19
+        },
+        "username": "BuildBible62588",
+        "verified": false
+      }
+    ]
+  }
+}

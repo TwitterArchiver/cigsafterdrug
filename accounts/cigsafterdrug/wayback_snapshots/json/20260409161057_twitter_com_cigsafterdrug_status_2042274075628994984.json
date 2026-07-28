@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042274070063104000"
+      ]
+    },
+    "author_id": "1536716629505359872",
+    "conversation_id": "2042274075628994984",
+    "created_at": "2026-04-09T16:10:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T17:10:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042274075628994984"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZoGbDYtQYl",
+          "end": 32,
+          "expanded_url": "https://x.com/cigsafterdrug/status/2042274075628994984/photo/1",
+          "media_key": "3_2042274070063104000",
+          "start": 9,
+          "url": "https://t.co/ZoGbDYtQYl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042274075628994984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "橙魔好喝吗没试过 https://t.co/ZoGbDYtQYl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2042274070063104000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFedckAaQAAbo5W.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042274070063104000"
+          ]
+        },
+        "author_id": "1536716629505359872",
+        "conversation_id": "2042274075628994984",
+        "created_at": "2026-04-09T16:10:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T17:10:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042274075628994984"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZoGbDYtQYl",
+              "end": 32,
+              "expanded_url": "https://x.com/cigsafterdrug/status/2042274075628994984/photo/1",
+              "media_key": "3_2042274070063104000",
+              "start": 9,
+              "url": "https://t.co/ZoGbDYtQYl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042274075628994984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "橙魔好喝吗没试过 https://t.co/ZoGbDYtQYl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041169513899765761/LjaTiZha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 304,
+          "following_count": 325,
+          "like_count": 20451,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 1476
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      }
+    ]
+  }
+}

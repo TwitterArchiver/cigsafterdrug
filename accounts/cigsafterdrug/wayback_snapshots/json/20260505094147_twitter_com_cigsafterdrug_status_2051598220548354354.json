@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2051587812190007512",
+    "created_at": "2026-05-05T09:41:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T10:41:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051598220548354354"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2044392328966680576",
+          "start": 0,
+          "username": "OE3IIGFQRQ9473"
+        },
+        {
+          "end": 26,
+          "id": "2031715041196875776",
+          "start": 16,
+          "username": "YiJin_0v0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051598220548354354",
+    "in_reply_to_user_id": "2044392328966680576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051587812190007512",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OE3IIGFQRQ9473 @YiJin_0v0 香港seven買的話好貴 可以看看屋邨零食舖應該會便宜一點？！十幾塊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2051587812190007512",
+        "created_at": "2026-05-05T09:41:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T10:41:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051598220548354354"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2044392328966680576",
+              "start": 0,
+              "username": "OE3IIGFQRQ9473"
+            },
+            {
+              "end": 26,
+              "id": "2031715041196875776",
+              "start": 16,
+              "username": "YiJin_0v0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051598220548354354",
+        "in_reply_to_user_id": "2044392328966680576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051587812190007512",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OE3IIGFQRQ9473 @YiJin_0v0 香港seven買的話好貴 可以看看屋邨零食舖應該會便宜一點？！十幾塊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044392328966680576",
+        "conversation_id": "2051587812190007512",
+        "created_at": "2026-05-05T09:00:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T10:00:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051587812190007512"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051587812190007512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 120,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "香港魔爪好貴啊要快二十一罐。。我一個月不到 平均一天喝三罐就喝了快一千塊錢的魔爪。好無力啊可是不喝又會很睏很睏很睏。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 361,
+          "following_count": 369,
+          "like_count": 23805,
+          "listed_count": 0,
+          "media_count": 117,
+          "tweet_count": 1939
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-15T12:28:23.000Z",
+        "description": "待復活的大號@FanQie_QianQian \n這裏只是我的情緒垃圾桶 日常碎碎念 \n負能過多 如果讓你感到不適我很抱歉 請屏蔽喵_(._.)_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 6,
+                "username": "FanQie_QianQian"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_1",
+                "start": 0,
+                "url": "https://t.co/241BETQBPK"
+              }
+            ]
+          }
+        },
+        "id": "2044392328966680576",
+        "name": "芊芊/番茄操蛋9.0",
+        "pinned_tweet_id": "2050870299605020804",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050602502027153408/qsJOFkPO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 393,
+          "following_count": 70,
+          "like_count": 825,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 675
+        },
+        "url": "https://t.co/241BETQBPK",
+        "username": "OE3IIGFQRQ9473",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-11T12:53:23.000Z",
+        "description": "本体：@rinii165892 【私信回fo】\n不发帖就是犯病了（没有说发帖就不犯病的意思）\n无证含糖/家暴党/随时进入扭转的人。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "rinii165892"
+              }
+            ]
+          }
+        },
+        "id": "2031715041196875776",
+        "location": "少管所",
+        "name": "霖/伊井酱酱酱🍥🔪",
+        "pinned_tweet_id": "2049137147219968346",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047345595497738240/v4nAldhV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 744,
+          "following_count": 473,
+          "like_count": 4978,
+          "listed_count": 2,
+          "media_count": 132,
+          "tweet_count": 2821
+        },
+        "username": "YiJin_0v0",
+        "verified": false
+      }
+    ]
+  }
+}

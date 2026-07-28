@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2069880090381692954",
+    "created_at": "2026-06-25T10:13:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T11:13:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070087996347716045"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1542108779302760449",
+          "start": 0,
+          "username": "C10n3_F"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070087996347716045",
+    "in_reply_to_user_id": "1542108779302760449",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069880090381692954",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@C10n3_F 我理你呀喵喵喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2069880090381692954",
+        "created_at": "2026-06-25T10:13:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T11:13:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070087996347716045"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1542108779302760449",
+              "start": 0,
+              "username": "C10n3_F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070087996347716045",
+        "in_reply_to_user_id": "1542108779302760449",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069880090381692954",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@C10n3_F 我理你呀喵喵喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1542108779302760449",
+        "conversation_id": "2069880090381692954",
+        "created_at": "2026-06-24T20:27:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T21:27:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069880090381692954"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069880090381692954",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 59,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "算了沒人理我沒人把我當一回事"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 506,
+          "following_count": 448,
+          "like_count": 29086,
+          "listed_count": 0,
+          "media_count": 172,
+          "tweet_count": 2807
+        },
+        "url": "",
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-29T11:32:47.000Z",
+        "description": "Dry your tears with love |ftx🏳️‍⚧️| his/him",
+        "id": "1542108779302760449",
+        "location": "🚪88｜🦴@me0420_",
+        "name": "Clone",
+        "pinned_tweet_id": "2062491984724701210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068380581579390976/yFrnlSzR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186,
+          "following_count": 328,
+          "like_count": 9461,
+          "listed_count": 0,
+          "media_count": 151,
+          "tweet_count": 2209
+        },
+        "url": "",
+        "username": "C10n3_F",
+        "verified": false
+      }
+    ]
+  }
+}

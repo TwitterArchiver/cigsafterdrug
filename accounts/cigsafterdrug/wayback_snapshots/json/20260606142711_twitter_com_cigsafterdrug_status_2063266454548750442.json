@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2063212300895649948",
+    "created_at": "2026-06-06T14:27:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T15:27:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063266454548750442"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1922574083348414464",
+          "start": 0,
+          "username": "7q46843886669"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063266454548750442",
+    "in_reply_to_user_id": "1922574083348414464",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063212300895649948",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@7q46843886669 🤤🤤🫶🫶"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2063183659696578560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKHmm3aa4AASRHS.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2063212300895649948",
+        "created_at": "2026-06-06T14:27:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T15:27:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063266454548750442"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1922574083348414464",
+              "start": 0,
+              "username": "7q46843886669"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063266454548750442",
+        "in_reply_to_user_id": "1922574083348414464",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063212300895649948",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7q46843886669 🤤🤤🫶🫶"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063183659696578560"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2063212300895649948",
+        "created_at": "2026-06-06T10:51:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T11:51:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063212300895649948"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1536716629505359872",
+              "start": 0,
+              "username": "cigsafterdrug"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/P94QAsfMJP",
+              "end": 45,
+              "expanded_url": "https://x.com/7q46843886669/status/2063212300895649948/photo/1",
+              "media_key": "3_2063183659696578560",
+              "start": 22,
+              "url": "https://t.co/P94QAsfMJP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063212300895649948",
+        "in_reply_to_user_id": "1536716629505359872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@cigsafterdrug 謝謝喵喜歡你 https://t.co/P94QAsfMJP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 457,
+          "following_count": 420,
+          "like_count": 28021,
+          "listed_count": 0,
+          "media_count": 144,
+          "tweet_count": 2464
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神\n媽媽@FanQie_QianQian \n窩是媽媽的乖小狗？！！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 7,
+                "username": "FanQie_QianQian"
+              }
+            ]
+          }
+        },
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057143464383627264/250b3RqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 309,
+          "following_count": 3349,
+          "like_count": 17104,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 4728
+        },
+        "username": "7q46843886669",
+        "verified": false
+      }
+    ]
+  }
+}

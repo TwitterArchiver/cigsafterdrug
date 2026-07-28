@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064627140155645952"
+      ]
+    },
+    "author_id": "1536716629505359872",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2064627144849035753",
+    "created_at": "2026-06-10T08:34:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T09:34:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064627144849035753"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/nIKYfry79U",
+          "end": 29,
+          "expanded_url": "https://x.com/cigsafterdrug/status/2064627144849035753/photo/1",
+          "media_key": "3_2064627140155645952",
+          "start": 6,
+          "url": "https://t.co/nIKYfry79U"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064627144849035753",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "教主…😿😿 https://t.co/nIKYfry79U"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1181,
+        "media_key": "3_2064627140155645952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKcHcfKboAA048V.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064627140155645952"
+          ]
+        },
+        "author_id": "1536716629505359872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2064627144849035753",
+        "created_at": "2026-06-10T08:34:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T09:34:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064627144849035753"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nIKYfry79U",
+              "end": 29,
+              "expanded_url": "https://x.com/cigsafterdrug/status/2064627144849035753/photo/1",
+              "media_key": "3_2064627140155645952",
+              "start": 6,
+              "url": "https://t.co/nIKYfry79U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064627144849035753",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "教主…😿😿 https://t.co/nIKYfry79U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 460,
+          "following_count": 423,
+          "like_count": 28388,
+          "listed_count": 0,
+          "media_count": 147,
+          "tweet_count": 2527
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      }
+    ]
+  }
+}

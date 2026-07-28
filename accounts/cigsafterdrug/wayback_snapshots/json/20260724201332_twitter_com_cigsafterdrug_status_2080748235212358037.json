@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2080595637796835633",
+    "created_at": "2026-07-24T20:13:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T21:13:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080748235212358037"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1262416576617148417",
+          "start": 0,
+          "username": "Ame8964"
+        },
+        {
+          "end": 18,
+          "id": "1898308906994294784",
+          "start": 9,
+          "username": "TTBRAr12"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080748235212358037",
+    "in_reply_to_user_id": "1262416576617148417",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080739625019343348",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ame8964 @TTBRAr12 豹子你睡死了ok？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2080595637796835633",
+        "created_at": "2026-07-24T20:13:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T21:13:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080748235212358037"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1262416576617148417",
+              "start": 0,
+              "username": "Ame8964"
+            },
+            {
+              "end": 18,
+              "id": "1898308906994294784",
+              "start": 9,
+              "username": "TTBRAr12"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080748235212358037",
+        "in_reply_to_user_id": "1262416576617148417",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080739625019343348",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ame8964 @TTBRAr12 豹子你睡死了ok？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1262416576617148417",
+        "conversation_id": "2080595637796835633",
+        "created_at": "2026-07-24T19:39:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T20:39:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080739625019343348"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1536716629505359872",
+              "start": 0,
+              "username": "cigsafterdrug"
+            },
+            {
+              "end": 24,
+              "id": "1898308906994294784",
+              "start": 15,
+              "username": "TTBRAr12"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080739625019343348",
+        "in_reply_to_user_id": "1536716629505359872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080595637796835633",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cigsafterdrug @TTBRAr12 老大 怎麼不是我碰到😡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2070816356862431619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 522,
+          "following_count": 475,
+          "like_count": 31691,
+          "listed_count": 0,
+          "media_count": 210,
+          "tweet_count": 3150
+        },
+        "url": "",
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-18T16:15:51.000Z",
+        "description": "-小雨\n-哎嗯踢批\n-烟鬼\n-10年 港人（518964）（拒小粉紅）\n-顺直女 有顺直男朋友（1i）\n-我是爱慕可是男友也是爱慕怎么办\n-LGBTQ+全包容\n-乌蒙批 世画批",
+        "id": "1262416576617148417",
+        "name": "Ame",
+        "pinned_tweet_id": "2069131487778381862",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073133252756545536/49GQi9P1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 89,
+          "like_count": 351,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 444
+        },
+        "url": "",
+        "username": "Ame8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-08T09:44:56.000Z",
+        "description": "",
+        "id": "1898308906994294784",
+        "name": "TTAR",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075459583410327552/FeIlteVS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 923,
+          "like_count": 7892,
+          "listed_count": 0,
+          "media_count": 114,
+          "tweet_count": 1587
+        },
+        "url": "",
+        "username": "TTBRAr12",
+        "verified": false,
+        "withheld": {
+          "country_codes": [
+            "TR"
+          ]
+        }
+      }
+    ]
+  }
+}

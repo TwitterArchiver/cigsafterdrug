@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2055268367196713106",
+    "created_at": "2026-05-15T12:45:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T13:45:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055268367196713106"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2047499889094123520",
+          "start": 3,
+          "username": "yn_xxxjkjk"
+        },
+        {
+          "end": 39,
+          "id": "1472219833261772801",
+          "start": 30,
+          "username": "xxx_jjkk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055268367196713106",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 23
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054935095430254613",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yn_xxxjkjk: 求求大家帮我转转，\n前世旖旎@xxx_jjkk。被奸人所害封锁7天。\n7日之后，等我龙王归来！\n在此之前，我就将在这个小号上活跃。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2055268367196713106",
+        "created_at": "2026-05-15T12:45:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T13:45:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055268367196713106"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2047499889094123520",
+              "start": 3,
+              "username": "yn_xxxjkjk"
+            },
+            {
+              "end": 39,
+              "id": "1472219833261772801",
+              "start": 30,
+              "username": "xxx_jjkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055268367196713106",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054935095430254613",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yn_xxxjkjk: 求求大家帮我转转，\n前世旖旎@xxx_jjkk。被奸人所害封锁7天。\n7日之后，等我龙王归来！\n在此之前，我就将在这个小号上活跃。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047499889094123520",
+        "conversation_id": "2054935095430254613",
+        "created_at": "2026-05-14T14:41:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T15:41:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054935095430254613"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 23,
+              "id": "1472219833261772801",
+              "start": 14,
+              "username": "xxx_jjkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054935095430254613",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2031,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "求求大家帮我转转，\n前世旖旎@xxx_jjkk。被奸人所害封锁7天。\n7日之后，等我龙王归来！\n在此之前，我就将在这个小号上活跃。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 414,
+          "following_count": 394,
+          "like_count": 25198,
+          "listed_count": 0,
+          "media_count": 124,
+          "tweet_count": 2108
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-24T02:16:39.000Z",
+        "description": "@xxx_jjkk 的逃生舱\n都会回fol的",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "xxx_jjkk"
+              }
+            ]
+          }
+        },
+        "id": "2047499889094123520",
+        "name": "YN2.0",
+        "pinned_tweet_id": "2054935095430254613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047500366259064833/k5dhVApk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 121,
+          "like_count": 15,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 22
+        },
+        "username": "yn_xxxjkjk",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-18T14:59:07.000Z",
+        "description": "我把一生都存进这小小的屏幕里\n当我离去\n这里至少还留有我曾活过的痕迹\n@yn_xxxjkjk 2.0备份一下互关",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 35,
+                "username": "yn_xxxjkjk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xxxynyn",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xxxynyn",
+                "start": 0,
+                "url": "https://t.co/yz1Ew7xhf4"
+              }
+            ]
+          }
+        },
+        "id": "1472219833261772801",
+        "name": "旖旎",
+        "pinned_tweet_id": "2045469984315658626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035262095277862912/s0vuE8mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1242,
+          "following_count": 498,
+          "like_count": 13292,
+          "listed_count": 1,
+          "media_count": 104,
+          "tweet_count": 1925
+        },
+        "url": "https://t.co/yz1Ew7xhf4",
+        "username": "xxx_jjkk",
+        "verified": false
+      }
+    ]
+  }
+}

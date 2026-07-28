@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2042341332480639329",
+    "created_at": "2026-04-09T20:38:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T21:38:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042341332480639329"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2042341332480639329",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我真的有精神病嗎？可能我是裝的吧。我的一切都不夠別人痛苦 我懷疑我甚至沒有真正痛苦過\n我沒有去看過醫生 沒有真的確診 沒有ssri 醫院醫生有建議過我去看精神科 媽媽也說過會帶我去 但結果還是沒有 可能她也不想自己女兒真的是精神病吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2042341332480639329",
+        "created_at": "2026-04-09T20:38:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T21:38:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042341332480639329"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042341332480639329",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的有精神病嗎？可能我是裝的吧。我的一切都不夠別人痛苦 我懷疑我甚至沒有真正痛苦過\n我沒有去看過醫生 沒有真的確診 沒有ssri 醫院醫生有建議過我去看精神科 媽媽也說過會帶我去 但結果還是沒有 可能她也不想自己女兒真的是精神病吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041169513899765761/LjaTiZha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 303,
+          "following_count": 324,
+          "like_count": 20479,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 1483
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      }
+    ]
+  }
+}

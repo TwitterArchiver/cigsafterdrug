@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2042956082616897648",
+    "created_at": "2026-04-11T14:27:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T15:27:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042972787556651515"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1998068975905984512",
+          "start": 0,
+          "username": "aa5318691169404"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042972787556651515",
+    "in_reply_to_user_id": "1998068975905984512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042956082616897648",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aa5318691169404 激光？或者可能有些祛疤膏可以吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2042956082616897648",
+        "created_at": "2026-04-11T14:27:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T15:27:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042972787556651515"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1998068975905984512",
+              "start": 0,
+              "username": "aa5318691169404"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042972787556651515",
+        "in_reply_to_user_id": "1998068975905984512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042956082616897648",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aa5318691169404 激光？或者可能有些祛疤膏可以吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1998068975905984512",
+        "conversation_id": "2042956082616897648",
+        "created_at": "2026-04-11T13:21:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T14:21:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042956082616897648"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042956082616897648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 77,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "增生怎么去"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041169513899765761/LjaTiZha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 306,
+          "following_count": 327,
+          "like_count": 20671,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 1528
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-08T16:36:11.000Z",
+        "description": "好忧郁",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nyeye69222",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nyeye69222",
+                "start": 0,
+                "url": "https://t.co/U2MUt2iJ1G"
+              }
+            ]
+          }
+        },
+        "id": "1998068975905984512",
+        "name": "全网最忧郁",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037482167668969472/lhIdr_ke_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 223,
+          "like_count": 9385,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 616
+        },
+        "url": "https://t.co/U2MUt2iJ1G",
+        "username": "aa5318691169404",
+        "verified": false
+      }
+    ]
+  }
+}

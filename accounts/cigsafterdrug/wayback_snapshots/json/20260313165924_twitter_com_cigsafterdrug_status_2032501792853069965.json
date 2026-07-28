@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2032501792853069965",
+    "created_at": "2026-03-13T16:59:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T17:59:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2032501792853069965"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yume_121_/stat…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/yume_121_/status/2032353077186232534",
+          "start": 13,
+          "url": "https://t.co/JLCUSzdshl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032501792853069965",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032353077186232534",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "最適合打到諒解的meme https://t.co/JLCUSzdshl"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 21200,
+        "height": 900,
+        "media_key": "7_2032352165789122560",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2032352165789122560/pu/img/nL6JrEhvn80S30gt.jpg",
+        "public_metrics": {
+          "view_count": 241
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2032352165789122560/pu/vid/avc1/320x400/5jMpSdtib4e6Ymid.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2032352165789122560/pu/vid/avc1/480x600/MQ5oz9HJQvkRJB_8.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2032352165789122560/pu/vid/avc1/720x900/ZVsZIk-_8j_z2bsy.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2032352165789122560/pu/pl/WrzjIyTRYoBOq3-q.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2032501792853069965",
+        "created_at": "2026-03-13T16:59:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T17:59:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032501792853069965"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yume_121_/stat…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/yume_121_/status/2032353077186232534",
+              "start": 13,
+              "url": "https://t.co/JLCUSzdshl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032501792853069965",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032353077186232534",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "最適合打到諒解的meme https://t.co/JLCUSzdshl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2032352165789122560"
+          ]
+        },
+        "author_id": "1548098740254539776",
+        "conversation_id": "2032353077186232534",
+        "created_at": "2026-03-13T07:08:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T08:08:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032353077186232534"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "SKC",
+              "probability": 0.3123,
+              "start": 1,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "SKC美術部"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qoaiBC5fiq",
+              "end": 38,
+              "expanded_url": "https://x.com/Yume_121_/status/2032353077186232534/video/1",
+              "media_key": "7_2032352165789122560",
+              "start": 15,
+              "url": "https://t.co/qoaiBC5fiq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032353077186232534",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 779,
+          "like_count": 81,
+          "quote_count": 3,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "#SKC美術部 \n❗gore https://t.co/qoaiBC5fiq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026943929120444416/QS8rXF5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 281,
+          "like_count": 18094,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 1018
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-16T00:16:19.000Z",
+        "description": "🇭🇰Hong Kong 2012\n 神聖かまってちゃん\n idk japanese sorry i use goggle translate",
+        "id": "1548098740254539776",
+        "name": "yume",
+        "pinned_tweet_id": "2028685485745520819",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025178868051738625/pegHpHaT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 272,
+          "following_count": 236,
+          "like_count": 723,
+          "listed_count": 0,
+          "media_count": 160,
+          "tweet_count": 543
+        },
+        "username": "Yume_121_",
+        "verified": false
+      }
+    ]
+  }
+}

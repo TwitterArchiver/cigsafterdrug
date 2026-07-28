@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2062576879362777439",
+    "created_at": "2026-06-04T17:48:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T18:48:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062592238488887401"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1958823376539262976",
+          "start": 0,
+          "username": "O7Uywn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062592238488887401",
+    "in_reply_to_user_id": "1958823376539262976",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062576879362777439",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@O7Uywn 好吃好吃😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2062576847557435392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ--twCbIAAM9G0.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2062576879362777439",
+        "created_at": "2026-06-04T17:48:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T18:48:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062592238488887401"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1958823376539262976",
+              "start": 0,
+              "username": "O7Uywn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062592238488887401",
+        "in_reply_to_user_id": "1958823376539262976",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062576879362777439",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@O7Uywn 好吃好吃😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062576847557435392"
+          ]
+        },
+        "author_id": "1958823376539262976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2062576879362777439",
+        "created_at": "2026-06-04T16:47:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T17:47:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062576879362777439"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/z5j2gTNdWV",
+              "end": 37,
+              "expanded_url": "https://x.com/O7Uywn/status/2062576879362777439/photo/1",
+              "media_key": "3_2062576847557435392",
+              "start": 14,
+              "url": "https://t.co/z5j2gTNdWV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062576879362777439",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "誰吃了我的沙拉我就嫁給誰。 https://t.co/z5j2gTNdWV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 443,
+          "following_count": 417,
+          "like_count": 27802,
+          "listed_count": 0,
+          "media_count": 140,
+          "tweet_count": 2411
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-22T09:27:52.000Z",
+        "description": "我別無選擇",
+        "id": "1958823376539262976",
+        "name": "柏林",
+        "pinned_tweet_id": "2025195682831958335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027540187262373888/Z2DjNUeO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 53,
+          "like_count": 901,
+          "listed_count": 0,
+          "media_count": 482,
+          "tweet_count": 2191
+        },
+        "username": "O7Uywn",
+        "verified": false
+      }
+    ]
+  }
+}

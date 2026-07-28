@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2047830821118312585",
+    "created_at": "2026-04-25T00:36:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T01:36:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047837017455939682"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2047601862422208512",
+          "start": 0,
+          "username": "QianQian_FanQie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047837017455939682",
+    "in_reply_to_user_id": "2047601862422208512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047830821118312585",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QianQian_FanQie 芥末帥？！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2047830711680593920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGtbLrHbcAA2ZML.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2047830821118312585",
+        "created_at": "2026-04-25T00:36:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T01:36:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047837017455939682"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2047601862422208512",
+              "start": 0,
+              "username": "QianQian_FanQie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047837017455939682",
+        "in_reply_to_user_id": "2047601862422208512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047830821118312585",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QianQian_FanQie 芥末帥？！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047830711680593920"
+          ]
+        },
+        "author_id": "2047601862422208512",
+        "conversation_id": "2047830821118312585",
+        "created_at": "2026-04-25T00:11:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T01:11:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047830821118312585"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qEAhwEW3hH",
+              "end": 39,
+              "expanded_url": "https://x.com/QianQian_FanQie/status/2047830821118312585/photo/1",
+              "media_key": "3_2047830711680593920",
+              "start": 16,
+              "url": "https://t.co/qEAhwEW3hH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047830821118312585",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "操蛋自己打了唇釘還有嘴角釘？！ https://t.co/qEAhwEW3hH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 333,
+          "following_count": 348,
+          "like_count": 22763,
+          "listed_count": 0,
+          "media_count": 107,
+          "tweet_count": 1815
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-24T09:01:56.000Z",
+        "description": "這裏是操蛋七代目——可以叫我芊芊！\n11年 順女 LGBTQ全友好 互關尋回 \nmsk頭號夢女",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_1",
+                "start": 0,
+                "url": "https://t.co/pykLW9sB5e"
+              }
+            ]
+          }
+        },
+        "id": "2047601862422208512",
+        "location": "🚪",
+        "name": "番茄操蛋7.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047604629802995712/zLAGZYl2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 12,
+          "like_count": 175,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 17
+        },
+        "url": "https://t.co/pykLW9sB5e",
+        "username": "QianQian_FanQie",
+        "verified": false
+      }
+    ]
+  }
+}

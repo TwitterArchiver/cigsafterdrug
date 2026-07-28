@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2056720037554295036",
+    "created_at": "2026-05-19T12:54:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T13:54:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056720037554295036"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1668257047647776770",
+          "start": 3,
+          "username": "nekoTiao0w0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056720037554295036",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 27
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056666892866408623",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nekoTiao0w0: 尿频尿急吸K粉， 疲累犯困吸冰毒，交友困难吃MDMA，想念祖宗吃曼陀罗，气虚体寒吃烟酸，腰酸背痛吃卡痛叶，腹泻拉水嗑羟考酮，食欲不振飞叶子，嘴馋超重吸烟，吸烟上瘾吃裸盖菇，思维奔逸吃肉豆蔻，噩梦不断吃枪子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2056720037554295036",
+        "created_at": "2026-05-19T12:54:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T13:54:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056720037554295036"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1668257047647776770",
+              "start": 3,
+              "username": "nekoTiao0w0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056720037554295036",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 27
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056666892866408623",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nekoTiao0w0: 尿频尿急吸K粉， 疲累犯困吸冰毒，交友困难吃MDMA，想念祖宗吃曼陀罗，气虚体寒吃烟酸，腰酸背痛吃卡痛叶，腹泻拉水嗑羟考酮，食欲不振飞叶子，嘴馋超重吸烟，吸烟上瘾吃裸盖菇，思维奔逸吃肉豆蔻，噩梦不断吃枪子"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668257047647776770",
+        "conversation_id": "2056666892866408623",
+        "created_at": "2026-05-19T09:22:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T10:22:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056666892866408623"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056666892866408623",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 3117,
+          "like_count": 139,
+          "quote_count": 1,
+          "reply_count": 19,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "尿频尿急吸K粉， 疲累犯困吸冰毒，交友困难吃MDMA，想念祖宗吃曼陀罗，气虚体寒吃烟酸，腰酸背痛吃卡痛叶，腹泻拉水嗑羟考酮，食欲不振飞叶子，嘴馋超重吸烟，吸烟上瘾吃裸盖菇，思维奔逸吃肉豆蔻，噩梦不断吃枪子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 421,
+          "following_count": 399,
+          "like_count": 25753,
+          "listed_count": 0,
+          "media_count": 127,
+          "tweet_count": 2181
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-12T14:01:46.000Z",
+        "description": "低能量低自尊低素质低道德痛苦女孩 看你们也没多喜欢我 关注我干嘛？里账号@churr000000只通过互关",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 36,
+                "username": "churr000000"
+              }
+            ]
+          }
+        },
+        "id": "1668257047647776770",
+        "location": "🚪188",
+        "name": "丰川祥子爱分尸",
+        "pinned_tweet_id": "2046991945004917155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954570231411863552/kdFzZzC9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2091,
+          "following_count": 233,
+          "like_count": 8237,
+          "listed_count": 3,
+          "media_count": 307,
+          "tweet_count": 3803
+        },
+        "username": "nekoTiao0w0",
+        "verified": false
+      }
+    ]
+  }
+}

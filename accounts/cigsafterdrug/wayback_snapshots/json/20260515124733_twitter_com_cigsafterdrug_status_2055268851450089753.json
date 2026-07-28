@@ -1,0 +1,385 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2054939125866733568"
+      ],
+      "media_source_tweet_id": [
+        "2054939183542657282"
+      ]
+    },
+    "author_id": "1536716629505359872",
+    "conversation_id": "2055268851450089753",
+    "created_at": "2026-05-15T12:47:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T13:47:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055268851450089753"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1495523101697888258",
+          "start": 3,
+          "username": "vomitgorelover"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Kitty Gore · Hong Kong · Song · 2023",
+          "display_url": "open.spotify.com/track/7fxBb4D1…",
+          "end": 43,
+          "expanded_url": "https://open.spotify.com/track/7fxBb4D1DHEt47TUXF79HN?si=Kqz6vyLqQyuwS77zwuzEqw",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://pbs.twimg.com/news_img/2054939184998014976/GpDJm_YP?format=jpg&name=orig",
+              "width": 640
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2054939184998014976/GpDJm_YP?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 20,
+          "status": 200,
+          "title": "Hong Kong",
+          "unwound_url": "https://open.spotify.com/track/7fxBb4D1DHEt47TUXF79HN?si=Kqz6vyLqQyuwS77zwuzEqw",
+          "url": "https://t.co/DiHqQKdA5H"
+        },
+        {
+          "display_url": "pic.x.com/EbT3V7dASb",
+          "end": 67,
+          "expanded_url": "https://x.com/vomitgorelover/status/2054939183542657282/video/1",
+          "media_key": "13_2054939125866733568",
+          "start": 44,
+          "url": "https://t.co/EbT3V7dASb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055268851450089753",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 243
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054939183542657282",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @vomitgorelover: https://t.co/DiHqQKdA5H https://t.co/EbT3V7dASb"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7500,
+        "height": 720,
+        "media_key": "13_2054939125866733568",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2054939125866733568/img/MrlPADAFDOU58gGX.jpg",
+        "public_metrics": {
+          "view_count": 4408
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2054939125866733568/vid/avc1/320x320/OfVcK4zVDUWYAgdy.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2054939125866733568/vid/avc1/540x540/mjpgL9dqjjhPGw8F.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2054939125866733568/vid/avc1/720x720/n8cXu_0KaPUHpfTg.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2054939125866733568/pl/yu8OheitL4W_tB2y.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 7500,
+        "height": 720,
+        "media_key": "13_2054939125866733568",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2054939125866733568/img/MrlPADAFDOU58gGX.jpg",
+        "public_metrics": {
+          "view_count": 4430
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2054939125866733568/vid/avc1/320x320/OfVcK4zVDUWYAgdy.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2054939125866733568/vid/avc1/540x540/mjpgL9dqjjhPGw8F.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2054939125866733568/vid/avc1/720x720/n8cXu_0KaPUHpfTg.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2054939125866733568/pl/yu8OheitL4W_tB2y.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2054939125866733568"
+          ],
+          "media_source_tweet_id": [
+            "2054939183542657282"
+          ]
+        },
+        "author_id": "1536716629505359872",
+        "conversation_id": "2055268851450089753",
+        "created_at": "2026-05-15T12:47:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T13:47:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055268851450089753"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1495523101697888258",
+              "start": 3,
+              "username": "vomitgorelover"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Kitty Gore · Hong Kong · Song · 2023",
+              "display_url": "open.spotify.com/track/7fxBb4D1…",
+              "end": 43,
+              "expanded_url": "https://open.spotify.com/track/7fxBb4D1DHEt47TUXF79HN?si=Kqz6vyLqQyuwS77zwuzEqw",
+              "images": [
+                {
+                  "height": 640,
+                  "url": "https://pbs.twimg.com/news_img/2054939184998014976/GpDJm_YP?format=jpg&name=orig",
+                  "width": 640
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2054939184998014976/GpDJm_YP?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 20,
+              "status": 200,
+              "title": "Hong Kong",
+              "unwound_url": "https://open.spotify.com/track/7fxBb4D1DHEt47TUXF79HN?si=Kqz6vyLqQyuwS77zwuzEqw",
+              "url": "https://t.co/DiHqQKdA5H"
+            },
+            {
+              "display_url": "pic.x.com/EbT3V7dASb",
+              "end": 67,
+              "expanded_url": "https://x.com/vomitgorelover/status/2054939183542657282/video/1",
+              "media_key": "13_2054939125866733568",
+              "start": 44,
+              "url": "https://t.co/EbT3V7dASb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055268851450089753",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 243
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054939183542657282",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @vomitgorelover: https://t.co/DiHqQKdA5H https://t.co/EbT3V7dASb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2054939125866733568"
+          ]
+        },
+        "author_id": "1495523101697888258",
+        "conversation_id": "2054939183542657282",
+        "created_at": "2026-05-14T14:57:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T15:57:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054939183542657282"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Kitty Gore · Hong Kong · Song · 2023",
+              "display_url": "open.spotify.com/track/7fxBb4D1…",
+              "end": 23,
+              "expanded_url": "https://open.spotify.com/track/7fxBb4D1DHEt47TUXF79HN?si=Kqz6vyLqQyuwS77zwuzEqw",
+              "images": [
+                {
+                  "height": 640,
+                  "url": "https://pbs.twimg.com/news_img/2054939184998014976/GpDJm_YP?format=jpg&name=orig",
+                  "width": 640
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2054939184998014976/GpDJm_YP?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Hong Kong",
+              "unwound_url": "https://open.spotify.com/track/7fxBb4D1DHEt47TUXF79HN?si=Kqz6vyLqQyuwS77zwuzEqw",
+              "url": "https://t.co/DiHqQKdA5H"
+            },
+            {
+              "display_url": "pic.x.com/EbT3V7dASb",
+              "end": 47,
+              "expanded_url": "https://x.com/vomitgorelover/status/2054939183542657282/video/1",
+              "media_key": "13_2054939125866733568",
+              "start": 24,
+              "url": "https://t.co/EbT3V7dASb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054939183542657282",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 150,
+          "impression_count": 11980,
+          "like_count": 1369,
+          "quote_count": 3,
+          "reply_count": 1,
+          "retweet_count": 243
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/DiHqQKdA5H https://t.co/EbT3V7dASb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 414,
+          "following_count": 394,
+          "like_count": 25201,
+          "listed_count": 0,
+          "media_count": 124,
+          "tweet_count": 2109
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-20T22:17:56.000Z",
+        "description": "Hardcore hooligan. :3 🇮🇷 🏴󠁧󠁢󠁳󠁣󠁴󠁿 22. https://t.co/DvB1I2J9Cs",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "open.spotify.com/artist/5LTWVCZ…",
+                "end": 60,
+                "expanded_url": "https://open.spotify.com/artist/5LTWVCZP9xAPItWtIVi9YR?si=FvazimlrSfGGitm2H20iag",
+                "start": 37,
+                "url": "https://t.co/DvB1I2J9Cs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/KittyGoremuzik",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/KittyGoremuzik",
+                "start": 0,
+                "url": "https://t.co/R0qRPoKx70"
+              }
+            ]
+          }
+        },
+        "id": "1495523101697888258",
+        "location": "Down a hole, Glasgow",
+        "name": "ଘ(∩^o^)⊃━☆゜ Kitty Gore",
+        "pinned_tweet_id": "2019493485422719354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054537532440760320/nOJvPUB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22695,
+          "following_count": 252,
+          "like_count": 19045,
+          "listed_count": 50,
+          "media_count": 3146,
+          "tweet_count": 6905
+        },
+        "url": "https://t.co/R0qRPoKx70",
+        "username": "vomitgorelover",
+        "verified": false
+      }
+    ]
+  }
+}

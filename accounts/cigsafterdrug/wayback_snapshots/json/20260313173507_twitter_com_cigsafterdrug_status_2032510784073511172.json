@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2032510784073511172",
+    "created_at": "2026-03-13T17:35:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T18:35:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032510784073511172"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1748755970636038144",
+          "start": 3,
+          "username": "er_zuo96208"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032510784073511172",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032228191839142186",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @er_zuo96208: 我的少女时代是个脑残od妹\n愈美片普瑞巴林烷胺美金刚 没有磕不起只有买不到 右美沙芬被列管的那天晚上我抱头痛哭 小美离开你我要怎么活 我每天就跟小药片们做伴 它们有让我哭也让我笑的能力 如果你说可以实现我一个愿望 我希望在内网发欧弟的都死全家…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2032510784073511172",
+        "created_at": "2026-03-13T17:35:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T18:35:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032510784073511172"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1748755970636038144",
+              "start": 3,
+              "username": "er_zuo96208"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032510784073511172",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032228191839142186",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @er_zuo96208: 我的少女时代是个脑残od妹\n愈美片普瑞巴林烷胺美金刚 没有磕不起只有买不到 右美沙芬被列管的那天晚上我抱头痛哭 小美离开你我要怎么活 我每天就跟小药片们做伴 它们有让我哭也让我笑的能力 如果你说可以实现我一个愿望 我希望在内网发欧弟的都死全家…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748755970636038144",
+        "conversation_id": "2032228191839142186",
+        "created_at": "2026-03-12T22:52:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T23:52:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032228191839142186"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032228191839142186",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3819,
+          "like_count": 113,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "我的少女时代是个脑残od妹\n愈美片普瑞巴林烷胺美金刚 没有磕不起只有买不到 右美沙芬被列管的那天晚上我抱头痛哭 小美离开你我要怎么活 我每天就跟小药片们做伴 它们有让我哭也让我笑的能力 如果你说可以实现我一个愿望 我希望在内网发欧弟的都死全家 然后我要去日本 别问 问就是我想磕pr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026943929120444416/QS8rXF5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 282,
+          "like_count": 18116,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 1022
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-20T17:15:06.000Z",
+        "description": "od自残 看不了血图屏蔽我 爱我请给钱 被b了自己找原因 fo你是喜欢你 脾气不好别犯贱 提问箱⏬️ 欢迎来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B7%A6%E8%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B7%A6%E8%80%B31",
+                "start": 0,
+                "url": "https://t.co/T6lnnI9h8q"
+              }
+            ]
+          }
+        },
+        "id": "1748755970636038144",
+        "location": "純綠🚪188/288➕半绿🚪520➕",
+        "name": "老公孩子在天堂",
+        "pinned_tweet_id": "1989256191537729622",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032395675628085248/2p2-IfsR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 756,
+          "following_count": 454,
+          "like_count": 1220,
+          "listed_count": 1,
+          "media_count": 273,
+          "tweet_count": 1630
+        },
+        "url": "https://t.co/T6lnnI9h8q",
+        "username": "er_zuo96208",
+        "verified": false
+      }
+    ]
+  }
+}

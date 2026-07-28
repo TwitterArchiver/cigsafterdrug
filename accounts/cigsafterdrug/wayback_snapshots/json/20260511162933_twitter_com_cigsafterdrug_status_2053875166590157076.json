@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2053830231815827853",
+    "created_at": "2026-05-11T16:29:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T17:29:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053875166590157076"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1621552410048237569",
+          "start": 0,
+          "username": "amecandy_x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053875166590157076",
+    "in_reply_to_user_id": "1621552410048237569",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053830231815827853",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@amecandy_x 最近好像更多了呃啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1013,
+        "media_key": "3_2053807842021564416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HICXWcybYAAg4Gs.jpg",
+        "width": 1011
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2053830231815827853",
+        "created_at": "2026-05-11T16:29:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T17:29:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053875166590157076"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1621552410048237569",
+              "start": 0,
+              "username": "amecandy_x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053875166590157076",
+        "in_reply_to_user_id": "1621552410048237569",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053830231815827853",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amecandy_x 最近好像更多了呃啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053807842021564416"
+          ]
+        },
+        "author_id": "1621552410048237569",
+        "conversation_id": "2053830231815827853",
+        "created_at": "2026-05-11T13:31:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T14:31:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053830231815827853"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/D7alpW3TZC",
+              "end": 47,
+              "expanded_url": "https://x.com/amecandy_x/status/2053830231815827853/photo/1",
+              "media_key": "3_2053807842021564416",
+              "start": 24,
+              "url": "https://t.co/D7alpW3TZC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053830231815827853",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 371,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的评论区也已经成功被万达广场大军污染了，，， https://t.co/D7alpW3TZC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 415,
+          "following_count": 391,
+          "like_count": 24746,
+          "listed_count": 0,
+          "media_count": 124,
+          "tweet_count": 2074
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-03T16:53:25.000Z",
+        "description": "07 / MtF / 自由意志左翼🚩/ 全栈工程师 / 独立LLM研究者 / 药物咨询https://t.co/z6NWnM8mXv",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amecandyx",
+                "end": 66,
+                "expanded_url": "https://ngl.link/amecandyx",
+                "start": 43,
+                "url": "https://t.co/z6NWnM8mXv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/Ul32kqG4uh"
+              }
+            ]
+          }
+        },
+        "id": "1621552410048237569",
+        "location": "山东·济南",
+        "name": "小雨",
+        "pinned_tweet_id": "2053359050512040106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023354415944495104/Uixnel15_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6377,
+          "following_count": 2127,
+          "like_count": 27092,
+          "listed_count": 16,
+          "media_count": 1447,
+          "tweet_count": 10211
+        },
+        "url": "https://t.co/Ul32kqG4uh",
+        "username": "amecandy_x",
+        "verified": false
+      }
+    ]
+  }
+}

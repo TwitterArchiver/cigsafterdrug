@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2077128084747419923",
+    "created_at": "2026-07-15T03:56:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T04:56:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077240972103270684"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1992237456205475840",
+          "start": 0,
+          "username": "moritas1396751"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077240972103270684",
+    "in_reply_to_user_id": "1992237456205475840",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077216542119625115",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@moritas1396751 我也想磕！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2077128084747419923",
+        "created_at": "2026-07-15T03:56:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T04:56:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077240972103270684"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992237456205475840",
+              "start": 0,
+              "username": "moritas1396751"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077240972103270684",
+        "in_reply_to_user_id": "1992237456205475840",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077216542119625115",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@moritas1396751 我也想磕！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992237456205475840",
+        "conversation_id": "2077128084747419923",
+        "created_at": "2026-07-15T02:19:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T03:19:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077216542119625115"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1536716629505359872",
+              "start": 0,
+              "username": "cigsafterdrug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077216542119625115",
+        "in_reply_to_user_id": "1536716629505359872",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077128084747419923",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cigsafterdrug 又磕了？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2070816356862431619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 524,
+          "following_count": 470,
+          "like_count": 31033,
+          "listed_count": 0,
+          "media_count": 195,
+          "tweet_count": 3041
+        },
+        "url": "",
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-22T14:23:28.000Z",
+        "description": "自業自得",
+        "id": "1992237456205475840",
+        "location": "。",
+        "name": "日和_Official",
+        "pinned_tweet_id": "2048017547577139231",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028665971293233152/cQFIla8e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 93,
+          "like_count": 3664,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 653
+        },
+        "url": "",
+        "username": "moritas1396751",
+        "verified": false
+      }
+    ]
+  }
+}

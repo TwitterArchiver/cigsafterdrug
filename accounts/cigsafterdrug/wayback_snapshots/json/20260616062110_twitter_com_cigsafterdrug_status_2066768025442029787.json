@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2066768025442029787",
+    "created_at": "2026-06-16T06:21:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T07:21:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066768025442029787"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1949348575378644992",
+          "start": 3,
+          "username": "Ace_Purin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066768025442029787",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066489043614154861",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ace_Purin: 我的放纵日是找一天药物过量"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2066768025442029787",
+        "created_at": "2026-06-16T06:21:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T07:21:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066768025442029787"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1949348575378644992",
+              "start": 3,
+              "username": "Ace_Purin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066768025442029787",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066489043614154861",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ace_Purin: 我的放纵日是找一天药物过量"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1949348575378644992",
+        "conversation_id": "2066489043614154861",
+        "created_at": "2026-06-15T11:52:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T12:52:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066489043614154861"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066489043614154861",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 745,
+          "like_count": 21,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我的放纵日是找一天药物过量"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 488,
+          "following_count": 433,
+          "like_count": 28935,
+          "listed_count": 0,
+          "media_count": 162,
+          "tweet_count": 2718
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-27T05:58:17.000Z",
+        "description": "喜欢@qngshu988723424｜💊 SH｜被block就是你的错",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "qngshu988723424"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ace_purin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ace_purin",
+                "start": 0,
+                "url": "https://t.co/0tokBnS6A6"
+              }
+            ]
+          }
+        },
+        "id": "1949348575378644992",
+        "location": "メジコン",
+        "name": "永雏布丁",
+        "pinned_tweet_id": "2033851547843719390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041031144146423808/f-TPgWl2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 237,
+          "following_count": 270,
+          "like_count": 3327,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 2269
+        },
+        "url": "https://t.co/0tokBnS6A6",
+        "username": "Ace_Purin",
+        "verified": false
+      }
+    ]
+  }
+}

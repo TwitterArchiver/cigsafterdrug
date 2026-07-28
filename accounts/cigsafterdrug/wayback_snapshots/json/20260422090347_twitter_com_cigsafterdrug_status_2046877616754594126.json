@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2046874317380796800",
+    "created_at": "2026-04-22T09:03:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T10:03:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046877616754594126"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1560533329912311808",
+          "start": 0,
+          "username": "BdZzbw6goo2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046877616754594126",
+    "in_reply_to_user_id": "1560533329912311808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046876745337540905",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BdZzbw6goo2 知道的 但是没有其他药了喵😿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2046874317380796800",
+        "created_at": "2026-04-22T09:03:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T10:03:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046877616754594126"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1560533329912311808",
+              "start": 0,
+              "username": "BdZzbw6goo2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046877616754594126",
+        "in_reply_to_user_id": "1560533329912311808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046876745337540905",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BdZzbw6goo2 知道的 但是没有其他药了喵😿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560533329912311808",
+        "conversation_id": "2046874317380796800",
+        "created_at": "2026-04-22T09:00:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T10:00:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046876745337540905"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1536716629505359872",
+              "start": 0,
+              "username": "cigsafterdrug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046876745337540905",
+        "in_reply_to_user_id": "1536716629505359872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046874317380796800",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cigsafterdrug 这个药不咋建议o，容易诱发癫痫（即使没有癫痫史）。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324,
+          "following_count": 339,
+          "like_count": 22259,
+          "listed_count": 0,
+          "media_count": 104,
+          "tweet_count": 1754
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-19T07:45:35.000Z",
+        "description": "MTF /HRT since 25.11.16/中重度抑郁/互fo/oder/深柜中（已经出柜了，但是是在偷偷HRT）/ASD",
+        "id": "1560533329912311808",
+        "name": "Lily 🏳️‍⚧️",
+        "pinned_tweet_id": "2036571069851771293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023587572161933312/nuq0npKD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 724,
+          "following_count": 916,
+          "like_count": 58438,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 504
+        },
+        "username": "BdZzbw6goo2",
+        "verified": true
+      }
+    ]
+  }
+}

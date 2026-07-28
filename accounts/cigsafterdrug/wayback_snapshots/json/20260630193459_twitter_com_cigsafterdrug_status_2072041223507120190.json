@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2072005168284213613",
+    "created_at": "2026-06-30T19:34:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T20:34:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072041223507120190"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1773143737423847424",
+          "start": 0,
+          "username": "Fanqian77v"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072041223507120190",
+    "in_reply_to_user_id": "1773143737423847424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072007292246016115",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fanqian77v 真的是⋯msk繼續陰！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2072005168284213613",
+        "created_at": "2026-06-30T19:34:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T20:34:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072041223507120190"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1773143737423847424",
+              "start": 0,
+              "username": "Fanqian77v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072041223507120190",
+        "in_reply_to_user_id": "1773143737423847424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072007292246016115",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fanqian77v 真的是⋯msk繼續陰！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1773143737423847424",
+        "conversation_id": "2072005168284213613",
+        "created_at": "2026-06-30T17:20:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T18:20:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072007292246016115"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1536716629505359872",
+              "start": 0,
+              "username": "cigsafterdrug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072007292246016115",
+        "in_reply_to_user_id": "1536716629505359872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072005168284213613",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cigsafterdrug 🙀🙀感觉x吞消息很严重 我也老看不到"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2070816356862431619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 505,
+          "following_count": 458,
+          "like_count": 29455,
+          "listed_count": 0,
+          "media_count": 179,
+          "tweet_count": 2890
+        },
+        "url": "",
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-28T00:23:14.000Z",
+        "description": "我是小 Q，喜欢我就给我打钱吧\n只o不g 互关dd",
+        "id": "1773143737423847424",
+        "name": "Q",
+        "pinned_tweet_id": "2062913082331107471",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023359610112151552/OkQwkcTo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 65,
+          "like_count": 489,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 219
+        },
+        "url": "",
+        "username": "Fanqian77v",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2018244434568380666",
+    "created_at": "2026-04-21T09:44:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T10:44:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046525437346787713"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1366768781771427841",
+          "start": 0,
+          "username": "yongqua68981012"
+        },
+        {
+          "end": 28,
+          "id": "1722909239016882176",
+          "start": 17,
+          "username": "seeuyu8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046525437346787713",
+    "in_reply_to_user_id": "1366768781771427841",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046522847636701484",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yongqua68981012 @seeuyu8964 我直接问有没有右美沙芬这样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2018244434568380666",
+        "created_at": "2026-04-21T09:44:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T10:44:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046525437346787713"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1366768781771427841",
+              "start": 0,
+              "username": "yongqua68981012"
+            },
+            {
+              "end": 28,
+              "id": "1722909239016882176",
+              "start": 17,
+              "username": "seeuyu8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046525437346787713",
+        "in_reply_to_user_id": "1366768781771427841",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046522847636701484",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yongqua68981012 @seeuyu8964 我直接问有没有右美沙芬这样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1366768781771427841",
+        "conversation_id": "2018244434568380666",
+        "created_at": "2026-04-21T09:34:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T10:34:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046522847636701484"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1536716629505359872",
+              "start": 0,
+              "username": "cigsafterdrug"
+            },
+            {
+              "end": 26,
+              "id": "1722909239016882176",
+              "start": 15,
+              "username": "seeuyu8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046522847636701484",
+        "in_reply_to_user_id": "1536716629505359872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046522656372203987",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cigsafterdrug @seeuyu8964 香港那边右美沙芬叫什么诶 我打算去澳门药店问一下能不能买到"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 323,
+          "following_count": 331,
+          "like_count": 21956,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 1727
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-02T15:14:19.000Z",
+        "description": "08/mtf",
+        "id": "1366768781771427841",
+        "location": "精神病院",
+        "name": "Tanisaki_Masaya",
+        "pinned_tweet_id": "1949439102786634138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044508686169833472/W9EEQ6-g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 507,
+          "like_count": 3004,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 198
+        },
+        "username": "yongqua68981012",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-10T09:29:19.000Z",
+        "description": "🕯️私は生き延びる曙光が必要です",
+        "id": "1722909239016882176",
+        "location": "能够背对着世界的地方",
+        "name": "魚們在沼澤遊蕩",
+        "pinned_tweet_id": "2043765937841770618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859618557618782208/tAGmZqWQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 237,
+          "like_count": 3037,
+          "listed_count": 1,
+          "media_count": 110,
+          "tweet_count": 578
+        },
+        "username": "seeuyu8964",
+        "verified": false
+      }
+    ]
+  }
+}

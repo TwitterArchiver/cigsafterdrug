@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2058916875753697395",
+    "created_at": "2026-05-25T14:23:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T15:23:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058916875753697395"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/juugatsunanoka…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/juugatsunanoka/status/2058428209646158100",
+          "start": 5,
+          "url": "https://t.co/HVukWxr7cZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058916875753697395",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058428209646158100",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "兩個萌物 https://t.co/HVukWxr7cZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11133,
+        "height": 1024,
+        "media_key": "13_2058428156458266624",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2058428156458266624/img/0AAKafDFEeveVGUS.jpg",
+        "public_metrics": {
+          "view_count": 3587
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058428156458266624/vid/avc1/320x568/93LmDdG-ZCEugrT9.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058428156458266624/vid/avc1/480x852/dvQB0KdnLmXLj8tk.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058428156458266624/vid/avc1/576x1024/i-p2WtTscuHeRJgm.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2058428156458266624/pl/8_z3H_ZfuQGFZatj.m3u8?v=2ba"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2058916875753697395",
+        "created_at": "2026-05-25T14:23:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T15:23:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058916875753697395"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/juugatsunanoka…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/juugatsunanoka/status/2058428209646158100",
+              "start": 5,
+              "url": "https://t.co/HVukWxr7cZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058916875753697395",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058428209646158100",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "兩個萌物 https://t.co/HVukWxr7cZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2058428156458266624"
+          ]
+        },
+        "author_id": "1048679916420489216",
+        "conversation_id": "2058428209646158100",
+        "created_at": "2026-05-24T06:01:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T07:01:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058428209646158100"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oGGhoN8sbx",
+              "end": 23,
+              "expanded_url": "https://x.com/juugatsunanoka/status/2058428209646158100/video/1",
+              "media_key": "13_2058428156458266624",
+              "start": 0,
+              "url": "https://t.co/oGGhoN8sbx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058428209646158100",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 38,
+          "impression_count": 7899,
+          "like_count": 429,
+          "quote_count": 9,
+          "reply_count": 1,
+          "retweet_count": 47
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/oGGhoN8sbx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 423,
+          "following_count": 403,
+          "like_count": 26557,
+          "listed_count": 0,
+          "media_count": 130,
+          "tweet_count": 2258
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2018-10-06T21:02:30.000Z",
+        "description": "どのみちすぐ死ぬから大丈夫だよ",
+        "id": "1048679916420489216",
+        "location": "神聖かまってちゃんが好きです",
+        "name": "高橋",
+        "pinned_tweet_id": "2052962677664915457",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058162418598203392/0-nfvgmS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 356,
+          "like_count": 75778,
+          "listed_count": 3,
+          "media_count": 1939,
+          "tweet_count": 29679
+        },
+        "username": "juugatsunanoka",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2050537908705382460",
+    "created_at": "2026-05-02T11:28:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T12:28:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050537908705382460"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2002670122767667200",
+          "start": 3,
+          "username": "Lotus_LianHua04"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050537908705382460",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050280709281964234",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Lotus_LianHua04: 记得照顾好自己，想吃饭了就吸毒，千万别继续往嘴里塞食物了。你什么时候戒掉暴食妈妈就安心了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2050537908705382460",
+        "created_at": "2026-05-02T11:28:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T12:28:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050537908705382460"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2002670122767667200",
+              "start": 3,
+              "username": "Lotus_LianHua04"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050537908705382460",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050280709281964234",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Lotus_LianHua04: 记得照顾好自己，想吃饭了就吸毒，千万别继续往嘴里塞食物了。你什么时候戒掉暴食妈妈就安心了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002670122767667200",
+        "conversation_id": "2050280709281964234",
+        "created_at": "2026-05-01T18:26:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T19:26:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050280709281964234"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2050280709281964234",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1105,
+          "like_count": 11,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "记得照顾好自己，想吃饭了就吸毒，千万别继续往嘴里塞食物了。你什么时候戒掉暴食妈妈就安心了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 360,
+          "following_count": 370,
+          "like_count": 23569,
+          "listed_count": 0,
+          "media_count": 113,
+          "tweet_count": 1900
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034457349608583168/v42_v5eG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 22,
+          "like_count": 519,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 1237
+        },
+        "username": "Lotus_LianHua04",
+        "verified": false
+      }
+    ]
+  }
+}

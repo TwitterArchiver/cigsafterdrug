@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2071552304663429507",
+    "created_at": "2026-06-29T11:12:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T12:12:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071552304663429507"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ame8964/status…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/ame8964/status/2071313922075001278",
+          "start": 11,
+          "url": "https://t.co/ej25e3mXdD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071552304663429507",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071313922075001278",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "此女很倒霉求帮助吧对 https://t.co/ej25e3mXdD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1334,
+        "media_key": "3_2071313914449772544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL7JB-kaQAA6Mt3.jpg",
+        "width": 750
+      },
+      {
+        "height": 1334,
+        "media_key": "3_2071313914441486336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL7JB-ib0AAvOKa.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2071552304663429507",
+        "created_at": "2026-06-29T11:12:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T12:12:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071552304663429507"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ame8964/status…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/ame8964/status/2071313922075001278",
+              "start": 11,
+              "url": "https://t.co/ej25e3mXdD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071552304663429507",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071313922075001278",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "此女很倒霉求帮助吧对 https://t.co/ej25e3mXdD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071313914449772544",
+            "3_2071313914441486336"
+          ]
+        },
+        "author_id": "1262416576617148417",
+        "conversation_id": "2071313922075001278",
+        "created_at": "2026-06-28T19:24:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T20:24:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071313922075001278"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Coytf0SvL3",
+              "end": 60,
+              "expanded_url": "https://x.com/Ame8964/status/2071313922075001278/photo/1",
+              "media_key": "3_2071313914449772544",
+              "start": 37,
+              "url": "https://t.co/Coytf0SvL3"
+            },
+            {
+              "display_url": "pic.x.com/Coytf0SvL3",
+              "end": 60,
+              "expanded_url": "https://x.com/Ame8964/status/2071313922075001278/photo/1",
+              "media_key": "3_2071313914441486336",
+              "start": 37,
+              "url": "https://t.co/Coytf0SvL3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071313922075001278",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 110,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "众筹一下我的烟头掉到地上费\n只要有6000人给我$0.5就能缴上了orz https://t.co/Coytf0SvL3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2070816356862431619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 506,
+          "following_count": 459,
+          "like_count": 29383,
+          "listed_count": 0,
+          "media_count": 178,
+          "tweet_count": 2870
+        },
+        "url": "",
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-18T16:15:51.000Z",
+        "description": "-小雨\n-10年 港人（518964）（拒小粉紅）\n-与顺直男恋爱中的顺直女（1i）\n-我是爱慕可是男友也是爱慕怎么办\n-LGBTQ+全包容\n-乌蒙批 世画批",
+        "id": "1262416576617148417",
+        "name": "Ame",
+        "pinned_tweet_id": "2069131487778381862",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068818807091830784/Wd3v37sx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 56,
+          "like_count": 311,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 318
+        },
+        "url": "",
+        "username": "Ame8964",
+        "verified": false
+      }
+    ]
+  }
+}

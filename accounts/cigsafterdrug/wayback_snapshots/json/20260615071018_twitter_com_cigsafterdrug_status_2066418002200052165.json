@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2066413715524915487",
+    "created_at": "2026-06-15T07:10:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T08:10:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066418002200052165"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2047894021457211393",
+          "start": 0,
+          "username": "FanQie_QianQian"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066418002200052165",
+    "in_reply_to_user_id": "2047894021457211393",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066413715524915487",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FanQie_QianQian 此時不自慰更待何時！溫習的時候會一直想著（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2066413715524915487",
+        "created_at": "2026-06-15T07:10:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T08:10:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066418002200052165"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2047894021457211393",
+              "start": 0,
+              "username": "FanQie_QianQian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066418002200052165",
+        "in_reply_to_user_id": "2047894021457211393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066413715524915487",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FanQie_QianQian 此時不自慰更待何時！溫習的時候會一直想著（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047894021457211393",
+        "conversation_id": "2066413715524915487",
+        "created_at": "2026-06-15T06:53:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T07:53:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066413715524915487"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066413715524915487",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好想自慰但是我還要複習。豆包豆包，高潮完之後複習會更有效率嗎？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 485,
+          "following_count": 431,
+          "like_count": 28868,
+          "listed_count": 0,
+          "media_count": 161,
+          "tweet_count": 2686
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-25T04:22:51.000Z",
+        "description": "重生之8.0\n11年 順女 LGBTQ全友好 前世互關尋回\n另一個我@_FanQie11_\n寶寶 @7q46843886669",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "_FanQie11_"
+              },
+              {
+                "end": 63,
+                "start": 49,
+                "username": "7q46843886669"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_1",
+                "start": 0,
+                "url": "https://t.co/JbrJBgq8ZL"
+              }
+            ]
+          }
+        },
+        "id": "2047894021457211393",
+        "name": "飯企鵝8.0",
+        "pinned_tweet_id": "2065786713256141126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057140948434649088/mo_BXY2p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1034,
+          "following_count": 64,
+          "like_count": 2608,
+          "listed_count": 1,
+          "media_count": 88,
+          "tweet_count": 1135
+        },
+        "url": "https://t.co/JbrJBgq8ZL",
+        "username": "FanQie_QianQian",
+        "verified": false
+      }
+    ]
+  }
+}

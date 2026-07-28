@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2071993156326044072",
+    "created_at": "2026-07-01T04:18:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T05:18:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072173065077948907"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2024584670365831169",
+          "start": 0,
+          "username": "luftwaffelive"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072173065077948907",
+    "in_reply_to_user_id": "2024584670365831169",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072076418599829728",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@luftwaffelive 我发你宝宝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2071993156326044072",
+        "created_at": "2026-07-01T04:18:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T05:18:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072173065077948907"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2024584670365831169",
+              "start": 0,
+              "username": "luftwaffelive"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072173065077948907",
+        "in_reply_to_user_id": "2024584670365831169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072076418599829728",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luftwaffelive 我发你宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024584670365831169",
+        "conversation_id": "2071993156326044072",
+        "created_at": "2026-06-30T21:54:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T22:54:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072076418599829728"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1536716629505359872",
+              "start": 0,
+              "username": "cigsafterdrug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072076418599829728",
+        "in_reply_to_user_id": "1536716629505359872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071993156326044072",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cigsafterdrug 咋买啊宝宝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2070816356862431619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 504,
+          "following_count": 457,
+          "like_count": 29468,
+          "listed_count": 0,
+          "media_count": 179,
+          "tweet_count": 2892
+        },
+        "url": "",
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-19T20:39:50.000Z",
+        "description": "我是xwx｜精神不正常\n🚪58｜88",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bzd83462",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bzd83462",
+                "start": 0,
+                "url": "https://t.co/w4TurCgXJT"
+              }
+            ]
+          }
+        },
+        "id": "2024584670365831169",
+        "location": "notfound",
+        "name": "豆包我全家死了",
+        "pinned_tweet_id": "2066523058886816194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066887505987919873/UdxmXiro_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 160,
+          "like_count": 755,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 153
+        },
+        "url": "https://t.co/w4TurCgXJT",
+        "username": "luftwaffelive",
+        "verified": false
+      }
+    ]
+  }
+}

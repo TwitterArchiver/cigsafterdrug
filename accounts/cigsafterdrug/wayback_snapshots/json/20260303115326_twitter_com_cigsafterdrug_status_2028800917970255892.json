@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2028793183438774731",
+    "created_at": "2026-03-03T11:53:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T12:53:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028800917970255892"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1727277830025973760",
+          "start": 0,
+          "username": "yuriano3479"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028800917970255892",
+    "in_reply_to_user_id": "1727277830025973760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028793183438774731",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuriano3479 爱你爱你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2028793183438774731",
+        "created_at": "2026-03-03T11:53:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T12:53:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028800917970255892"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1727277830025973760",
+              "start": 0,
+              "username": "yuriano3479"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028800917970255892",
+        "in_reply_to_user_id": "1727277830025973760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028793183438774731",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuriano3479 爱你爱你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1727277830025973760",
+        "conversation_id": "2028793183438774731",
+        "created_at": "2026-03-03T11:22:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T12:22:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028793183438774731"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2028793183438774731",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 73,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对于陪伴我的粉丝…我想说我爱你们。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026943929120444416/QS8rXF5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 106,
+          "like_count": 16596,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 607
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-22T10:48:32.000Z",
+        "description": "是优理~喜欢我就请关注吧^^什么都发｜欢迎互fo/DM○｜中文/日本語/Eng｜提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linkbio.co/8020909Yo7hsb",
+                "end": 23,
+                "expanded_url": "https://linkbio.co/8020909Yo7hsb",
+                "start": 0,
+                "url": "https://t.co/dUGLHyy8uQ"
+              }
+            ]
+          }
+        },
+        "id": "1727277830025973760",
+        "name": "yuriiano",
+        "pinned_tweet_id": "2022000832984887453",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019104604940824578/EIm_kRRr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 306,
+          "following_count": 284,
+          "like_count": 3006,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 526
+        },
+        "url": "https://t.co/dUGLHyy8uQ",
+        "username": "yuriano3479",
+        "verified": false
+      }
+    ]
+  }
+}

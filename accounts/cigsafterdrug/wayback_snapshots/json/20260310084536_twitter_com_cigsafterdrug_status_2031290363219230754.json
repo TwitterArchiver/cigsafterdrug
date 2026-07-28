@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2030979736206541105",
+    "created_at": "2026-03-10T08:45:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T09:45:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031290363219230754"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1555622253806493696",
+          "start": 0,
+          "username": "Kaed3_tachibanA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031290363219230754",
+    "in_reply_to_user_id": "1555622253806493696",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031290235058008343",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kaed3_tachibanA 好噢宝宝！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2030979736206541105",
+        "created_at": "2026-03-10T08:45:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T09:45:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031290363219230754"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1555622253806493696",
+              "start": 0,
+              "username": "Kaed3_tachibanA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031290363219230754",
+        "in_reply_to_user_id": "1555622253806493696",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031290235058008343",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kaed3_tachibanA 好噢宝宝！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1555622253806493696",
+        "conversation_id": "2030979736206541105",
+        "created_at": "2026-03-10T08:45:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T09:45:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031290235058008343"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1536716629505359872",
+              "start": 0,
+              "username": "cigsafterdrug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031290235058008343",
+        "in_reply_to_user_id": "1536716629505359872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030979736206541105",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cigsafterdrug 我来啦🫡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026943929120444416/QS8rXF5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 152,
+          "like_count": 17599,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 777
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-05T18:30:29.000Z",
+        "description": "==橘楓/楓橘｜本垢｜精神障害⚠️⚠️(治療中)｜CAN / MAN / EN / 簡単な日本語｜挨拶不要｜Pansexual 🩷💛🩵｜💊＆🩸注意‼️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Kaed3_tachibanA",
+                "end": 23,
+                "expanded_url": "https://lit.link/Kaed3_tachibanA",
+                "start": 0,
+                "url": "https://t.co/YvOv7ErSJK"
+              }
+            ]
+          }
+        },
+        "id": "1555622253806493696",
+        "location": "天国",
+        "name": "ᐕ)ﾉ",
+        "pinned_tweet_id": "2031254442075664497",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894256078331727872/WBB_Tgde_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 116,
+          "like_count": 39863,
+          "listed_count": 0,
+          "media_count": 1733,
+          "tweet_count": 19496
+        },
+        "url": "https://t.co/YvOv7ErSJK",
+        "username": "Kaed3_tachibanA",
+        "verified": false
+      }
+    ]
+  }
+}

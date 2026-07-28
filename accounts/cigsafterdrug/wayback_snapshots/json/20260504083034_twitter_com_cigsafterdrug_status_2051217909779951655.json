@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2051215924334878946",
+    "created_at": "2026-05-04T08:30:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T09:30:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051217909779951655"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1898308906994294784",
+          "start": 0,
+          "username": "TTBRAr12"
+        },
+        {
+          "end": 26,
+          "id": "1684269091849404416",
+          "start": 10,
+          "username": "hg3551019177402"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051217909779951655",
+    "in_reply_to_user_id": "1898308906994294784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051216801879769219",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TTBRAr12 @hg3551019177402 这个包装好像没写什么味 但我抽起来像普通香草味的样子🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2051215924334878946",
+        "created_at": "2026-05-04T08:30:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T09:30:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051217909779951655"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1898308906994294784",
+              "start": 0,
+              "username": "TTBRAr12"
+            },
+            {
+              "end": 26,
+              "id": "1684269091849404416",
+              "start": 10,
+              "username": "hg3551019177402"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051217909779951655",
+        "in_reply_to_user_id": "1898308906994294784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051216801879769219",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TTBRAr12 @hg3551019177402 这个包装好像没写什么味 但我抽起来像普通香草味的样子🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898308906994294784",
+        "conversation_id": "2051215924334878946",
+        "created_at": "2026-05-04T08:26:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T09:26:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051216801879769219"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1536716629505359872",
+              "start": 0,
+              "username": "cigsafterdrug"
+            },
+            {
+              "end": 31,
+              "id": "1684269091849404416",
+              "start": 15,
+              "username": "hg3551019177402"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051216801879769219",
+        "in_reply_to_user_id": "1536716629505359872",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051215924334878946",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cigsafterdrug @hg3551019177402 居然有可可味"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 358,
+          "following_count": 370,
+          "like_count": 23735,
+          "listed_count": 0,
+          "media_count": 114,
+          "tweet_count": 1921
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-08T09:44:56.000Z",
+        "description": "",
+        "id": "1898308906994294784",
+        "name": "TTAR",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966263377233403904/aqrIK04U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 693,
+          "like_count": 5458,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 985
+        },
+        "username": "TTBRAr12",
+        "verified": false,
+        "withheld": {
+          "country_codes": [
+            "TR"
+          ]
+        }
+      },
+      {
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "description": "干点烟代，电子烟纸烟 第一个老板被我开除了，太黑了，第二个已经是我好兄弟了，可散发，邮费12买的多包邮，也有电子烟，什么都有，问一些高端稀缺的电子烟（日韩）可能要等一下好兄弟问价格。",
+        "id": "1684269091849404416",
+        "name": "12",
+        "pinned_tweet_id": "2050964173111321004",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045697198890119168/n-jopRK7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 756,
+          "following_count": 741,
+          "like_count": 18199,
+          "listed_count": 1,
+          "media_count": 641,
+          "tweet_count": 9271
+        },
+        "username": "hg3551019177402",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2065387548550234220",
+    "created_at": "2026-06-12T10:55:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T11:55:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065387548550234220"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/fanqie_qianqia…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/fanqie_qianqian/status/2065386574439997941",
+          "start": 7,
+          "url": "https://t.co/YV4A0boBUl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065387548550234220",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065386574439997941",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "妹子你們好萌 https://t.co/YV4A0boBUl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "3_2065386568395956225",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKm6JB0aoAEwOO1.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2065387548550234220",
+        "created_at": "2026-06-12T10:55:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T11:55:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065387548550234220"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/fanqie_qianqia…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/fanqie_qianqian/status/2065386574439997941",
+              "start": 7,
+              "url": "https://t.co/YV4A0boBUl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065387548550234220",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065386574439997941",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "妹子你們好萌 https://t.co/YV4A0boBUl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065386568395956225"
+          ]
+        },
+        "author_id": "2047894021457211393",
+        "conversation_id": "2065386574439997941",
+        "created_at": "2026-06-12T10:51:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T11:51:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065386574439997941"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1805047599256494080",
+              "start": 0,
+              "username": "rn6zw0"
+            },
+            {
+              "end": 23,
+              "id": "1536716629505359872",
+              "start": 9,
+              "username": "cigsafterdrug"
+            },
+            {
+              "end": 36,
+              "id": "2063228399586541568",
+              "start": 25,
+              "username": "_FanQie11_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hHMTTPtCBz",
+              "end": 60,
+              "expanded_url": "https://x.com/FanQie_QianQian/status/2065386574439997941/photo/1",
+              "media_key": "3_2065386568395956225",
+              "start": 37,
+              "url": "https://t.co/hHMTTPtCBz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065386574439997941",
+        "in_reply_to_user_id": "1805047599256494080",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 3,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@rn6zw0 \n@cigsafterdrug \n@_FanQie11_ https://t.co/hHMTTPtCBz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 466,
+          "following_count": 423,
+          "like_count": 28499,
+          "listed_count": 0,
+          "media_count": 149,
+          "tweet_count": 2548
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-25T04:22:51.000Z",
+        "description": "重生之8.0\n11年 順女 LGBTQ全友好 前世互關尋回\n另一個我@_FanQie11_\n寶寶 @7q46843886669",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "_FanQie11_"
+              },
+              {
+                "end": 63,
+                "start": 49,
+                "username": "7q46843886669"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_1",
+                "start": 0,
+                "url": "https://t.co/JbrJBgq8ZL"
+              }
+            ]
+          }
+        },
+        "id": "2047894021457211393",
+        "name": "飯企鵝8.0",
+        "pinned_tweet_id": "2051753420537954589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057140948434649088/mo_BXY2p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 799,
+          "following_count": 58,
+          "like_count": 2075,
+          "listed_count": 1,
+          "media_count": 73,
+          "tweet_count": 885
+        },
+        "url": "https://t.co/JbrJBgq8ZL",
+        "username": "FanQie_QianQian",
+        "verified": false
+      }
+    ]
+  }
+}

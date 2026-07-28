@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2065393355060814089",
+    "created_at": "2026-06-12T18:08:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T19:08:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065496598969471042"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1415621464288493568",
+          "start": 0,
+          "username": "l02wc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065496598969471042",
+    "in_reply_to_user_id": "1415621464288493568",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065393355060814089",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@l02wc u da real emo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1438,
+        "media_key": "3_2065393332273221632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKnASvObEAAbZsq.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2065393355060814089",
+        "created_at": "2026-06-12T18:08:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T19:08:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065496598969471042"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1415621464288493568",
+              "start": 0,
+              "username": "l02wc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065496598969471042",
+        "in_reply_to_user_id": "1415621464288493568",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065393355060814089",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@l02wc u da real emo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065393332273221632"
+          ]
+        },
+        "author_id": "1415621464288493568",
+        "conversation_id": "2065393355060814089",
+        "created_at": "2026-06-12T11:18:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T12:18:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065393355060814089"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rZNeyVMoxx",
+              "end": 26,
+              "expanded_url": "https://x.com/l02wc/status/2065393355060814089/photo/1",
+              "media_key": "3_2065393332273221632",
+              "start": 3,
+              "url": "https://t.co/rZNeyVMoxx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065393355060814089",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 1688,
+          "like_count": 150,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "😈🫪 https://t.co/rZNeyVMoxx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 473,
+          "following_count": 427,
+          "like_count": 28583,
+          "listed_count": 0,
+          "media_count": 152,
+          "tweet_count": 2591
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-15T10:37:26.000Z",
+        "description": "",
+        "id": "1415621464288493568",
+        "name": "4everhomesick",
+        "pinned_tweet_id": "1998405433384706317",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045132753830924288/lnthK0iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 315,
+          "following_count": 44,
+          "like_count": 514,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 79
+        },
+        "username": "l02wc",
+        "verified": false
+      }
+    ]
+  }
+}

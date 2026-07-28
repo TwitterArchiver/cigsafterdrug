@@ -1,0 +1,384 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062858093399347200"
+      ],
+      "media_source_tweet_id": [
+        "2062858097451041076"
+      ]
+    },
+    "author_id": "1536716629505359872",
+    "conversation_id": "2062858481603080288",
+    "created_at": "2026-06-05T11:26:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T12:26:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062858481603080288"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2001675650994999296",
+          "start": 3,
+          "username": "Pluralitysubsys"
+        },
+        {
+          "end": 42,
+          "id": "2047894021457211393",
+          "start": 26,
+          "username": "FanQie_QianQian"
+        },
+        {
+          "end": 57,
+          "id": "1536716629505359872",
+          "start": 43,
+          "username": "cigsafterdrug"
+        },
+        {
+          "end": 75,
+          "id": "2001675650994999296",
+          "start": 59,
+          "username": "Pluralitysubsys"
+        },
+        {
+          "end": 90,
+          "id": "93881424",
+          "start": 77,
+          "username": "ManJamesChow"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CVupT99OuR",
+          "end": 114,
+          "expanded_url": "https://x.com/Pluralitysubsys/status/2062858097451041076/photo/1",
+          "media_key": "3_2062858093399347200",
+          "start": 91,
+          "url": "https://t.co/CVupT99OuR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062858481603080288",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062858097451041076",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Pluralitysubsys: 四人面基\n@FanQie_QianQian\n@cigsafterdrug \n@Pluralitysubsys \n@ManJamesChow https://t.co/CVupT99OuR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2062858093399347200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKC-gacbkAAaXTs.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062858093399347200"
+          ],
+          "media_source_tweet_id": [
+            "2062858097451041076"
+          ]
+        },
+        "author_id": "1536716629505359872",
+        "conversation_id": "2062858481603080288",
+        "created_at": "2026-06-05T11:26:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T12:26:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062858481603080288"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2001675650994999296",
+              "start": 3,
+              "username": "Pluralitysubsys"
+            },
+            {
+              "end": 42,
+              "id": "2047894021457211393",
+              "start": 26,
+              "username": "FanQie_QianQian"
+            },
+            {
+              "end": 57,
+              "id": "1536716629505359872",
+              "start": 43,
+              "username": "cigsafterdrug"
+            },
+            {
+              "end": 75,
+              "id": "2001675650994999296",
+              "start": 59,
+              "username": "Pluralitysubsys"
+            },
+            {
+              "end": 90,
+              "id": "93881424",
+              "start": 77,
+              "username": "ManJamesChow"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CVupT99OuR",
+              "end": 114,
+              "expanded_url": "https://x.com/Pluralitysubsys/status/2062858097451041076/photo/1",
+              "media_key": "3_2062858093399347200",
+              "start": 91,
+              "url": "https://t.co/CVupT99OuR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062858481603080288",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062858097451041076",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Pluralitysubsys: 四人面基\n@FanQie_QianQian\n@cigsafterdrug \n@Pluralitysubsys \n@ManJamesChow https://t.co/CVupT99OuR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062858093399347200"
+          ]
+        },
+        "author_id": "2001675650994999296",
+        "conversation_id": "2062858097451041076",
+        "created_at": "2026-06-05T11:24:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T12:24:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062858097451041076"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 21,
+              "id": "2047894021457211393",
+              "start": 5,
+              "username": "FanQie_QianQian"
+            },
+            {
+              "end": 36,
+              "id": "1536716629505359872",
+              "start": 22,
+              "username": "cigsafterdrug"
+            },
+            {
+              "end": 54,
+              "id": "2001675650994999296",
+              "start": 38,
+              "username": "Pluralitysubsys"
+            },
+            {
+              "end": 69,
+              "id": "93881424",
+              "start": 56,
+              "username": "ManJamesChow"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CVupT99OuR",
+              "end": 93,
+              "expanded_url": "https://x.com/Pluralitysubsys/status/2062858097451041076/photo/1",
+              "media_key": "3_2062858093399347200",
+              "start": 70,
+              "url": "https://t.co/CVupT99OuR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062858097451041076",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "四人面基\n@FanQie_QianQian\n@cigsafterdrug \n@Pluralitysubsys \n@ManJamesChow https://t.co/CVupT99OuR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 444,
+          "following_count": 415,
+          "like_count": 27877,
+          "listed_count": 0,
+          "media_count": 143,
+          "tweet_count": 2433
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-18T15:27:35.000Z",
+        "description": "喜爱生物化学 | 渴望成为全知者 | HK | They | audhd | 道德感极强 | nssi | od | 绝不自杀 | 法外狂徒 | 精神状态疯癫 |",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.psychonautwiki.org/wiki/Psychoact…",
+                "end": 23,
+                "expanded_url": "https://m.psychonautwiki.org/wiki/Psychoactive%20substance%20index",
+                "start": 0,
+                "url": "https://t.co/V27J0WGYKr"
+              }
+            ]
+          }
+        },
+        "id": "2001675650994999296",
+        "location": "全球最大的化工厂 A区第8期11栋0318室",
+        "name": "清梦与清云",
+        "pinned_tweet_id": "2059175171286819294",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059920070571335680/QMy39m02_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 95,
+          "like_count": 1328,
+          "listed_count": 0,
+          "media_count": 153,
+          "tweet_count": 2139
+        },
+        "url": "https://t.co/V27J0WGYKr",
+        "username": "Pluralitysubsys",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-25T04:22:51.000Z",
+        "description": "重生之8.0\n11年 順女 LGBTQ全友好 前世互關尋回\n寶寶 @7q46843886669",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 33,
+                "username": "7q46843886669"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_1",
+                "start": 0,
+                "url": "https://t.co/JbrJBgq8ZL"
+              }
+            ]
+          }
+        },
+        "id": "2047894021457211393",
+        "name": "飯企鵝8.0",
+        "pinned_tweet_id": "2051753420537954589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057140948434649088/mo_BXY2p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 604,
+          "following_count": 35,
+          "like_count": 1099,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 467
+        },
+        "url": "https://t.co/JbrJBgq8ZL",
+        "username": "FanQie_QianQian",
+        "verified": false
+      },
+      {
+        "created_at": "2009-12-01T15:33:56.000Z",
+        "description": "",
+        "id": "93881424",
+        "location": "Hong Kong",
+        "name": "肉隨長白山",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891752015891730432/VVJn6YKV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 408,
+          "like_count": 934,
+          "listed_count": 2,
+          "media_count": 24,
+          "tweet_count": 1231
+        },
+        "username": "ManJamesChow",
+        "verified": false
+      }
+    ]
+  }
+}

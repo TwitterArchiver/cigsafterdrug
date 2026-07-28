@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2031199086293168537",
+    "created_at": "2026-03-10T07:50:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T08:50:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031276518585020694"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1995221362152235008",
+          "start": 0,
+          "username": "bear1533905"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031276518585020694",
+    "in_reply_to_user_id": "1995221362152235008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031254364397121650",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bear1533905 我来啦😼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2031199086293168537",
+        "created_at": "2026-03-10T07:50:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T08:50:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031276518585020694"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1995221362152235008",
+              "start": 0,
+              "username": "bear1533905"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031276518585020694",
+        "in_reply_to_user_id": "1995221362152235008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031254364397121650",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bear1533905 我来啦😼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995221362152235008",
+        "conversation_id": "2031199086293168537",
+        "created_at": "2026-03-10T06:22:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T07:22:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031254364397121650"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1536716629505359872",
+              "start": 0,
+              "username": "cigsafterdrug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031254364397121650",
+        "in_reply_to_user_id": "1536716629505359872",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031199086293168537",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cigsafterdrug 1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026943929120444416/QS8rXF5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 132,
+          "like_count": 17557,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 746
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-30T20:00:33.000Z",
+        "description": "",
+        "id": "1995221362152235008",
+        "name": "bear猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003127791760662528/LWfs4CUW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 40,
+          "like_count": 402,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 103
+        },
+        "username": "bear1533905",
+        "verified": false
+      }
+    ]
+  }
+}

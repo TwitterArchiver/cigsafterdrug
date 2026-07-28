@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2046289883921350919",
+    "created_at": "2026-04-21T01:42:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T02:42:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046404280341627274"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2016199432367427584",
+          "start": 0,
+          "username": "SkyStar1987565"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046404280341627274",
+    "in_reply_to_user_id": "2016199432367427584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046403359457092070",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SkyStar1987565 666块离谱得让人发笑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2046289883921350919",
+        "created_at": "2026-04-21T01:42:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T02:42:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046404280341627274"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2016199432367427584",
+              "start": 0,
+              "username": "SkyStar1987565"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046404280341627274",
+        "in_reply_to_user_id": "2016199432367427584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046403359457092070",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SkyStar1987565 666块离谱得让人发笑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2016199432367427584",
+        "conversation_id": "2046289883921350919",
+        "created_at": "2026-04-21T01:39:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T02:39:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046403359457092070"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1536716629505359872",
+              "start": 0,
+              "username": "cigsafterdrug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046403359457092070",
+        "in_reply_to_user_id": "1536716629505359872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046289883921350919",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cigsafterdrug 经济崩溃政治崩溃，摆在oder面前的…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 321,
+          "following_count": 330,
+          "like_count": 21917,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 1720
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-27T17:19:51.000Z",
+        "description": "",
+        "id": "2016199432367427584",
+        "name": "Sky Star",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026373806043049984/6mICId-S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 11,
+          "like_count": 564,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 25
+        },
+        "username": "SkyStar1987565",
+        "verified": false
+      }
+    ]
+  }
+}

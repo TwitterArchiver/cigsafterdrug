@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2056329393677774935",
+    "created_at": "2026-05-18T11:01:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T12:01:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056329393677774935"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ao8kj/status/2…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/ao8kj/status/2056142885029064842",
+          "start": 8,
+          "url": "https://t.co/dJweuXzFHR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056329393677774935",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056142885029064842",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "誰把我開出來了 https://t.co/dJweuXzFHR"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2056329393677774935",
+        "created_at": "2026-05-18T11:01:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T12:01:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056329393677774935"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ao8kj/status/2…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/ao8kj/status/2056142885029064842",
+              "start": 8,
+              "url": "https://t.co/dJweuXzFHR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056329393677774935",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056142885029064842",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "誰把我開出來了 https://t.co/dJweuXzFHR"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858392178739068928",
+        "conversation_id": "2056142885029064842",
+        "created_at": "2026-05-17T22:40:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T23:40:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056142885029064842"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056142885029064842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 12972,
+          "like_count": 274,
+          "quote_count": 10,
+          "reply_count": 42,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "回避型就是不配被爱😂爱上这样的人简直生不如死  在他认知里面只会伤害愿意对他好愿意忍让的人 真正不爱他的人是不会被他伤害到的 所以他能完美把所有攻击都放到爱自己的人身上 对陌生人话很多 对越熟悉的人话越少 一问就是不知道说什么 刚认识就很正常 越相处越冷暴力"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 419,
+          "following_count": 394,
+          "like_count": 25675,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 2156
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-18T06:10:10.000Z",
+        "description": "^_^。🚪 纯绿188/想发啥发啥",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kunkun6661",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kunkun6661",
+                "start": 0,
+                "url": "https://t.co/SkuMOBF49z"
+              }
+            ]
+          }
+        },
+        "id": "1858392178739068928",
+        "name": "困困",
+        "pinned_tweet_id": "1888356593647149334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005403869484900352/wPDtDCaY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15092,
+          "following_count": 75,
+          "like_count": 2222,
+          "listed_count": 57,
+          "media_count": 165,
+          "tweet_count": 1549
+        },
+        "url": "https://t.co/SkuMOBF49z",
+        "username": "Ao8Kj",
+        "verified": false
+      }
+    ]
+  }
+}

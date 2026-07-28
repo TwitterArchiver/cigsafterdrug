@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074653557337268224"
+      ],
+      "media_source_tweet_id": [
+        "2074653561967796726"
+      ]
+    },
+    "author_id": "1536716629505359872",
+    "conversation_id": "2074818816220287418",
+    "created_at": "2026-07-08T11:32:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T12:32:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074818816220287418"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2043117060260016128",
+          "start": 3,
+          "username": "67slimed"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QC1X0QoqEV",
+          "end": 54,
+          "expanded_url": "https://x.com/67slimed/status/2074653561967796726/photo/1",
+          "media_key": "3_2074653557337268224",
+          "start": 31,
+          "url": "https://t.co/QC1X0QoqEV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074818816220287418",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 801
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074653561967796726",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @67slimed: second date idea https://t.co/QC1X0QoqEV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1559,
+        "media_key": "3_2074653557337268224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMqmax0WoAAz4BJ.jpg",
+        "width": 1191
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074653557337268224"
+          ],
+          "media_source_tweet_id": [
+            "2074653561967796726"
+          ]
+        },
+        "author_id": "1536716629505359872",
+        "conversation_id": "2074818816220287418",
+        "created_at": "2026-07-08T11:32:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T12:32:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074818816220287418"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2043117060260016128",
+              "start": 3,
+              "username": "67slimed"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QC1X0QoqEV",
+              "end": 54,
+              "expanded_url": "https://x.com/67slimed/status/2074653561967796726/photo/1",
+              "media_key": "3_2074653557337268224",
+              "start": 31,
+              "url": "https://t.co/QC1X0QoqEV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074818816220287418",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 801
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074653561967796726",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @67slimed: second date idea https://t.co/QC1X0QoqEV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074653557337268224"
+          ]
+        },
+        "author_id": "2043117060260016128",
+        "conversation_id": "2074653561967796726",
+        "created_at": "2026-07-08T00:35:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T01:35:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074653561967796726"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QC1X0QoqEV",
+              "end": 40,
+              "expanded_url": "https://x.com/67slimed/status/2074653561967796726/photo/1",
+              "media_key": "3_2074653557337268224",
+              "start": 17,
+              "url": "https://t.co/QC1X0QoqEV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074653561967796726",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 560,
+          "impression_count": 30161,
+          "like_count": 5162,
+          "quote_count": 31,
+          "reply_count": 4,
+          "retweet_count": 801
+        },
+        "reply_settings": "following",
+        "text": "second date idea https://t.co/QC1X0QoqEV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2070816356862431619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 514,
+          "following_count": 464,
+          "like_count": 30127,
+          "listed_count": 0,
+          "media_count": 190,
+          "tweet_count": 2979
+        },
+        "url": "",
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-12T00:00:41.000Z",
+        "description": "ilmbf",
+        "id": "2043117060260016128",
+        "location": "dni 15 under",
+        "name": "AURA DADDY",
+        "pinned_tweet_id": "2073175084378849342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074637713974730752/5Tb1M-5F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2262,
+          "following_count": 141,
+          "like_count": 11323,
+          "listed_count": 1,
+          "media_count": 463,
+          "tweet_count": 1433
+        },
+        "url": "",
+        "username": "67slimed",
+        "verified": false
+      }
+    ]
+  }
+}

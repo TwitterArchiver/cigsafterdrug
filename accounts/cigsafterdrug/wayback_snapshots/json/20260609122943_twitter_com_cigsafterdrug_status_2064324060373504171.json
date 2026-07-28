@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2064324060373504171",
+    "created_at": "2026-06-09T12:29:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T13:29:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064324060373504171"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/candyminaj71/s…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/candyminaj71/status/2063930649497469378",
+          "start": 8,
+          "url": "https://t.co/8r6opcHCZN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064324060373504171",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063930649497469378",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "這張圖太好笑⋯ https://t.co/8r6opcHCZN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 521,
+        "media_key": "3_2063930407452553216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKSNxTlWMAA23a7.jpg",
+        "width": 680
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2064324060373504171",
+        "created_at": "2026-06-09T12:29:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T13:29:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064324060373504171"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/candyminaj71/s…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/candyminaj71/status/2063930649497469378",
+              "start": 8,
+              "url": "https://t.co/8r6opcHCZN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064324060373504171",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063930649497469378",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "這張圖太好笑⋯ https://t.co/8r6opcHCZN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063930407452553216"
+          ]
+        },
+        "author_id": "1355210600545198085",
+        "conversation_id": "2063930649497469378",
+        "created_at": "2026-06-08T10:26:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T11:26:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063930649497469378"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 95,
+              "start": 87,
+              "tag": "shedtwt"
+            },
+            {
+              "end": 107,
+              "start": 96,
+              "tag": "suicidetwt"
+            },
+            {
+              "end": 114,
+              "start": 108,
+              "tag": "shtwt"
+            },
+            {
+              "end": 121,
+              "start": 115,
+              "tag": "edtwt"
+            },
+            {
+              "end": 130,
+              "start": 122,
+              "tag": "drugtwt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/X8PMQOp3q6",
+              "end": 173,
+              "expanded_url": "https://x.com/Candyminaj71/status/2063930649497469378/photo/1",
+              "media_key": "3_2063930407452553216",
+              "start": 150,
+              "url": "https://t.co/X8PMQOp3q6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063930649497469378",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1156,
+          "impression_count": 86572,
+          "like_count": 11780,
+          "quote_count": 35,
+          "reply_count": 77,
+          "retweet_count": 1853
+        },
+        "reply_settings": "everyone",
+        "text": "Since I know my followers I have a genuine question. Is addiction better than $u1cide \n#shedtwt #suicidetwt #shtwt #edtwt #drugtwt I’m really curious https://t.co/X8PMQOp3q6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 460,
+          "following_count": 421,
+          "like_count": 28283,
+          "listed_count": 0,
+          "media_count": 144,
+          "tweet_count": 2509
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-29T17:46:13.000Z",
+        "description": "Mentally insane 7teen and lesbian ♡ ̆̈♡ ̆̈♡ ̆̈♡ ̆̈✨✨✨",
+        "id": "1355210600545198085",
+        "name": "Starunicorn",
+        "pinned_tweet_id": "2020282287578095717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038004587571871744/FJntO7EI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 240,
+          "like_count": 22248,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 144
+        },
+        "username": "Candyminaj71",
+        "verified": false
+      }
+    ]
+  }
+}

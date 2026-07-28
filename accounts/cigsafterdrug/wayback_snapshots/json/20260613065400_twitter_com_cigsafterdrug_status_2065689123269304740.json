@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2065688910509019137"
+      ]
+    },
+    "author_id": "1536716629505359872",
+    "conversation_id": "2065689123269304740",
+    "created_at": "2026-06-13T06:54:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T07:54:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065689123269304740"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/lbQ3LKPtWY",
+          "end": 32,
+          "expanded_url": "https://x.com/cigsafterdrug/status/2065689123269304740/photo/1",
+          "media_key": "16_2065688910509019137",
+          "start": 9,
+          "url": "https://t.co/lbQ3LKPtWY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065689123269304740",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "挑戰暑假每日掛逼 https://t.co/lbQ3LKPtWY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1182,
+        "media_key": "16_2065688910509019137",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HKrNHp9akAEoTg3.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HKrNHp9akAEoTg3.mp4"
+          }
+        ],
+        "width": 886
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2065688910509019137"
+          ]
+        },
+        "author_id": "1536716629505359872",
+        "conversation_id": "2065689123269304740",
+        "created_at": "2026-06-13T06:54:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T07:54:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065689123269304740"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lbQ3LKPtWY",
+              "end": 32,
+              "expanded_url": "https://x.com/cigsafterdrug/status/2065689123269304740/photo/1",
+              "media_key": "16_2065688910509019137",
+              "start": 9,
+              "url": "https://t.co/lbQ3LKPtWY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065689123269304740",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "挑戰暑假每日掛逼 https://t.co/lbQ3LKPtWY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 474,
+          "following_count": 427,
+          "like_count": 28567,
+          "listed_count": 0,
+          "media_count": 153,
+          "tweet_count": 2593
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      }
+    ]
+  }
+}

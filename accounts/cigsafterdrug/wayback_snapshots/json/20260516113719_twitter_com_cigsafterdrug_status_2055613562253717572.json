@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2055270340029526343",
+    "created_at": "2026-05-16T11:37:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T12:37:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055613562253717572"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2052601714419658752",
+          "start": 0,
+          "username": "Crystallize888"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055613562253717572",
+    "in_reply_to_user_id": "2052601714419658752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055587011227160830",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Crystallize888 好的感谢！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2055270340029526343",
+        "created_at": "2026-05-16T11:37:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T12:37:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055613562253717572"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2052601714419658752",
+              "start": 0,
+              "username": "Crystallize888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055613562253717572",
+        "in_reply_to_user_id": "2052601714419658752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055587011227160830",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Crystallize888 好的感谢！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2052601714419658752",
+        "conversation_id": "2055270340029526343",
+        "created_at": "2026-05-16T09:51:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T10:51:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055587011227160830"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1536716629505359872",
+              "start": 0,
+              "username": "cigsafterdrug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055587011227160830",
+        "in_reply_to_user_id": "1536716629505359872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055270340029526343",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cigsafterdrug 安非他命的話才有效果😉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 417,
+          "following_count": 393,
+          "like_count": 25345,
+          "listed_count": 0,
+          "media_count": 124,
+          "tweet_count": 2124
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-08T04:09:58.000Z",
+        "description": "Offical X Acoount Of https://t.co/MkurdUpcAd\n#odtwt #shtwt #結晶化\n𝚜𝚑𝚎/𝚝𝚑𝚎𝚢♡ ⊹₊⟡⋆18𝚢𝚘♱ bmi 20,2\n☆real life anime main character\n⛧°⋆༺♱༻⋆°⛧",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 51,
+                "start": 45,
+                "tag": "odtwt"
+              },
+              {
+                "end": 58,
+                "start": 52,
+                "tag": "shtwt"
+              },
+              {
+                "end": 63,
+                "start": 59,
+                "tag": "結晶化"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "Crystallize.Club",
+                "end": 44,
+                "expanded_url": "http://Crystallize.Club",
+                "start": 21,
+                "url": "https://t.co/MkurdUpcAd"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "crystallize.club",
+                "end": 23,
+                "expanded_url": "http://crystallize.club",
+                "start": 0,
+                "url": "https://t.co/cIXzl6egXK"
+              }
+            ]
+          }
+        },
+        "id": "2052601714419658752",
+        "location": "Tai Wan",
+        "name": "結晶化 - Crystallize 精神物質結晶圈",
+        "pinned_tweet_id": "2054172285578453071",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054166877304197120/XhSr4TLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 44,
+          "like_count": 28,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 59
+        },
+        "url": "https://t.co/cIXzl6egXK",
+        "username": "Crystallize888",
+        "verified": true
+      }
+    ]
+  }
+}

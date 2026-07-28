@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2062564452529295410",
+    "created_at": "2026-06-05T06:20:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T07:20:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062781485560832268"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1542108779302760449",
+          "start": 0,
+          "username": "C10n3_F"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062781485560832268",
+    "in_reply_to_user_id": "1542108779302760449",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062564452529295410",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@C10n3_F 好吧其實是想跟長髮男做愛😭我長髮男在哪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2062564452529295410",
+        "created_at": "2026-06-05T06:20:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T07:20:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062781485560832268"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1542108779302760449",
+              "start": 0,
+              "username": "C10n3_F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062781485560832268",
+        "in_reply_to_user_id": "1542108779302760449",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062564452529295410",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@C10n3_F 好吧其實是想跟長髮男做愛😭我長髮男在哪"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1542108779302760449",
+        "conversation_id": "2062564452529295410",
+        "created_at": "2026-06-04T15:57:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T16:57:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062564452529295410"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/c10n3_f/status…",
+              "end": 87,
+              "expanded_url": "https://twitter.com/c10n3_f/status/2062491984724701210",
+              "start": 64,
+              "url": "https://t.co/6f4381vHxn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062564452529295410",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 227,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062491984724701210",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好想認識在香港的小眾逼長髮男我們一起逛街逛街買二手專去聽vinyl喝同一杯咖啡吸同一根煙然後隨時發癲\n好吧其實是想和長髮男做愛 https://t.co/6f4381vHxn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 441,
+          "following_count": 416,
+          "like_count": 27829,
+          "listed_count": 0,
+          "media_count": 140,
+          "tweet_count": 2419
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-29T11:32:47.000Z",
+        "description": "Dry your tears with love |ftx🏳️‍⚧️| his/him",
+        "id": "1542108779302760449",
+        "location": "🚪88",
+        "name": "Clone",
+        "pinned_tweet_id": "2062491984724701210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047669603997044736/-KWzIjxR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 283,
+          "like_count": 8790,
+          "listed_count": 0,
+          "media_count": 138,
+          "tweet_count": 2037
+        },
+        "username": "C10n3_F",
+        "verified": false
+      }
+    ]
+  }
+}

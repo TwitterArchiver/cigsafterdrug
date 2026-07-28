@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2074047606863593774",
+    "created_at": "2026-07-06T09:49:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T10:49:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074068101147299871"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1998751032650969088",
+          "start": 0,
+          "username": "Fox_Sakura233"
+        },
+        {
+          "end": 22,
+          "id": "2022208955917979648",
+          "start": 15,
+          "username": "Ak1r4i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074068101147299871",
+    "in_reply_to_user_id": "1998751032650969088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074054987400048687",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fox_Sakura233 @Ak1r4i 老师可以求一个吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2074047606863593774",
+        "created_at": "2026-07-06T09:49:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T10:49:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074068101147299871"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1998751032650969088",
+              "start": 0,
+              "username": "Fox_Sakura233"
+            },
+            {
+              "end": 22,
+              "id": "2022208955917979648",
+              "start": 15,
+              "username": "Ak1r4i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074068101147299871",
+        "in_reply_to_user_id": "1998751032650969088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074054987400048687",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fox_Sakura233 @Ak1r4i 老师可以求一个吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1998751032650969088",
+        "conversation_id": "2074047606863593774",
+        "created_at": "2026-07-06T08:56:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T09:56:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074054987400048687"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2022208955917979648",
+              "start": 0,
+              "username": "Ak1r4i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074054987400048687",
+        "in_reply_to_user_id": "2022208955917979648",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074052417126387880",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ak1r4i 私聊我发你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2070816356862431619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 501,
+          "following_count": 465,
+          "like_count": 29858,
+          "listed_count": 0,
+          "media_count": 182,
+          "tweet_count": 2947
+        },
+        "url": "",
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-10T13:46:18.000Z",
+        "description": "02 | ♂ |リスカ| OD | 病み垢 | 去勢済み | くず\n | 希死念慮 | 情緒不安定 |ZH/EN/JP|\n精神活性物質Wiki：https://t.co/XzFTNu4ouS｜本人发布的内容很危险，请合理使用，小心成瘾问题",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "jile.bid",
+                "end": 95,
+                "expanded_url": "https://jile.bid/",
+                "start": 72,
+                "url": "https://t.co/XzFTNu4ouS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "jile.bid",
+                "end": 23,
+                "expanded_url": "https://jile.bid/",
+                "start": 0,
+                "url": "https://t.co/XzFTNu4ouS"
+              }
+            ]
+          }
+        },
+        "id": "1998751032650969088",
+        "name": "sakura👾",
+        "pinned_tweet_id": "2069373938770256251",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066312345912233984/vlN26lx1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 487,
+          "following_count": 556,
+          "like_count": 733,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 431
+        },
+        "url": "https://t.co/XzFTNu4ouS",
+        "username": "Fox_Sakura233",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-13T07:19:33.000Z",
+        "description": "這麼大的世界卻無我的立錐之地\nMtf 无证含糖🍥/OD/休学中/毛绒玩具重度依赖/讲不来话的笨蛋。。\n求求互fo喵🥹",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ak1r4i",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ak1r4i",
+                "start": 0,
+                "url": "https://t.co/d4zjW5b8fM"
+              }
+            ]
+          }
+        },
+        "id": "2022208955917979648",
+        "location": "上海",
+        "name": "惺🍥",
+        "pinned_tweet_id": "2072875209833721981",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071134075751211008/RPLFxoUr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 144,
+          "like_count": 169,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 104
+        },
+        "url": "https://t.co/d4zjW5b8fM",
+        "username": "Ak1r4i",
+        "verified": false
+      }
+    ]
+  }
+}

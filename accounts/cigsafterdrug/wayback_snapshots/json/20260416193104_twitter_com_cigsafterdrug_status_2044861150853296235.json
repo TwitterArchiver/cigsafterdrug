@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2044789592847777936",
+    "created_at": "2026-04-16T19:31:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T20:31:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044861150853296235"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1986420391833907200",
+          "start": 0,
+          "username": "hnjn431596"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044861150853296235",
+    "in_reply_to_user_id": "1986420391833907200",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044846416556871946",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hnjn431596 我已气哭！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2044789592847777936",
+        "created_at": "2026-04-16T19:31:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T20:31:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044861150853296235"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1986420391833907200",
+              "start": 0,
+              "username": "hnjn431596"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044861150853296235",
+        "in_reply_to_user_id": "1986420391833907200",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044846416556871946",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hnjn431596 我已气哭！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986420391833907200",
+        "conversation_id": "2044789592847777936",
+        "created_at": "2026-04-16T18:32:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T19:32:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044846416556871946"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1536716629505359872",
+              "start": 0,
+              "username": "cigsafterdrug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044846416556871946",
+        "in_reply_to_user_id": "1536716629505359872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044789592847777936",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cigsafterdrug 这个真的难抽和椰子水并列难抽第一"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041169513899765761/LjaTiZha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 306,
+          "following_count": 327,
+          "like_count": 21435,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 1625
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-06T13:08:45.000Z",
+        "description": "→这是酸性｜已成年｜BD｜OVERDOSE｜MOVIE｜BISEXUAL｜语言是→中韩英｜\n→男生查成分互fo｜女生都fo｜不可接受小粉红｜\n→这里提问(ｼ´･ω･)ﾉｼhttps://t.co/njkFAuFCEs\n喜欢大家爱我",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cassie2me",
+                "end": 108,
+                "expanded_url": "https://ngl.link/cassie2me",
+                "start": 85,
+                "url": "https://t.co/njkFAuFCEs"
+              }
+            ]
+          }
+        },
+        "id": "1986420391833907200",
+        "location": "雨季",
+        "name": "*꒰ঌ മ ˔ മ ໒꒱*",
+        "pinned_tweet_id": "1992215269390119177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041179252637474817/KVzoqq9M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 142,
+          "like_count": 667,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 766
+        },
+        "username": "hnjn431596",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2046576984940331145",
+    "created_at": "2026-04-21T13:09:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T14:09:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046576984940331145"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2020935362386984964",
+          "start": 3,
+          "username": "yingxuan666666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046576984940331145",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046240108786143268",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yingxuan666666: 在国内发不出来只能在这发了，我希望中国人能不能不要仇恨其他国家的人，明明给其他国家起绰号，玩其他国家的灾难梗，轮到我们却说他们侮辱中国人，请想想明明是你们不尊重其他国家，我希望和平相处为什么你们部分中国人这么在乎仇恨，北京天安门前的世界人…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2046576984940331145",
+        "created_at": "2026-04-21T13:09:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T14:09:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046576984940331145"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2020935362386984964",
+              "start": 3,
+              "username": "yingxuan666666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046576984940331145",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046240108786143268",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yingxuan666666: 在国内发不出来只能在这发了，我希望中国人能不能不要仇恨其他国家的人，明明给其他国家起绰号，玩其他国家的灾难梗，轮到我们却说他们侮辱中国人，请想想明明是你们不尊重其他国家，我希望和平相处为什么你们部分中国人这么在乎仇恨，北京天安门前的世界人…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020935362386984964",
+        "conversation_id": "2046240108786143268",
+        "created_at": "2026-04-20T14:50:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T15:50:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046240108786143268"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046240108786143268",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 163,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "在国内发不出来只能在这发了，我希望中国人能不能不要仇恨其他国家的人，明明给其他国家起绰号，玩其他国家的灾难梗，轮到我们却说他们侮辱中国人，请想想明明是你们不尊重其他国家，我希望和平相处为什么你们部分中国人这么在乎仇恨，北京天安门前的世界人民大团结万岁总知道吧，为什么不能和平相处？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324,
+          "following_count": 331,
+          "like_count": 21983,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 1730
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-09T18:58:46.000Z",
+        "description": "一個小油條🇨🇳\n神聖かまってちゃん🎸、大森靖子（Japan）、李志、低苦艾、阴三（China），羅大佑、陳昇、張雨生（Taiwan），黃耀明、達明一派、Beyond（HongKong）が好きです。\n日本語が基礎がなく、翻訳ツールしか使えません、すみません🥲",
+        "id": "2020935362386984964",
+        "name": "玄英",
+        "pinned_tweet_id": "2045440180946079798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020935964366077953/cAB_m43L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 145,
+          "like_count": 2478,
+          "listed_count": 1,
+          "media_count": 105,
+          "tweet_count": 876
+        },
+        "username": "yingxuan666666",
+        "verified": false
+      }
+    ]
+  }
+}

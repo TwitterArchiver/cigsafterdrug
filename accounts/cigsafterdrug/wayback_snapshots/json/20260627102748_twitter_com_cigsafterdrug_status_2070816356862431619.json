@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070816350210228224",
+        "3_2070816350210256896",
+        "3_2070816350201921536",
+        "3_2070816350210260992"
+      ]
+    },
+    "author_id": "1536716629505359872",
+    "conversation_id": "2070816356862431619",
+    "created_at": "2026-06-27T10:27:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T11:27:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070816356862431619"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 53,
+          "start": 50,
+          "tag": "门槛"
+        },
+        {
+          "end": 58,
+          "start": 54,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 67,
+          "start": 59,
+          "tag": "入我门吧咪咪咪"
+        },
+        {
+          "end": 81,
+          "start": 68,
+          "tag": "支持小迴喵支持小迴谢谢喵"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7umbtygGI1",
+          "end": 105,
+          "expanded_url": "https://x.com/cigsafterdrug/status/2070816356862431619/photo/1",
+          "media_key": "3_2070816350210228224",
+          "start": 82,
+          "url": "https://t.co/7umbtygGI1"
+        },
+        {
+          "display_url": "pic.x.com/7umbtygGI1",
+          "end": 105,
+          "expanded_url": "https://x.com/cigsafterdrug/status/2070816356862431619/photo/1",
+          "media_key": "3_2070816350210256896",
+          "start": 82,
+          "url": "https://t.co/7umbtygGI1"
+        },
+        {
+          "display_url": "pic.x.com/7umbtygGI1",
+          "end": 105,
+          "expanded_url": "https://x.com/cigsafterdrug/status/2070816356862431619/photo/1",
+          "media_key": "3_2070816350201921536",
+          "start": 82,
+          "url": "https://t.co/7umbtygGI1"
+        },
+        {
+          "display_url": "pic.x.com/7umbtygGI1",
+          "end": 105,
+          "expanded_url": "https://x.com/cigsafterdrug/status/2070816356862431619/photo/1",
+          "media_key": "3_2070816350210260992",
+          "start": 82,
+          "url": "https://t.co/7umbtygGI1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070816356862431619",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "太穷了我尝试圈点钱TvT\n🚪52 随机回复聊天\n🚪88 不定期掉落照片 \n请助力煮包买烟和衣服吧！\n#门槛 #门槛妹 #入我门吧咪咪咪 #支持小迴喵支持小迴谢谢喵 https://t.co/7umbtygGI1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2070816350210228224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL0Ef7VaAAAQtR9.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2070816350210256896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL0Ef7VacAARDOD.jpg",
+        "width": 946
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2070816350201921536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL0Ef7TbQAAbcS_.jpg",
+        "width": 720
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2070816350210260992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL0Ef7VagAAU1vu.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070816350210228224",
+            "3_2070816350210256896",
+            "3_2070816350201921536",
+            "3_2070816350210260992"
+          ]
+        },
+        "author_id": "1536716629505359872",
+        "conversation_id": "2070816356862431619",
+        "created_at": "2026-06-27T10:27:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T11:27:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070816356862431619"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 53,
+              "start": 50,
+              "tag": "门槛"
+            },
+            {
+              "end": 58,
+              "start": 54,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 67,
+              "start": 59,
+              "tag": "入我门吧咪咪咪"
+            },
+            {
+              "end": 81,
+              "start": 68,
+              "tag": "支持小迴喵支持小迴谢谢喵"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7umbtygGI1",
+              "end": 105,
+              "expanded_url": "https://x.com/cigsafterdrug/status/2070816356862431619/photo/1",
+              "media_key": "3_2070816350210228224",
+              "start": 82,
+              "url": "https://t.co/7umbtygGI1"
+            },
+            {
+              "display_url": "pic.x.com/7umbtygGI1",
+              "end": 105,
+              "expanded_url": "https://x.com/cigsafterdrug/status/2070816356862431619/photo/1",
+              "media_key": "3_2070816350210256896",
+              "start": 82,
+              "url": "https://t.co/7umbtygGI1"
+            },
+            {
+              "display_url": "pic.x.com/7umbtygGI1",
+              "end": 105,
+              "expanded_url": "https://x.com/cigsafterdrug/status/2070816356862431619/photo/1",
+              "media_key": "3_2070816350201921536",
+              "start": 82,
+              "url": "https://t.co/7umbtygGI1"
+            },
+            {
+              "display_url": "pic.x.com/7umbtygGI1",
+              "end": 105,
+              "expanded_url": "https://x.com/cigsafterdrug/status/2070816356862431619/photo/1",
+              "media_key": "3_2070816350210260992",
+              "start": 82,
+              "url": "https://t.co/7umbtygGI1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070816356862431619",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "太穷了我尝试圈点钱TvT\n🚪52 随机回复聊天\n🚪88 不定期掉落照片 \n请助力煮包买烟和衣服吧！\n#门槛 #门槛妹 #入我门吧咪咪咪 #支持小迴喵支持小迴谢谢喵 https://t.co/7umbtygGI1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 506,
+          "following_count": 453,
+          "like_count": 29243,
+          "listed_count": 0,
+          "media_count": 177,
+          "tweet_count": 2841
+        },
+        "url": "",
+        "username": "cigsafterdrug",
+        "verified": false
+      }
+    ]
+  }
+}

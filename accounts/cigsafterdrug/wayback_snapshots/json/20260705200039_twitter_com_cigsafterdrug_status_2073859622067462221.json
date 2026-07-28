@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2073859622067462221",
+    "created_at": "2026-07-05T20:00:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T21:00:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073859622067462221"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yumi320521/sta…",
+          "end": 64,
+          "expanded_url": "https://twitter.com/yumi320521/status/2073756106154008728",
+          "start": 41,
+          "url": "https://t.co/xPcZjiytQo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073859622067462221",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073756106154008728",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哦吼吼吼我本来打算这个暑假怎么说也死一次的但是我不想浪费之后染头的钱所以先不死了 https://t.co/xPcZjiytQo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1414,
+        "media_key": "3_2073756100755931136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMd2L7hbQAAxrsz.jpg",
+        "width": 1070
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2073859622067462221",
+        "created_at": "2026-07-05T20:00:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T21:00:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073859622067462221"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yumi320521/sta…",
+              "end": 64,
+              "expanded_url": "https://twitter.com/yumi320521/status/2073756106154008728",
+              "start": 41,
+              "url": "https://t.co/xPcZjiytQo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073859622067462221",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073756106154008728",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哦吼吼吼我本来打算这个暑假怎么说也死一次的但是我不想浪费之后染头的钱所以先不死了 https://t.co/xPcZjiytQo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073756100755931136"
+          ]
+        },
+        "author_id": "2040070879888220160",
+        "conversation_id": "2073756106154008728",
+        "created_at": "2026-07-05T13:09:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T14:09:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073756106154008728"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/X36tfAzQvE",
+              "end": 33,
+              "expanded_url": "https://x.com/Yumi320521/status/2073756106154008728/photo/1",
+              "media_key": "3_2073756100755931136",
+              "start": 10,
+              "url": "https://t.co/X36tfAzQvE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073756106154008728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 822,
+          "like_count": 45,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "我们都有美好的未来 https://t.co/X36tfAzQvE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2070816356862431619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 502,
+          "following_count": 464,
+          "like_count": 29774,
+          "listed_count": 0,
+          "media_count": 181,
+          "tweet_count": 2935
+        },
+        "url": "",
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= Yumi\n明日私の人生はどうなるのでしょうか🐈‍⬛🐾",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070938461813760000/Y6s8tX96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 489,
+          "following_count": 144,
+          "like_count": 5293,
+          "listed_count": 1,
+          "media_count": 49,
+          "tweet_count": 1206
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      }
+    ]
+  }
+}

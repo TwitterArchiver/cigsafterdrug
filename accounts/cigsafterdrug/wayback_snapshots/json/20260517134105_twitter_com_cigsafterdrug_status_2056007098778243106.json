@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055827175241338880"
+      ],
+      "media_source_tweet_id": [
+        "2055827239812628832"
+      ]
+    },
+    "author_id": "1536716629505359872",
+    "conversation_id": "2056007098778243106",
+    "created_at": "2026-05-17T13:41:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T14:41:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056007098778243106"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2047874743584649216",
+          "start": 3,
+          "username": "G0R3WH0R3333333"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IDIqQewicC",
+          "end": 66,
+          "expanded_url": "https://x.com/G0R3WH0R3333333/status/2055827239812628832/photo/1",
+          "media_key": "3_2055827175241338880",
+          "start": 43,
+          "url": "https://t.co/IDIqQewicC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056007098778243106",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1679
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055827239812628832",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @G0R3WH0R3333333: Decisions Decisions.. https://t.co/IDIqQewicC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 643,
+        "media_key": "3_2055827175241338880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIfD7HPa0AAo-7b.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055827175241338880"
+          ],
+          "media_source_tweet_id": [
+            "2055827239812628832"
+          ]
+        },
+        "author_id": "1536716629505359872",
+        "conversation_id": "2056007098778243106",
+        "created_at": "2026-05-17T13:41:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T14:41:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056007098778243106"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2047874743584649216",
+              "start": 3,
+              "username": "G0R3WH0R3333333"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IDIqQewicC",
+              "end": 66,
+              "expanded_url": "https://x.com/G0R3WH0R3333333/status/2055827239812628832/photo/1",
+              "media_key": "3_2055827175241338880",
+              "start": 43,
+              "url": "https://t.co/IDIqQewicC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056007098778243106",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1679
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055827239812628832",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @G0R3WH0R3333333: Decisions Decisions.. https://t.co/IDIqQewicC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055827175241338880"
+          ]
+        },
+        "author_id": "2047874743584649216",
+        "conversation_id": "2055827239812628832",
+        "created_at": "2026-05-17T01:46:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T02:46:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055827239812628832"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IDIqQewicC",
+              "end": 45,
+              "expanded_url": "https://x.com/G0R3WH0R3333333/status/2055827239812628832/photo/1",
+              "media_key": "3_2055827175241338880",
+              "start": 22,
+              "url": "https://t.co/IDIqQewicC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055827239812628832",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 158,
+          "impression_count": 39057,
+          "like_count": 4742,
+          "quote_count": 32,
+          "reply_count": 15,
+          "retweet_count": 1679
+        },
+        "reply_settings": "everyone",
+        "text": "Decisions Decisions.. https://t.co/IDIqQewicC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 422,
+          "following_count": 397,
+          "like_count": 25535,
+          "listed_count": 0,
+          "media_count": 124,
+          "tweet_count": 2145
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-25T03:06:24.000Z",
+        "description": "hii!! Call me wtv youd like ♡\n\n♡She/her/his♡\n\nI support and love everyone~\n\n🤍16\n𖧧.⋆⊹₊ ₊⊹ shtwt + edtwt𖧧.⋆⊹₊ ₊⊹ \n\n♡my dms are open to everyone and anyone!♡",
+        "id": "2047874743584649216",
+        "name": "LivingD3ADgirL",
+        "pinned_tweet_id": "2055853265020231684",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055301811347857411/PdSdIRB5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 159,
+          "like_count": 479,
+          "listed_count": 2,
+          "media_count": 83,
+          "tweet_count": 232
+        },
+        "username": "G0R3WH0R3333333",
+        "verified": false
+      }
+    ]
+  }
+}

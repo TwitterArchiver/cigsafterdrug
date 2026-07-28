@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2028455641086669064",
+    "created_at": "2026-03-02T13:12:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T14:12:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028458461638590897"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1999504877337395200",
+          "start": 0,
+          "username": "chuan_0123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028458461638590897",
+    "in_reply_to_user_id": "1999504877337395200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028455641086669064",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chuan_0123 妈妈好川川也好！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2028455641086669064",
+        "created_at": "2026-03-02T13:12:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T14:12:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028458461638590897"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1999504877337395200",
+              "start": 0,
+              "username": "chuan_0123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028458461638590897",
+        "in_reply_to_user_id": "1999504877337395200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028455641086669064",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chuan_0123 妈妈好川川也好！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1999504877337395200",
+        "conversation_id": "2028455641086669064",
+        "created_at": "2026-03-02T13:01:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T14:01:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028455641086669064"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/chuan_0123/sta…",
+              "end": 76,
+              "expanded_url": "https://twitter.com/chuan_0123/status/2028414165472424311",
+              "start": 53,
+              "url": "https://t.co/Uj94PO6N8X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028455641086669064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028414165472424311",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "家母只是让我停止割手和嗑药 居然没有骂我 妈说怕我身体不好 嗯……如果我爹知道了估计要把我从窗子扔下去了 https://t.co/Uj94PO6N8X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026943929120444416/QS8rXF5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 103,
+          "like_count": 16386,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 586
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-12T15:41:53.000Z",
+        "description": "我是川川/20↑/大体雑多垢 病み注意/無言フォロー失礼いたしました/直fo＝喜欢你/顺女/努力戒割戒药中/关取随意 回fo请私信！祝你以后都开心/误清请私信orz不是故意的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chuan123",
+                "end": 23,
+                "expanded_url": "https://ngl.link/chuan123",
+                "start": 0,
+                "url": "https://t.co/kmXUmkntXo"
+              }
+            ]
+          }
+        },
+        "id": "1999504877337395200",
+        "location": "╰(⇀‸↼)╯→提问箱",
+        "name": "虚空薯条教主",
+        "pinned_tweet_id": "2026652867160051770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026599141066027012/50v9Dmba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 373,
+          "following_count": 285,
+          "like_count": 9460,
+          "listed_count": 1,
+          "media_count": 184,
+          "tweet_count": 4452
+        },
+        "url": "https://t.co/kmXUmkntXo",
+        "username": "chuan_0123",
+        "verified": false
+      }
+    ]
+  }
+}

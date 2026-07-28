@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2069667319387976043",
+    "created_at": "2026-06-24T06:30:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T07:30:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069669356389421271"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2027798393050066944",
+          "start": 0,
+          "username": "sushipancakenya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069669356389421271",
+    "in_reply_to_user_id": "2027798393050066944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069669180866249157",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sushipancakenya 呜呜小寿司我也想你了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2069667319387976043",
+        "created_at": "2026-06-24T06:30:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T07:30:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069669356389421271"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2027798393050066944",
+              "start": 0,
+              "username": "sushipancakenya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069669356389421271",
+        "in_reply_to_user_id": "2027798393050066944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069669180866249157",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sushipancakenya 呜呜小寿司我也想你了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2027798393050066944",
+        "conversation_id": "2069667319387976043",
+        "created_at": "2026-06-24T06:29:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T07:29:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069669180866249157"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1536716629505359872",
+              "start": 0,
+              "username": "cigsafterdrug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069669180866249157",
+        "in_reply_to_user_id": "1536716629505359872",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069667319387976043",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cigsafterdrug 我想你了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 506,
+          "following_count": 446,
+          "like_count": 29001,
+          "listed_count": 0,
+          "media_count": 166,
+          "tweet_count": 2786
+        },
+        "url": "",
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-28T17:29:56.000Z",
+        "description": "只是一块寿司在碎碎念 讨厌我请屏蔽我 互fo请私信｜提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/erisnya",
+                "end": 23,
+                "expanded_url": "https://ngl.link/erisnya",
+                "start": 0,
+                "url": "https://t.co/DOhxhLWAvb"
+              }
+            ]
+          }
+        },
+        "id": "2027798393050066944",
+        "location": "0.1km",
+        "name": "你等着寿司吧",
+        "pinned_tweet_id": "2069667291021861311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033430781125853185/a34pX41y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 53,
+          "like_count": 233,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 461
+        },
+        "url": "https://t.co/DOhxhLWAvb",
+        "username": "sushipancakenya",
+        "verified": false
+      }
+    ]
+  }
+}

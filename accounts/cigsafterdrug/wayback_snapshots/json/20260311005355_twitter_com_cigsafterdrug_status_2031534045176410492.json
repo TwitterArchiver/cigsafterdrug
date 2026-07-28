@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2030979736206541105",
+    "created_at": "2026-03-11T00:53:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-11T01:53:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031534045176410492"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1870797166907916289",
+          "start": 0,
+          "username": "boxi_theRock"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031534045176410492",
+    "in_reply_to_user_id": "1870797166907916289",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031460490153701724",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@boxi_theRock 好哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2030979736206541105",
+        "created_at": "2026-03-11T00:53:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T01:53:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031534045176410492"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1870797166907916289",
+              "start": 0,
+              "username": "boxi_theRock"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031534045176410492",
+        "in_reply_to_user_id": "1870797166907916289",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031460490153701724",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@boxi_theRock 好哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870797166907916289",
+        "conversation_id": "2030979736206541105",
+        "created_at": "2026-03-10T20:01:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T21:01:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031460490153701724"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1536716629505359872",
+              "start": 0,
+              "username": "cigsafterdrug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031460490153701724",
+        "in_reply_to_user_id": "1536716629505359872",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030979736206541105",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cigsafterdrug 我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026943929120444416/QS8rXF5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 253,
+          "like_count": 17770,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 897
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-22T11:43:05.000Z",
+        "description": "生理女心理女丨小学毕业上庆应丨掏粪英雄丨生日6.15丨我是餐券od批丨门槛可以给我买开花枣/奶油麻花/蜜三刀丨我在海外晶哥别查了",
+        "id": "1870797166907916289",
+        "location": "Osaka-shi Kita-ku, Osaka",
+        "name": "波习酱谈治国od",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007167583636860931/aY0GgYbC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 60,
+          "like_count": 268,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 311
+        },
+        "username": "boxi_theRock",
+        "verified": false
+      }
+    ]
+  }
+}

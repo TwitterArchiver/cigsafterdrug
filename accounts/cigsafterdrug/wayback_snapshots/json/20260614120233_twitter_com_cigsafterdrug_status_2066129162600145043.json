@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065996349326393344"
+      ],
+      "media_source_tweet_id": [
+        "2065996357450813658"
+      ]
+    },
+    "author_id": "1536716629505359872",
+    "conversation_id": "2066129162600145043",
+    "created_at": "2026-06-14T12:02:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T13:02:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066129162600145043"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1834053349710393344",
+          "start": 3,
+          "username": "eoo1765574"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XRJEIRd9ai",
+          "end": 45,
+          "expanded_url": "https://x.com/eoo1765574/status/2065996357450813658/photo/1",
+          "media_key": "3_2065996349326393344",
+          "start": 22,
+          "url": "https://t.co/XRJEIRd9ai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066129162600145043",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2221
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065996357450813658",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @eoo1765574: 퀴퍼 최고 https://t.co/XRJEIRd9ai"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2065996349326393344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKvku8zagAAA3t8.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065996349326393344"
+          ],
+          "media_source_tweet_id": [
+            "2065996357450813658"
+          ]
+        },
+        "author_id": "1536716629505359872",
+        "conversation_id": "2066129162600145043",
+        "created_at": "2026-06-14T12:02:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T13:02:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066129162600145043"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1834053349710393344",
+              "start": 3,
+              "username": "eoo1765574"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XRJEIRd9ai",
+              "end": 45,
+              "expanded_url": "https://x.com/eoo1765574/status/2065996357450813658/photo/1",
+              "media_key": "3_2065996349326393344",
+              "start": 22,
+              "url": "https://t.co/XRJEIRd9ai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066129162600145043",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2217
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065996357450813658",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @eoo1765574: 퀴퍼 최고 https://t.co/XRJEIRd9ai"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065996349326393344"
+          ]
+        },
+        "author_id": "1834053349710393344",
+        "conversation_id": "2065996357450813658",
+        "created_at": "2026-06-14T03:14:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T04:14:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065996357450813658"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XRJEIRd9ai",
+              "end": 29,
+              "expanded_url": "https://x.com/eoo1765574/status/2065996357450813658/photo/1",
+              "media_key": "3_2065996349326393344",
+              "start": 6,
+              "url": "https://t.co/XRJEIRd9ai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065996357450813658",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 506,
+          "impression_count": 387843,
+          "like_count": 11453,
+          "quote_count": 330,
+          "reply_count": 0,
+          "retweet_count": 2217
+        },
+        "reply_settings": "following",
+        "text": "퀴퍼 최고 https://t.co/XRJEIRd9ai"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 478,
+          "following_count": 432,
+          "like_count": 28730,
+          "listed_count": 0,
+          "media_count": 157,
+          "tweet_count": 2642
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-12T02:16:33.000Z",
+        "description": "🔕 / 20⬆️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pushoong.com/ask/1772553944/",
+                "end": 23,
+                "expanded_url": "https://pushoong.com/ask/1772553944/",
+                "start": 0,
+                "url": "https://t.co/tiDu4TtUpe"
+              }
+            ]
+          }
+        },
+        "id": "1834053349710393344",
+        "location": "입고싶은거 입음",
+        "name": "死",
+        "pinned_tweet_id": "2044355293623251125",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959209426356994048/wu-o_2wQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 334,
+          "following_count": 159,
+          "like_count": 4114,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 733
+        },
+        "url": "https://t.co/tiDu4TtUpe",
+        "username": "eoo1765574",
+        "verified": false
+      }
+    ]
+  }
+}

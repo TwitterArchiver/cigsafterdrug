@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2041514519365886119",
+    "created_at": "2026-04-07T15:56:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T16:56:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041545703038885914"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1874458926558961664",
+          "start": 0,
+          "username": "DaiianaVez69773"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041545703038885914",
+    "in_reply_to_user_id": "1874458926558961664",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041514519365886119",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@DaiianaVez69773 帅😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2041514471806689280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFTqmH_bYAABREL.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2041514468086300672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFTql6IawAAh7P1.jpg",
+        "width": 1440
+      },
+      {
+        "duration_ms": 3759,
+        "height": 1280,
+        "media_key": "7_2041514466622541824",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2041514466622541824/pu/img/z5rZGIwVhpgvmufd.jpg",
+        "public_metrics": {
+          "view_count": 144
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2041514466622541824/pu/vid/avc1/320x568/CLAR62F2UKWlo-fI.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2041514466622541824/pu/vid/avc1/480x852/wjy8r9chNzFWVPvR.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2041514466622541824/pu/vid/avc1/720x1280/XQX7NBk6B4qnxlCd.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2041514466622541824/pu/pl/_GbmtH9uIjemgGo5.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2041514519365886119",
+        "created_at": "2026-04-07T15:56:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T16:56:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041545703038885914"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1874458926558961664",
+              "start": 0,
+              "username": "DaiianaVez69773"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041545703038885914",
+        "in_reply_to_user_id": "1874458926558961664",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041514519365886119",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@DaiianaVez69773 帅😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041514471806689280",
+            "3_2041514468086300672",
+            "7_2041514466622541824"
+          ]
+        },
+        "author_id": "1874458926558961664",
+        "conversation_id": "2041514519365886119",
+        "created_at": "2026-04-07T13:52:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T14:52:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041514519365886119"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uVzV9QbF1c",
+              "end": 35,
+              "expanded_url": "https://x.com/DaiianaVez69773/status/2041514519365886119/video/1",
+              "media_key": "3_2041514471806689280",
+              "start": 12,
+              "url": "https://t.co/uVzV9QbF1c"
+            },
+            {
+              "display_url": "pic.x.com/uVzV9QbF1c",
+              "end": 35,
+              "expanded_url": "https://x.com/DaiianaVez69773/status/2041514519365886119/video/1",
+              "media_key": "3_2041514468086300672",
+              "start": 12,
+              "url": "https://t.co/uVzV9QbF1c"
+            },
+            {
+              "display_url": "pic.x.com/uVzV9QbF1c",
+              "end": 35,
+              "expanded_url": "https://x.com/DaiianaVez69773/status/2041514519365886119/video/1",
+              "media_key": "7_2041514466622541824",
+              "start": 12,
+              "url": "https://t.co/uVzV9QbF1c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041514519365886119",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 449,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "心血来潮学了下hiro https://t.co/uVzV9QbF1c"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041169513899765761/LjaTiZha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 299,
+          "following_count": 320,
+          "like_count": 20230,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 1445
+        },
+        "username": "cigsafterdrug",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-01T14:14:55.000Z",
+        "description": "中国人 高3 18 infj-t 不安障害 双極性感情障害 日本語を勉強中\n神聖かまってちゃん/未来電波基地/純戸川/moreru/yokai jaki/鮮血A子ちゃん",
+        "id": "1874458926558961664",
+        "location": "ぺんてるに行きました",
+        "name": "矢澤源義✞",
+        "pinned_tweet_id": "2039933441605820774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908777584210714625/L-fqHbRN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 161,
+          "like_count": 8739,
+          "listed_count": 1,
+          "media_count": 113,
+          "tweet_count": 646
+        },
+        "username": "DaiianaVez69773",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2042658286672187408",
+    "created_at": "2026-04-10T20:42:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T21:42:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042704904809238895"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1903417613671415808",
+          "start": 0,
+          "username": "5t0nerH4mst3r"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042704904809238895",
+    "in_reply_to_user_id": "1903417613671415808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042658286672187408",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@5t0nerH4mst3r 我来当你朋友！（＾ｖ＾）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2042658286672187408",
+        "created_at": "2026-04-10T20:42:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T21:42:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042704904809238895"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1903417613671415808",
+              "start": 0,
+              "username": "5t0nerH4mst3r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042704904809238895",
+        "in_reply_to_user_id": "1903417613671415808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042658286672187408",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5t0nerH4mst3r 我来当你朋友！（＾ｖ＾）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903417613671415808",
+        "conversation_id": "2042658286672187408",
+        "created_at": "2026-04-10T17:37:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T18:37:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042658286672187408"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042658286672187408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 59,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不是性压抑是爱压抑了，我好无聊好孤独，为什么我完全交不到朋友"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041169513899765761/LjaTiZha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 306,
+          "following_count": 327,
+          "like_count": 20587,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 1512
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-22T12:05:10.000Z",
+        "description": "只是想要变得幸福 | 可能已存活千年 | 顺女/或许是双/泛 | 查成分回fo | 大概是戒药成功了| LGBTQ+全友好🏳️‍🌈 | 精神不安定已放弃治疗 | Satanist/Goth/Metalhead",
+        "id": "1903417613671415808",
+        "name": "外星之吸血鼠儿",
+        "pinned_tweet_id": "2031353330346373174",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026528085546512389/e5Yvw4fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 98,
+          "like_count": 8187,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 1822
+        },
+        "username": "5t0nerH4mst3r",
+        "verified": false
+      }
+    ]
+  }
+}

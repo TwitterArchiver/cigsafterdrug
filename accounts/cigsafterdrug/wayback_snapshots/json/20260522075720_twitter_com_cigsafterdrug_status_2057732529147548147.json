@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057265527677214720"
+      ],
+      "media_source_tweet_id": [
+        "2057267204564152548"
+      ]
+    },
+    "author_id": "1536716629505359872",
+    "conversation_id": "2057732529147548147",
+    "created_at": "2026-05-22T07:57:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T08:57:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057732529147548147"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1660883975706120193",
+          "start": 3,
+          "username": "Enoch_ret"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VrQ4aYuTLY",
+          "end": 66,
+          "expanded_url": "https://x.com/Enoch_ret/status/2057267204564152548/photo/1",
+          "media_key": "3_2057265527677214720",
+          "start": 43,
+          "url": "https://t.co/VrQ4aYuTLY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057732529147548147",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 41
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057267204564152548",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @Enoch_ret: 我很喜欢您现在的样子，和想象中您伤害我的样子一模一样。 https://t.co/VrQ4aYuTLY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 647,
+        "media_key": "3_2057265527677214720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIzgGPnbYAAxc0o.jpg",
+        "width": 986
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057265527677214720"
+          ],
+          "media_source_tweet_id": [
+            "2057267204564152548"
+          ]
+        },
+        "author_id": "1536716629505359872",
+        "conversation_id": "2057732529147548147",
+        "created_at": "2026-05-22T07:57:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T08:57:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057732529147548147"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1660883975706120193",
+              "start": 3,
+              "username": "Enoch_ret"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VrQ4aYuTLY",
+              "end": 66,
+              "expanded_url": "https://x.com/Enoch_ret/status/2057267204564152548/photo/1",
+              "media_key": "3_2057265527677214720",
+              "start": 43,
+              "url": "https://t.co/VrQ4aYuTLY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057732529147548147",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 41
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057267204564152548",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @Enoch_ret: 我很喜欢您现在的样子，和想象中您伤害我的样子一模一样。 https://t.co/VrQ4aYuTLY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057265527677214720"
+          ]
+        },
+        "author_id": "1660883975706120193",
+        "conversation_id": "2057267204564152548",
+        "created_at": "2026-05-21T01:08:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T02:08:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057267204564152548"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VrQ4aYuTLY",
+              "end": 51,
+              "expanded_url": "https://x.com/Enoch_ret/status/2057267204564152548/photo/1",
+              "media_key": "3_2057265527677214720",
+              "start": 28,
+              "url": "https://t.co/VrQ4aYuTLY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057267204564152548",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 10007,
+          "like_count": 476,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 41
+        },
+        "reply_settings": "following",
+        "text": "我很喜欢您现在的样子，和想象中您伤害我的样子一模一样。 https://t.co/VrQ4aYuTLY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 419,
+          "following_count": 399,
+          "like_count": 25939,
+          "listed_count": 0,
+          "media_count": 128,
+          "tweet_count": 2201
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-23T05:43:44.000Z",
+        "description": "🇨🇳|ウマ娘/競走馬/mnsb\nmnsbネタバレ注意，中文/日本語（下手です）/EN⭕️\n翻訳機を使うかもしれません\n日常账号→@suiquan_yn\n头像和背景图是이구병님画的特别特别特别萌我的幸福指数直线上升🫳🏻🦔",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 64,
+                "username": "suiquan_yn"
+              }
+            ]
+          }
+        },
+        "id": "1660883975706120193",
+        "location": "❌AI/無断転載 ",
+        "name": "歲犬🐀",
+        "pinned_tweet_id": "2004802817438220687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007292053307437058/32TDpv_f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 446,
+          "following_count": 106,
+          "like_count": 5555,
+          "listed_count": 1,
+          "media_count": 277,
+          "tweet_count": 2095
+        },
+        "username": "Enoch_ret",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2031034931045146882",
+    "created_at": "2026-03-10T14:16:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T15:16:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031373711782326678"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1967962536000753666",
+          "start": 0,
+          "username": "FUHGRC694lol"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031373711782326678",
+    "in_reply_to_user_id": "1967962536000753666",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031373126144242124",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FUHGRC694lol 123跳！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2031034931045146882",
+        "created_at": "2026-03-10T14:16:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T15:16:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031373711782326678"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1967962536000753666",
+              "start": 0,
+              "username": "FUHGRC694lol"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031373711782326678",
+        "in_reply_to_user_id": "1967962536000753666",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031373126144242124",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FUHGRC694lol 123跳！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967962536000753666",
+        "conversation_id": "2031034931045146882",
+        "created_at": "2026-03-10T14:14:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T15:14:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031373126144242124"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1536716629505359872",
+              "start": 0,
+              "username": "cigsafterdrug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031373126144242124",
+        "in_reply_to_user_id": "1536716629505359872",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031034931045146882",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cigsafterdrug 一起跳。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026943929120444416/QS8rXF5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 208,
+          "like_count": 17695,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 847
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-16T14:43:37.000Z",
+        "description": "在首页—我的家园—家园果实—图鉴解锁后使用，活动或家园果实可获得碎片。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cultsphil",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cultsphil",
+                "start": 0,
+                "url": "https://t.co/jBwePHUXbF"
+              }
+            ]
+          }
+        },
+        "id": "1967962536000753666",
+        "location": "迷拉星",
+        "name": "中華帝國最忠誠的迷你世界狙擊手",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011620687623094272/DI5lY0RU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 63,
+          "like_count": 41165,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 1715
+        },
+        "url": "https://t.co/jBwePHUXbF",
+        "username": "FUHGRC694lol",
+        "verified": false
+      }
+    ]
+  }
+}

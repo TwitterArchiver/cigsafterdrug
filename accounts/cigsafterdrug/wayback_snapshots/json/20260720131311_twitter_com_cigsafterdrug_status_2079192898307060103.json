@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2078900544333336716",
+    "created_at": "2026-07-20T13:13:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T14:13:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079192898307060103"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1564990471327215619",
+          "start": 0,
+          "username": "bisco91395061"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079192898307060103",
+    "in_reply_to_user_id": "1564990471327215619",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078900544333336716",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bisco91395061 接"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2078900544333336716",
+        "created_at": "2026-07-20T13:13:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T14:13:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079192898307060103"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1564990471327215619",
+              "start": 0,
+              "username": "bisco91395061"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079192898307060103",
+        "in_reply_to_user_id": "1564990471327215619",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078900544333336716",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bisco91395061 接"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2078900544333336716",
+        "created_at": "2026-07-19T17:51:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T18:51:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078900544333336716"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yudia666/statu…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/yudia666/status/2078697333806817404",
+              "start": 9,
+              "url": "https://t.co/gtxyyNlHCe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078900544333336716",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3129,
+          "like_count": 51,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078697333806817404",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我遇到了谢谢叔叔 https://t.co/gtxyyNlHCe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2070816356862431619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 523,
+          "following_count": 469,
+          "like_count": 31417,
+          "listed_count": 0,
+          "media_count": 200,
+          "tweet_count": 3080
+        },
+        "url": "",
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜查成分回fo💖只回同类💖｜生理心理女 别再问了｜直fo是喜欢泥🤲💖",
+        "id": "1564990471327215619",
+        "location": "🚪52/188",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 948,
+          "following_count": 398,
+          "like_count": 9814,
+          "listed_count": 1,
+          "media_count": 146,
+          "tweet_count": 2077
+        },
+        "url": "",
+        "username": "bisco91395061",
+        "verified": false
+      }
+    ]
+  }
+}

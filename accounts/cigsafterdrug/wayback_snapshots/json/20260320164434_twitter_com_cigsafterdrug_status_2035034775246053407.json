@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2034928139835674868",
+    "created_at": "2026-03-20T16:44:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T17:44:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035034775246053407"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1694679423159836672",
+          "start": 0,
+          "username": "KrebbsB15422"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035034775246053407",
+    "in_reply_to_user_id": "1694679423159836672",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035011749699813666",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KrebbsB15422 好的！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2034928139835674868",
+        "created_at": "2026-03-20T16:44:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T17:44:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035034775246053407"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1694679423159836672",
+              "start": 0,
+              "username": "KrebbsB15422"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035034775246053407",
+        "in_reply_to_user_id": "1694679423159836672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035011749699813666",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KrebbsB15422 好的！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1694679423159836672",
+        "conversation_id": "2034928139835674868",
+        "created_at": "2026-03-20T15:13:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T16:13:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035011749699813666"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1536716629505359872",
+              "start": 0,
+              "username": "cigsafterdrug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035011749699813666",
+        "in_reply_to_user_id": "1536716629505359872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034928139835674868",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cigsafterdrug 大约一个小时左右"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026943929120444416/QS8rXF5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 290,
+          "following_count": 302,
+          "like_count": 18698,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 1155
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-24T11:54:02.000Z",
+        "description": "對不起，我只是在泥潭掙扎的可憐小孩\n无言直fo抱歉。 我有点精日，下辈子希望是日本人\n匿名提问https://t.co/tFYgnHYSkF",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/k%E2%80%86n%E2…",
+                "end": 70,
+                "expanded_url": "https://ngl.link/k%E2%80%86n%E2%80%86d",
+                "start": 47,
+                "url": "https://t.co/tFYgnHYSkF"
+              }
+            ]
+          }
+        },
+        "id": "1694679423159836672",
+        "name": "浅な川椿",
+        "pinned_tweet_id": "2032733312314487252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1700458848673484800/n9u9uMHj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 121,
+          "like_count": 148,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 311
+        },
+        "username": "KrebbsB15422",
+        "verified": false
+      }
+    ]
+  }
+}

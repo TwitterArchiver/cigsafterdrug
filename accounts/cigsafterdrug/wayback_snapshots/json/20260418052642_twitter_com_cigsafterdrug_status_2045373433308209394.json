@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045373427197059072"
+      ]
+    },
+    "author_id": "1536716629505359872",
+    "conversation_id": "2045373433308209394",
+    "created_at": "2026-04-18T05:26:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T06:26:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045373433308209394"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/95tIPlowTs",
+          "end": 60,
+          "expanded_url": "https://x.com/cigsafterdrug/status/2045373433308209394/photo/1",
+          "media_key": "3_2045373427197059072",
+          "start": 37,
+          "url": "https://t.co/95tIPlowTs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045373433308209394",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "右美沙芬收集者？之前还有白色方形和紫色的w话说这个粉色真的有用吗第一次见 https://t.co/95tIPlowTs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2045373427197059072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGKgS5EaoAAAiaF.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045373427197059072"
+          ]
+        },
+        "author_id": "1536716629505359872",
+        "conversation_id": "2045373433308209394",
+        "created_at": "2026-04-18T05:26:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T06:26:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045373433308209394"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/95tIPlowTs",
+              "end": 60,
+              "expanded_url": "https://x.com/cigsafterdrug/status/2045373433308209394/photo/1",
+              "media_key": "3_2045373427197059072",
+              "start": 37,
+              "url": "https://t.co/95tIPlowTs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045373433308209394",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "右美沙芬收集者？之前还有白色方形和紫色的w话说这个粉色真的有用吗第一次见 https://t.co/95tIPlowTs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 309,
+          "following_count": 328,
+          "like_count": 21590,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 1650
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      }
+    ]
+  }
+}

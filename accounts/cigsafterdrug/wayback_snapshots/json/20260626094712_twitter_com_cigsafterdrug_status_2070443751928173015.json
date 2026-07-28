@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2070430365869863123",
+    "created_at": "2026-06-26T09:47:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T10:47:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070443751928173015"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1898308906994294784",
+          "start": 0,
+          "username": "TTBRAr12"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070443751928173015",
+    "in_reply_to_user_id": "1898308906994294784",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070430365869863123",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TTBRAr12 o起"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2070430358529794048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLulcQRaYAAasK7.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2070430365869863123",
+        "created_at": "2026-06-26T09:47:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T10:47:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070443751928173015"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1898308906994294784",
+              "start": 0,
+              "username": "TTBRAr12"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070443751928173015",
+        "in_reply_to_user_id": "1898308906994294784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070430365869863123",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TTBRAr12 o起"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070430358529794048"
+          ]
+        },
+        "author_id": "1898308906994294784",
+        "conversation_id": "2070430365869863123",
+        "created_at": "2026-06-26T08:54:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T09:54:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070430365869863123"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/erAjDzbhz0",
+              "end": 26,
+              "expanded_url": "https://x.com/TTBRAr12/status/2070430365869863123/photo/1",
+              "media_key": "3_2070430358529794048",
+              "start": 3,
+              "url": "https://t.co/erAjDzbhz0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070430365869863123",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🎉🥳 https://t.co/erAjDzbhz0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 507,
+          "following_count": 454,
+          "like_count": 29153,
+          "listed_count": 0,
+          "media_count": 174,
+          "tweet_count": 2825
+        },
+        "url": "",
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-08T09:44:56.000Z",
+        "description": "",
+        "id": "1898308906994294784",
+        "name": "TTAR",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966263377233403904/aqrIK04U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 860,
+          "like_count": 7290,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 1426
+        },
+        "url": "",
+        "username": "TTBRAr12",
+        "verified": false,
+        "withheld": {
+          "country_codes": [
+            "TR"
+          ]
+        }
+      }
+    ]
+  }
+}

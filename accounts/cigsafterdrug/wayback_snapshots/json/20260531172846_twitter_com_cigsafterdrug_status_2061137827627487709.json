@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "News",
+          "id": "1046545033657081857",
+          "name": "News"
+        }
+      }
+    ],
+    "conversation_id": "2061137827627487709",
+    "created_at": "2026-05-31T17:28:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T18:28:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061137827627487709"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2820246343",
+          "start": 3,
+          "username": "kamattechaninfo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061137827627487709",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 822
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059613145682043265",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kamattechaninfo: 🗞️リリースニュース🗞️\n\n神聖かまってちゃん\n「無気力ボーイ / 中年日誌」\n2026年6月3日(水) \n0:00 [デジタル / DL・配信]\n\n[収録曲]\n01 無気力ボーイ\n02 中年日誌\n\n配信リンク :\nhttps://t.…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2059613139663233024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJU3PPxaoAAf42K.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          }
+        ],
+        "conversation_id": "2061137827627487709",
+        "created_at": "2026-05-31T17:28:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T18:28:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061137827627487709"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2820246343",
+              "start": 3,
+              "username": "kamattechaninfo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061137827627487709",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 822
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059613145682043265",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kamattechaninfo: 🗞️リリースニュース🗞️\n\n神聖かまってちゃん\n「無気力ボーイ / 中年日誌」\n2026年6月3日(水) \n0:00 [デジタル / DL・配信]\n\n[収録曲]\n01 無気力ボーイ\n02 中年日誌\n\n配信リンク :\nhttps://t.…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059613139663233024"
+          ]
+        },
+        "author_id": "2820246343",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          }
+        ],
+        "conversation_id": "2059613145682043265",
+        "created_at": "2026-05-27T12:30:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T13:30:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059613145682043265"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Listen to content by Shinsei Kamattechan.",
+              "display_url": "lnk.to/mukiryokuboy_c…",
+              "end": 131,
+              "expanded_url": "https://lnk.to/mukiryokuboy_chunennisshi",
+              "images": [
+                {
+                  "height": 220,
+                  "url": "https://pbs.twimg.com/news_img/2059613190665965568/uci1oqY3?format=jpg&name=orig",
+                  "width": 440
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2059613190665965568/uci1oqY3?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 108,
+              "status": 200,
+              "title": "無気力ボーイ / 中年日誌",
+              "unwound_url": "https://lnk.to/mukiryokuboy_chunennisshi",
+              "url": "https://t.co/rE7uNUsmib"
+            },
+            {
+              "display_url": "pic.x.com/6fWUDWCuWk",
+              "end": 155,
+              "expanded_url": "https://x.com/kamattechaninfo/status/2059613145682043265/photo/1",
+              "media_key": "3_2059613139663233024",
+              "start": 132,
+              "url": "https://t.co/6fWUDWCuWk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059613145682043265",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 300,
+          "impression_count": 432009,
+          "like_count": 3947,
+          "quote_count": 206,
+          "reply_count": 9,
+          "retweet_count": 822
+        },
+        "reply_settings": "everyone",
+        "text": "🗞️リリースニュース🗞️\n\n神聖かまってちゃん\n「無気力ボーイ / 中年日誌」\n2026年6月3日(水) \n0:00 [デジタル / DL・配信]\n\n[収録曲]\n01 無気力ボーイ\n02 中年日誌\n\n配信リンク :\nhttps://t.co/rE7uNUsmib https://t.co/6fWUDWCuWk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 437,
+          "following_count": 416,
+          "like_count": 27559,
+          "listed_count": 0,
+          "media_count": 135,
+          "tweet_count": 2357
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2014-09-19T16:52:18.000Z",
+        "description": "神聖かまってちゃん公式 Vo,Gt の子@0u0HaNako666 Key mono @tombomono1 Drみさこ@335neo Ba ユウノスケ @Yu_nosuke_w ▶︎▶︎🆕 6/3「無気力ボーイ/中年日誌」リリース🐼🎸8/20 都内某所にて、NetGeneration10周年🎉",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 20,
+                "username": "0u0HaNako666"
+              },
+              {
+                "end": 54,
+                "start": 43,
+                "username": "tombomono1"
+              },
+              {
+                "end": 67,
+                "start": 60,
+                "username": "335neo"
+              },
+              {
+                "end": 89,
+                "start": 77,
+                "username": "Yu_nosuke_w"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/shinseikamatte…",
+                "end": 23,
+                "expanded_url": "https://lit.link/shinseikamattechan",
+                "start": 0,
+                "url": "https://t.co/4lX22pKHMz"
+              }
+            ]
+          }
+        },
+        "id": "2820246343",
+        "name": "神聖かまってちゃん",
+        "pinned_tweet_id": "2059613145682043265",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1656523562927407104/hYD3Xji5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77405,
+          "following_count": 12,
+          "like_count": 1277,
+          "listed_count": 556,
+          "media_count": 2766,
+          "tweet_count": 6905
+        },
+        "url": "https://t.co/4lX22pKHMz",
+        "username": "kamattechaninfo",
+        "verified": false
+      }
+    ]
+  }
+}

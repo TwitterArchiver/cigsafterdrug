@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2060477788327707000",
+    "created_at": "2026-05-30T12:02:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T13:02:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060693242954543392"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2024195400442531841",
+          "start": 0,
+          "username": "Xjiajiaouo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060693242954543392",
+    "in_reply_to_user_id": "2024195400442531841",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060477788327707000",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xjiajiaouo 希望小痂现生顺利！无论什么时候都会记得你哒！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2060477788327707000",
+        "created_at": "2026-05-30T12:02:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T13:02:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060693242954543392"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2024195400442531841",
+              "start": 0,
+              "username": "Xjiajiaouo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060693242954543392",
+        "in_reply_to_user_id": "2024195400442531841",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060477788327707000",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xjiajiaouo 希望小痂现生顺利！无论什么时候都会记得你哒！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024195400442531841",
+        "conversation_id": "2060477788327707000",
+        "created_at": "2026-05-29T21:46:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T22:46:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060477788327707000"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060477788327707000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 186,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "现生原因可能要淡推了，互取随意。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2025667823016751527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 437,
+          "following_count": 419,
+          "like_count": 27476,
+          "listed_count": 0,
+          "media_count": 135,
+          "tweet_count": 2352
+        },
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-18T18:53:04.000Z",
+        "description": "",
+        "id": "2024195400442531841",
+        "location": "天堂",
+        "name": "痂",
+        "pinned_tweet_id": "2060656426910208150",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060564878767861760/SG8TP7X0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1281,
+          "following_count": 487,
+          "like_count": 14113,
+          "listed_count": 1,
+          "media_count": 61,
+          "tweet_count": 3636
+        },
+        "username": "Xjiajiaouo",
+        "verified": false
+      }
+    ]
+  }
+}
