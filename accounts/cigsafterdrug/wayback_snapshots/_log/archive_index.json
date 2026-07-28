@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-07-28T12:47:23",
+  "last_updated": "2026-07-28T12:48:36",
   "html": {
     "https://web.archive.org/web/20240612171812if_/https://twitter.com/cigsafterdrug/status/1800940680992391558": {
       "status": "done",
@@ -15972,31 +15972,31 @@
   },
   "videos": {
     "https://video.twimg.com/ext_tw_video/2031315713563176960/pu/vid/avc1/720x1280/2ApENq2dAytboW__.mp4?tag=12": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20260310192531_twitter_com_cigsafterdrug_status_2031451402078499007.json"
       ],
-      "last_updated": "2026-07-28T12:19:07",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260310192531/https://video.twimg.com/ext_tw_video/2031315713563176960/pu/vid/avc1/720x1280/2ApENq2dAytboW__.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f0673c13ce0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-07-28T12:47:46",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260310192531/https://video.twimg.com/ext_tw_video/2031315713563176960/pu/vid/avc1/720x1280/2ApENq2dAytboW__.mp4?tag=12",
+      "miss_count": 4
     },
     "https://video.twimg.com/ext_tw_video/2031315717841383424/pu/vid/avc1/720x1280/YpdYDUu9qO02ZJ6T.mp4?tag=12": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20260310192531_twitter_com_cigsafterdrug_status_2031451402078499007.json"
       ],
-      "last_updated": "2026-07-28T12:19:11",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260310192531im_/https://video.twimg.com/ext_tw_video/2031315717841383424/pu/vid/avc1/720x1280/YpdYDUu9qO02ZJ6T.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f0673a688c0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-07-28T12:47:49",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260310192531/https://video.twimg.com/ext_tw_video/2031315717841383424/pu/vid/avc1/720x1280/YpdYDUu9qO02ZJ6T.mp4?tag=12",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2032169468324118528/vid/avc1/1280x720/G_acS6uGXVA5XJQo.mp4": {
       "status": "failed",
       "referenced_by": [
         "20260312191343_twitter_com_cigsafterdrug_status_2032173206405317074.json"
       ],
-      "last_updated": "2026-07-28T12:19:15",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260312191343im_/https://video.twimg.com/amplify_video/2032169468324118528/vid/avc1/1280x720/G_acS6uGXVA5XJQo.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f0673a69850>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-07-28T12:47:54",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260312191343/https://video.twimg.com/amplify_video/2032169468324118528/vid/avc1/1280x720/G_acS6uGXVA5XJQo.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f894d8436b0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/ext_tw_video/2032352165789122560/pu/vid/avc1/720x900/ZVsZIk-_8j_z2bsy.mp4?tag=12": {
       "status": "done",
@@ -16010,9 +16010,9 @@
       "referenced_by": [
         "20260315105832_twitter_com_cigsafterdrug_status_2033135753665106056.json"
       ],
-      "last_updated": "2026-07-28T12:19:20",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260315105832im_/https://video.twimg.com/ext_tw_video/2033015792040816641/pu/vid/avc1/720x720/kbrh6rcl_W25hXZD.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f0673a6b230>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-07-28T12:47:58",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260315105832im_/https://video.twimg.com/ext_tw_video/2033015792040816641/pu/vid/avc1/720x720/kbrh6rcl_W25hXZD.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f894d8c4500>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2033402133157154816/vid/avc1/1280x720/u3_e-RFAHnd8FfUE.mp4": {
       "status": "done",
@@ -16036,13 +16036,13 @@
       "last_updated": "2026-07-28T12:18:56"
     },
     "https://video.twimg.com/tweet_video/HEOhz_1bcAAOBoj.mp4": {
-      "status": "failed_all",
+      "status": "failed",
       "referenced_by": [
         "20260325082321_twitter_com_cigsafterdrug_status_2036720579592790271.json"
       ],
-      "last_updated": "2026-07-28T12:18:57",
-      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260325082321/https://video.twimg.com/tweet_video/HEOhz_1bcAAOBoj.mp4",
-      "miss_count": 2
+      "last_updated": "2026-07-28T12:48:02",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260325082321im_/https://video.twimg.com/tweet_video/HEOhz_1bcAAOBoj.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f894d8437d0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 3
     },
     "https://video.twimg.com/ext_tw_video/2037998135424004096/pu/vid/avc1/720x960/h5aUUiWqCHBMqPPY.mp4?tag=12": {
       "status": "done",
@@ -16070,9 +16070,9 @@
       "referenced_by": [
         "20260415174603_twitter_com_cigsafterdrug_status_2044472335584137598.json"
       ],
-      "last_updated": "2026-07-28T12:19:24",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260415174603im_/https://video.twimg.com/tweet_video/HF8Vby1XAAAXZ6Z.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f0673a6a000>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-07-28T12:48:06",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260415174603im_/https://video.twimg.com/tweet_video/HF8Vby1XAAAXZ6Z.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f894d89ade0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2044422707643858944/vid/avc1/720x1280/rVrwmhPYlfhVvdHI.mp4": {
       "status": "done",
@@ -16093,18 +16093,18 @@
       "referenced_by": [
         "20260417181133_twitter_com_cigsafterdrug_status_2045203527262429398.json"
       ],
-      "last_updated": "2026-07-28T12:19:28",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260417181133im_/https://video.twimg.com/amplify_video/2045203457586679808/vid/avc1/720x960/s6E6ZSjbB0d_DkZw.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f0673a6a060>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-07-28T12:48:11",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260417181133im_/https://video.twimg.com/amplify_video/2045203457586679808/vid/avc1/720x960/s6E6ZSjbB0d_DkZw.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f894d89af60>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2046954361348317184/vid/avc1/720x1280/hJ3WATOvnRfkydaQ.mp4": {
       "status": "failed",
       "referenced_by": [
         "20260422141135_twitter_com_cigsafterdrug_status_2046955075973877927.json"
       ],
-      "last_updated": "2026-07-28T12:19:32",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260422141135im_/https://video.twimg.com/amplify_video/2046954361348317184/vid/avc1/720x1280/hJ3WATOvnRfkydaQ.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f0673a693a0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-07-28T12:48:15",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260422141135im_/https://video.twimg.com/amplify_video/2046954361348317184/vid/avc1/720x1280/hJ3WATOvnRfkydaQ.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f894d898590>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2047263419737559040/vid/avc1/726x720/8gDjLEQKGzYjXMjA.mp4": {
       "status": "done",
@@ -16118,9 +16118,9 @@
       "referenced_by": [
         "20260424093907_twitter_com_cigsafterdrug_status_2047611283412001045.json"
       ],
-      "last_updated": "2026-07-28T12:19:36",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260424093907im_/https://video.twimg.com/amplify_video/2047588157177421824/vid/avc1/720x960/7KurwNEuM5te66wl.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f0673c12c90>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-07-28T12:48:19",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260424093907im_/https://video.twimg.com/amplify_video/2047588157177421824/vid/avc1/720x960/7KurwNEuM5te66wl.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f894d8c41a0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/ext_tw_video/2048452308678172673/pu/vid/avc1/240x240/b8hkLmVM5sa3e7Lg.mp4?tag=12": {
       "status": "done",
@@ -16190,18 +16190,18 @@
       "referenced_by": [
         "20260527074833_twitter_com_cigsafterdrug_status_2059542259004260761.json"
       ],
-      "last_updated": "2026-07-28T12:19:40",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260527074833im_/https://video.twimg.com/amplify_video/2059476231322783744/vid/avc1/720x1280/wOO0Lp9oNpYE6QH5.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f0673aa0590>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-07-28T12:48:23",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260527074833im_/https://video.twimg.com/amplify_video/2059476231322783744/vid/avc1/720x1280/wOO0Lp9oNpYE6QH5.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f894d898bf0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/ext_tw_video/2060030019112734720/pu/vid/avc1/720x1280/YRtafZUhy288DYmN.mp4?tag=12": {
       "status": "failed",
       "referenced_by": [
         "20260528201432_twitter_com_cigsafterdrug_status_2060092380318183762.json"
       ],
-      "last_updated": "2026-07-28T12:19:44",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260528201432im_/https://video.twimg.com/ext_tw_video/2060030019112734720/pu/vid/avc1/720x1280/YRtafZUhy288DYmN.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f0673a69100>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-07-28T12:48:27",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260528201432im_/https://video.twimg.com/ext_tw_video/2060030019112734720/pu/vid/avc1/720x1280/YRtafZUhy288DYmN.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f894d89b4a0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2065026156366344192/vid/avc1/960x720/r5BFP--Oje-8irGK.mp4?tag=14": {
       "status": "done",
@@ -16229,9 +16229,9 @@
       "referenced_by": [
         "20260613121236_twitter_com_cigsafterdrug_status_2065769301966278815.json"
       ],
-      "last_updated": "2026-07-28T12:19:49",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260613121236im_/https://video.twimg.com/amplify_video/2065765489201307648/vid/avc1/720x1280/9AWfhb0xMx6E1Umx.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f0673a6a4e0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-07-28T12:48:32",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260613121236im_/https://video.twimg.com/amplify_video/2065765489201307648/vid/avc1/720x1280/9AWfhb0xMx6E1Umx.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f894d843c50>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2065772293134118912/vid/avc1/720x1280/7L8ytVY8vRdbGZy1.mp4": {
       "status": "done",
@@ -16273,9 +16273,9 @@
       "referenced_by": [
         "20260704074716_twitter_com_cigsafterdrug_status_2073312675267031527.json"
       ],
-      "last_updated": "2026-07-28T12:19:53",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260704074716im_/https://video.twimg.com/amplify_video/2073312604756586496/vid/avc1/720x1280/b5T2mFr8yeTUv5OB.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f0673aa0b30>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-07-28T12:48:36",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260704074716im_/https://video.twimg.com/amplify_video/2073312604756586496/vid/avc1/720x1280/b5T2mFr8yeTUv5OB.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f894d8c5bb0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2074438959514722304/vid/avc1/720x1280/VZUsQI3awbW_snsj.mp4": {
       "status": "done",
@@ -34181,7 +34181,7 @@
       "miss_count": 2
     },
     "20260325082321_twitter_com_cigsafterdrug_status_2036720579592790271.json": {
-      "status": "done",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [
@@ -34192,7 +34192,7 @@
           "https://pbs.twimg.com/profile_images/2024476491988578304/ndqIjzWV_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-28T12:20:23",
+      "last_updated": "2026-07-28T12:48:02",
       "miss_count": 2
     },
     "20260325084406_twitter_com_cigsafterdrug_status_2036725801400569981.json": {
