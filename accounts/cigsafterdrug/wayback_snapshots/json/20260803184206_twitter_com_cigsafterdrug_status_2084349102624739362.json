@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2084349102624739362",
+    "created_at": "2026-08-03T18:42:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T19:42:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084349102624739362"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2082124926375649280",
+          "start": 3,
+          "username": "Yuki281331"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084349102624739362",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084046844607291799",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yuki281331: 女儿，你能不能不当地雷女啊，妈妈好害怕啊，一天天学也不上，天天请假，带你去看医生又不愿意，你能告诉妈妈发生什么了吗？为什么搞的手上一道道的，妈妈求求你了，不要伤害自己，你是妈妈的心肝啊，妈妈今天晚上一定睡不着了，为什么要伤害自己啊？妈妈现在真的搞…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2084349102624739362",
+        "created_at": "2026-08-03T18:42:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T19:42:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084349102624739362"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2082124926375649280",
+              "start": 3,
+              "username": "Yuki281331"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084349102624739362",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084046844607291799",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yuki281331: 女儿，你能不能不当地雷女啊，妈妈好害怕啊，一天天学也不上，天天请假，带你去看医生又不愿意，你能告诉妈妈发生什么了吗？为什么搞的手上一道道的，妈妈求求你了，不要伤害自己，你是妈妈的心肝啊，妈妈今天晚上一定睡不着了，为什么要伤害自己啊？妈妈现在真的搞…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2082124926375649280",
+        "conversation_id": "2084046844607291799",
+        "created_at": "2026-08-02T22:41:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T23:41:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084046844607291799"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084046844607291799",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 6404,
+          "like_count": 93,
+          "quote_count": 10,
+          "reply_count": 5,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "女儿，你能不能不当地雷女啊，妈妈好害怕啊，一天天学也不上，天天请假，带你去看医生又不愿意，你能告诉妈妈发生什么了吗？为什么搞的手上一道道的，妈妈求求你了，不要伤害自己，你是妈妈的心肝啊，妈妈今天晚上一定睡不着了，为什么要伤害自己啊？妈妈现在真的搞不懂你了，你怎么会变成这样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2070816356862431619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 559,
+          "following_count": 477,
+          "like_count": 32309,
+          "listed_count": 0,
+          "media_count": 229,
+          "tweet_count": 3276
+        },
+        "url": "",
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-28T15:25:30.000Z",
+        "description": "早已逝去之人，早已宽恕之罪。\n会慢慢回fo，怕频繁被ban\n@Yuki312813 前世",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 30,
+                "username": "Yuki312813"
+              }
+            ]
+          }
+        },
+        "id": "2082124926375649280",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想哭了。2.0。",
+        "pinned_tweet_id": "2083472052636594342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083530016269516802/YkVotD8i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 211,
+          "like_count": 449,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 173
+        },
+        "url": "",
+        "username": "Yuki281331",
+        "verified": false
+      }
+    ]
+  }
+}

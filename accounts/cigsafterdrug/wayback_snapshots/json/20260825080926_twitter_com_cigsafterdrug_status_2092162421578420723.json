@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2092162421578420723",
+    "created_at": "2026-08-25T08:09:26.000Z",
+    "display_text_range": [
+      0,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T09:09:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092162421578420723"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/_dimmoire_/sta…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/_dimmoire_/status/2091851682154160504",
+          "start": 18,
+          "url": "https://t.co/opFuYcFDco"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092162421578420723",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091851682154160504",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "這個鞋子真的好帥啊啊但是好貴我操了 https://t.co/opFuYcFDco"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2091851674935808000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQfAA-da0AApltU.jpg",
+        "width": 3413
+      },
+      {
+        "height": 3600,
+        "media_key": "3_2091851674935869440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQfAA-dbwAA4MzK.jpg",
+        "width": 3000
+      },
+      {
+        "height": 3600,
+        "media_key": "3_2091851674944167937",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQfAA-faYAEEHCB.jpg",
+        "width": 3000
+      },
+      {
+        "height": 3600,
+        "media_key": "3_2091851674961022976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQfAA-jbkAATyDL.jpg",
+        "width": 3000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2092162421578420723",
+        "created_at": "2026-08-25T08:09:26.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T09:09:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092162421578420723"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/_dimmoire_/sta…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/_dimmoire_/status/2091851682154160504",
+              "start": 18,
+              "url": "https://t.co/opFuYcFDco"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092162421578420723",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091851682154160504",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "這個鞋子真的好帥啊啊但是好貴我操了 https://t.co/opFuYcFDco"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091851674935808000",
+            "3_2091851674935869440",
+            "3_2091851674944167937",
+            "3_2091851674961022976"
+          ]
+        },
+        "author_id": "1334982574754516992",
+        "conversation_id": "2091851682154160504",
+        "created_at": "2026-08-24T11:34:40.000Z",
+        "display_text_range": [
+          0,
+          158
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T12:34:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091851682154160504"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "CORE-01ロングブーツone colorM / L※お一人様につき各カラー1点まで※2点以上お買上げの方を確認した場合強制的にキャンセルさせていただく場合がございます・．━━━━━━━ † ━━━━━━━．・大胆に重ねたベルトとスタッズが目を惹く、重厚感たっぷりのロングブーツが登場‪‪❤︎‬履き口にはジップを縁取るように施した大きなフラップを重ね、360°どこから見ても印象に残るデザインに仕上げました.ボリュームのある厚底ソールで、スタイルアップも叶えてくれます.バックファスナー仕様で着脱しやすいのもポイントです.大きなバックルにはDimMoireの文字の刻印入り❤︎‬DimMoireコーデの足元にぜひ‪‪❤︎‬モデル身長：155cm着用サイズ：Mサイズ・．━━━━━━━ † ━━━━━━━．・◆詳細◆商品番号：Dim26-028ーーーーーーーーーーーーーーーーーーーーーー《サイズ》M：23.5cmL：24.5cmヒール 8.5cm　筒部分(ヒール～) 36cm※若干の誤差がある場合がございます.ご了承くださいませ.《混率》合成皮革ーーーーーーーーーーーーーーーーーーーーーー",
+              "display_url": "dimmoire.jp/items/154649414",
+              "end": 158,
+              "expanded_url": "https://www.dimmoire.jp/items/154649414",
+              "start": 135,
+              "status": 200,
+              "title": "CORE-01ロングブーツ【Black】 | DimMoire",
+              "unwound_url": "https://www.dimmoire.jp/items/154649414",
+              "url": "https://t.co/bIy9m87ewu"
+            },
+            {
+              "display_url": "pic.x.com/lHjmCu4B06",
+              "end": 182,
+              "expanded_url": "https://x.com/_DimMoire_/status/2091851682154160504/photo/1",
+              "media_key": "3_2091851674935808000",
+              "start": 159,
+              "url": "https://t.co/lHjmCu4B06"
+            },
+            {
+              "display_url": "pic.x.com/lHjmCu4B06",
+              "end": 182,
+              "expanded_url": "https://x.com/_DimMoire_/status/2091851682154160504/photo/1",
+              "media_key": "3_2091851674935869440",
+              "start": 159,
+              "url": "https://t.co/lHjmCu4B06"
+            },
+            {
+              "display_url": "pic.x.com/lHjmCu4B06",
+              "end": 182,
+              "expanded_url": "https://x.com/_DimMoire_/status/2091851682154160504/photo/1",
+              "media_key": "3_2091851674944167937",
+              "start": 159,
+              "url": "https://t.co/lHjmCu4B06"
+            },
+            {
+              "display_url": "pic.x.com/lHjmCu4B06",
+              "end": 182,
+              "expanded_url": "https://x.com/_DimMoire_/status/2091851682154160504/photo/1",
+              "media_key": "3_2091851674961022976",
+              "start": 159,
+              "url": "https://t.co/lHjmCu4B06"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091851682154160504",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2091851674935808000"
+          },
+          {
+            "media_key": "3_2091851674935869440"
+          },
+          {
+            "media_key": "3_2091851674944167937"
+          },
+          {
+            "media_key": "3_2091851674961022976"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 43,
+          "impression_count": 12785,
+          "like_count": 254,
+          "quote_count": 39,
+          "reply_count": 0,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "🩶💀𝐃𝐢𝐦𝐌𝐨𝐢𝐫𝐞 𝐀𝐮𝐭𝐮𝐦𝐧 𝐂𝐨𝐥𝐥𝐞𝐜𝐭𝐢𝐨𝐧💀🩶\n\n 【CORE-01ロングブーツ】\n\n¥39,380\n\n重厚感たっぷりのロングブーツが登場⚔️\n\n公式通販▶︎8/28 18:00 \nアクロトーキョー。通販▶︎8/29 12:00\n取扱店舗▶︎8/29~\n🖤https://t.co/bIy9m87ewu https://t.co/lHjmCu4B06"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092162421578420723",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2070816356862431619",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1536716629505359872/1769099065",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 541,
+          "following_count": 487,
+          "like_count": 34009,
+          "listed_count": 0,
+          "media_count": 254,
+          "tweet_count": 3450
+        },
+        "url": "",
+        "username": "cigsafterdrug",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-12-04T22:07:17.000Z",
+        "description": "魅せびらかしたくなるお洋服 .. “ディムモアール‘’",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "dimmoire.jp",
+                "end": 23,
+                "expanded_url": "https://www.dimmoire.jp/",
+                "start": 0,
+                "url": "https://t.co/7HrQNTi7UL"
+              }
+            ]
+          }
+        },
+        "id": "1334982574754516992",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091853924089438348",
+        "name": "DimMoire",
+        "pinned_tweet_id": "2088219100350951583",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1334982574754516992/1707565144",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995451225329008640/iTkZd1jI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36523,
+          "following_count": 185,
+          "like_count": 4047,
+          "listed_count": 274,
+          "media_count": 937,
+          "tweet_count": 3470
+        },
+        "url": "https://t.co/7HrQNTi7UL",
+        "username": "_DimMoire_",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2089934771824824321"
+      ]
+    },
+    "author_id": "1536716629505359872",
+    "conversation_id": "2089934788358799749",
+    "created_at": "2026-08-19T04:37:37.000Z",
+    "display_text_range": [
+      0,
+      5
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T05:37:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089934788358799749"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/oc6DbFC18r",
+          "end": 29,
+          "expanded_url": "https://x.com/cigsafterdrug/status/2089934788358799749/photo/1",
+          "media_key": "3_2089934771824824321",
+          "start": 6,
+          "url": "https://t.co/oc6DbFC18r"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089934788358799749",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2089934771824824321"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "卡小妹🥵🥵 https://t.co/oc6DbFC18r"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2089934771824824321",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQDwmh5bEAErdq-.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089934771824824321"
+          ]
+        },
+        "author_id": "1536716629505359872",
+        "conversation_id": "2089934788358799749",
+        "created_at": "2026-08-19T04:37:37.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T05:37:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089934788358799749"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oc6DbFC18r",
+              "end": 29,
+              "expanded_url": "https://x.com/cigsafterdrug/status/2089934788358799749/photo/1",
+              "media_key": "3_2089934771824824321",
+              "start": 6,
+              "url": "https://t.co/oc6DbFC18r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089934788358799749",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2089934771824824321"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "卡小妹🥵🥵 https://t.co/oc6DbFC18r"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089934788358799749",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2070816356862431619",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1536716629505359872/1769099065",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 540,
+          "following_count": 477,
+          "like_count": 33563,
+          "listed_count": 0,
+          "media_count": 249,
+          "tweet_count": 3385
+        },
+        "url": "",
+        "username": "cigsafterdrug",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

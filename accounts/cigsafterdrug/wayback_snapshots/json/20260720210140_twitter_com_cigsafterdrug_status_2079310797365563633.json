@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2079293539494805954",
+    "created_at": "2026-07-20T21:01:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T22:01:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079310797365563633"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2047894021457211393",
+          "start": 0,
+          "username": "FanQie_QianQian"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079310797365563633",
+    "in_reply_to_user_id": "2047894021457211393",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079293539494805954",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FanQie_QianQian 抱抱番茄⋯你是個很棒又堅強有趣的女孩呀，有跟你相處的朋友一定能看清你的本質不會被流言蜚語影響的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2065,
+        "media_key": "3_2079293511401439232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNsibprbgAAn1ti.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2065,
+        "media_key": "3_2079293521933271040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNsicQ6agAAKw1c.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2065,
+        "media_key": "3_2079293531341131776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNsicz9bEAAehyt.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2079293539494805954",
+        "created_at": "2026-07-20T21:01:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T22:01:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079310797365563633"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2047894021457211393",
+              "start": 0,
+              "username": "FanQie_QianQian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079310797365563633",
+        "in_reply_to_user_id": "2047894021457211393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079293539494805954",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FanQie_QianQian 抱抱番茄⋯你是個很棒又堅強有趣的女孩呀，有跟你相處的朋友一定能看清你的本質不會被流言蜚語影響的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079293511401439232",
+            "3_2079293521933271040",
+            "3_2079293531341131776"
+          ]
+        },
+        "author_id": "2047894021457211393",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2079293539494805954",
+        "created_at": "2026-07-20T19:53:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T20:53:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079293539494805954"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hojqZNYVlM",
+              "end": 62,
+              "expanded_url": "https://x.com/FanQie_QianQian/status/2079293539494805954/photo/1",
+              "media_key": "3_2079293511401439232",
+              "start": 39,
+              "url": "https://t.co/hojqZNYVlM"
+            },
+            {
+              "display_url": "pic.x.com/hojqZNYVlM",
+              "end": 62,
+              "expanded_url": "https://x.com/FanQie_QianQian/status/2079293539494805954/photo/1",
+              "media_key": "3_2079293521933271040",
+              "start": 39,
+              "url": "https://t.co/hojqZNYVlM"
+            },
+            {
+              "display_url": "pic.x.com/hojqZNYVlM",
+              "end": 62,
+              "expanded_url": "https://x.com/FanQie_QianQian/status/2079293539494805954/photo/1",
+              "media_key": "3_2079293531341131776",
+              "start": 39,
+              "url": "https://t.co/hojqZNYVlM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079293539494805954",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 65,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唉。這個是我住進精神科之前給洗洗發的。小作文（？）準確來說就是吐苦水。唉。。 https://t.co/hojqZNYVlM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2070816356862431619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 523,
+          "following_count": 470,
+          "like_count": 31457,
+          "listed_count": 0,
+          "media_count": 200,
+          "tweet_count": 3084
+        },
+        "url": "",
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-25T04:22:51.000Z",
+        "description": "重生之8.0\n11年 順女 LGBTQ全友好 無門不接線下\n\n主人@7q468438x8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 33,
+                "username": "7q468438x8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_1",
+                "start": 0,
+                "url": "https://t.co/JbrJBgq8ZL"
+              }
+            ]
+          }
+        },
+        "id": "2047894021457211393",
+        "name": "番茄操蛋8.0",
+        "pinned_tweet_id": "2065786713256141126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057140948434649088/mo_BXY2p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1420,
+          "following_count": 103,
+          "like_count": 5472,
+          "listed_count": 2,
+          "media_count": 175,
+          "tweet_count": 2115
+        },
+        "url": "https://t.co/JbrJBgq8ZL",
+        "username": "FanQie_QianQian",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,468 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "General Fashion",
+          "id": "844604232737087488",
+          "name": "General Fashion"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Outerwear",
+          "id": "846722850627080192",
+          "name": "Outerwear"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Outerwear",
+          "id": "846722850627080192",
+          "name": "Outerwear"
+        }
+      },
+      {
+        "domain": {
+          "description": "A product taxonomy for labeling categories of products. ",
+          "id": "173",
+          "name": "Product Taxonomy"
+        },
+        "entity": {
+          "description": "Outerwear",
+          "id": "846722850627080192",
+          "name": "Outerwear"
+        }
+      }
+    ],
+    "conversation_id": "2092162548800115157",
+    "created_at": "2026-08-25T08:09:56.000Z",
+    "display_text_range": [
+      0,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T09:09:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092162548800115157"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/_dimmoire_/sta…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/_dimmoire_/status/2091849693211115908",
+          "start": 13,
+          "url": "https://t.co/NgAn3jhg5M"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092162548800115157",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091849693211115908",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好想買⋯dim一直在陰我 https://t.co/NgAn3jhg5M"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3600,
+        "media_key": "3_2091849676115025920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQe-MoRaIAA0Ucj.jpg",
+        "width": 3000
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2091849676102520832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQe-MoObUAAoTfr.jpg",
+        "width": 3413
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2091849676144463872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQe-MoYbUAAUud_.jpg",
+        "width": 3414
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2091849676161196033",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQe-MocaoAEvujA.jpg",
+        "width": 3414
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "General Fashion",
+              "id": "844604232737087488",
+              "name": "General Fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Outerwear",
+              "id": "846722850627080192",
+              "name": "Outerwear"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Outerwear",
+              "id": "846722850627080192",
+              "name": "Outerwear"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Outerwear",
+              "id": "846722850627080192",
+              "name": "Outerwear"
+            }
+          }
+        ],
+        "conversation_id": "2092162548800115157",
+        "created_at": "2026-08-25T08:09:56.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T09:09:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092162548800115157"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/_dimmoire_/sta…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/_dimmoire_/status/2091849693211115908",
+              "start": 13,
+              "url": "https://t.co/NgAn3jhg5M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092162548800115157",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091849693211115908",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好想買⋯dim一直在陰我 https://t.co/NgAn3jhg5M"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091849676115025920",
+            "3_2091849676102520832",
+            "3_2091849676144463872",
+            "3_2091849676161196033"
+          ]
+        },
+        "author_id": "1334982574754516992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "General Fashion",
+              "id": "844604232737087488",
+              "name": "General Fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Outerwear",
+              "id": "846722850627080192",
+              "name": "Outerwear"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Outerwear",
+              "id": "846722850627080192",
+              "name": "Outerwear"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Outerwear",
+              "id": "846722850627080192",
+              "name": "Outerwear"
+            }
+          }
+        ],
+        "conversation_id": "2091849693211115908",
+        "created_at": "2026-08-24T11:26:46.000Z",
+        "display_text_range": [
+          0,
+          167
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T12:26:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091849693211115908"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "聖章ナポレオンジャケット‎Black / WhiteM / L【こちらはWhiteの購入ページです】※お一人様につき各カラー1点まで※2点以上お買上げの方を確認した場合強制的にキャンセルさせていただく場合がございます・．━━━━━━━ † ━━━━━━━．・聖章ナポレオンジャケットが登場‪‪❤︎‬クラシカルなナポレオンジャケットを、DimMoireらしく繊細かつ重厚な印象に仕上げました.｢D｣の文字を刻んだNEWオリジナルボタンを贅沢に使用.バックにはクロコ柄ジャガード生地を使用した大きな十字架モチーフを施し、後ろ姿まで存在感のあるデザインに仕上げました.クラシカルなBlackと、全体に淡いニュアンス柄プリントを施したWhiteで、異なる表情をお楽しみいただけます.モデル身長：155cm着用サイズ：Mサイズ・．━━━━━━━ † ━━━━━━━．・◆詳細◆商品番号：Dim26-025ーーーーーーーーーーーーーーーーーーーーーー《サイズ》M：着丈51cm　身幅41cm　肩幅36.5cm　袖丈61cmL：着丈53cm　身幅43cm　肩幅38.5cm　袖丈62cm※若干の誤差がある場合がございます.ご了承くださいませ.《混率》本体：ポリエステル100%　別布：ポリエステル97%　ポリウレタン3%レース部分：ポリエステル100％　裏地：ポリエステル100％ーーーーーーーーーーーーーーーーーーーーーー⚠︎お取り扱い上のご注意⚠︎・短時間で押し洗いをしてください。・ファスナーは閉じて洗濯してください。・長時間水に漬けておいたり、濡れたまま放置しないでください。・形を整えて干してください。・濃色製品は色落ちする恐れがありますので他のものと分け、短時間で洗って下さい。その際つまみ洗いは避け、漂白剤は使用しないで下さい。・また、濡れたまま重ねたり放置せずに形を整えてすぐに干して下さい。・着用の摩擦により、他の衣類やカバン・ソファー等に色が付着することがあります。・また、汗や雨など湿った状態ではより激しく色が落ちますので淡色との色合わせにご注意下さい。・強い光や照明を長時間受けますと、変色や退色の恐れがあります。着用及び保管の際はご注意下さい。・水洗いの際、多少縮む恐れがあります。・この製品はデザイン性を重視し、付属パーツが複数付いています。・着用中に他のものとの引っ掛かりや絡まる恐れ",
+              "display_url": "dimmoire.jp/items/154635264",
+              "end": 167,
+              "expanded_url": "https://www.dimmoire.jp/items/154635264",
+              "start": 144,
+              "status": 200,
+              "title": "聖章ナポレオンジャケット‎【White】 | DimMoire",
+              "unwound_url": "https://www.dimmoire.jp/items/154635264",
+              "url": "https://t.co/6DEizE1wzs"
+            },
+            {
+              "display_url": "pic.x.com/8XPerpvXtr",
+              "end": 191,
+              "expanded_url": "https://x.com/_DimMoire_/status/2091849693211115908/photo/1",
+              "media_key": "3_2091849676115025920",
+              "start": 168,
+              "url": "https://t.co/8XPerpvXtr"
+            },
+            {
+              "display_url": "pic.x.com/8XPerpvXtr",
+              "end": 191,
+              "expanded_url": "https://x.com/_DimMoire_/status/2091849693211115908/photo/1",
+              "media_key": "3_2091849676102520832",
+              "start": 168,
+              "url": "https://t.co/8XPerpvXtr"
+            },
+            {
+              "display_url": "pic.x.com/8XPerpvXtr",
+              "end": 191,
+              "expanded_url": "https://x.com/_DimMoire_/status/2091849693211115908/photo/1",
+              "media_key": "3_2091849676144463872",
+              "start": 168,
+              "url": "https://t.co/8XPerpvXtr"
+            },
+            {
+              "display_url": "pic.x.com/8XPerpvXtr",
+              "end": 191,
+              "expanded_url": "https://x.com/_DimMoire_/status/2091849693211115908/photo/1",
+              "media_key": "3_2091849676161196033",
+              "start": 168,
+              "url": "https://t.co/8XPerpvXtr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091849693211115908",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2091849676115025920"
+          },
+          {
+            "media_key": "3_2091849676102520832"
+          },
+          {
+            "media_key": "3_2091849676144463872"
+          },
+          {
+            "media_key": "3_2091849676161196033"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 11489,
+          "like_count": 218,
+          "quote_count": 24,
+          "reply_count": 0,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "🩶💀𝐃𝐢𝐦𝐌𝐨𝐢𝐫𝐞 𝐀𝐮𝐭𝐮𝐦𝐧 𝐂𝐨𝐥𝐥𝐞𝐜𝐭𝐢𝐨𝐧💀🩶\n\n 【聖章ナポレオンジャケット】\n\nWhite ¥25,080\n\n｢D｣の文字を刻んだNEWボタンを贅沢使用⚔️\n\n公式通販▶︎8/28 18:00 \nアクロトーキョー。通販▶︎8/29 12:00\n取扱店舗▶︎8/29~\n🤍https://t.co/6DEizE1wzs https://t.co/8XPerpvXtr"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092162548800115157",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2070816356862431619",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1536716629505359872/1769099065",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 541,
+          "following_count": 487,
+          "like_count": 34009,
+          "listed_count": 0,
+          "media_count": 254,
+          "tweet_count": 3451
+        },
+        "url": "",
+        "username": "cigsafterdrug",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-12-04T22:07:17.000Z",
+        "description": "魅せびらかしたくなるお洋服 .. “ディムモアール‘’",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "dimmoire.jp",
+                "end": 23,
+                "expanded_url": "https://www.dimmoire.jp/",
+                "start": 0,
+                "url": "https://t.co/7HrQNTi7UL"
+              }
+            ]
+          }
+        },
+        "id": "1334982574754516992",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091853924089438348",
+        "name": "DimMoire",
+        "pinned_tweet_id": "2088219100350951583",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1334982574754516992/1707565144",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995451225329008640/iTkZd1jI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36523,
+          "following_count": 185,
+          "like_count": 4047,
+          "listed_count": 274,
+          "media_count": 937,
+          "tweet_count": 3470
+        },
+        "url": "https://t.co/7HrQNTi7UL",
+        "username": "_DimMoire_",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

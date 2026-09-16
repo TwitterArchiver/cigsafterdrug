@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2094349496432103755",
+    "created_at": "2026-08-31T09:00:05.000Z",
+    "display_text_range": [
+      0,
+      4
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T10:00:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2094349496432103755"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/rawkandrolling…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/rawkandrolling/status/2094103975167734234",
+          "start": 5,
+          "url": "https://t.co/Vfk4b23yP3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094349496432103755",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094103975167734234",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我学会了 https://t.co/Vfk4b23yP3"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20200,
+        "height": 3840,
+        "media_key": "13_2094103928699035648",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2094103928699035648/img/plX0HMF977lDe3YT.jpg",
+        "public_metrics": {
+          "view_count": 879493
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094103928699035648/vid/avc1/480x852/TFDs-YvhdxwuWw78.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094103928699035648/vid/avc1/1080x1920/nNeG1UDNN2VG6DXg.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094103928699035648/vid/avc1/720x1280/GNyc2tlIMm3j8xW2.mp4"
+          },
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094103928699035648/vid/avc1/2160x3840/wAmQUN-HGyNXCwCr.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094103928699035648/vid/avc1/320x568/sIvMoIDs4ivQzL_W.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2094103928699035648/pl/eHk317JlpcF_sjCF.m3u8"
+          }
+        ],
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2094349496432103755",
+        "created_at": "2026-08-31T09:00:05.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T10:00:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094349496432103755"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rawkandrolling…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/rawkandrolling/status/2094103975167734234",
+              "start": 5,
+              "url": "https://t.co/Vfk4b23yP3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094349496432103755",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094103975167734234",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我学会了 https://t.co/Vfk4b23yP3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2094103928699035648"
+          ]
+        },
+        "author_id": "397741031",
+        "conversation_id": "2094103975167734234",
+        "created_at": "2026-08-30T16:44:28.000Z",
+        "display_text_range": [
+          0,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T17:44:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094103975167734234"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RnMhPBbz5Z",
+              "end": 53,
+              "expanded_url": "https://x.com/rawkandrolling/status/2094103975167734234/video/1",
+              "media_key": "13_2094103928699035648",
+              "start": 30,
+              "url": "https://t.co/RnMhPBbz5Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094103975167734234",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2094103928699035648"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3323,
+          "impression_count": 1649619,
+          "like_count": 15098,
+          "quote_count": 247,
+          "reply_count": 258,
+          "retweet_count": 1023
+        },
+        "reply_settings": "everyone",
+        "text": "How Italians roll a joint 🍝🇮🇹 https://t.co/RnMhPBbz5Z"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094349496432103755",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2070816356862431619",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1536716629505359872/1769099065",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 540,
+          "following_count": 480,
+          "like_count": 34658,
+          "listed_count": 0,
+          "media_count": 260,
+          "tweet_count": 3478
+        },
+        "url": "",
+        "username": "cigsafterdrug",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/1650888499200147462/TKmg6i6B_bigger.jpg",
+          "description": "RAW Rolling Paper",
+          "url": "https://twitter.com/RAWLIFE247",
+          "user_id": [
+            "589779546"
+          ]
+        },
+        "created_at": "2011-10-25T03:01:39.000Z",
+        "description": "Josh Kesselman, Founder of RAW papers, Owner of High Times! Uplifting the world through the magic of smoke 😊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "rawthentic.com",
+                "end": 23,
+                "expanded_url": "http://rawthentic.com",
+                "start": 0,
+                "url": "https://t.co/PeIafXrC0L"
+              }
+            ]
+          }
+        },
+        "id": "397741031",
+        "is_identity_verified": false,
+        "location": "Arizona, USA",
+        "most_recent_tweet_id": "2094103975167734234",
+        "name": "RAW Josh",
+        "pinned_tweet_id": "1883563374392582519",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/397741031/1681434142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651611183760424963/TNWTCXLi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178664,
+          "following_count": 71,
+          "like_count": 2579,
+          "listed_count": 207,
+          "media_count": 605,
+          "tweet_count": 1190
+        },
+        "url": "https://t.co/PeIafXrC0L",
+        "username": "rawkandrolling",
+        "verified": true,
+        "verified_type": "blue",
+        "withheld": {
+          "country_codes": [
+            "AE"
+          ]
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083824938612649984",
+        "3_2083824938625224704"
+      ]
+    },
+    "author_id": "1536716629505359872",
+    "conversation_id": "2083824945562616161",
+    "created_at": "2026-08-02T07:59:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T08:59:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083824945562616161"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4GtOaVnxkx",
+          "end": 40,
+          "expanded_url": "https://x.com/cigsafterdrug/status/2083824945562616161/photo/1",
+          "media_key": "3_2083824938612649984",
+          "start": 17,
+          "url": "https://t.co/4GtOaVnxkx"
+        },
+        {
+          "display_url": "pic.x.com/4GtOaVnxkx",
+          "end": 40,
+          "expanded_url": "https://x.com/cigsafterdrug/status/2083824945562616161/photo/1",
+          "media_key": "3_2083824938625224704",
+          "start": 17,
+          "url": "https://t.co/4GtOaVnxkx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083824945562616161",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "gulpgulpgulpgulp https://t.co/4GtOaVnxkx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2083824938612649984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOs7vbgbcAA7XMp.jpg",
+        "width": 720
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2083824938625224704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOs7vbjbUAANN_a.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083824938612649984",
+            "3_2083824938625224704"
+          ]
+        },
+        "author_id": "1536716629505359872",
+        "conversation_id": "2083824945562616161",
+        "created_at": "2026-08-02T07:59:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T08:59:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083824945562616161"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4GtOaVnxkx",
+              "end": 40,
+              "expanded_url": "https://x.com/cigsafterdrug/status/2083824945562616161/photo/1",
+              "media_key": "3_2083824938612649984",
+              "start": 17,
+              "url": "https://t.co/4GtOaVnxkx"
+            },
+            {
+              "display_url": "pic.x.com/4GtOaVnxkx",
+              "end": 40,
+              "expanded_url": "https://x.com/cigsafterdrug/status/2083824945562616161/photo/1",
+              "media_key": "3_2083824938625224704",
+              "start": 17,
+              "url": "https://t.co/4GtOaVnxkx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083824945562616161",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "gulpgulpgulpgulp https://t.co/4GtOaVnxkx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2070816356862431619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 553,
+          "following_count": 477,
+          "like_count": 32233,
+          "listed_count": 0,
+          "media_count": 229,
+          "tweet_count": 3273
+        },
+        "url": "",
+        "username": "cigsafterdrug",
+        "verified": false
+      }
+    ]
+  }
+}

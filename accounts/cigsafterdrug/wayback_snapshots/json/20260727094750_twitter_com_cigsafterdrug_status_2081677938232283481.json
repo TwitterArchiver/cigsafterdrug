@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081677933241155584"
+      ]
+    },
+    "author_id": "1536716629505359872",
+    "conversation_id": "2081677938232283481",
+    "created_at": "2026-07-27T09:47:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T10:47:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081677938232283481"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/aCU7hsciPF",
+          "end": 49,
+          "expanded_url": "https://x.com/cigsafterdrug/status/2081677938232283481/photo/1",
+          "media_key": "3_2081677933241155584",
+          "start": 26,
+          "url": "https://t.co/aCU7hsciPF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081677938232283481",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我老了我就拿这个出去讨钱 没人屌我我就往里面抖烟灰 https://t.co/aCU7hsciPF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2081677933241155584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOObDRObwAAHAPV.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081677933241155584"
+          ]
+        },
+        "author_id": "1536716629505359872",
+        "conversation_id": "2081677938232283481",
+        "created_at": "2026-07-27T09:47:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T10:47:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081677938232283481"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aCU7hsciPF",
+              "end": 49,
+              "expanded_url": "https://x.com/cigsafterdrug/status/2081677938232283481/photo/1",
+              "media_key": "3_2081677933241155584",
+              "start": 26,
+              "url": "https://t.co/aCU7hsciPF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081677938232283481",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我老了我就拿这个出去讨钱 没人屌我我就往里面抖烟灰 https://t.co/aCU7hsciPF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2070816356862431619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 530,
+          "following_count": 477,
+          "like_count": 31843,
+          "listed_count": 0,
+          "media_count": 218,
+          "tweet_count": 3184
+        },
+        "url": "",
+        "username": "cigsafterdrug",
+        "verified": false
+      }
+    ]
+  }
+}

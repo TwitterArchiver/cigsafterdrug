@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082725235191930880",
+        "3_2082725235187724288"
+      ]
+    },
+    "author_id": "1536716629505359872",
+    "conversation_id": "2082725245174378691",
+    "created_at": "2026-07-30T07:09:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T08:09:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082725245174378691"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2002670122767667200",
+          "start": 0,
+          "username": "Lotus_LianHua04"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KvkWkOYmT0",
+          "end": 72,
+          "expanded_url": "https://x.com/cigsafterdrug/status/2082725245174378691/photo/1",
+          "media_key": "3_2082725235191930880",
+          "start": 49,
+          "url": "https://t.co/KvkWkOYmT0"
+        },
+        {
+          "display_url": "pic.x.com/KvkWkOYmT0",
+          "end": 72,
+          "expanded_url": "https://x.com/cigsafterdrug/status/2082725245174378691/photo/1",
+          "media_key": "3_2082725235187724288",
+          "start": 49,
+          "url": "https://t.co/KvkWkOYmT0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082725245174378691",
+    "in_reply_to_user_id": "2002670122767667200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "@Lotus_LianHua04 善良人格发力了但是天父特别阴呀就是把伞 特别好的女孩子呀好开心 https://t.co/KvkWkOYmT0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2082725235191930880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOdTkRBbYAASphJ.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2082725235187724288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOdTkRAbMAAlvU_.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082725235191930880",
+            "3_2082725235187724288"
+          ]
+        },
+        "author_id": "1536716629505359872",
+        "conversation_id": "2082725245174378691",
+        "created_at": "2026-07-30T07:09:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T08:09:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082725245174378691"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2002670122767667200",
+              "start": 0,
+              "username": "Lotus_LianHua04"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KvkWkOYmT0",
+              "end": 72,
+              "expanded_url": "https://x.com/cigsafterdrug/status/2082725245174378691/photo/1",
+              "media_key": "3_2082725235191930880",
+              "start": 49,
+              "url": "https://t.co/KvkWkOYmT0"
+            },
+            {
+              "display_url": "pic.x.com/KvkWkOYmT0",
+              "end": 72,
+              "expanded_url": "https://x.com/cigsafterdrug/status/2082725245174378691/photo/1",
+              "media_key": "3_2082725235187724288",
+              "start": 49,
+              "url": "https://t.co/KvkWkOYmT0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082725245174378691",
+        "in_reply_to_user_id": "2002670122767667200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@Lotus_LianHua04 善良人格发力了但是天父特别阴呀就是把伞 特别好的女孩子呀好开心 https://t.co/KvkWkOYmT0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2070816356862431619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 532,
+          "following_count": 473,
+          "like_count": 32016,
+          "listed_count": 0,
+          "media_count": 224,
+          "tweet_count": 3228
+        },
+        "url": "",
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258,
+          "following_count": 30,
+          "like_count": 1529,
+          "listed_count": 1,
+          "media_count": 238,
+          "tweet_count": 3337
+        },
+        "url": "",
+        "username": "Lotus_LianHua04",
+        "verified": false
+      }
+    ]
+  }
+}

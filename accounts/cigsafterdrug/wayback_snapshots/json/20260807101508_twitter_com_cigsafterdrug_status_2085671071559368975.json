@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085415256407605249"
+      ],
+      "media_source_tweet_id": [
+        "2085415269850345841"
+      ]
+    },
+    "author_id": "1536716629505359872",
+    "conversation_id": "2085671071559368975",
+    "created_at": "2026-08-07T10:15:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T11:15:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085671071559368975"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1531146679906619392",
+          "start": 3,
+          "username": "ringo_duckkk"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/aas4hIu9fA",
+          "end": 62,
+          "expanded_url": "https://x.com/ringo_duckkk/status/2085415269850345841/photo/1",
+          "media_key": "3_2085415256407605249",
+          "start": 39,
+          "url": "https://t.co/aas4hIu9fA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085671071559368975",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3246
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085415269850345841",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ringo_duckkk: 我想看炸裂女医生和雷霆小护士。\n💉❤️💉 https://t.co/aas4hIu9fA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2408,
+        "media_key": "3_2085415256407605249",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPDiIG9bAAE0-L4.jpg",
+        "width": 2836
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085415256407605249"
+          ]
+        },
+        "author_id": "1531146679906619392",
+        "conversation_id": "2085415269850345841",
+        "created_at": "2026-08-06T17:18:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T18:18:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085415269850345841"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aas4hIu9fA",
+              "end": 44,
+              "expanded_url": "https://x.com/ringo_duckkk/status/2085415269850345841/photo/1",
+              "media_key": "3_2085415256407605249",
+              "start": 21,
+              "url": "https://t.co/aas4hIu9fA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085415269850345841",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4110,
+          "impression_count": 238868,
+          "like_count": 29027,
+          "quote_count": 72,
+          "reply_count": 25,
+          "retweet_count": 3246
+        },
+        "reply_settings": "everyone",
+        "text": "我想看炸裂女医生和雷霆小护士。\n💉❤️💉 https://t.co/aas4hIu9fA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085415256407605249"
+          ],
+          "media_source_tweet_id": [
+            "2085415269850345841"
+          ]
+        },
+        "author_id": "1536716629505359872",
+        "conversation_id": "2085671071559368975",
+        "created_at": "2026-08-07T10:15:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T11:15:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085671071559368975"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1531146679906619392",
+              "start": 3,
+              "username": "ringo_duckkk"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aas4hIu9fA",
+              "end": 62,
+              "expanded_url": "https://x.com/ringo_duckkk/status/2085415269850345841/photo/1",
+              "media_key": "3_2085415256407605249",
+              "start": 39,
+              "url": "https://t.co/aas4hIu9fA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085671071559368975",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3246
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085415269850345841",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ringo_duckkk: 我想看炸裂女医生和雷霆小护士。\n💉❤️💉 https://t.co/aas4hIu9fA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2070816356862431619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 553,
+          "following_count": 468,
+          "like_count": 32423,
+          "listed_count": 0,
+          "media_count": 231,
+          "tweet_count": 3282
+        },
+        "url": "",
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-30T05:33:20.000Z",
+        "description": "🐼/中文/English👌!\n同人作品頭像/壁纸👌★🚫私自搬運🚫AI🚫\n偶尔🔞😵⚠️",
+        "id": "1531146679906619392",
+        "name": "pydw",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082867714943782912/mrD4eWkT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11278,
+          "following_count": 214,
+          "like_count": 352,
+          "listed_count": 33,
+          "media_count": 82,
+          "tweet_count": 178
+        },
+        "url": "",
+        "username": "ringo_duckkk",
+        "verified": false
+      }
+    ]
+  }
+}

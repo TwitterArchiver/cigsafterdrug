@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2088951427410616320",
+        "3_2088946129014849536"
+      ]
+    },
+    "author_id": "1536716629505359872",
+    "conversation_id": "2088951881045541326",
+    "created_at": "2026-08-16T11:31:53.000Z",
+    "display_text_range": [
+      0,
+      5
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T12:31:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088951881045541326"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/lixn2PkH2n",
+          "end": 29,
+          "expanded_url": "https://x.com/cigsafterdrug/status/2088951881045541326/video/1",
+          "media_key": "13_2088951427410616320",
+          "start": 6,
+          "url": "https://t.co/lixn2PkH2n"
+        },
+        {
+          "display_url": "pic.x.com/lixn2PkH2n",
+          "end": 29,
+          "expanded_url": "https://x.com/cigsafterdrug/status/2088951881045541326/video/1",
+          "media_key": "3_2088946129014849536",
+          "start": 6,
+          "url": "https://t.co/lixn2PkH2n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088951881045541326",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2088951427410616320"
+      },
+      {
+        "media_key": "3_2088946129014849536"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "下了兩天雨 https://t.co/lixn2PkH2n"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19601,
+        "height": 960,
+        "media_key": "13_2088951427410616320",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2088951427410616320/img/Aau6Yr4PprQgNB1q.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088951427410616320/vid/avc1/320x426/BpXCJ8IF5-mpn45I.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088951427410616320/vid/avc1/480x640/f-9sIYtXsUwNqvqo.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088951427410616320/vid/avc1/720x960/wUN10kHNOrVFHpoG.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2088951427410616320/pl/YHTOZFeTkDE-vo9N.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 576,
+        "media_key": "3_2088946129014849536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP1tb8bbgAAuLdy.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2088951427410616320",
+            "3_2088946129014849536"
+          ]
+        },
+        "author_id": "1536716629505359872",
+        "conversation_id": "2088951881045541326",
+        "created_at": "2026-08-16T11:31:53.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T12:31:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088951881045541326"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lixn2PkH2n",
+              "end": 29,
+              "expanded_url": "https://x.com/cigsafterdrug/status/2088951881045541326/video/1",
+              "media_key": "13_2088951427410616320",
+              "start": 6,
+              "url": "https://t.co/lixn2PkH2n"
+            },
+            {
+              "display_url": "pic.x.com/lixn2PkH2n",
+              "end": 29,
+              "expanded_url": "https://x.com/cigsafterdrug/status/2088951881045541326/video/1",
+              "media_key": "3_2088946129014849536",
+              "start": 6,
+              "url": "https://t.co/lixn2PkH2n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088951881045541326",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2088951427410616320"
+          },
+          {
+            "media_key": "3_2088946129014849536"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "下了兩天雨 https://t.co/lixn2PkH2n"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088951881045541326",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2070816356862431619",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1536716629505359872/1769099065",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 537,
+          "following_count": 468,
+          "like_count": 33260,
+          "listed_count": 0,
+          "media_count": 247,
+          "tweet_count": 3375
+        },
+        "url": "",
+        "username": "cigsafterdrug",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

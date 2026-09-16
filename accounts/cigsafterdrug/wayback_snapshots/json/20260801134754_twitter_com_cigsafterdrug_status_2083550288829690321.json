@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083541950800809984"
+      ],
+      "media_source_tweet_id": [
+        "2083541966919507985"
+      ]
+    },
+    "author_id": "1536716629505359872",
+    "conversation_id": "2083550288829690321",
+    "created_at": "2026-08-01T13:47:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T14:47:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083550288829690321"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 27,
+          "start": 22,
+          "tag": "特效化妆"
+        },
+        {
+          "end": 33,
+          "start": 28,
+          "tag": "女同性恋"
+        },
+        {
+          "end": 38,
+          "start": 34,
+          "tag": "les"
+        },
+        {
+          "end": 43,
+          "start": 39,
+          "tag": "wlw"
+        },
+        {
+          "end": 47,
+          "start": 44,
+          "tag": "假血"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1999225749526712320",
+          "start": 3,
+          "username": "lng404"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pJrr0JgrnZ",
+          "end": 71,
+          "expanded_url": "https://x.com/lng404/status/2083541966919507985/photo/1",
+          "media_key": "3_2083541950800809984",
+          "start": 48,
+          "url": "https://t.co/pJrr0JgrnZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083550288829690321",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083541966919507985",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lng404: 差点被掐死了呀呀呀\n#特效化妆 #女同性恋 #les #wlw #假血 https://t.co/pJrr0JgrnZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 960,
+        "media_key": "3_2083541950800809984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOo6XXwbUAAjFMR.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083541950800809984"
+          ]
+        },
+        "author_id": "1999225749526712320",
+        "conversation_id": "2083541966919507985",
+        "created_at": "2026-08-01T13:14:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T14:14:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083541966919507985"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 10,
+              "tag": "特效化妆"
+            },
+            {
+              "end": 21,
+              "start": 16,
+              "tag": "女同性恋"
+            },
+            {
+              "end": 26,
+              "start": 22,
+              "tag": "les"
+            },
+            {
+              "end": 31,
+              "start": 27,
+              "tag": "wlw"
+            },
+            {
+              "end": 35,
+              "start": 32,
+              "tag": "假血"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pJrr0JgrnZ",
+              "end": 59,
+              "expanded_url": "https://x.com/lng404/status/2083541966919507985/photo/1",
+              "media_key": "3_2083541950800809984",
+              "start": 36,
+              "url": "https://t.co/pJrr0JgrnZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083541966919507985",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 95,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "差点被掐死了呀呀呀\n#特效化妆 #女同性恋 #les #wlw #假血 https://t.co/pJrr0JgrnZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083541950800809984"
+          ],
+          "media_source_tweet_id": [
+            "2083541966919507985"
+          ]
+        },
+        "author_id": "1536716629505359872",
+        "conversation_id": "2083550288829690321",
+        "created_at": "2026-08-01T13:47:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T14:47:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083550288829690321"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 22,
+              "tag": "特效化妆"
+            },
+            {
+              "end": 33,
+              "start": 28,
+              "tag": "女同性恋"
+            },
+            {
+              "end": 38,
+              "start": 34,
+              "tag": "les"
+            },
+            {
+              "end": 43,
+              "start": 39,
+              "tag": "wlw"
+            },
+            {
+              "end": 47,
+              "start": 44,
+              "tag": "假血"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1999225749526712320",
+              "start": 3,
+              "username": "lng404"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pJrr0JgrnZ",
+              "end": 71,
+              "expanded_url": "https://x.com/lng404/status/2083541966919507985/photo/1",
+              "media_key": "3_2083541950800809984",
+              "start": 48,
+              "url": "https://t.co/pJrr0JgrnZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083550288829690321",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083541966919507985",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lng404: 差点被掐死了呀呀呀\n#特效化妆 #女同性恋 #les #wlw #假血 https://t.co/pJrr0JgrnZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2070816356862431619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 547,
+          "following_count": 475,
+          "like_count": 32231,
+          "listed_count": 0,
+          "media_count": 228,
+          "tweet_count": 3268
+        },
+        "url": "",
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-11T21:12:24.000Z",
+        "description": "有老婆 @Raven4040404",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 4,
+                "username": "Raven4040404"
+              }
+            ]
+          }
+        },
+        "id": "1999225749526712320",
+        "name": "翎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066231863069556736/PrAgybBI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 65,
+          "like_count": 258,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 95
+        },
+        "url": "",
+        "username": "lng404",
+        "verified": false
+      }
+    ]
+  }
+}

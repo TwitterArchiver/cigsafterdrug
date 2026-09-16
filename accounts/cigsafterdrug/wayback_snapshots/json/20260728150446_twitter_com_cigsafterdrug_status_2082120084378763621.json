@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2081992173705482365",
+    "created_at": "2026-07-28T15:04:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T16:04:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082120084378763621"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1328685947576143872",
+          "start": 0,
+          "username": "Rinchan2x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082120084378763621",
+    "in_reply_to_user_id": "1328685947576143872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082080334250959018",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rinchan2x 巴氯棼～用来增效的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2081992173705482365",
+        "created_at": "2026-07-28T15:04:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T16:04:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082120084378763621"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1328685947576143872",
+              "start": 0,
+              "username": "Rinchan2x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082120084378763621",
+        "in_reply_to_user_id": "1328685947576143872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082080334250959018",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rinchan2x 巴氯棼～用来增效的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1328685947576143872",
+        "conversation_id": "2081992173705482365",
+        "created_at": "2026-07-28T12:26:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T13:26:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082080334250959018"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1536716629505359872",
+              "start": 0,
+              "username": "cigsafterdrug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082080334250959018",
+        "in_reply_to_user_id": "1536716629505359872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081992173705482365",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cigsafterdrug 那两颗圆圆的是什么诶"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2070816356862431619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 530,
+          "following_count": 476,
+          "like_count": 31926,
+          "listed_count": 0,
+          "media_count": 220,
+          "tweet_count": 3208
+        },
+        "url": "",
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-17T13:06:53.000Z",
+        "description": "＝rin\n繁中\\簡中OK！｜💊🚬🩸｜友善交流｜♀\n♥︎可互fo! 直接fo就好♥︎",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin82109",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin82109",
+                "start": 0,
+                "url": "https://t.co/N6QPB1dpoG"
+              }
+            ]
+          }
+        },
+        "id": "1328685947576143872",
+        "name": "::",
+        "pinned_tweet_id": "2080128962882347511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077929183741927424/hDgRQVg4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 29,
+          "like_count": 60,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 156
+        },
+        "url": "https://t.co/N6QPB1dpoG",
+        "username": "Rinchan2x",
+        "verified": false
+      }
+    ]
+  }
+}

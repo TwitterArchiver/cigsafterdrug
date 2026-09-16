@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027782029526634501"
+      ],
+      "media_source_tweet_id": [
+        "2027782033674494016"
+      ]
+    },
+    "author_id": "1536716629505359872",
+    "conversation_id": "2090671295935771005",
+    "created_at": "2026-08-21T05:24:14.000Z",
+    "display_text_range": [
+      0,
+      67
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T06:24:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090671295935771005"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2027610329614848001",
+          "start": 3,
+          "username": "Sepultaci0n_xx"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FWuNsLuYgY",
+          "end": 67,
+          "expanded_url": "https://x.com/Sepultaci0n_xx/status/2027782033674494016/photo/1",
+          "media_key": "3_2027782029526634501",
+          "start": 44,
+          "url": "https://t.co/FWuNsLuYgY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090671295935771005",
+    "lang": "es",
+    "media_metadata": [
+      {
+        "media_key": "3_2027782029526634501"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2778
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027782033674494016",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Sepultaci0n_xx: Mmmm mi fantasía sexual https://t.co/FWuNsLuYgY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1074,
+        "media_key": "3_2027782029526634501",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCQhAx_bEAULT7L.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027782029526634501"
+          ],
+          "media_source_tweet_id": [
+            "2027782033674494016"
+          ]
+        },
+        "author_id": "1536716629505359872",
+        "conversation_id": "2090671295935771005",
+        "created_at": "2026-08-21T05:24:14.000Z",
+        "display_text_range": [
+          0,
+          67
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T06:24:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090671295935771005"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2027610329614848001",
+              "start": 3,
+              "username": "Sepultaci0n_xx"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FWuNsLuYgY",
+              "end": 67,
+              "expanded_url": "https://x.com/Sepultaci0n_xx/status/2027782033674494016/photo/1",
+              "media_key": "3_2027782029526634501",
+              "start": 44,
+              "url": "https://t.co/FWuNsLuYgY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090671295935771005",
+        "lang": "es",
+        "media_metadata": [
+          {
+            "media_key": "3_2027782029526634501"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2778
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027782033674494016",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Sepultaci0n_xx: Mmmm mi fantasía sexual https://t.co/FWuNsLuYgY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027782029526634501"
+          ]
+        },
+        "author_id": "2027610329614848001",
+        "conversation_id": "2027782033674494016",
+        "created_at": "2026-02-28T16:24:45.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-02-28T17:24:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027782033674494016"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FWuNsLuYgY",
+              "end": 47,
+              "expanded_url": "https://x.com/Sepultaci0n_xx/status/2027782033674494016/photo/1",
+              "media_key": "3_2027782029526634501",
+              "start": 24,
+              "url": "https://t.co/FWuNsLuYgY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027782033674494016",
+        "lang": "es",
+        "media_metadata": [
+          {
+            "media_key": "3_2027782029526634501"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1160,
+          "impression_count": 99478,
+          "like_count": 9043,
+          "quote_count": 89,
+          "reply_count": 71,
+          "retweet_count": 2778
+        },
+        "reply_settings": "everyone",
+        "text": "Mmmm mi fantasía sexual https://t.co/FWuNsLuYgY"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090671295935771005",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2070816356862431619",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1536716629505359872/1769099065",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 541,
+          "following_count": 482,
+          "like_count": 33699,
+          "listed_count": 0,
+          "media_count": 251,
+          "tweet_count": 3413
+        },
+        "url": "",
+        "username": "cigsafterdrug",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-28T05:02:44.000Z",
+        "description": "(˶˃𐃷˂˶)    ⋆. #shtwt #obstwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 20,
+                "start": 14,
+                "tag": "shtwt"
+              },
+              {
+                "end": 28,
+                "start": 21,
+                "tag": "obstwt"
+              }
+            ]
+          }
+        },
+        "id": "2027610329614848001",
+        "is_identity_verified": false,
+        "location": "Basurero",
+        "most_recent_tweet_id": "2030009217906561256",
+        "name": "Putr3factoo",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2027610329614848001/1772257154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027619581867536385/jo8m51QW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 252,
+          "following_count": 52,
+          "like_count": 1040,
+          "listed_count": 2,
+          "media_count": 10,
+          "tweet_count": 479
+        },
+        "url": "",
+        "username": "Sepultaci0n_xx",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070051919939215360"
+      ],
+      "media_source_tweet_id": [
+        "2084200097160556848"
+      ]
+    },
+    "author_id": "1536716629505359872",
+    "conversation_id": "2084341154427097585",
+    "created_at": "2026-08-03T18:10:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T19:10:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084341154427097585"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 27,
+          "start": 21,
+          "tag": "edtwt"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1840268635954085888",
+          "start": 3,
+          "username": "BurningBones666"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/g0VVycwDrx",
+          "end": 51,
+          "expanded_url": "https://x.com/BurningBones666/status/2084200097160556848/photo/1",
+          "media_key": "3_2070051919939215360",
+          "start": 28,
+          "url": "https://t.co/g0VVycwDrx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084341154427097585",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 123
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084200097160556848",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BurningBones666: #edtwt https://t.co/g0VVycwDrx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_2070051919939215360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLpNQOqXoAAvPQM.jpg",
+        "width": 1592
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070051919939215360"
+          ]
+        },
+        "author_id": "1840268635954085888",
+        "conversation_id": "2084200097160556848",
+        "created_at": "2026-08-03T08:50:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T09:50:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084200097160556848"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "edtwt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/g0VVycwDrx",
+              "end": 30,
+              "expanded_url": "https://x.com/BurningBones666/status/2084200097160556848/photo/1",
+              "media_key": "3_2070051919939215360",
+              "start": 7,
+              "url": "https://t.co/g0VVycwDrx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084200097160556848",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 93,
+          "impression_count": 6264,
+          "like_count": 1284,
+          "quote_count": 8,
+          "reply_count": 4,
+          "retweet_count": 123
+        },
+        "reply_settings": "everyone",
+        "text": "#edtwt https://t.co/g0VVycwDrx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070051919939215360"
+          ],
+          "media_source_tweet_id": [
+            "2084200097160556848"
+          ]
+        },
+        "author_id": "1536716629505359872",
+        "conversation_id": "2084341154427097585",
+        "created_at": "2026-08-03T18:10:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T19:10:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084341154427097585"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 21,
+              "tag": "edtwt"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1840268635954085888",
+              "start": 3,
+              "username": "BurningBones666"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/g0VVycwDrx",
+              "end": 51,
+              "expanded_url": "https://x.com/BurningBones666/status/2084200097160556848/photo/1",
+              "media_key": "3_2070051919939215360",
+              "start": 28,
+              "url": "https://t.co/g0VVycwDrx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084341154427097585",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 123
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084200097160556848",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BurningBones666: #edtwt https://t.co/g0VVycwDrx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2070816356862431619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 559,
+          "following_count": 477,
+          "like_count": 32292,
+          "listed_count": 0,
+          "media_count": 229,
+          "tweet_count": 3275
+        },
+        "url": "",
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-29T05:55:00.000Z",
+        "description": "spo account ★ DMs are open for suggestions nd submissions",
+        "id": "1840268635954085888",
+        "location": "★ DM for removal ★",
+        "name": "burning.bones",
+        "pinned_tweet_id": "2061156002955985392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070221043877257216/tbUWzLdh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 646,
+          "following_count": 11,
+          "like_count": 2208,
+          "listed_count": 2,
+          "media_count": 1230,
+          "tweet_count": 1750
+        },
+        "url": "",
+        "username": "BurningBones666",
+        "verified": false
+      }
+    ]
+  }
+}

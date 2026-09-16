@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2094145318090862782",
+    "created_at": "2026-08-30T19:28:45.000Z",
+    "display_text_range": [
+      0,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T20:28:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2094145318090862782"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/smokeoutsaddne…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/smokeoutsaddnes/status/2094128225500779003",
+          "start": 16,
+          "url": "https://t.co/mJMjvSbdeF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094145318090862782",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094128225500779003",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好漂亮⋯好希望有一天我也能這樣 https://t.co/mJMjvSbdeF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2094128218089398272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ_WhOlXIAAxGKF.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2094145318090862782",
+        "created_at": "2026-08-30T19:28:45.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T20:28:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094145318090862782"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/smokeoutsaddne…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/smokeoutsaddnes/status/2094128225500779003",
+              "start": 16,
+              "url": "https://t.co/mJMjvSbdeF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094145318090862782",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094128225500779003",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好漂亮⋯好希望有一天我也能這樣 https://t.co/mJMjvSbdeF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094128218089398272"
+          ]
+        },
+        "author_id": "2006046784112713730",
+        "conversation_id": "2094128225500779003",
+        "created_at": "2026-08-30T18:20:50.000Z",
+        "display_text_range": [
+          0,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T19:20:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094128225500779003"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 15,
+              "tag": "shtwtt"
+            },
+            {
+              "end": 34,
+              "start": 23,
+              "tag": "suicidetwt"
+            },
+            {
+              "end": 43,
+              "start": 35,
+              "tag": "shedtwt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CYjj0S9PYW",
+              "end": 67,
+              "expanded_url": "https://x.com/smokeoutsaddnes/status/2094128225500779003/photo/1",
+              "media_key": "3_2094128218089398272",
+              "start": 44,
+              "url": "https://t.co/CYjj0S9PYW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094128225500779003",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2094128218089398272"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 297,
+          "like_count": 69,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "ALL FAKE\n(╥﹏╥)\n#shtwtt #suicidetwt #shedtwt https://t.co/CYjj0S9PYW"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094145318090862782",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2070816356862431619",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1536716629505359872/1769099065",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 540,
+          "following_count": 480,
+          "like_count": 34617,
+          "listed_count": 0,
+          "media_count": 260,
+          "tweet_count": 3475
+        },
+        "url": "",
+        "username": "cigsafterdrug",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-30T16:57:15.000Z",
+        "description": "",
+        "id": "2006046784112713730",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094128225500779003",
+        "name": "☣︎",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2006046784112713730/1788118088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094145160766451712/EvYGhTJS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 4,
+          "like_count": 759,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 68
+        },
+        "url": "",
+        "username": "smokeoutsaddnes",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

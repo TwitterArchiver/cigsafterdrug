@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2098089715228655623",
+    "created_at": "2026-09-10T17:32:03.000Z",
+    "display_text_range": [
+      12,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T18:32:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098102213109481521"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1809231542486802432",
+          "start": 0,
+          "username": "kiukiu4444"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098102213109481521",
+    "in_reply_to_user_id": "1809231542486802432",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098089715228655623",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kiukiu4444 so coooool"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2098089704793227271",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR3peGkawAcaDwK.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2098089704810012672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR3peGoa4AAMQYy.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2098089704793202688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR3peGkaYAAWsJZ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2098089715228655623",
+        "created_at": "2026-09-10T17:32:03.000Z",
+        "display_text_range": [
+          12,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T18:32:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098102213109481521"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1809231542486802432",
+              "start": 0,
+              "username": "kiukiu4444"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098102213109481521",
+        "in_reply_to_user_id": "1809231542486802432",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098089715228655623",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kiukiu4444 so coooool"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098089704793227271",
+            "3_2098089704810012672",
+            "3_2098089704793202688"
+          ]
+        },
+        "author_id": "1809231542486802432",
+        "conversation_id": "2098089715228655623",
+        "created_at": "2026-09-10T16:42:23.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T17:42:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098089715228655623"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DTZEVRJVCW",
+              "end": 61,
+              "expanded_url": "https://x.com/kiukiu4444/status/2098089715228655623/photo/1",
+              "media_key": "3_2098089704793227271",
+              "start": 38,
+              "url": "https://t.co/DTZEVRJVCW"
+            },
+            {
+              "display_url": "pic.x.com/DTZEVRJVCW",
+              "end": 61,
+              "expanded_url": "https://x.com/kiukiu4444/status/2098089715228655623/photo/1",
+              "media_key": "3_2098089704810012672",
+              "start": 38,
+              "url": "https://t.co/DTZEVRJVCW"
+            },
+            {
+              "display_url": "pic.x.com/DTZEVRJVCW",
+              "end": 61,
+              "expanded_url": "https://x.com/kiukiu4444/status/2098089715228655623/photo/1",
+              "media_key": "3_2098089704793202688",
+              "start": 38,
+              "url": "https://t.co/DTZEVRJVCW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098089715228655623",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098089704793227271"
+          },
+          {
+            "media_key": "3_2098089704810012672"
+          },
+          {
+            "media_key": "3_2098089704793202688"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 101,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好鍾意去呢啲abandoned places 但係每次都係自己一個人去TT https://t.co/DTZEVRJVCW"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098102213109481521",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2070816356862431619",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1536716629505359872/1769099065",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 555,
+          "following_count": 482,
+          "like_count": 35714,
+          "listed_count": 0,
+          "media_count": 258,
+          "tweet_count": 3507
+        },
+        "url": "",
+        "username": "cigsafterdrug",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-05T14:23:18.000Z",
+        "description": "#shtwt #odtwt\n查成份回fol｜9up\n防炸@kiukiu44442\nim the god of dxm💊xx",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 6,
+                "start": 0,
+                "tag": "shtwt"
+              },
+              {
+                "end": 13,
+                "start": 7,
+                "tag": "odtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 40,
+                "start": 28,
+                "username": "kiukiu44442"
+              }
+            ]
+          }
+        },
+        "id": "1809231542486802432",
+        "is_identity_verified": false,
+        "location": "Hong Kong",
+        "most_recent_tweet_id": "2098100990377709711",
+        "name": "kiu",
+        "pinned_tweet_id": "2096594400470274334",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1809231542486802432/1775673060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096591639175458816/9C5-AGBU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 72,
+          "like_count": 490,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 92
+        },
+        "url": "",
+        "username": "kiukiu4444",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

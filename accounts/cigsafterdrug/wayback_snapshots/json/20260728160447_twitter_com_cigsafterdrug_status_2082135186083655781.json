@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2082066193457061902",
+    "created_at": "2026-07-28T16:04:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T17:04:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082135186083655781"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2069070474269868034",
+          "start": 0,
+          "username": "meyuyume121"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082135186083655781",
+    "in_reply_to_user_id": "2069070474269868034",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082066193457061902",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@meyuyume121 吃药不一定会胖的！最重要是可以改善你的心境🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2082066193457061902",
+        "created_at": "2026-07-28T16:04:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T17:04:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082135186083655781"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2069070474269868034",
+              "start": 0,
+              "username": "meyuyume121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082135186083655781",
+        "in_reply_to_user_id": "2069070474269868034",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082066193457061902",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meyuyume121 吃药不一定会胖的！最重要是可以改善你的心境🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2069070474269868034",
+        "conversation_id": "2082066193457061902",
+        "created_at": "2026-07-28T11:30:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T12:30:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082066193457061902"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082066193457061902",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 105,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我突然意识到一件恐怖的事情，如果我真去看精神科了然后，我查出什么东西出来的话，我就要吃药。然后呢，吃药之后就会变胖。我我看我好多朋友，他们有那个那个什么病，然后呢，他们吃药胖了好多呀，好恐怖，我不去看医生了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2070816356862431619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 530,
+          "following_count": 476,
+          "like_count": 31929,
+          "listed_count": 0,
+          "media_count": 220,
+          "tweet_count": 3211
+        },
+        "url": "",
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-22T14:52:26.000Z",
+        "description": "愛人@Gen_ei_SKC0218\n神聖かまってちゃん beyond 李志\n🇭🇰🇭🇰🇭🇰\n😻互fol😻\n@yume0u0121",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "Gen_ei_SKC0218"
+              },
+              {
+                "end": 63,
+                "start": 52,
+                "username": "yume0u0121"
+              }
+            ]
+          }
+        },
+        "id": "2069070474269868034",
+        "name": "yume",
+        "pinned_tweet_id": "2069071485034279064",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069072982857936896/5MG7UIfg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 194,
+          "like_count": 351,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 379
+        },
+        "url": "",
+        "username": "meyuyume121",
+        "verified": false
+      }
+    ]
+  }
+}

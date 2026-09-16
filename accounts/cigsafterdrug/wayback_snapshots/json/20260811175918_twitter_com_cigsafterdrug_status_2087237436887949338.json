@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087237431330574337"
+      ]
+    },
+    "author_id": "1536716629505359872",
+    "conversation_id": "2087237436887949338",
+    "created_at": "2026-08-11T17:59:18.000Z",
+    "display_text_range": [
+      0,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T18:59:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087237436887949338"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/pHHTWGv96O",
+          "end": 36,
+          "expanded_url": "https://x.com/cigsafterdrug/status/2087237436887949338/photo/1",
+          "media_key": "3_2087237431330574337",
+          "start": 13,
+          "url": "https://t.co/pHHTWGv96O"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087237436887949338",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2087237431330574337"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "ig的自动配乐是什么意思 https://t.co/pHHTWGv96O"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2087237431330574337",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPdbYphbkAEvBMV.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087237431330574337"
+          ]
+        },
+        "author_id": "1536716629505359872",
+        "conversation_id": "2087237436887949338",
+        "created_at": "2026-08-11T17:59:18.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T18:59:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087237436887949338"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pHHTWGv96O",
+              "end": 36,
+              "expanded_url": "https://x.com/cigsafterdrug/status/2087237436887949338/photo/1",
+              "media_key": "3_2087237431330574337",
+              "start": 13,
+              "url": "https://t.co/pHHTWGv96O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087237436887949338",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087237431330574337"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "ig的自动配乐是什么意思 https://t.co/pHHTWGv96O"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087237436887949338",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2070816356862431619",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1536716629505359872/1769099065",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 543,
+          "following_count": 476,
+          "like_count": 32885,
+          "listed_count": 0,
+          "media_count": 240,
+          "tweet_count": 3331
+        },
+        "url": "",
+        "username": "cigsafterdrug",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

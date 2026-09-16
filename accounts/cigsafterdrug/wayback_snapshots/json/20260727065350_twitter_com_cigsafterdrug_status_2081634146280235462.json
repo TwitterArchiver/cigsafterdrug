@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081634140282388480",
+        "3_2081634140294967296"
+      ]
+    },
+    "author_id": "1536716629505359872",
+    "conversation_id": "2081634146280235462",
+    "created_at": "2026-07-27T06:53:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T07:53:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081634146280235462"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1zXJqEi31i",
+          "end": 30,
+          "expanded_url": "https://x.com/cigsafterdrug/status/2081634146280235462/photo/1",
+          "media_key": "3_2081634140282388480",
+          "start": 7,
+          "url": "https://t.co/1zXJqEi31i"
+        },
+        {
+          "display_url": "pic.x.com/1zXJqEi31i",
+          "end": 30,
+          "expanded_url": "https://x.com/cigsafterdrug/status/2081634146280235462/photo/1",
+          "media_key": "3_2081634140294967296",
+          "start": 7,
+          "url": "https://t.co/1zXJqEi31i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081634146280235462",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "切換良子人格 https://t.co/1zXJqEi31i"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2081634140282388480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HONzOLvbgAAyu0d.jpg",
+        "width": 720
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2081634140294967296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HONzOLybcAAhWx1.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081634140282388480",
+            "3_2081634140294967296"
+          ]
+        },
+        "author_id": "1536716629505359872",
+        "conversation_id": "2081634146280235462",
+        "created_at": "2026-07-27T06:53:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T07:53:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081634146280235462"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1zXJqEi31i",
+              "end": 30,
+              "expanded_url": "https://x.com/cigsafterdrug/status/2081634146280235462/photo/1",
+              "media_key": "3_2081634140282388480",
+              "start": 7,
+              "url": "https://t.co/1zXJqEi31i"
+            },
+            {
+              "display_url": "pic.x.com/1zXJqEi31i",
+              "end": 30,
+              "expanded_url": "https://x.com/cigsafterdrug/status/2081634146280235462/photo/1",
+              "media_key": "3_2081634140294967296",
+              "start": 7,
+              "url": "https://t.co/1zXJqEi31i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081634146280235462",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "切換良子人格 https://t.co/1zXJqEi31i"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2070816356862431619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 527,
+          "following_count": 477,
+          "like_count": 31819,
+          "listed_count": 0,
+          "media_count": 215,
+          "tweet_count": 3180
+        },
+        "url": "",
+        "username": "cigsafterdrug",
+        "verified": false
+      }
+    ]
+  }
+}

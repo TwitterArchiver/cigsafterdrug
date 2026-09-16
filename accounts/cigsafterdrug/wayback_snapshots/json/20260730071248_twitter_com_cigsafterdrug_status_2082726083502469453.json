@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2082726083502469453",
+    "created_at": "2026-07-30T07:12:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T08:12:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082726083502469453"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lotus_lianhua0…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/lotus_lianhua04/status/2082715951938609589",
+          "start": 4,
+          "url": "https://t.co/G3pUhvvBmp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082726083502469453",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082715951938609589",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好幸福 https://t.co/G3pUhvvBmp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2082715877456093185",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOdLDkvWIAED0xh.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2082715877464489984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOdLDkxWQAALnPZ.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2082715877468749824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOdLDkyXQAAPPst.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2082726083502469453",
+        "created_at": "2026-07-30T07:12:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T08:12:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082726083502469453"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lotus_lianhua0…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/lotus_lianhua04/status/2082715951938609589",
+              "start": 4,
+              "url": "https://t.co/G3pUhvvBmp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082726083502469453",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082715951938609589",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好幸福 https://t.co/G3pUhvvBmp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082715877456093185",
+            "3_2082715877464489984",
+            "3_2082715877468749824"
+          ]
+        },
+        "author_id": "2002670122767667200",
+        "conversation_id": "2082715951938609589",
+        "created_at": "2026-07-30T06:32:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T07:32:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082715951938609589"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1536716629505359872",
+              "start": 0,
+              "username": "cigsafterdrug"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SOPukELkO5",
+              "end": 50,
+              "expanded_url": "https://x.com/Lotus_LianHua04/status/2082715951938609589/photo/1",
+              "media_key": "3_2082715877456093185",
+              "start": 27,
+              "url": "https://t.co/SOPukELkO5"
+            },
+            {
+              "display_url": "pic.x.com/SOPukELkO5",
+              "end": 50,
+              "expanded_url": "https://x.com/Lotus_LianHua04/status/2082715951938609589/photo/1",
+              "media_key": "3_2082715877464489984",
+              "start": 27,
+              "url": "https://t.co/SOPukELkO5"
+            },
+            {
+              "display_url": "pic.x.com/SOPukELkO5",
+              "end": 50,
+              "expanded_url": "https://x.com/Lotus_LianHua04/status/2082715951938609589/photo/1",
+              "media_key": "3_2082715877468749824",
+              "start": 27,
+              "url": "https://t.co/SOPukELkO5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082715951938609589",
+        "in_reply_to_user_id": "1536716629505359872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@cigsafterdrug 好幸福然后我们变落汤鸡 https://t.co/SOPukELkO5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2070816356862431619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 532,
+          "following_count": 473,
+          "like_count": 32016,
+          "listed_count": 0,
+          "media_count": 224,
+          "tweet_count": 3229
+        },
+        "url": "",
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-21T09:19:17.000Z",
+        "description": "出售人造自來血、懵仔針、逍遙散、藥丸(清新綠)、藥粉(純潔白)、藥水(典雅棕)、萬寶路香煙購買請call9797-997",
+        "id": "2002670122767667200",
+        "location": "骨多摩多星球",
+        "name": "Lotus",
+        "pinned_tweet_id": "2048218295354999123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053088047370285056/zX-PRqYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 259,
+          "following_count": 30,
+          "like_count": 1530,
+          "listed_count": 1,
+          "media_count": 238,
+          "tweet_count": 3337
+        },
+        "url": "",
+        "username": "Lotus_LianHua04",
+        "verified": false
+      }
+    ]
+  }
+}

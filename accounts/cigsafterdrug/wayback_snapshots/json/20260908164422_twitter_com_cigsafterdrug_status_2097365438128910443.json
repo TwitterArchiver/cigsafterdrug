@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2097009290150338912",
+    "created_at": "2026-09-08T16:44:22.000Z",
+    "display_text_range": [
+      9,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T17:44:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097365438128910443"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1262416576617148417",
+          "start": 0,
+          "username": "Ame8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097365438128910443",
+    "in_reply_to_user_id": "1262416576617148417",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097340142201782532",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ame8964 師兄啊我尋日一支煙都冇剩啦😭🙏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2097009290150338912",
+        "created_at": "2026-09-08T16:44:22.000Z",
+        "display_text_range": [
+          9,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T17:44:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097365438128910443"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1262416576617148417",
+              "start": 0,
+              "username": "Ame8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097365438128910443",
+        "in_reply_to_user_id": "1262416576617148417",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097340142201782532",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ame8964 師兄啊我尋日一支煙都冇剩啦😭🙏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1262416576617148417",
+        "conversation_id": "2097009290150338912",
+        "created_at": "2026-09-08T15:03:51.000Z",
+        "display_text_range": [
+          15,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T16:03:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097340142201782532"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1536716629505359872",
+              "start": 0,
+              "username": "cigsafterdrug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097340142201782532",
+        "in_reply_to_user_id": "1536716629505359872",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097009290150338912",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cigsafterdrug 米蘭都偷 孩子抽點好的吧"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097365438128910443",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2070816356862431619",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1536716629505359872/1769099065",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 551,
+          "following_count": 482,
+          "like_count": 35574,
+          "listed_count": 0,
+          "media_count": 265,
+          "tweet_count": 3524
+        },
+        "url": "",
+        "username": "cigsafterdrug",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-05-18T16:15:51.000Z",
+        "description": "-小雨\n-哎嗯踢批\n-烟鬼\n-10年 港人（518964）（拒小粉紅）\n-顺直女 有顺直男朋友（1i）\n-我是爱慕可是男友也是爱慕怎么办\n-LGBTQ+全包容\n-乌蒙批 世画批",
+        "id": "1262416576617148417",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097340693761106320",
+        "name": "Ame",
+        "pinned_tweet_id": "2069131487778381862",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1262416576617148417/1788672556",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073133252756545536/49GQi9P1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 100,
+          "like_count": 367,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 482
+        },
+        "url": "",
+        "username": "Ame8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

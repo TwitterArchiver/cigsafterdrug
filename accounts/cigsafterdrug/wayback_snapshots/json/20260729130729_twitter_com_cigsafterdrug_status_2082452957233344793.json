@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2082404396269449326",
+    "created_at": "2026-07-29T13:07:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T14:07:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082452957233344793"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1863222062472454144",
+          "start": 0,
+          "username": "ha_wa65652"
+        },
+        {
+          "end": 26,
+          "id": "1445681460497694723",
+          "start": 12,
+          "username": "cryptochenrui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082452957233344793",
+    "in_reply_to_user_id": "1863222062472454144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082418445942128680",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ha_wa65652 @cryptochenrui 找好玩的东西"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2082404396269449326",
+        "created_at": "2026-07-29T13:07:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T14:07:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082452957233344793"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1863222062472454144",
+              "start": 0,
+              "username": "ha_wa65652"
+            },
+            {
+              "end": 26,
+              "id": "1445681460497694723",
+              "start": 12,
+              "username": "cryptochenrui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082452957233344793",
+        "in_reply_to_user_id": "1863222062472454144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082418445942128680",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ha_wa65652 @cryptochenrui 找好玩的东西"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1863222062472454144",
+        "conversation_id": "2082404396269449326",
+        "created_at": "2026-07-29T10:50:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T11:50:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082418445942128680"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1536716629505359872",
+              "start": 0,
+              "username": "cigsafterdrug"
+            },
+            {
+              "end": 29,
+              "id": "1445681460497694723",
+              "start": 15,
+              "username": "cryptochenrui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082418445942128680",
+        "in_reply_to_user_id": "1536716629505359872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082404396269449326",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cigsafterdrug @cryptochenrui 什么是打野"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2070816356862431619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 534,
+          "following_count": 476,
+          "like_count": 31973,
+          "listed_count": 0,
+          "media_count": 222,
+          "tweet_count": 3222
+        },
+        "url": "",
+        "username": "cigsafterdrug",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-01T14:02:21.000Z",
+        "description": "",
+        "id": "1863222062472454144",
+        "name": "铃音",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081841628034256896/MFHsrfyz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 292,
+          "like_count": 295,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 63
+        },
+        "url": "",
+        "username": "ha_wa65652",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-06T09:25:19.000Z",
+        "description": "这里是精神病和嗑药od频道.\n大学退学，农村穷蛆intj。\n\n欢迎温良边缘人直fo。\n🈲过激健全品客男女拳。",
+        "id": "1445681460497694723",
+        "location": "南昌",
+        "name": "普瑞栗栗",
+        "pinned_tweet_id": "2070055196898861129",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080328133363019776/cGam4g6z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 259,
+          "following_count": 295,
+          "like_count": 10126,
+          "listed_count": 5,
+          "media_count": 146,
+          "tweet_count": 2719
+        },
+        "url": "",
+        "username": "cryptochenrui",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2086693798118367232"
+      ]
+    },
+    "author_id": "1536716629505359872",
+    "conversation_id": "2086693803587698836",
+    "created_at": "2026-08-10T05:59:06.000Z",
+    "display_text_range": [
+      0,
+      11
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T06:59:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086693803587698836"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/EiSichaD3Q",
+          "end": 35,
+          "expanded_url": "https://x.com/cigsafterdrug/status/2086693803587698836/photo/1",
+          "media_key": "3_2086693798118367232",
+          "start": 12,
+          "url": "https://t.co/EiSichaD3Q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086693803587698836",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2086693798118367232"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "老婆俺们好几天某亲嘴勒 https://t.co/EiSichaD3Q"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "3_2086693798118367232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPVs9B_bIAADzUf.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086693798118367232"
+          ]
+        },
+        "author_id": "1536716629505359872",
+        "conversation_id": "2086693803587698836",
+        "created_at": "2026-08-10T05:59:06.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T06:59:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086693803587698836"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EiSichaD3Q",
+              "end": 35,
+              "expanded_url": "https://x.com/cigsafterdrug/status/2086693803587698836/photo/1",
+              "media_key": "3_2086693798118367232",
+              "start": 12,
+              "url": "https://t.co/EiSichaD3Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086693803587698836",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086693798118367232"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "老婆俺们好几天某亲嘴勒 https://t.co/EiSichaD3Q"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086693803587698836",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2070816356862431619",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1536716629505359872/1769099065",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 545,
+          "following_count": 473,
+          "like_count": 32686,
+          "listed_count": 0,
+          "media_count": 236,
+          "tweet_count": 3313
+        },
+        "url": "",
+        "username": "cigsafterdrug",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

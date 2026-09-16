@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2094276889133392224",
+    "created_at": "2026-08-31T04:11:34.000Z",
+    "display_text_range": [
+      0,
+      4
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T05:11:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2094276889133392224"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sineqqqqqqqqq/…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/sineqqqqqqqqq/status/2094263675825840249",
+          "start": 5,
+          "url": "https://t.co/RKfUePeNj2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094276889133392224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094263675825840249",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好美丽… https://t.co/RKfUePeNj2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2094263671212097536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRBRtoyaQAAgku7.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2094276889133392224",
+        "created_at": "2026-08-31T04:11:34.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T05:11:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094276889133392224"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sineqqqqqqqqq/…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/sineqqqqqqqqq/status/2094263675825840249",
+              "start": 5,
+              "url": "https://t.co/RKfUePeNj2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094276889133392224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094263675825840249",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好美丽… https://t.co/RKfUePeNj2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094263671212097536"
+          ]
+        },
+        "author_id": "2092184702686052352",
+        "conversation_id": "2094263675825840249",
+        "created_at": "2026-08-31T03:19:04.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T04:19:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094263675825840249"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zuhkwFVzFS",
+              "end": 23,
+              "expanded_url": "https://x.com/SINEqqqqqqqqq/status/2094263675825840249/photo/1",
+              "media_key": "3_2094263671212097536",
+              "start": 0,
+              "url": "https://t.co/zuhkwFVzFS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094263675825840249",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2094263671212097536"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 772,
+          "like_count": 251,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/zuhkwFVzFS"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094276889133392224",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2070816356862431619",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1536716629505359872/1769099065",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 540,
+          "following_count": 480,
+          "like_count": 34606,
+          "listed_count": 0,
+          "media_count": 260,
+          "tweet_count": 3475
+        },
+        "url": "",
+        "username": "cigsafterdrug",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-25T09:44:21.000Z",
+        "description": "景@kyou_0207 (凍結)、裏表@ttttt2222227 (凍結)の人です",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 1,
+                "username": "kyou_0207"
+              },
+              {
+                "end": 32,
+                "start": 19,
+                "username": "ttttt2222227"
+              }
+            ]
+          }
+        },
+        "id": "2092184702686052352",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094263675825840249",
+        "name": "うらおもて",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094249218450001920/XCv_a8WK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 0,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 26
+        },
+        "url": "",
+        "username": "SINEqqqqqqqqq",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "conversation_id": "2081815015200575814",
+    "created_at": "2026-07-27T18:52:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T19:52:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081815015200575814"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2081815015200575814",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "太可恶了…和人交往不就只是从对方身上索取点什么吗…一想到这样就好悲哀。跟我互动是为了什么？觉得我给你展示的幽默感能让你不那么无聊？满足你的性欲？要从我身上吸取正能量？觉得我的某部分让你很身同感受？一起来往都让人失落和悲伤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "conversation_id": "2081815015200575814",
+        "created_at": "2026-07-27T18:52:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T19:52:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081815015200575814"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081815015200575814",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "太可恶了…和人交往不就只是从对方身上索取点什么吗…一想到这样就好悲哀。跟我互动是为了什么？觉得我给你展示的幽默感能让你不那么无聊？满足你的性欲？要从我身上吸取正能量？觉得我的某部分让你很身同感受？一起来往都让人失落和悲伤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2070816356862431619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 531,
+          "following_count": 477,
+          "like_count": 31888,
+          "listed_count": 0,
+          "media_count": 218,
+          "tweet_count": 3189
+        },
+        "url": "",
+        "username": "cigsafterdrug",
+        "verified": false
+      }
+    ]
+  }
+}

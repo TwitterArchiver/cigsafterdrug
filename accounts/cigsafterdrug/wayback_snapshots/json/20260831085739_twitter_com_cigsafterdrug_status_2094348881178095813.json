@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1536716629505359872",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2094348881178095813",
+    "created_at": "2026-08-31T08:57:39.000Z",
+    "display_text_range": [
+      0,
+      3
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T09:57:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2094348881178095813"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/detentrice2mst…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/detentrice2mst/status/2094114405474582975",
+          "start": 4,
+          "url": "https://t.co/GsBsiAYf8o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094348881178095813",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094114405474582975",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好暧昧 https://t.co/GsBsiAYf8o"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2094114400063877121",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ_J86bWcAEEK4b.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536716629505359872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2094348881178095813",
+        "created_at": "2026-08-31T08:57:39.000Z",
+        "display_text_range": [
+          0,
+          3
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T09:57:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094348881178095813"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/detentrice2mst…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/detentrice2mst/status/2094114405474582975",
+              "start": 4,
+              "url": "https://t.co/GsBsiAYf8o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094348881178095813",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094114405474582975",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好暧昧 https://t.co/GsBsiAYf8o"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094114400063877121"
+          ]
+        },
+        "author_id": "1243158025084510208",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2094114405474582975",
+        "created_at": "2026-08-30T17:25:55.000Z",
+        "display_text_range": [
+          0,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T18:25:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094114405474582975"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/e65s9o0kUG",
+              "end": 67,
+              "expanded_url": "https://x.com/detentrice2mst/status/2094114405474582975/photo/1",
+              "media_key": "3_2094114400063877121",
+              "start": 44,
+              "url": "https://t.co/e65s9o0kUG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094114405474582975",
+        "lang": "fr",
+        "media_metadata": [
+          {
+            "media_key": "3_2094114400063877121"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1078,
+          "impression_count": 617532,
+          "like_count": 22944,
+          "quote_count": 935,
+          "reply_count": 166,
+          "retweet_count": 1965
+        },
+        "reply_settings": "everyone",
+        "text": "premier date, il m’explique tout ses tweets https://t.co/e65s9o0kUG"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-06-14T14:26:29.000Z",
+        "description": "✟可以叫我迴/小迴/任何你喜歡的✟ 任何群體全歡迎 \n目前只和同類互fo抱歉orz\n只要幸福就好了 祝你幸福",
+        "id": "1536716629505359872",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094348881178095813",
+        "name": "plsDontkissmeonthesidewalk",
+        "pinned_tweet_id": "2070816356862431619",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1536716629505359872/1769099065",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 540,
+          "following_count": 480,
+          "like_count": 34649,
+          "listed_count": 0,
+          "media_count": 260,
+          "tweet_count": 3477
+        },
+        "url": "",
+        "username": "cigsafterdrug",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-03-26T12:49:16.000Z",
+        "description": "fake it untill you make it @swaggyhbuu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 27,
+                "username": "swaggyhbuu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "paypal.me/swaggyhbuu",
+                "end": 23,
+                "expanded_url": "https://www.paypal.me/swaggyhbuu",
+                "start": 0,
+                "url": "https://t.co/SQSn2BVQGm"
+              }
+            ]
+          }
+        },
+        "id": "1243158025084510208",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094238714834608352",
+        "name": "mere de famille experte en pause snuss",
+        "pinned_tweet_id": "1996965463205486917",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243158025084510208/1773008239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794768418215731200/R2bk3o8c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 932,
+          "following_count": 523,
+          "like_count": 53040,
+          "listed_count": 4,
+          "media_count": 579,
+          "tweet_count": 10984
+        },
+        "url": "https://t.co/SQSn2BVQGm",
+        "username": "detentrice2mst",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
