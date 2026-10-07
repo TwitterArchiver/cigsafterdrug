@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-10-07T20:15:43",
+  "last_updated": "2026-10-07T20:22:37",
   "html": {
     "https://web.archive.org/web/20240612171812if_/https://twitter.com/cigsafterdrug/status/1800940680992391558": {
       "status": "done",
@@ -20527,9 +20527,9 @@
         "20260310144600_twitter_com_cigsafterdrug_status_2031381060165263540.json",
         "20260311034517_twitter_com_cigsafterdrug_status_2031577171022721337.json"
       ],
-      "last_updated": "2026-09-16T08:06:16",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260311034517if_/https://pbs.twimg.com/profile_images/2013525475642019840/pScrwFXD_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f61bea3dd60>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:16:29",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260311034517if_/https://pbs.twimg.com/profile_images/2013525475642019840/pScrwFXD_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ffb00b1d940>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2026743135838285831/tXA48KSl_normal.jpg": {
       "status": "done",
@@ -20552,9 +20552,9 @@
       "referenced_by": [
         "20260309191559_twitter_com_cigsafterdrug_status_2031086615490413007.json"
       ],
-      "last_updated": "2026-09-16T08:06:18",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260309191559if_/https://pbs.twimg.com/profile_images/2031082232904036353/nUlMI7GW_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f61bea3d400>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:16:31",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260309191559if_/https://pbs.twimg.com/profile_images/2031082232904036353/nUlMI7GW_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ffb00b1f590>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/1598557674689695744/BARVYzIX_normal.jpg": {
       "status": "done",
@@ -20571,9 +20571,9 @@
       "referenced_by": [
         "20260310024151_twitter_com_cigsafterdrug_status_2031198822022746235.json"
       ],
-      "last_updated": "2026-09-16T08:06:20",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260310024151if_/https://pbs.twimg.com/profile_images/2030452480807686144/Kbu5NrtQ_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f61bea3e2d0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:16:34",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260310024151if_/https://pbs.twimg.com/profile_images/2030452480807686144/Kbu5NrtQ_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ffb00b1e3c0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/1984954967644651520/47qVeaS6_normal.jpg": {
       "status": "done",
@@ -20622,18 +20622,18 @@
       "referenced_by": [
         "20260310074807_twitter_com_cigsafterdrug_status_2031275895189823809.json"
       ],
-      "last_updated": "2026-09-16T08:06:23",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260310074807if_/https://pbs.twimg.com/profile_images/1590982009274257414/WAQ6rbiG_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f61bea5d010>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:16:36",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260310074807if_/https://pbs.twimg.com/profile_images/1590982009274257414/WAQ6rbiG_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ffb00b34a40>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2030889105454940160/9qRK096R_normal.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260310075017_twitter_com_cigsafterdrug_status_2031276440403263770.json"
       ],
-      "last_updated": "2026-09-16T08:06:25",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260310075017if_/https://pbs.twimg.com/profile_images/2030889105454940160/9qRK096R_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f61bea5dca0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:16:38",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260310075017if_/https://pbs.twimg.com/profile_images/2030889105454940160/9qRK096R_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ffb00b356a0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2003127791760662528/LWfs4CUW_normal.jpg": {
       "status": "done",
@@ -20647,9 +20647,9 @@
       "referenced_by": [
         "20260310075132_twitter_com_cigsafterdrug_status_2031276754808226250.json"
       ],
-      "last_updated": "2026-09-16T08:06:28",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260310075132if_/https://pbs.twimg.com/profile_images/2031167995767304192/-R9nNXLB_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f61bea5d370>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:16:41",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260310075132if_/https://pbs.twimg.com/profile_images/2031167995767304192/-R9nNXLB_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ffb00b35130>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/1597279516568625152/vnOBUIVi_normal.jpg": {
       "status": "done",
@@ -20673,9 +20673,9 @@
         "20260314005137_twitter_com_cigsafterdrug_status_2032620630303268978.json",
         "20260316054027_twitter_com_cigsafterdrug_status_2033418093054320853.json"
       ],
-      "last_updated": "2026-09-16T08:06:30",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260316054027if_/https://pbs.twimg.com/profile_images/2031192448437985280/bKRLmS5c_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f61bea5da90>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:16:43",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260316054027if_/https://pbs.twimg.com/profile_images/2031192448437985280/bKRLmS5c_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ffb00b351f0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2026576873141186566/C1X_2jNA_normal.jpg": {
       "status": "done",
@@ -20707,9 +20707,9 @@
       "referenced_by": [
         "20260310080436_twitter_com_cigsafterdrug_status_2031280042760876459.json"
       ],
-      "last_updated": "2026-09-16T08:06:32",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260310080436if_/https://pbs.twimg.com/profile_images/2030864540779569152/G9xc9XUb_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f61be2b8ec0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:16:45",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260310080436if_/https://pbs.twimg.com/profile_images/2030864540779569152/G9xc9XUb_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ffb00cdb920>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2031270483195551744/E7aTUAOC_normal.jpg": {
       "status": "done",
@@ -20734,9 +20734,9 @@
         "20260310081247_twitter_com_cigsafterdrug_status_2031282101614698935.json",
         "20260320090911_twitter_com_cigsafterdrug_status_2034920174370066808.json"
       ],
-      "last_updated": "2026-09-16T08:06:34",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260320090911if_/https://pbs.twimg.com/profile_images/1883952897295278082/1b6rIRLp_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f61be2ba870>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:16:47",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260320090911if_/https://pbs.twimg.com/profile_images/1883952897295278082/1b6rIRLp_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ffb00b359a0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg": {
       "status": "done",
@@ -20769,9 +20769,9 @@
       "referenced_by": [
         "20260310082956_twitter_com_cigsafterdrug_status_2031286418946011274.json"
       ],
-      "last_updated": "2026-09-16T08:06:37",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260310082956if_/https://pbs.twimg.com/profile_images/2030736867646410752/9c-l34GN_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f61be2b8c80>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:16:49",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260310082956if_/https://pbs.twimg.com/profile_images/2030736867646410752/9c-l34GN_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ffb00b35f10>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/1894256078331727872/WBB_Tgde_normal.jpg": {
       "status": "done",
@@ -20787,9 +20787,9 @@
         "20260310085057_twitter_com_cigsafterdrug_status_2031291707443290437.json",
         "20260310093545_twitter_com_cigsafterdrug_status_2031302981694685557.json"
       ],
-      "last_updated": "2026-09-16T08:06:39",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260310093545if_/https://pbs.twimg.com/profile_images/2031277869650030596/7go7NnSm_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f61bea5dc10>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:16:51",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260310093545if_/https://pbs.twimg.com/profile_images/2031277869650030596/7go7NnSm_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ffb00cda4b0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2030906111763922944/qe054xPs_normal.jpg": {
       "status": "failed",
@@ -20797,9 +20797,9 @@
         "20260310085445_twitter_com_cigsafterdrug_status_2031292665044894070.json",
         "20260312080436_twitter_com_cigsafterdrug_status_2032004817707810954.json"
       ],
-      "last_updated": "2026-09-16T08:06:41",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260312080436if_/https://pbs.twimg.com/profile_images/2030906111763922944/qe054xPs_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f61bea5e270>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:16:53",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260312080436if_/https://pbs.twimg.com/profile_images/2030906111763922944/qe054xPs_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ffb00b36090>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2030321901399351296/kABQYiPy_normal.jpg": {
       "status": "failed",
@@ -20808,18 +20808,18 @@
         "20260311140813_twitter_com_cigsafterdrug_status_2031733940755796452.json",
         "20260312140154_twitter_com_cigsafterdrug_status_2032094736027435017.json"
       ],
-      "last_updated": "2026-09-16T08:06:44",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260312140154if_/https://pbs.twimg.com/profile_images/2030321901399351296/kABQYiPy_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f61be293fb0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:16:55",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260312140154if_/https://pbs.twimg.com/profile_images/2030321901399351296/kABQYiPy_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ffb00cda4b0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2024407336648134664/IUMC9I_j_normal.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260310090609_twitter_com_cigsafterdrug_status_2031295534099734943.json"
       ],
-      "last_updated": "2026-09-16T08:06:46",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260310090609if_/https://pbs.twimg.com/profile_images/2024407336648134664/IUMC9I_j_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f61be2b9b20>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:16:57",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260310090609if_/https://pbs.twimg.com/profile_images/2024407336648134664/IUMC9I_j_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ffb00cdb020>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2009286095666909184/pgYHbdAK_normal.jpg": {
       "status": "failed",
@@ -20827,18 +20827,18 @@
         "20260310091248_twitter_com_cigsafterdrug_status_2031297206775591084.json",
         "20260319112523_twitter_com_cigsafterdrug_status_2034592065636663781.json"
       ],
-      "last_updated": "2026-09-16T08:06:48",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260319112523if_/https://pbs.twimg.com/profile_images/2009286095666909184/pgYHbdAK_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f61be2b9b50>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:17:00",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260319112523if_/https://pbs.twimg.com/profile_images/2009286095666909184/pgYHbdAK_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ffb00cdb740>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2030936998845042689/1KKTTbgy_normal.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260310092531_twitter_com_cigsafterdrug_status_2031300407335727164.json"
       ],
-      "last_updated": "2026-09-16T08:06:50",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260310092531if_/https://pbs.twimg.com/profile_images/2030936998845042689/1KKTTbgy_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f61bea5c6e0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:17:02",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260310092531if_/https://pbs.twimg.com/profile_images/2030936998845042689/1KKTTbgy_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ffb00673440>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2027569085333311490/O1PsPJZJ_normal.jpg": {
       "status": "done",
@@ -20901,9 +20901,9 @@
         "20260324151531_twitter_com_cigsafterdrug_status_2036461918777639228.json",
         "20260325101924_twitter_com_cigsafterdrug_status_2036749785714335782.json"
       ],
-      "last_updated": "2026-09-16T08:06:53",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260325101924if_/https://pbs.twimg.com/profile_images/2028191039799037952/mVh74C4C_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f61bea5ffb0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:17:04",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260325101924if_/https://pbs.twimg.com/profile_images/2028191039799037952/mVh74C4C_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ffb00b373b0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2007542870941540353/AGycLWL-_normal.jpg": {
       "status": "done",
@@ -20939,9 +20939,9 @@
       "referenced_by": [
         "20260310120758_twitter_com_cigsafterdrug_status_2031341287258075614.json"
       ],
-      "last_updated": "2026-09-16T08:06:55",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260310120758if_/https://pbs.twimg.com/profile_images/2026599318518640642/wQc-lNOH_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f61be2ba840>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:17:06",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260310120758if_/https://pbs.twimg.com/profile_images/2026599318518640642/wQc-lNOH_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ffb00cdbcb0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2029163126839754752/qrVxto-__normal.jpg": {
       "status": "done",
@@ -20968,9 +20968,9 @@
         "20260310121158_twitter_com_cigsafterdrug_status_2031342297904984323.json",
         "20260310134550_twitter_com_cigsafterdrug_status_2031365916731257119.json"
       ],
-      "last_updated": "2026-09-16T08:06:57",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260310134550if_/https://pbs.twimg.com/profile_images/2030830737285668864/XuBELWhV_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f61bea3f830>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:17:08",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260310134550if_/https://pbs.twimg.com/profile_images/2030830737285668864/XuBELWhV_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ffb00b1d8b0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2009811412412157952/ARAxYDf-_normal.jpg": {
       "status": "done",
@@ -20994,9 +20994,9 @@
         "20260310121635_twitter_com_cigsafterdrug_status_2031343455847461280.json",
         "20260311140847_twitter_com_cigsafterdrug_status_2031734082393321927.json"
       ],
-      "last_updated": "2026-09-16T08:06:59",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260311140847if_/https://pbs.twimg.com/profile_images/1990312819372519424/HH1zgFLC_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f61bea3d2b0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:17:11",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260311140847if_/https://pbs.twimg.com/profile_images/1990312819372519424/HH1zgFLC_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ffb00b1d700>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg": {
       "status": "done",
@@ -21019,18 +21019,18 @@
         "20260310122016_twitter_com_cigsafterdrug_status_2031344385141649522.json",
         "20260313174204_twitter_com_cigsafterdrug_status_2032512531982598195.json"
       ],
-      "last_updated": "2026-09-16T08:07:02",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260313174204if_/https://pbs.twimg.com/profile_images/2029114379783081984/ed0SBdp3_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f61bea3e210>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:17:13",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260313174204if_/https://pbs.twimg.com/profile_images/2029114379783081984/ed0SBdp3_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ffb00b1d9d0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2031024063670542336/wSSoxMjp_normal.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260310122140_twitter_com_cigsafterdrug_status_2031344738994159892.json"
       ],
-      "last_updated": "2026-09-16T08:07:04",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260310122140if_/https://pbs.twimg.com/profile_images/2031024063670542336/wSSoxMjp_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f61bea5d040>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:17:15",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260310122140if_/https://pbs.twimg.com/profile_images/2031024063670542336/wSSoxMjp_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ffb00b37710>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/1980527723798753280/2Ugm1HiQ_normal.jpg": {
       "status": "done",
@@ -21056,9 +21056,9 @@
         "20260325131955_twitter_com_cigsafterdrug_status_2036795212039897548.json",
         "20260325132258_twitter_com_cigsafterdrug_status_2036795983108124994.json"
       ],
-      "last_updated": "2026-09-16T08:07:06",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260325132258if_/https://pbs.twimg.com/profile_images/2016932515358134273/TWeEyKOe_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f61be2ba5a0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:17:18",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260325132258if_/https://pbs.twimg.com/profile_images/2016932515358134273/TWeEyKOe_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ffb00cd8dd0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2028531881999036416/YxNVIIbZ_normal.jpg": {
       "status": "done",
@@ -21114,9 +21114,9 @@
       "referenced_by": [
         "20260310133332_twitter_com_cigsafterdrug_status_2031362823423668605.json"
       ],
-      "last_updated": "2026-09-16T08:07:08",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260310133332if_/https://pbs.twimg.com/profile_images/2028897037845221376/bULSx9lp_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f61bea84aa0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:17:20",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260310133332if_/https://pbs.twimg.com/profile_images/2028897037845221376/bULSx9lp_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ffb00b63740>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/1926222801406492672/Fe1zzsud_normal.jpg": {
       "status": "failed",
@@ -21124,27 +21124,27 @@
         "20260310133902_twitter_com_cigsafterdrug_status_2031364208504545313.json",
         "20260310134623_twitter_com_cigsafterdrug_status_2031366055592079414.json"
       ],
-      "last_updated": "2026-09-16T08:07:10",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260310134623if_/https://pbs.twimg.com/profile_images/1926222801406492672/Fe1zzsud_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f61be914530>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:17:22",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260310134623if_/https://pbs.twimg.com/profile_images/1926222801406492672/Fe1zzsud_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ffb00b84260>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2021440358970982400/jR6P3XSB_normal.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260310133930_twitter_com_cigsafterdrug_status_2031364324636446838.json"
       ],
-      "last_updated": "2026-09-16T08:07:12",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260310133930if_/https://pbs.twimg.com/profile_images/2021440358970982400/jR6P3XSB_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f61bea5cc20>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:17:24",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260310133930if_/https://pbs.twimg.com/profile_images/2021440358970982400/jR6P3XSB_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ffb00b35fa0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/1980847195097100288/Hs5CBziP_normal.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260310133930_twitter_com_cigsafterdrug_status_2031364324636446838.json"
       ],
-      "last_updated": "2026-09-16T08:07:15",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260310133930if_/https://pbs.twimg.com/profile_images/1980847195097100288/Hs5CBziP_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f61bea3d250>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:17:27",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260310133930if_/https://pbs.twimg.com/profile_images/1980847195097100288/Hs5CBziP_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ffb00b616a0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2016059508225662976/Ms83cdD7_normal.jpg": {
       "status": "done",
@@ -21167,9 +21167,9 @@
       "referenced_by": [
         "20260310141648_twitter_com_cigsafterdrug_status_2031373711782326678.json"
       ],
-      "last_updated": "2026-09-16T08:07:17",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260310141648if_/https://pbs.twimg.com/profile_images/2011620687623094272/DI5lY0RU_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f61bea3f470>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:17:29",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260310141648if_/https://pbs.twimg.com/profile_images/2011620687623094272/DI5lY0RU_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ffb00b62690>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/1991465272113524739/A_dq2Iih_normal.jpg": {
       "status": "done",
@@ -21214,9 +21214,9 @@
         "20260422160245_twitter_com_cigsafterdrug_status_2046983052145184834.json",
         "20260511090024_twitter_com_cigsafterdrug_status_2053762132349739441.json"
       ],
-      "last_updated": "2026-09-16T08:07:19",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260511090024if_/https://pbs.twimg.com/profile_images/2012787837351952384/CR4_cd_h_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f61bea85a60>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:17:31",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260511090024if_/https://pbs.twimg.com/profile_images/2012787837351952384/CR4_cd_h_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ffb00b1d0d0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2010289567858098176/X8rZz577_normal.jpg": {
       "status": "done",
@@ -21326,9 +21326,9 @@
       "referenced_by": [
         "20260310183904_twitter_com_cigsafterdrug_status_2031439712624456023.json"
       ],
-      "last_updated": "2026-09-16T08:07:22",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260310183904if_/https://pbs.twimg.com/profile_images/2019450491487547397/I3HI2evX_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f61bea3fd10>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:17:33",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260310183904if_/https://pbs.twimg.com/profile_images/2019450491487547397/I3HI2evX_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ffb00b61820>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2030991458778714112/Gkezk5EZ_normal.jpg": {
       "status": "failed",
@@ -21339,9 +21339,9 @@
         "20260310185733_twitter_com_cigsafterdrug_status_2031444365823062168.json",
         "20260311034457_twitter_com_cigsafterdrug_status_2031577090513056051.json"
       ],
-      "last_updated": "2026-09-16T08:07:24",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260311034457if_/https://pbs.twimg.com/profile_images/2030991458778714112/Gkezk5EZ_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f61bea5e750>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:17:35",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260311034457if_/https://pbs.twimg.com/profile_images/2030991458778714112/Gkezk5EZ_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ffb00b35ac0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2023853936030216193/teTeCxB-_normal.jpg": {
       "status": "done",
@@ -21436,9 +21436,9 @@
       "referenced_by": [
         "20260310185400_twitter_com_cigsafterdrug_status_2031443471261905157.json"
       ],
-      "last_updated": "2026-09-16T08:07:26",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260310185400if_/https://pbs.twimg.com/profile_images/1991562214021758977/qdM_ok-B_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f61bea3ff80>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:17:38",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260310185400if_/https://pbs.twimg.com/profile_images/1991562214021758977/qdM_ok-B_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ffb00b622d0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2030742724194992128/Ncd1XhKm_normal.jpg": {
       "status": "done",
@@ -21454,18 +21454,18 @@
       "referenced_by": [
         "20260311005355_twitter_com_cigsafterdrug_status_2031534045176410492.json"
       ],
-      "last_updated": "2026-09-16T08:07:29",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260311005355if_/https://pbs.twimg.com/profile_images/2007167583636860931/aY0GgYbC_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f61bea86a20>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:17:40",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260311005355if_/https://pbs.twimg.com/profile_images/2007167583636860931/aY0GgYbC_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ffb00b1cd40>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2031459807983710208/wKLIz8aN_normal.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260311024959_twitter_com_cigsafterdrug_status_2031563256075358659.json"
       ],
-      "last_updated": "2026-09-16T08:07:31",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260311024959if_/https://pbs.twimg.com/profile_images/2031459807983710208/wKLIz8aN_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f61bea85070>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:17:43",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260311024959if_/https://pbs.twimg.com/profile_images/2031459807983710208/wKLIz8aN_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ffb00b34fe0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/1972732272345542658/1_ZWnIKn_normal.jpg": {
       "status": "failed",
@@ -21473,9 +21473,9 @@
         "20260311025030_twitter_com_cigsafterdrug_status_2031563385863811350.json",
         "20260321035047_twitter_com_cigsafterdrug_status_2035202436416381145.json"
       ],
-      "last_updated": "2026-09-16T08:07:33",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260321035047if_/https://pbs.twimg.com/profile_images/1972732272345542658/1_ZWnIKn_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f61bea3dc10>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:17:45",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260321035047if_/https://pbs.twimg.com/profile_images/1972732272345542658/1_ZWnIKn_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ffb00b61c10>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2027261869082480641/-BAKrCQC_normal.jpg": {
       "status": "done",
@@ -21522,9 +21522,9 @@
       "referenced_by": [
         "20260311065843_twitter_com_cigsafterdrug_status_2031625853331996761.json"
       ],
-      "last_updated": "2026-09-16T08:07:35",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260311065843if_/https://pbs.twimg.com/profile_images/2004202596178026496/7TJWH9fA_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f61be2ba300>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:17:47",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260311065843if_/https://pbs.twimg.com/profile_images/2004202596178026496/7TJWH9fA_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ffb00cdbfb0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2008231012783067136/2V8VLIlL_normal.jpg": {
       "status": "done",
@@ -21542,9 +21542,9 @@
         "20260311073520_twitter_com_cigsafterdrug_status_2031635067450298406.json",
         "20260311130819_twitter_com_cigsafterdrug_status_2031718862719492266.json"
       ],
-      "last_updated": "2026-09-16T08:07:37",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260311130819if_/https://pbs.twimg.com/profile_images/2030706865601122304/j7M7aVEL_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f61be2b99a0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:17:49",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260311130819if_/https://pbs.twimg.com/profile_images/2030706865601122304/j7M7aVEL_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ffb00cdb560>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2009308301948026880/oIa61VQQ_normal.jpg": {
       "status": "done",
@@ -21592,18 +21592,18 @@
       "referenced_by": [
         "20260311101715_twitter_com_cigsafterdrug_status_2031675815109566708.json"
       ],
-      "last_updated": "2026-09-16T08:07:40",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260311101715if_/https://pbs.twimg.com/profile_images/2028847592948523008/WkUjuWGT_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f61be2b8500>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:17:51",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260311101715if_/https://pbs.twimg.com/profile_images/2028847592948523008/WkUjuWGT_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ffb00cda0c0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2031439061601366017/AwXS2-ht_normal.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260311110427_twitter_com_cigsafterdrug_status_2031687690622775319.json"
       ],
-      "last_updated": "2026-09-16T08:07:42",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260311110427if_/https://pbs.twimg.com/profile_images/2031439061601366017/AwXS2-ht_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f61be2ba480>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:17:53",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260311110427if_/https://pbs.twimg.com/profile_images/2031439061601366017/AwXS2-ht_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ffb00b347d0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2029720348569260036/ER3SM6jQ_normal.jpg": {
       "status": "done",
@@ -21641,9 +21641,9 @@
       "referenced_by": [
         "20260311172324_twitter_com_cigsafterdrug_status_2031783056470917218.json"
       ],
-      "last_updated": "2026-09-16T08:07:44",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260311172324if_/https://pbs.twimg.com/profile_images/2019413653624430592/us41fpwc_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f61bea5ca70>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:17:56",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260311172324if_/https://pbs.twimg.com/profile_images/2019413653624430592/us41fpwc_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ffb00b620c0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2029592900804530176/u0zOE6RH_normal.jpg": {
       "status": "done",
@@ -21668,9 +21668,9 @@
         "20260311192837_twitter_com_cigsafterdrug_status_2031814569803624737.json",
         "20260312013951_twitter_com_cigsafterdrug_status_2031907992141181370.json"
       ],
-      "last_updated": "2026-09-16T08:07:46",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260312013951if_/https://pbs.twimg.com/profile_images/2029420462070259712/AMDvWOtO_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f61be2ba420>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:17:58",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260312013951if_/https://pbs.twimg.com/profile_images/2029420462070259712/AMDvWOtO_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ffb00cda7b0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2031806956797902848/Df3_B-nb_normal.jpg": {
       "status": "done",
@@ -21708,9 +21708,9 @@
       "referenced_by": [
         "20260312134023_twitter_com_cigsafterdrug_status_2032089320635711596.json"
       ],
-      "last_updated": "2026-09-16T08:07:48",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260312134023if_/https://pbs.twimg.com/profile_images/2029102071438548992/mqqYVeR4_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f61bea5c590>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:18:00",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260312134023if_/https://pbs.twimg.com/profile_images/2029102071438548992/mqqYVeR4_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ffb00b369c0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2032415197114351616/rMebDM6P_normal.jpg": {
       "status": "done",
@@ -21740,9 +21740,9 @@
         "20260328145620_twitter_com_cigsafterdrug_status_2037906643133022389.json",
         "20260408122449_twitter_com_cigsafterdrug_status_2041854778125545708.json"
       ],
-      "last_updated": "2026-09-16T08:07:51",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260408122449if_/https://pbs.twimg.com/profile_images/2032515716726067200/iPwyaz61_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f61bea5ed80>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:18:03",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260408122449if_/https://pbs.twimg.com/profile_images/2032515716726067200/iPwyaz61_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ffb00b357c0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/1997491540915294208/kFKVZs05_normal.jpg": {
       "status": "done",
@@ -21839,9 +21839,9 @@
       "referenced_by": [
         "20260316105829_twitter_com_cigsafterdrug_status_2033498131309207723.json"
       ],
-      "last_updated": "2026-09-16T08:07:53",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260316105829if_/https://pbs.twimg.com/profile_images/2031688080722366464/anQQX9Iz_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f61be2b8470>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:18:05",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260316105829if_/https://pbs.twimg.com/profile_images/2031688080722366464/anQQX9Iz_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ffb00cdb170>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2031261581422768132/bD0hjNtE_normal.jpg": {
       "status": "done",
@@ -21859,9 +21859,9 @@
       "referenced_by": [
         "20260316160251_twitter_com_cigsafterdrug_status_2033574728661963212.json"
       ],
-      "last_updated": "2026-09-16T08:07:55",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260316160251if_/https://pbs.twimg.com/profile_images/2022870279140282368/8cwfrwG7_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f61be2b9b50>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:18:07",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260316160251if_/https://pbs.twimg.com/profile_images/2022870279140282368/8cwfrwG7_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ffb00cd9520>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2031379391188754432/JXKlQRCu_normal.jpg": {
       "status": "done",
@@ -21925,9 +21925,9 @@
         "20260318151004_twitter_com_cigsafterdrug_status_2034286218410959182.json",
         "20260324114333_twitter_com_cigsafterdrug_status_2036408575757787483.json"
       ],
-      "last_updated": "2026-09-16T08:07:57",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260324114333if_/https://pbs.twimg.com/profile_images/2025139082603757572/tdRc84kG_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f61bea5c260>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:18:09",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260324114333if_/https://pbs.twimg.com/profile_images/2025139082603757572/tdRc84kG_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ffb00b37f80>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2034457349608583168/v42_v5eG_normal.jpg": {
       "status": "done",
@@ -21971,9 +21971,9 @@
       "referenced_by": [
         "20260319050756_twitter_com_cigsafterdrug_status_2034497075145269728.json"
       ],
-      "last_updated": "2026-09-16T08:08:00",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260319050756if_/https://pbs.twimg.com/profile_images/2016787207487705095/hDLqiABU_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f61bea84ad0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:18:11",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260319050756if_/https://pbs.twimg.com/profile_images/2016787207487705095/hDLqiABU_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ffb00b622d0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2033295634325975040/Xs1ZF5Ak_normal.jpg": {
       "status": "done",
@@ -22000,9 +22000,9 @@
       "referenced_by": [
         "20260319123519_twitter_com_cigsafterdrug_status_2034609664869204045.json"
       ],
-      "last_updated": "2026-09-16T08:08:02",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260319123519if_/https://pbs.twimg.com/profile_images/2032487655175573505/V-W2mnAm_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f61bea3eba0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:18:13",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260319123519if_/https://pbs.twimg.com/profile_images/2032487655175573505/V-W2mnAm_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ffb00b1db50>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2018955454953766912/ZTCWEOYB_normal.jpg": {
       "status": "done",
@@ -22023,9 +22023,9 @@
       "referenced_by": [
         "20260319143237_twitter_com_cigsafterdrug_status_2034639181952290885.json"
       ],
-      "last_updated": "2026-09-16T08:08:04",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260319143237if_/https://pbs.twimg.com/profile_images/2032725124051513344/DLkqnTjr_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f61bea3e840>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:18:15",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260319143237if_/https://pbs.twimg.com/profile_images/2032725124051513344/DLkqnTjr_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ffb00cd9ee0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2021674313305518080/paL5Ga9S_normal.jpg": {
       "status": "failed",
@@ -22033,9 +22033,9 @@
         "20260319143336_twitter_com_cigsafterdrug_status_2034639429391016013.json",
         "20260319162845_twitter_com_cigsafterdrug_status_2034668406973268065.json"
       ],
-      "last_updated": "2026-09-16T08:08:06",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260319162845if_/https://pbs.twimg.com/profile_images/2021674313305518080/paL5Ga9S_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f61be2ba930>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:18:17",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260319162845if_/https://pbs.twimg.com/profile_images/2021674313305518080/paL5Ga9S_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ffb00cd9760>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2033580584837300225/zBVz95fh_normal.jpg": {
       "status": "done",
@@ -22051,9 +22051,9 @@
       "referenced_by": [
         "20260319162932_twitter_com_cigsafterdrug_status_2034668606974529773.json"
       ],
-      "last_updated": "2026-09-16T08:08:08",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260319162932if_/https://pbs.twimg.com/profile_images/2029980509980205057/4JFTMF9m_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f61bea3ee70>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:18:20",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260319162932if_/https://pbs.twimg.com/profile_images/2029980509980205057/4JFTMF9m_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ffb00b1dc70>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/1942654619915804672/a5sJ_JPP_normal.jpg": {
       "status": "done",
@@ -22076,9 +22076,9 @@
         "20260320000244_twitter_com_cigsafterdrug_status_2034782656920265131.json",
         "20260320021035_twitter_com_cigsafterdrug_status_2034814831069692334.json"
       ],
-      "last_updated": "2026-09-16T08:08:12",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260320021035im_/https://pbs.twimg.com/profile_images/1942942057691037696/M92mvSx4_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f61bea5df40>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:18:22",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260320021035if_/https://pbs.twimg.com/profile_images/1942942057691037696/M92mvSx4_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ffb00b61eb0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2029207160979374084/geaam5Np_normal.jpg": {
       "status": "done",
@@ -22092,9 +22092,9 @@
       "referenced_by": [
         "20260320054222_twitter_com_cigsafterdrug_status_2034868129030185057.json"
       ],
-      "last_updated": "2026-09-16T08:08:14",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260320054222if_/https://pbs.twimg.com/profile_images/2033733654212747264/NrDPLCXS_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f61bea5ee70>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:18:26",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260320054222im_/https://pbs.twimg.com/profile_images/2033733654212747264/NrDPLCXS_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ffb00b1ddf0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2033518538888249344/747OXgnI_normal.jpg": {
       "status": "done",
@@ -22173,9 +22173,9 @@
       "referenced_by": [
         "20260322073524_twitter_com_cigsafterdrug_status_2035621347859234892.json"
       ],
-      "last_updated": "2026-09-16T08:08:19",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260322073524if_/https://pbs.twimg.com/profile_images/2029875753442234368/djND5T1M_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f61bea3d3a0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:18:28",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260322073524if_/https://pbs.twimg.com/profile_images/2029875753442234368/djND5T1M_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ffb00b37bc0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2034987428252196866/6gKdP7qp_normal.jpg": {
       "status": "done",
@@ -22198,27 +22198,27 @@
       "referenced_by": [
         "20260323082948_twitter_com_cigsafterdrug_status_2035997427799581121.json"
       ],
-      "last_updated": "2026-09-16T08:08:24",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260323082948if_/https://pbs.twimg.com/profile_images/2033808466876502018/bVUmMK_8_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f61be2bae10>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:18:33",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260323082948if_/https://pbs.twimg.com/profile_images/2033808466876502018/bVUmMK_8_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ffb00cda000>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2035136682287153152/sKH0yVLZ_normal.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260323190620_twitter_com_cigsafterdrug_status_2036157616079118519.json"
       ],
-      "last_updated": "2026-09-16T08:08:28",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260323190620if_/https://pbs.twimg.com/profile_images/2035136682287153152/sKH0yVLZ_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f61be917bc0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:18:35",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260323190620if_/https://pbs.twimg.com/profile_images/2035136682287153152/sKH0yVLZ_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ffb00b1f770>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260324041616_twitter_com_cigsafterdrug_status_2036296010201440431.json"
       ],
-      "last_updated": "2026-09-16T08:08:33",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260324041616if_/https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f61be9178f0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:18:39",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260324041616if_/https://pbs.twimg.com/profile_images/1832318076458569728/-j9KlFCR_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ffb00b613d0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2035262095277862912/s0vuE8mi_normal.jpg": {
       "status": "done",
@@ -22308,9 +22308,9 @@
         "20260326044221_twitter_com_cigsafterdrug_status_2037027349959688395.json",
         "20260328143702_twitter_com_cigsafterdrug_status_2037901786145837547.json"
       ],
-      "last_updated": "2026-09-16T08:08:37",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260328143702if_/https://pbs.twimg.com/profile_images/2036754267475001344/NfBkbSmr_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f61bea3dbe0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:18:42",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260328143702if_/https://pbs.twimg.com/profile_images/2036754267475001344/NfBkbSmr_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ffb00b634d0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2033542781080408065/SwlGhoGI_normal.jpg": {
       "status": "done",
@@ -22344,9 +22344,9 @@
       "referenced_by": [
         "20260326163543_twitter_com_cigsafterdrug_status_2037206878640579044.json"
       ],
-      "last_updated": "2026-09-16T08:08:42",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260326163543if_/https://pbs.twimg.com/profile_images/2035811546161692672/jAg9br50_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f61bea3f710>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:18:46",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260326163543if_/https://pbs.twimg.com/profile_images/2035811546161692672/jAg9br50_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ffb00b1e300>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2032874743129583616/IHMulhSV_normal.jpg": {
       "status": "failed",
@@ -22355,9 +22355,9 @@
         "20260327084715_twitter_com_cigsafterdrug_status_2037451370824171942.json",
         "20260420132747_twitter_com_cigsafterdrug_status_2046219280023441463.json"
       ],
-      "last_updated": "2026-09-16T08:08:47",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260420132747if_/https://pbs.twimg.com/profile_images/2032874743129583616/IHMulhSV_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f61beeb63c0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:18:48",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260420132747if_/https://pbs.twimg.com/profile_images/2032874743129583616/IHMulhSV_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ffb00b60740>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2030176214581964800/ytEL2-pP_normal.jpg": {
       "status": "done",
@@ -22389,9 +22389,9 @@
       "referenced_by": [
         "20260329061849_twitter_com_cigsafterdrug_status_2038138791416975809.json"
       ],
-      "last_updated": "2026-09-16T08:08:51",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260329061849if_/https://pbs.twimg.com/profile_images/2035616075497566208/nh5H8Y8x_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f61bea3fbf0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:18:53",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260329061849if_/https://pbs.twimg.com/profile_images/2035616075497566208/nh5H8Y8x_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ffb00b1e480>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2023370413552865280/2dAMoB6X_normal.jpg": {
       "status": "done",
@@ -22414,9 +22414,9 @@
       "referenced_by": [
         "20260329114637_twitter_com_cigsafterdrug_status_2038221284572831812.json"
       ],
-      "last_updated": "2026-09-16T08:08:55",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260329114637if_/https://pbs.twimg.com/profile_images/2036389650022146048/4C5Gkl0k_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f61be917d40>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:18:55",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260329114637if_/https://pbs.twimg.com/profile_images/2036389650022146048/4C5Gkl0k_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ffb00cdbad0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2033965567074557952/9caXrlJe_normal.jpg": {
       "status": "done",
@@ -22719,9 +22719,9 @@
       "referenced_by": [
         "20260406183928_twitter_com_cigsafterdrug_status_2041224284413329461.json"
       ],
-      "last_updated": "2026-09-16T08:09:00",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260406183928if_/https://pbs.twimg.com/profile_images/2041213483610783744/-JRWz095_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f61be916870>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:18:59",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260406183928if_/https://pbs.twimg.com/profile_images/2041213483610783744/-JRWz095_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ffb00b1ee10>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/1898775251515023361/2MoJxyeP_normal.jpg": {
       "status": "done",
@@ -22765,9 +22765,9 @@
         "20260407080916_twitter_com_cigsafterdrug_status_2041428077729952067.json",
         "20260407085346_twitter_com_cigsafterdrug_status_2041439275376619942.json"
       ],
-      "last_updated": "2026-09-16T08:09:05",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260407085346im_/https://pbs.twimg.com/profile_images/2041234399648186368/SJNXm-56_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f61be2b9dc0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:19:01",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260407085346if_/https://pbs.twimg.com/profile_images/2041234399648186368/SJNXm-56_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ffb00cd8350>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/1908777584210714625/L-fqHbRN_normal.jpg": {
       "status": "done",
@@ -22986,9 +22986,9 @@
       "referenced_by": [
         "20260411212735_twitter_com_cigsafterdrug_status_2043078534890164440.json"
       ],
-      "last_updated": "2026-09-16T08:09:10",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260411212735im_/https://pbs.twimg.com/profile_images/2041033881114267648/h2jgNu3V_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f61bea3ffe0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:19:06",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260411212735if_/https://pbs.twimg.com/profile_images/2041033881114267648/h2jgNu3V_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ffb00b61550>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2042123320003588097/bsh5B1an_normal.jpg": {
       "status": "done",
@@ -23054,13 +23054,13 @@
       "last_updated": "2026-07-28T11:41:43"
     },
     "https://pbs.twimg.com/profile_images/2043418558471045120/15eW0Jpd_normal.jpg": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20260413081044_twitter_com_cigsafterdrug_status_2043602776111128797.json"
       ],
-      "last_updated": "2026-09-16T08:09:14",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260413081044im_/https://pbs.twimg.com/profile_images/2043418558471045120/15eW0Jpd_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f61bea5e7b0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:19:08",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260413081044if_/https://pbs.twimg.com/profile_images/2043418558471045120/15eW0Jpd_normal.jpg",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg": {
       "status": "done",
@@ -23070,13 +23070,13 @@
       "last_updated": "2026-07-28T11:41:43"
     },
     "https://pbs.twimg.com/profile_images/2043091186408448000/XHfhH5Bp_normal.jpg": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20260413184026_twitter_com_cigsafterdrug_status_2043761244281417874.json"
       ],
-      "last_updated": "2026-09-16T08:09:17",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260413184026im_/https://pbs.twimg.com/profile_images/2043091186408448000/XHfhH5Bp_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f61beeb6660>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:19:10",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260413184026if_/https://pbs.twimg.com/profile_images/2043091186408448000/XHfhH5Bp_normal.jpg",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2024139862908002305/H8Uz73bI_normal.jpg": {
       "status": "done",
@@ -23113,18 +23113,18 @@
         "20260415174137_twitter_com_cigsafterdrug_status_2044471218754220241.json",
         "20260418053139_twitter_com_cigsafterdrug_status_2045374680677458389.json"
       ],
-      "last_updated": "2026-09-16T08:09:20",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260418053139im_/https://pbs.twimg.com/profile_images/2008776444445626368/iHOJfO5R_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f61be9177a0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:19:14",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260418053139im_/https://pbs.twimg.com/profile_images/2008776444445626368/iHOJfO5R_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ffb00b341d0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/1979271574361432064/kjp9LvNA_normal.jpg": {
-      "status": "failed",
+      "status": "done",
       "referenced_by": [
         "20260415174603_twitter_com_cigsafterdrug_status_2044472335584137598.json"
       ],
-      "last_updated": "2026-09-16T08:09:24",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260415174603im_/https://pbs.twimg.com/profile_images/1979271574361432064/kjp9LvNA_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f61be914da0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:19:15",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260415174603if_/https://pbs.twimg.com/profile_images/1979271574361432064/kjp9LvNA_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f1435f8b3e0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 9
     },
     "https://pbs.twimg.com/profile_images/1961513268922781696/WOi1NOc2_normal.jpg": {
       "status": "done",
@@ -23138,9 +23138,9 @@
       "referenced_by": [
         "20260417080528_twitter_com_cigsafterdrug_status_2045051000076292410.json"
       ],
-      "last_updated": "2026-09-16T08:09:27",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260417080528im_/https://pbs.twimg.com/profile_images/2044180324071161856/iBUwr8RZ_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f61beeb6c60>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:19:16",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260417080528if_/https://pbs.twimg.com/profile_images/2044180324071161856/iBUwr8RZ_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ffb00b60320>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2040970131346718720/QxA0zX1A_normal.jpg": {
       "status": "done",
@@ -23155,9 +23155,9 @@
       "referenced_by": [
         "20260417080639_twitter_com_cigsafterdrug_status_2045051297410568419.json"
       ],
-      "last_updated": "2026-09-16T08:09:30",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260417080639im_/https://pbs.twimg.com/profile_images/2005657380747702272/jNLzUejz_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f61bea5fa40>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:19:18",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260417080639if_/https://pbs.twimg.com/profile_images/2005657380747702272/jNLzUejz_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ffb00b859d0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2045127890661199872/5WRVhGLJ_normal.jpg": {
       "status": "done",
@@ -25200,9 +25200,9 @@
       "referenced_by": [
         "20260417171018_twitter_com_cigsafterdrug_status_2045188111223890168.json"
       ],
-      "last_updated": "2026-09-16T08:09:34",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260417171018im_/https://pbs.twimg.com/profile_images/2044689602947231744/5ASAZ8U1_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f61bea3eed0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:19:22",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260417171018im_/https://pbs.twimg.com/profile_images/2044689602947231744/5ASAZ8U1_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ffb00cdb920>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2045022879562231808/TOsi7poo_normal.jpg": {
       "status": "done",
@@ -25217,9 +25217,9 @@
       "referenced_by": [
         "20260418002744_twitter_com_cigsafterdrug_status_2045298197179056549.json"
       ],
-      "last_updated": "2026-09-16T08:09:37",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260418002744im_/https://pbs.twimg.com/profile_images/2045262829268389888/fQ8v-ePY_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f61be939310>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:19:24",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260418002744if_/https://pbs.twimg.com/profile_images/2045262829268389888/fQ8v-ePY_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ffb00b356a0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2044019058706927616/sUC4av7W_normal.jpg": {
       "status": "done",
@@ -25316,9 +25316,9 @@
       "referenced_by": [
         "20260419052744_twitter_com_cigsafterdrug_status_2045736081405124862.json"
       ],
-      "last_updated": "2026-09-16T08:09:40",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260419052744im_/https://pbs.twimg.com/profile_images/2043418954060935168/RYfIBo0J_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f61be2bbda0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:19:26",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260419052744if_/https://pbs.twimg.com/profile_images/2043418954060935168/RYfIBo0J_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ffb00b36c90>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2014190260805378048/yGzBKNhA_normal.jpg": {
       "status": "done",
@@ -25333,18 +25333,18 @@
         "20260419053058_twitter_com_cigsafterdrug_status_2045736895389503756.json",
         "20260419170521_twitter_com_cigsafterdrug_status_2045911641343332478.json"
       ],
-      "last_updated": "2026-09-16T08:09:44",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260419170521im_/https://pbs.twimg.com/profile_images/2020430423273144321/0f3SMHKt_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f61be938e00>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:19:31",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260419170521im_/https://pbs.twimg.com/profile_images/2020430423273144321/0f3SMHKt_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ffb00b87350>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2045524517662203904/hDXGwEDu_normal.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260419061325_twitter_com_cigsafterdrug_status_2045747576574792071.json"
       ],
-      "last_updated": "2026-09-16T08:09:47",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260419061325im_/https://pbs.twimg.com/profile_images/2045524517662203904/hDXGwEDu_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f61bea85b20>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:19:33",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260419061325if_/https://pbs.twimg.com/profile_images/2045524517662203904/hDXGwEDu_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ffb010b62d0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2020935964366077953/cAB_m43L_normal.jpg": {
       "status": "failed",
@@ -25352,9 +25352,9 @@
         "20260419071333_twitter_com_cigsafterdrug_status_2045762709518778780.json",
         "20260421130911_twitter_com_cigsafterdrug_status_2046576984940331145.json"
       ],
-      "last_updated": "2026-09-16T08:09:51",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260421130911im_/https://pbs.twimg.com/profile_images/2020935964366077953/cAB_m43L_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f61bea5ec30>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:19:35",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260421130911if_/https://pbs.twimg.com/profile_images/2020935964366077953/cAB_m43L_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ffb00b1cf80>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2041015244408119296/bvU7l2hs_normal.jpg": {
       "status": "done",
@@ -25373,9 +25373,9 @@
         "20260423053640_twitter_com_cigsafterdrug_status_2047187882767745159.json",
         "20260423115834_twitter_com_cigsafterdrug_status_2047283991418695986.json"
       ],
-      "last_updated": "2026-09-16T08:09:54",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260423115834im_/https://pbs.twimg.com/profile_images/2031760424920883200/DV4uG4Xo_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f61bea5f980>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:19:40",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260423115834im_/https://pbs.twimg.com/profile_images/2031760424920883200/DV4uG4Xo_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ffb00b1e5a0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2040922964645007360/CCSlCpXW_normal.jpg": {
       "status": "done",
@@ -25387,15 +25387,15 @@
       "last_updated": "2026-07-28T11:41:45"
     },
     "https://pbs.twimg.com/profile_images/2043509775703715840/ZUhNV6-6_normal.jpg": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20260420093416_twitter_com_cigsafterdrug_status_2046160513907019895.json",
         "20260420095711_twitter_com_cigsafterdrug_status_2046166277669175614.json",
         "20260420095743_twitter_com_cigsafterdrug_status_2046166412851556445.json"
       ],
-      "last_updated": "2026-09-16T08:09:57",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260420095743im_/https://pbs.twimg.com/profile_images/2043509775703715840/ZUhNV6-6_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f61bea85d60>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:19:41",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260420095743if_/https://pbs.twimg.com/profile_images/2043509775703715840/ZUhNV6-6_normal.jpg",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2044553228495564800/GccKMUIJ_normal.jpg": {
       "status": "done",
@@ -25447,9 +25447,9 @@
       "referenced_by": [
         "20260420170943_twitter_com_cigsafterdrug_status_2046275130230440119.json"
       ],
-      "last_updated": "2026-09-16T08:10:01",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260420170943im_/https://pbs.twimg.com/profile_images/2044807398196690944/WJaDIheb_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f61beeb7260>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:19:45",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260420170943im_/https://pbs.twimg.com/profile_images/2044807398196690944/WJaDIheb_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ffb00b34410>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2007966344122351616/74Sgbo2c_normal.jpg": {
       "status": "done",
@@ -25487,9 +25487,9 @@
       "referenced_by": [
         "20260421014255_twitter_com_cigsafterdrug_status_2046404280341627274.json"
       ],
-      "last_updated": "2026-09-16T08:10:04",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260421014255im_/https://pbs.twimg.com/profile_images/2026373806043049984/6mICId-S_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f61bea84410>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:19:48",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260421014255im_/https://pbs.twimg.com/profile_images/2026373806043049984/6mICId-S_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ffb00b60e90>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg": {
       "status": "done",
@@ -25545,9 +25545,9 @@
       "referenced_by": [
         "20260421094558_twitter_com_cigsafterdrug_status_2046525842709450912.json"
       ],
-      "last_updated": "2026-09-16T08:10:07",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260421094558im_/https://pbs.twimg.com/profile_images/1975256664346619904/KFvo2EFJ_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f61be916420>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:19:51",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260421094558im_/https://pbs.twimg.com/profile_images/1975256664346619904/KFvo2EFJ_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ffb01c082c0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2045410089381814272/uyLfbCCd_normal.jpg": {
       "status": "done",
@@ -25663,9 +25663,9 @@
       "referenced_by": [
         "20260423055603_twitter_com_cigsafterdrug_status_2047192758432198946.json"
       ],
-      "last_updated": "2026-09-16T08:10:11",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260423055603im_/https://pbs.twimg.com/profile_images/2046854987641421824/L_makF3U_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f61bea85700>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:19:55",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260423055603im_/https://pbs.twimg.com/profile_images/2046854987641421824/L_makF3U_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ffb00cda2a0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2045697198890119168/n-jopRK7_normal.jpg": {
       "status": "done",
@@ -25710,9 +25710,9 @@
       "referenced_by": [
         "20260423141409_twitter_com_cigsafterdrug_status_2047318110995419278.json"
       ],
-      "last_updated": "2026-09-16T08:10:14",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260423141409im_/https://pbs.twimg.com/profile_images/2046991779866857472/235J5XiE_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f61be915d90>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:19:58",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260423141409im_/https://pbs.twimg.com/profile_images/2046991779866857472/235J5XiE_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ffb00b1fad0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2047239920516034560/elpqfODP_normal.jpg": {
       "status": "done",
@@ -25736,9 +25736,9 @@
         "20260424155544_twitter_com_cigsafterdrug_status_2047706062481137972.json",
         "20260425003606_twitter_com_cigsafterdrug_status_2047837017455939682.json"
       ],
-      "last_updated": "2026-09-16T08:10:18",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260425003606im_/https://pbs.twimg.com/profile_images/2047604629802995712/zLAGZYl2_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f61bea84380>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:20:02",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260425003606im_/https://pbs.twimg.com/profile_images/2047604629802995712/zLAGZYl2_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ffb00cd8e00>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg": {
       "status": "done",
@@ -25897,9 +25897,9 @@
       "referenced_by": [
         "20260429084654_twitter_com_cigsafterdrug_status_2049410083105501338.json"
       ],
-      "last_updated": "2026-09-16T08:10:28",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260429084654if_/https://pbs.twimg.com/profile_images/1818651095675043840/jpbXKhC__normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f61bea3e9f0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:20:06",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260429084654im_/https://pbs.twimg.com/profile_images/1818651095675043840/jpbXKhC__400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ffb00b1f050>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2048099345715888128/dX-1OPHD_normal.jpg": {
       "status": "done",
@@ -25944,14 +25944,14 @@
       "last_updated": "2026-07-28T11:41:50"
     },
     "https://pbs.twimg.com/profile_images/2049376709401841665/1z8Fy-mI_normal.jpg": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20260429091758_twitter_com_cigsafterdrug_status_2049417898742219127.json",
         "20260503183557_twitter_com_cigsafterdrug_status_2051007871564087618.json"
       ],
-      "last_updated": "2026-09-16T08:10:30",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260503183557if_/https://pbs.twimg.com/profile_images/2049376709401841665/1z8Fy-mI_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f61be915b80>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:20:09",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260503183557if_/https://pbs.twimg.com/profile_images/2049376709401841665/1z8Fy-mI_normal.jpg",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg": {
       "status": "done",
@@ -25982,13 +25982,13 @@
       "last_updated": "2026-07-28T11:41:50"
     },
     "https://pbs.twimg.com/profile_images/2041231901755912192/p1ai90KA_normal.jpg": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20260430072714_twitter_com_cigsafterdrug_status_2049752422701248946.json"
       ],
-      "last_updated": "2026-09-16T08:10:32",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260430072714if_/https://pbs.twimg.com/profile_images/2041231901755912192/p1ai90KA_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f61bea86690>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:20:10",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260430072714if_/https://pbs.twimg.com/profile_images/2041231901755912192/p1ai90KA_normal.jpg",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2032517620172468227/XWboBXgK_normal.jpg": {
       "status": "done",
@@ -26032,23 +26032,23 @@
       "last_updated": "2026-07-28T11:41:50"
     },
     "https://pbs.twimg.com/profile_images/1951372971680890880/yvd3kFos_normal.jpg": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20260501161551_twitter_com_cigsafterdrug_status_2050247841462075793.json",
         "20260501162152_twitter_com_cigsafterdrug_status_2050249352938164230.json"
       ],
-      "last_updated": "2026-09-16T08:10:35",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260501162152if_/https://pbs.twimg.com/profile_images/1951372971680890880/yvd3kFos_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f61bea3da00>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:20:15",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260501162152if_/https://pbs.twimg.com/profile_images/1951372971680890880/yvd3kFos_normal.jpg",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2045900148237365248/Y33TesKo_normal.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260501181547_twitter_com_cigsafterdrug_status_2050278023392645439.json"
       ],
-      "last_updated": "2026-09-16T08:10:37",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260501181547if_/https://pbs.twimg.com/profile_images/2045900148237365248/Y33TesKo_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f61bea5e1e0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:20:17",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260501181547if_/https://pbs.twimg.com/profile_images/2045900148237365248/Y33TesKo_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ffb00b37200>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2040975317486186496/Dx6Wt3_R_normal.jpg": {
       "status": "done",
@@ -26156,9 +26156,9 @@
       "referenced_by": [
         "20260505115102_twitter_com_cigsafterdrug_status_2051630748835414379.json"
       ],
-      "last_updated": "2026-09-16T08:10:39",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260505115102if_/https://pbs.twimg.com/profile_images/2051551438443253760/xE2pT1Y4_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f61bea3fd10>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:20:19",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260505115102if_/https://pbs.twimg.com/profile_images/2051551438443253760/xE2pT1Y4_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ffb00a0c710>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2051218154874187776/sY-8aH1j_normal.jpg": {
       "status": "failed",
@@ -26166,9 +26166,9 @@
         "20260505170934_twitter_com_cigsafterdrug_status_2051710911157789123.json",
         "20260505172441_twitter_com_cigsafterdrug_status_2051714715462902100.json"
       ],
-      "last_updated": "2026-09-16T08:10:42",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260505172441if_/https://pbs.twimg.com/profile_images/2051218154874187776/sY-8aH1j_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f61be93a9f0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:20:22",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260505172441if_/https://pbs.twimg.com/profile_images/2051218154874187776/sY-8aH1j_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ffb00cd8560>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/1929383639734951936/PCBUFNyy_normal.jpg": {
       "status": "done",
@@ -26183,9 +26183,9 @@
       "referenced_by": [
         "20260505185808_twitter_com_cigsafterdrug_status_2051738231126020432.json"
       ],
-      "last_updated": "2026-09-16T08:10:44",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260505185808if_/https://pbs.twimg.com/profile_images/2051056963581337600/P6H958WQ_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f61bea3d7f0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:20:24",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260505185808if_/https://pbs.twimg.com/profile_images/2051056963581337600/P6H958WQ_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ffb00b1cbf0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/1992786680043163648/uQP_UUjW_normal.jpg": {
       "status": "done",
@@ -26245,9 +26245,9 @@
       "referenced_by": [
         "20260507150017_twitter_com_cigsafterdrug_status_2052403149588353449.json"
       ],
-      "last_updated": "2026-09-16T08:10:46",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260507150017if_/https://pbs.twimg.com/profile_images/2005802722826579968/zI5lTb1o_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f61be2bb110>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:20:26",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260507150017if_/https://pbs.twimg.com/profile_images/2005802722826579968/zI5lTb1o_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ffb00b1fad0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2052347801045200896/4j5q_ZbS_normal.jpg": {
       "status": "done",
@@ -26326,18 +26326,18 @@
       "referenced_by": [
         "20260508193147_twitter_com_cigsafterdrug_status_2052833863240712275.json"
       ],
-      "last_updated": "2026-09-16T08:10:48",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260508193147if_/https://pbs.twimg.com/profile_images/2052779892383830016/s9pFviAb_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f61be2ba540>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:20:29",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260508193147if_/https://pbs.twimg.com/profile_images/2052779892383830016/s9pFviAb_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ffb00cd9940>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2041290057857052672/gf13WBSQ_normal.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260508201717_twitter_com_cigsafterdrug_status_2052845314986692874.json"
       ],
-      "last_updated": "2026-09-16T08:10:51",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260508201717if_/https://pbs.twimg.com/profile_images/2041290057857052672/gf13WBSQ_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f61be2ba210>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:20:31",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260508201717if_/https://pbs.twimg.com/profile_images/2041290057857052672/gf13WBSQ_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ffb00b1db50>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2038850222680633345/r8zG5Gc1_normal.jpg": {
       "status": "done",
@@ -26362,9 +26362,9 @@
       "referenced_by": [
         "20260509134308_twitter_com_cigsafterdrug_status_2053108509001289801.json"
       ],
-      "last_updated": "2026-09-16T08:10:53",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260509134308if_/https://pbs.twimg.com/profile_images/2053048287830368256/psKhDRxI_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f61bea3e8a0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:20:33",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260509134308if_/https://pbs.twimg.com/profile_images/2053048287830368256/psKhDRxI_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ffb00b60d40>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2052995841544327168/UXlTdvcr_normal.jpg": {
       "status": "done",
@@ -26428,18 +26428,18 @@
       "referenced_by": [
         "20260510065248_twitter_com_cigsafterdrug_status_2053367636323684359.json"
       ],
-      "last_updated": "2026-09-16T08:10:55",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260510065248if_/https://pbs.twimg.com/profile_images/2053156706990129152/QaDbGUY2_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f61be2b8b90>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:20:35",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260510065248if_/https://pbs.twimg.com/profile_images/2053156706990129152/QaDbGUY2_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ffb00b1ce30>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2036114620616994816/kai0oh6b_normal.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260510065358_twitter_com_cigsafterdrug_status_2053367926703710549.json"
       ],
-      "last_updated": "2026-09-16T08:10:57",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260510065358if_/https://pbs.twimg.com/profile_images/2036114620616994816/kai0oh6b_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f61bea85d60>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:20:37",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260510065358if_/https://pbs.twimg.com/profile_images/2036114620616994816/kai0oh6b_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ffb00b36b70>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/1932786553782480905/Xl76b5ly_normal.jpg": {
       "status": "done",
@@ -26474,9 +26474,9 @@
       "referenced_by": [
         "20260510073829_twitter_com_cigsafterdrug_status_2053379131421958640.json"
       ],
-      "last_updated": "2026-09-16T08:10:59",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260510073829if_/https://pbs.twimg.com/profile_images/2053179045395714048/e9DNbByU_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f61bf72c2f0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:20:40",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260510073829if_/https://pbs.twimg.com/profile_images/2053179045395714048/e9DNbByU_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ffb00b1ebd0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2052050145894600704/kx-c5G59_normal.jpg": {
       "status": "done",
@@ -26513,18 +26513,18 @@
       "referenced_by": [
         "20260510185146_twitter_com_cigsafterdrug_status_2053548568548720759.json"
       ],
-      "last_updated": "2026-09-16T08:11:02",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260510185146if_/https://pbs.twimg.com/profile_images/2042839746364452864/21Rtviyi_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f61bea86ea0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:20:42",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260510185146if_/https://pbs.twimg.com/profile_images/2042839746364452864/21Rtviyi_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ffb00b36c90>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/1757421015179591683/v3ESeTc9_normal.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260511053554_twitter_com_cigsafterdrug_status_2053710670445842720.json"
       ],
-      "last_updated": "2026-09-16T08:11:04",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260511053554if_/https://pbs.twimg.com/profile_images/1757421015179591683/v3ESeTc9_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f61bea5eba0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:20:44",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260511053554if_/https://pbs.twimg.com/profile_images/1757421015179591683/v3ESeTc9_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ffb00b86840>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2048518333130276864/Nuu2ZCQs_normal.jpg": {
       "status": "done",
@@ -26538,9 +26538,9 @@
       "referenced_by": [
         "20260511111803_twitter_com_cigsafterdrug_status_2053796775732064500.json"
       ],
-      "last_updated": "2026-09-16T08:11:06",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260511111803if_/https://pbs.twimg.com/profile_images/2053473131776348163/dPHFEZy9_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f61be9155e0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:20:46",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260511111803if_/https://pbs.twimg.com/profile_images/2053473131776348163/dPHFEZy9_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ffb010b62d0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png": {
       "status": "failed_all",
@@ -26648,9 +26648,9 @@
       "referenced_by": [
         "20260513172737_twitter_com_cigsafterdrug_status_2054614553850499545.json"
       ],
-      "last_updated": "2026-09-16T08:11:09",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260513172737if_/https://pbs.twimg.com/profile_images/2021496662099939328/HsGmRbUA_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f61be917680>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:20:48",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260513172737if_/https://pbs.twimg.com/profile_images/2021496662099939328/HsGmRbUA_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ffb010b4980>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2037775897512820736/Wl9OoB4v_normal.jpg": {
       "status": "done",
@@ -26793,9 +26793,9 @@
       "referenced_by": [
         "20260516113702_twitter_com_cigsafterdrug_status_2055613491877449792.json"
       ],
-      "last_updated": "2026-09-16T08:11:11",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260516113702if_/https://pbs.twimg.com/profile_images/2055329494656045056/RF3A5btB_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f61be914740>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:20:50",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260516113702if_/https://pbs.twimg.com/profile_images/2055329494656045056/RF3A5btB_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ffb00b37dd0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2054166877304197120/XhSr4TLH_normal.jpg": {
       "status": "done",
@@ -26849,9 +26849,9 @@
         "20260516193258_twitter_com_cigsafterdrug_status_2055733263776489817.json",
         "20260524115312_twitter_com_cigsafterdrug_status_2058516663319060829.json"
       ],
-      "last_updated": "2026-09-16T08:11:13",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260524115312if_/https://pbs.twimg.com/profile_images/2051359472896122880/HyaoLte7_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f61beeb7800>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:20:52",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260524115312if_/https://pbs.twimg.com/profile_images/2051359472896122880/HyaoLte7_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ffb00b858b0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/1739460199323435008/cSDInbKL_normal.jpg": {
       "status": "done",
@@ -26867,9 +26867,9 @@
       "referenced_by": [
         "20260516200954_twitter_com_cigsafterdrug_status_2055742557431472461.json"
       ],
-      "last_updated": "2026-09-16T08:11:15",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260516200954if_/https://pbs.twimg.com/profile_images/2052445125113188352/7LRpE3gF_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f61bea5ea80>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:20:55",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260516200954if_/https://pbs.twimg.com/profile_images/2052445125113188352/7LRpE3gF_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ffb00b36c60>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2034583473692852224/nE4xPVUJ_normal.jpg": {
       "status": "done",
@@ -26884,18 +26884,18 @@
       "referenced_by": [
         "20260516201548_twitter_com_cigsafterdrug_status_2055744045360820475.json"
       ],
-      "last_updated": "2026-09-16T08:11:19",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260516201548im_/https://pbs.twimg.com/profile_images/2055429410908405761/LRcBT3rF_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f61bea5f050>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:20:57",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260516201548if_/https://pbs.twimg.com/profile_images/2055429410908405761/LRcBT3rF_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ffb00b878c0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2041048413517881344/WpTEoCKe_normal.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260517065404_twitter_com_cigsafterdrug_status_2055904666899386586.json"
       ],
-      "last_updated": "2026-09-16T08:11:22",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260517065404im_/https://pbs.twimg.com/profile_images/2041048413517881344/WpTEoCKe_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f61bea87740>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:20:59",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260517065404if_/https://pbs.twimg.com/profile_images/2041048413517881344/WpTEoCKe_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ffb00b36b70>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2046118655868768256/mRYfjUzi_normal.jpg": {
       "status": "done",
@@ -26925,18 +26925,18 @@
         "20260517134105_twitter_com_cigsafterdrug_status_2056007098778243106.json",
         "20260517134141_twitter_com_cigsafterdrug_status_2056007250167431379.json"
       ],
-      "last_updated": "2026-09-16T08:11:26",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260517134141im_/https://pbs.twimg.com/profile_images/2055301811347857411/PdSdIRB5_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f61bed78e90>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:21:01",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260517134141if_/https://pbs.twimg.com/profile_images/2055301811347857411/PdSdIRB5_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ffb00b869c0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2028121521156149248/JECZLgU1_normal.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260517192346_twitter_com_cigsafterdrug_status_2056093336549961822.json"
       ],
-      "last_updated": "2026-09-16T08:11:29",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260517192346im_/https://pbs.twimg.com/profile_images/2028121521156149248/JECZLgU1_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f61bea86b10>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:21:03",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260517192346if_/https://pbs.twimg.com/profile_images/2028121521156149248/JECZLgU1_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ffb00b349b0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2054795902284656640/ZxBvmJNI_normal.jpg": {
       "status": "done",
@@ -26988,9 +26988,9 @@
       "referenced_by": [
         "20260518123049_twitter_com_cigsafterdrug_status_2056351803932119110.json"
       ],
-      "last_updated": "2026-09-16T08:11:32",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260518123049im_/https://pbs.twimg.com/profile_images/2056049304591314944/th-pfBqX_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f61be2bbad0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:21:05",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260518123049if_/https://pbs.twimg.com/profile_images/2056049304591314944/th-pfBqX_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ffb00cd9af0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2048453870284832768/rxJGoiYL_normal.jpg": {
       "status": "done",
@@ -27077,9 +27077,9 @@
       "referenced_by": [
         "20260520033612_twitter_com_cigsafterdrug_status_2056942036423745880.json"
       ],
-      "last_updated": "2026-09-16T08:11:36",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260520033612im_/https://pbs.twimg.com/profile_images/2054464813896712192/Ri53p2K__400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f61bea86e10>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:21:08",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260520033612if_/https://pbs.twimg.com/profile_images/2054464813896712192/Ri53p2K__normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ffb00cdb830>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2055041461054586880/3oLCh3BG_normal.jpg": {
       "status": "done",
@@ -27216,9 +27216,9 @@
       "referenced_by": [
         "20260522140909_twitter_com_cigsafterdrug_status_2057826101544812710.json"
       ],
-      "last_updated": "2026-09-16T08:11:39",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260522140909im_/https://pbs.twimg.com/profile_images/2057616622756458496/AjeZNy6O_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f61beeb5b80>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:21:10",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260522140909if_/https://pbs.twimg.com/profile_images/2057616622756458496/AjeZNy6O_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ffb00cd9fd0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2032117812551159808/-D5q3EOm_normal.jpg": {
       "status": "done",
@@ -27262,9 +27262,9 @@
       "referenced_by": [
         "20260522153241_twitter_com_cigsafterdrug_status_2057847123845190132.json"
       ],
-      "last_updated": "2026-09-16T08:11:42",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260522153241im_/https://pbs.twimg.com/profile_images/2047123683508948992/gaGewwkl_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f61bea5f710>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:21:12",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260522153241if_/https://pbs.twimg.com/profile_images/2047123683508948992/gaGewwkl_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ffb00cd85f0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/1910981379568918528/eXWWa22__normal.jpg": {
       "status": "done",
@@ -27327,9 +27327,9 @@
       "referenced_by": [
         "20260525142330_twitter_com_cigsafterdrug_status_2058916875753697395.json"
       ],
-      "last_updated": "2026-09-16T08:11:46",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260525142330im_/https://pbs.twimg.com/profile_images/2058162418598203392/0-nfvgmS_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f61bea3e540>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:21:14",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260525142330if_/https://pbs.twimg.com/profile_images/2058162418598203392/0-nfvgmS_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ffb00cdbb60>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2058579944557436928/7tPT5APl_normal.jpg": {
       "status": "done",
@@ -27461,9 +27461,9 @@
         "20260627183953_twitter_com_cigsafterdrug_status_2070940194879246730.json",
         "20260711073911_twitter_com_cigsafterdrug_status_2075847354746585482.json"
       ],
-      "last_updated": "2026-09-16T08:11:49",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260711073911im_/https://pbs.twimg.com/profile_images/2056759757718089728/QweVsR1t_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f61bea3dc40>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:21:16",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260711073911if_/https://pbs.twimg.com/profile_images/2056759757718089728/QweVsR1t_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ffb00b84950>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2058389276015120384/ihPt3Trh_normal.jpg": {
       "status": "done",
@@ -27496,9 +27496,9 @@
       "referenced_by": [
         "20260528083925_twitter_com_cigsafterdrug_status_2059917448812609618.json"
       ],
-      "last_updated": "2026-09-16T08:11:52",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260528083925im_/https://pbs.twimg.com/profile_images/2059447520879685632/iQZR_02p_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f61bea5c1a0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:21:18",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260528083925if_/https://pbs.twimg.com/profile_images/2059447520879685632/iQZR_02p_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ffb00b1ec90>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/1836467833401937920/1OZ_D_Qp_normal.jpg": {
       "status": "done",
@@ -27691,18 +27691,18 @@
       "referenced_by": [
         "20260531180554_twitter_com_cigsafterdrug_status_2061147171941204004.json"
       ],
-      "last_updated": "2026-09-16T08:11:56",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260531180554im_/https://pbs.twimg.com/profile_images/2055659306763051008/RIUXsDF7_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f61bea5e2d0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:21:22",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260531180554if_/https://pbs.twimg.com/profile_images/2055659306763051008/RIUXsDF7_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ffb00b1cb60>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2005530076658491392/64RQFQCU_normal.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260531183837_twitter_com_cigsafterdrug_status_2061155402394521604.json"
       ],
-      "last_updated": "2026-09-16T08:11:59",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260531183837im_/https://pbs.twimg.com/profile_images/2005530076658491392/64RQFQCU_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f61be2bb2c0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:21:26",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260531183837im_/https://pbs.twimg.com/profile_images/2005530076658491392/64RQFQCU_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ffb00cd8bc0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2053299068051259399/DvR1pJF8_normal.jpg": {
       "status": "done",
@@ -27853,9 +27853,9 @@
       "referenced_by": [
         "20260605173537_twitter_com_cigsafterdrug_status_2062951488251691264.json"
       ],
-      "last_updated": "2026-09-16T08:12:02",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260605173537im_/https://pbs.twimg.com/profile_images/2060718137931374592/tLihdpOw_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f61bea3f110>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:21:29",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260605173537im_/https://pbs.twimg.com/profile_images/2060718137931374592/tLihdpOw_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ffb00cdbf20>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2058988864229007360/aK0ePUCV_normal.jpg": {
       "status": "done",
@@ -27962,9 +27962,9 @@
       "referenced_by": [
         "20260609122943_twitter_com_cigsafterdrug_status_2064324060373504171.json"
       ],
-      "last_updated": "2026-09-16T08:12:06",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260609122943im_/https://pbs.twimg.com/profile_images/2038004587571871744/FJntO7EI_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f61be2b8410>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:21:33",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260609122943im_/https://pbs.twimg.com/profile_images/2038004587571871744/FJntO7EI_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ffb00b61640>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2062219571063652352/fkkLNX-F_normal.jpg": {
       "status": "done",
@@ -28027,9 +28027,9 @@
       "referenced_by": [
         "20260611113502_twitter_com_cigsafterdrug_status_2065035072022171959.json"
       ],
-      "last_updated": "2026-09-16T08:12:09",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260611113502im_/https://pbs.twimg.com/profile_images/2049315476573216770/BGEKdSSO_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f61be916db0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:21:36",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260611113502im_/https://pbs.twimg.com/profile_images/2049315476573216770/BGEKdSSO_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ffb00b87ce0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2046663732911370240/Xy3J4G70_normal.jpg": {
       "status": "done",
@@ -28064,9 +28064,9 @@
       "referenced_by": [
         "20260612124806_twitter_com_cigsafterdrug_status_2065415848316268773.json"
       ],
-      "last_updated": "2026-09-16T08:12:12",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260612124806im_/https://pbs.twimg.com/profile_images/2064695672843243521/TNzYd0DM_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f61bea84e00>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:21:40",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260612124806im_/https://pbs.twimg.com/profile_images/2064695672843243521/TNzYd0DM_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ffb00cdae10>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2065306892021432320/rjm-g9Hw_normal.jpg": {
       "status": "done",
@@ -28112,9 +28112,9 @@
       "referenced_by": [
         "20260612164747_twitter_com_cigsafterdrug_status_2065476167277416957.json"
       ],
-      "last_updated": "2026-09-16T08:12:15",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260612164747im_/https://pbs.twimg.com/profile_images/2063475217427787776/8hh0g29X_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f61be917d40>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:21:43",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260612164747im_/https://pbs.twimg.com/profile_images/2063475217427787776/8hh0g29X_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ffb00b87da0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2044453589008191491/2AAu-0yq_normal.jpg": {
       "status": "done",
@@ -28133,9 +28133,9 @@
       "referenced_by": [
         "20260612171420_twitter_com_cigsafterdrug_status_2065482849067905073.json"
       ],
-      "last_updated": "2026-09-16T08:12:19",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260612171420im_/https://pbs.twimg.com/profile_images/2047131412747444224/nLWdoqbB_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f61beeb47a0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:21:47",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260612171420im_/https://pbs.twimg.com/profile_images/2047131412747444224/nLWdoqbB_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ffb00b60230>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2045132753830924288/lnthK0iG_normal.jpg": {
       "status": "done",
@@ -28256,9 +28256,9 @@
       "referenced_by": [
         "20260614104932_twitter_com_cigsafterdrug_status_2066110786779676863.json"
       ],
-      "last_updated": "2026-09-16T08:12:22",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260614104932im_/https://pbs.twimg.com/profile_images/2065751551243886592/8KJyvMdm_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f61be914d70>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:21:51",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260614104932im_/https://pbs.twimg.com/profile_images/2065751551243886592/8KJyvMdm_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ffb00b1dc40>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/1959209426356994048/wu-o_2wQ_normal.jpg": {
       "status": "done",
@@ -28371,9 +28371,9 @@
         "20260616053744_twitter_com_cigsafterdrug_status_2066757093617705142.json",
         "20260617035554_twitter_com_cigsafterdrug_status_2067093855120609318.json"
       ],
-      "last_updated": "2026-09-16T08:12:25",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260617035554im_/https://pbs.twimg.com/profile_images/2065796620063805440/IE4-d18D_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f61be2bbe60>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:21:55",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260617035554im_/https://pbs.twimg.com/profile_images/2065796620063805440/IE4-d18D_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ffb00b1e2a0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2065150134065954816/FdqO6LUP_normal.jpg": {
       "status": "done",
@@ -28410,9 +28410,9 @@
       "referenced_by": [
         "20260616113341_twitter_com_cigsafterdrug_status_2066846673347936575.json"
       ],
-      "last_updated": "2026-09-16T08:12:29",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260616113341im_/https://pbs.twimg.com/profile_images/2066620986267721728/Vw2OAsbL_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f61bea3d3d0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:21:58",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260616113341im_/https://pbs.twimg.com/profile_images/2066620986267721728/Vw2OAsbL_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ffb00b62ae0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2052323306418626566/s5rMwD5k_normal.jpg": {
       "status": "done",
@@ -28458,9 +28458,9 @@
       "referenced_by": [
         "20260616224147_twitter_com_cigsafterdrug_status_2067014804838195698.json"
       ],
-      "last_updated": "2026-09-16T08:12:32",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260616224147im_/https://pbs.twimg.com/profile_images/2065749588175450112/3cLcF1wq_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f61be2b8980>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:22:02",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260616224147im_/https://pbs.twimg.com/profile_images/2065749588175450112/3cLcF1wq_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ffb00b63950>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/1931096627621888000/AD4i59MR_normal.jpg": {
       "status": "done",
@@ -28629,9 +28629,9 @@
       "referenced_by": [
         "20260629075708_twitter_com_cigsafterdrug_status_2071503216072917104.json"
       ],
-      "last_updated": "2026-09-16T08:12:35",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260629075708im_/https://pbs.twimg.com/profile_images/2071357330562936832/C4lh-oI3_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f61bea3da00>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:22:05",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260629075708im_/https://pbs.twimg.com/profile_images/2071357330562936832/C4lh-oI3_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ffb00b87770>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2023257481158524929/zAqGcXHH_normal.jpg": {
       "status": "done",
@@ -28706,9 +28706,9 @@
       "referenced_by": [
         "20260630195031_twitter_com_cigsafterdrug_status_2072045136117485690.json"
       ],
-      "last_updated": "2026-09-16T08:12:38",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260630195031im_/https://pbs.twimg.com/profile_images/2066214629320294400/GprRGNsX_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f61bea3eb10>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:22:09",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260630195031im_/https://pbs.twimg.com/profile_images/2066214629320294400/GprRGNsX_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ffb00b37ec0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2066887505987919873/UdxmXiro_normal.jpg": {
       "status": "done",
@@ -28724,9 +28724,9 @@
       "referenced_by": [
         "20260701083102_twitter_com_cigsafterdrug_status_2072236525434073177.json"
       ],
-      "last_updated": "2026-09-16T08:12:42",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260701083102im_/https://pbs.twimg.com/profile_images/2060535817416876032/7iPjVFih_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f61be2ba750>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:22:12",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260701083102im_/https://pbs.twimg.com/profile_images/2060535817416876032/7iPjVFih_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ffb00cd86e0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/1583784383885910016/IaRoMpAn_normal.jpg": {
       "status": "done",
@@ -28872,18 +28872,18 @@
       "referenced_by": [
         "20260706100521_twitter_com_cigsafterdrug_status_2074072201066918337.json"
       ],
-      "last_updated": "2026-09-16T08:12:45",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260706100521im_/https://pbs.twimg.com/profile_images/2073915376535236608/9FfR8V59_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f61bea5d7c0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:22:16",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260706100521im_/https://pbs.twimg.com/profile_images/2073915376535236608/9FfR8V59_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ffb00b34440>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2074637713974730752/5Tb1M-5F_normal.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260708113208_twitter_com_cigsafterdrug_status_2074818816220287418.json"
       ],
-      "last_updated": "2026-09-16T08:12:48",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260708113208im_/https://pbs.twimg.com/profile_images/2074637713974730752/5Tb1M-5F_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f61bed78bc0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:22:19",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260708113208im_/https://pbs.twimg.com/profile_images/2074637713974730752/5Tb1M-5F_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ffb00cdb3b0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2043321958352486400/e4Wm8MC3_normal.jpg": {
       "status": "done",
@@ -29015,9 +29015,9 @@
       "referenced_by": [
         "20260717193048_twitter_com_cigsafterdrug_status_2078200765248946672.json"
       ],
-      "last_updated": "2026-09-16T08:12:52",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260717193048im_/https://pbs.twimg.com/profile_images/2072365505936297984/39G6LN6v_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f61bea5f8f0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:22:23",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260717193048im_/https://pbs.twimg.com/profile_images/2072365505936297984/39G6LN6v_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ffb00b1fbc0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2074711282427842560/EOM9Puhb_normal.jpg": {
       "status": "done",
@@ -29068,9 +29068,9 @@
       "referenced_by": [
         "20260721064459_twitter_com_cigsafterdrug_status_2079457595405037948.json"
       ],
-      "last_updated": "2026-09-16T08:12:55",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260721064459im_/https://pbs.twimg.com/profile_images/2079366822315597825/HSaHNGS6_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f61bed7b110>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 8
+      "last_updated": "2026-10-07T20:22:27",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260721064459im_/https://pbs.twimg.com/profile_images/2079366822315597825/HSaHNGS6_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ffb00b84080>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 10
     },
     "https://pbs.twimg.com/profile_images/2079110675927101440/ASY2uPzn_normal.jpg": {
       "status": "done",
@@ -29343,9 +29343,9 @@
       "referenced_by": [
         "20260803181031_twitter_com_cigsafterdrug_status_2084341154427097585.json"
       ],
-      "last_updated": "2026-09-16T08:12:58",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260803181031im_/https://pbs.twimg.com/profile_images/2070221043877257216/tbUWzLdh_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f61bea5c500>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 2
+      "last_updated": "2026-10-07T20:22:30",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260803181031im_/https://pbs.twimg.com/profile_images/2070221043877257216/tbUWzLdh_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ffb019a1fa0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/profile_images/2083530016269516802/YkVotD8i_normal.jpg": {
       "status": "done",
@@ -29366,9 +29366,9 @@
       "referenced_by": [
         "20260804203559_twitter_com_cigsafterdrug_status_2084740151683735850.json"
       ],
-      "last_updated": "2026-09-16T08:13:02",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260804203559im_/https://pbs.twimg.com/profile_images/2076416544158982144/VOHcKmGc_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f61be2ba690>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 2
+      "last_updated": "2026-10-07T20:22:34",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260804203559im_/https://pbs.twimg.com/profile_images/2076416544158982144/VOHcKmGc_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ffb00b62720>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/profile_images/2082867714943782912/mrD4eWkT_normal.jpg": {
       "status": "done",
@@ -29771,9 +29771,9 @@
       "referenced_by": [
         "20260830192845_twitter_com_cigsafterdrug_status_2094145318090862782.json"
       ],
-      "last_updated": "2026-09-16T08:13:05",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260830192845im_/https://pbs.twimg.com/profile_images/2094145160766451712/EvYGhTJS_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f61bea5caa0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 2
+      "last_updated": "2026-10-07T20:22:37",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260830192845im_/https://pbs.twimg.com/profile_images/2094145160766451712/EvYGhTJS_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ffb00b370e0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 4
     },
     "https://pbs.twimg.com/profile_images/2094249218450001920/XCv_a8WK_normal.jpg": {
       "status": "done",
@@ -41753,7 +41753,7 @@
       "miss_count": 2
     },
     "20260413081044_twitter_com_cigsafterdrug_status_2043602776111128797.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -41762,7 +41762,7 @@
           "https://pbs.twimg.com/profile_images/2043418558471045120/15eW0Jpd_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-07T20:14:53",
+      "last_updated": "2026-10-07T20:19:08",
       "miss_count": 8
     },
     "20260413113108_twitter_com_cigsafterdrug_status_2043653205662540197.json": {
@@ -41822,7 +41822,7 @@
       "miss_count": 2
     },
     "20260413184026_twitter_com_cigsafterdrug_status_2043761244281417874.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -41831,7 +41831,7 @@
           "https://pbs.twimg.com/profile_images/2043091186408448000/XHfhH5Bp_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-07T20:14:53",
+      "last_updated": "2026-10-07T20:19:10",
       "miss_count": 8
     },
     "20260413190437_twitter_com_cigsafterdrug_status_2043767330770243589.json": {
@@ -43511,7 +43511,7 @@
       "miss_count": 6
     },
     "20260420093416_twitter_com_cigsafterdrug_status_2046160513907019895.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -43520,7 +43520,7 @@
           "https://pbs.twimg.com/profile_images/2043509775703715840/ZUhNV6-6_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-07T20:14:53",
+      "last_updated": "2026-10-07T20:19:41",
       "miss_count": 8
     },
     "20260420093845_twitter_com_cigsafterdrug_status_2046161638240493978.json": {
@@ -43539,7 +43539,7 @@
       "miss_count": 5
     },
     "20260420095711_twitter_com_cigsafterdrug_status_2046166277669175614.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -43548,7 +43548,7 @@
           "https://pbs.twimg.com/profile_images/2043509775703715840/ZUhNV6-6_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-07T20:14:53",
+      "last_updated": "2026-10-07T20:19:41",
       "miss_count": 8
     },
     "20260420095743_twitter_com_cigsafterdrug_status_2046166412851556445.json": {
@@ -45684,7 +45684,7 @@
       "miss_count": 2
     },
     "20260429091758_twitter_com_cigsafterdrug_status_2049417898742219127.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -45693,7 +45693,7 @@
           "https://pbs.twimg.com/profile_images/2049376709401841665/1z8Fy-mI_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-07T20:14:53",
+      "last_updated": "2026-10-07T20:20:09",
       "miss_count": 8
     },
     "20260429104230_twitter_com_cigsafterdrug_status_2049439172398833923.json": {
@@ -45841,7 +45841,7 @@
       "last_updated": "2026-07-28T11:41:44"
     },
     "20260430072714_twitter_com_cigsafterdrug_status_2049752422701248946.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -45850,7 +45850,7 @@
           "https://pbs.twimg.com/profile_images/2041231901755912192/p1ai90KA_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-07T20:14:53",
+      "last_updated": "2026-10-07T20:20:10",
       "miss_count": 8
     },
     "20260430085928_twitter_com_cigsafterdrug_status_2049775633379766331.json": {
@@ -46078,7 +46078,7 @@
       "last_updated": "2026-07-28T11:41:46"
     },
     "20260501161551_twitter_com_cigsafterdrug_status_2050247841462075793.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -46087,11 +46087,11 @@
           "https://pbs.twimg.com/profile_images/1951372971680890880/yvd3kFos_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-07T20:14:53",
+      "last_updated": "2026-10-07T20:20:15",
       "miss_count": 8
     },
     "20260501162152_twitter_com_cigsafterdrug_status_2050249352938164230.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -46100,7 +46100,7 @@
           "https://pbs.twimg.com/profile_images/1951372971680890880/yvd3kFos_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-07T20:14:53",
+      "last_updated": "2026-10-07T20:20:15",
       "miss_count": 8
     },
     "20260501181547_twitter_com_cigsafterdrug_status_2050278023392645439.json": {
@@ -46347,7 +46347,7 @@
       "last_updated": "2026-07-28T11:41:50"
     },
     "20260503183557_twitter_com_cigsafterdrug_status_2051007871564087618.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HHY07pMbgAAOKT0.jpg",
@@ -46360,7 +46360,7 @@
           "https://pbs.twimg.com/profile_images/2049376709401841665/1z8Fy-mI_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-07T20:14:53",
+      "last_updated": "2026-10-07T20:20:09",
       "miss_count": 8
     },
     "20260504014219_twitter_com_cigsafterdrug_status_2051115169863102538.json": {
